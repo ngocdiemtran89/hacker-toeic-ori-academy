@@ -1,0 +1,293 @@
+{
+  "id": "unit-18",
+  "day": 18,
+  "title": "Món ăn đặc biệt",
+  "topic": "Nơi lưu trú - Nhà hàng",
+  "sourcePages": [
+    273,
+    288
+  ],
+  "words": [
+    {
+      "id": "compensate",
+      "word": "compensate",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/kómpanseit/",
+        "us": "/kámpansèit/"
+      },
+      "frequency": 2,
+      "meaningVi": "bù, đền bù, bồi thường",
+      "exampleEn": "The hotel compensated the guest for the erroneous charge.",
+      "exampleVi": "Khách sạn đã bồi thường cho vị khách vì khoản phí bị sai sót.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "cm compensate A for B bồi thường cho A vì B Lặp !",
+        "compensate thường đi với giới từ for."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "compensate",
+      "word": "compensate",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/kómpanseit/",
+        "us": "/kámpansèit/"
+      },
+      "frequency": 2,
+      "meaningVi": "miễn phí, biếu, tặng",
+      "exampleEn": "Guests are given a complimentary light breakfast.",
+      "exampleVi": "Các vị khách được miễn phí một bữa sáng nhẹ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "der.",
+        "contain (v) chứa đựng, bao hàm cum comolimentary + breakfast/service bữa sáng/dịch vụ ên miễn phí complimentary thường đi với các danh từ liên quan đến dịch vụ như breakiast hay service.",
+        "Lưu ý tránh nhầm lẫn giữa hai từ có cách viết khá giống nhau nhưng ý nghĩa lại khác biệt này.",
+        "Color and style are complementary aspects of interior design.",
+        "Màu sắc và kiểu dáng là hai phương diện bổ sung của thiết kế nội thất."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "chef",
+      "word": "chef",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/Sef/",
+        "us": "/Sef/"
+      },
+      "frequency": 1,
+      "meaningVi": "đầu bếp",
+      "exampleEn": "The restaurant's head chef is famous across Europe.",
+      "exampleVi": "Bếp trưởng của nhà hàng này nổi tiếng khắp châu Âu.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "container",
+      "word": "container",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "đồ để chứa (bình, lọ, hộp, thùng)",
+      "exampleEn": "Food may be kept for longer periods by storing it in airtight containers.",
+      "exampleVi": "Thực phẩm có thể được bảo quản lâu hơn bằng cách trữ trong các hộp kín.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "El complmentry bin b sung"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "elegant",
+      "word": "elegant",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "lịch, tao nhã",
+      "exampleEn": "The recently renovated lobby boasts elegant. decor.",
+      "exampleVi": "Khu hành lang mới được cải tạo nổi bật với thiết kế trang nhã.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "flavor",
+      "word": "flavor",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/fléiva/",
+        "us": "/fléivar/"
+      },
+      "frequency": 1,
+      "meaningVi": "vị, mùi vị",
+      "exampleEn": "The shop sells ice cream in a variety of flavors.",
+      "exampleVi": "Cửa hàng này bán các loại kem với rất nhiều vị.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "available",
+      "word": "available",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/avéilabl/",
+        "us": "/avéilabl/"
+      },
+      "frequency": 3,
+      "meaningVi": "có, có sẵn (vật); có mặt (người)",
+      "exampleEn": "The sauna is available to all registered guests.",
+      "exampleVi": "Nhà tắm hơi có sẵn cho những vị khách đã đăng ký.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The dining hall is available for private functions.",
+        "Phòng ăn có thể sử dụng cho những sự kiện riêng tư.",
+        "I will be available after 6 P.M.",
+        "Tôi sẽ có mặt sau 6 giờ tối."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "reception",
+      "word": "reception",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 3,
+      "meaningVi": "sự đón tiếp, sự tiếp nhận",
+      "exampleEn": "The college held a welcome reception for the guest speaker.",
+      "exampleVi": "Trường đại học đã tổ chức một buổi đón tiếp chào mừng vị diễn giả khách mời.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Visitors must register at the reception desk upon arrival.",
+        "Khách tham quan cần đăng ký ở quầy lễ tân khi đến nơi.",
+        "Bat thi TOEIC dang thức mới El receptionist nón viên su tiớ p r reception sự đón tiếp, sự tiếp nhận Lưu ý phân biệt giữa danh từ chỉ hành động reception và danh từ chỉ người receptionist.",
+        "300 | Hackers TOEIC Vocabulary saccommodate •"
+      ],
+      "needsReview": false
+    }
+  ],
+  "story": {
+    "title": "Kỳ Nghỉ Nghỉ Chân Của ORI Tại Tokyo",
+    "content": "Sau chuyến bay dài đầy vất vả, ORI và phi hành đoàn check-in tại một **hotel** (khách sạn) 5 sao ở trung tâm Tokyo. Cô nhận khóa **room** (phòng) và tranh thủ tắm rửa, nghỉ ngơi. Tổ bay sẽ **stay** (ở lại/nghỉ chân) tại đây hai ngày trước khi bay về. Nhờ có **reservation** (sự đặt chỗ) từ trước, mọi thủ tục diễn ra cực kỳ nhanh chóng. Buổi tối, ORI cùng mọi người dùng bữa tại **restaurant** (nhà hàng) truyền thống của Nhật Bản. Người phục vụ đưa ra cuốn **menu** (thực đơn) với vô vàn món ăn hấp dẫn. ORI hào hứng thưởng thức các món ăn (**food**) sashimi tươi ngon. Cô vô cùng hài lòng với phong cách phục vụ (**service**) tinh tế và sự hiếu khách của con người nơi đây.",
+    "words": [
+      {
+        "word": "hotel",
+        "meaningVi": "khách sạn"
+      },
+      {
+        "word": "room",
+        "meaningVi": "phòng"
+      },
+      {
+        "word": "stay",
+        "meaningVi": "ở lại"
+      },
+      {
+        "word": "reservation",
+        "meaningVi": "sự đặt chỗ"
+      },
+      {
+        "word": "restaurant",
+        "meaningVi": "nhà hàng"
+      },
+      {
+        "word": "menu",
+        "meaningVi": "thực đơn"
+      },
+      {
+        "word": "food",
+        "meaningVi": "món ăn"
+      },
+      {
+        "word": "service",
+        "meaningVi": "dịch vụ"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
+      "questions": [
+        {
+          "q": "The hotel ___d the guest for the erroneous charge.",
+          "a": "compensate",
+          "options": [
+            "compensate",
+            "chef",
+            "elegant",
+            "container"
+          ]
+        },
+        {
+          "q": "The restaurant's head ___ is famous across Europe.",
+          "a": "chef",
+          "options": [
+            "chef",
+            "elegant",
+            "reception",
+            "available"
+          ]
+        },
+        {
+          "q": "Food may be kept for longer periods by storing it in airtight ___s.",
+          "a": "container",
+          "options": [
+            "container",
+            "elegant",
+            "chef",
+            "available"
+          ]
+        },
+        {
+          "q": "The recently renovated lobby boasts ___. decor.",
+          "a": "elegant",
+          "options": [
+            "elegant",
+            "flavor",
+            "available",
+            "chef"
+          ]
+        },
+        {
+          "q": "The shop sells ice cream in a variety of ___s.",
+          "a": "flavor",
+          "options": [
+            "flavor",
+            "available",
+            "container",
+            "compensate"
+          ]
+        },
+        {
+          "q": "The sauna is ___ to all registered guests.",
+          "a": "available",
+          "options": [
+            "reception",
+            "container",
+            "elegant",
+            "available"
+          ]
+        },
+        {
+          "q": "The college held a welcome ___ for the guest speaker.",
+          "a": "reception",
+          "options": [
+            "chef",
+            "flavor",
+            "available",
+            "reception"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,657 @@
+{
+  "id": "unit-12",
+  "day": 12,
+  "title": "Tự động hóa ở nhà máy",
+  "topic": "Sản xuất",
+  "sourcePages": [
+    177,
+    192
+  ],
+  "words": [
+    {
+      "id": "specification",
+      "word": "specification",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/spèsifikéifan/",
+        "us": "/spèsafikéijan/"
+      },
+      "frequency": 1,
+      "meaningVi": "móc, trang thiết bị",
+      "exampleEn": "The company uses special equipment to load large crates onto freight trucks.",
+      "exampleVi": "Công ty sử dụng một thiết bị đặc biệt để chất những thùng hàng lớn lên xe tải chở hàng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "office equipment thiết bị văn phòng gắp .",
+        "Vì equipment là danh từ không đếm được nên lưu ý không sử dụng với mạo từ a(n)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "automate",
+      "word": "automate",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "tự động hóa",
+      "exampleEn": "The production plant will be fully automated by next year.",
+      "exampleVi": "Xưởng sản xuất sẽ được tự động hóa hoàn toàn vào năm sau.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "specification",
+      "word": "specification",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/spèsifikéifan/",
+        "us": "/spèsafikéijan/"
+      },
+      "frequency": 1,
+      "meaningVi": "tiết, đặc điểm, chỉ dẫn/yêu cầu kĩ thuật, sự chỉ rõ",
+      "exampleEn": "The quality control team checks if all items meet product specifications.",
+      "exampleVi": "Đội ngũ kiểm soát chất lượng có nhiệm vụ kiểm tra liệu tất các sản phẩm có đáp ứng đủ yêu cầu kỹ thuật không.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Hackers TOEIC Vocabulary ady đúng đắn, thích đáng, hợp lệ Machinery must be well-maintained to operate properly.",
+        "Máy móc cần được bảo dưỡng tốt để có thể hoạt động ổn định.",
+        "cir\" operate properly hoạt động ổn định/đúng chức năng SP.",
+        "properly thường được kết hợp với các động từ mang nghĩa chỉ hành động, vận hành như từ operate.",
+        "n: sự an loàn, tính an toàn Factory supervisors prioritize safety over speed.",
+        "Giám sát viên nhà máy ưu tiên yếu tố an toàn hơn là tốc độ."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "precaution",
+      "word": "precaution",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "vận hành, hoạt động",
+      "exampleEn": "The assembly line operates round the clock.",
+      "exampleVi": "Dây chuyền lắp ráp vận hành suốt ngày đêm.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "operate",
+      "word": "operate",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/práusesin/",
+        "us": "/prásesin/"
+      },
+      "frequency": 3,
+      "meaningVi": "sự chế biến, sự gia công",
+      "exampleEn": "Food processing requires a clean environment.",
+      "exampleVi": "Việc chế biến thực phẩm đòi hỏi môi trường phải thật vệ sinh.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Bai thi TOEIC dạng thức mới a r processing sự chế biến, gia công L process quá trình, quy trình processing được dùng để chỉ việc xử lý, chế biến, gia công còn process để chỉ quy trình chế biến, gia công.",
+        "Hãy lưu ý để áp dụng vào những câu hỏi yêu cầu phân biệt hai danh từ này The new refining process will be implemented tomorrow.",
+        "Quy trình tinh luyện mới sẽ được áp dụng vào ngày mai."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "capacity",
+      "word": "capacity",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/kapæsati/",
+        "us": "/kapæsati/"
+      },
+      "frequency": 2,
+      "meaningVi": "sức chứa, năng lực, tư cách",
+      "exampleEn": "The warehouse's capacity will double after the construction.",
+      "exampleVi": "Sức chứa của nhà kho sẽ tăng gấp đôi sau khi xây dựng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "As Ms.",
+        "Jones was away, Sam acted in her capacity as president during the meeting.",
+        "Khi bà Jones đi vắng, Sam dảm nhiệm vai trò chủ tịch trong cuộc họp."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "assemble",
+      "word": "assemble",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/asémbl/",
+        "us": "/asémbl/"
+      },
+      "frequency": 1,
+      "meaningVi": "lắp ráp; triệu tập/triệu hồi",
+      "exampleEn": "Components are manufactured abroad and assembled domestically.",
+      "exampleVi": "Các bộ phận được sản xuất ở nước ngoài và lắp ráp trong nước.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The manager assembled everyone in the department for a meeting.",
+        "Viên quản lý triệu tập mọi người trong phòng tới họp."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "utilize",
+      "word": "utilize",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ukjütilaiz/",
+        "us": "/júrtalàiz/"
+      },
+      "frequency": 1,
+      "meaningVi": "dùng, sử dụng; tận dụng, khai thác",
+      "exampleEn": "The technicians utilized computer technology to improve processes.",
+      "exampleVi": "Các kỹ thuật viên đã áp dụng công nghệ tin học để cải thiện quy trình sản xuất.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "place",
+      "word": "place",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/pleis/",
+        "us": "/pleis/"
+      },
+      "frequency": 3,
+      "meaningVi": "đặt, để, sắp xếp; đặt (hàng)",
+      "exampleEn": "The factory supervisor has placed production operations on standby.",
+      "exampleVi": "Người giám sát nhà máy đã sắp xếp bộ phận sản xuất ở trạng thái sẵn sàng hoạt động.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The office manager has to place an order for additional materials immediately.",
+        "Quản lý văn phòng phải đặt mua thêm vật tư ngay lập tức."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "limit",
+      "word": "limit",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/límit/",
+        "us": "/límit/"
+      },
+      "frequency": 3,
+      "meaningVi": "giới hạn, ranh giới",
+      "exampleEn": "There is a limit to the amount of merchandise the factory can make in a day.",
+      "exampleVi": "Có một giới hạn về lượng hàng hóa mà nhà máy có thể sản xuất trong một ngày.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "tailored",
+      "word": "tailored",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/téilad/",
+        "us": "/téilard/"
+      },
+      "frequency": 3,
+      "meaningVi": "được tùy chỉnh, điều chỉnh (theo nhu cầu)",
+      "exampleEn": "This equipment can be tailored to the company's production needs.",
+      "exampleVi": "Thiết bị này có thể được điều chỉnh theo nhu cầu sản xuất của công ty.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "component",
+      "word": "component",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/kempáunant/",
+        "us": "/kampóunant/"
+      },
+      "frequency": 2,
+      "meaningVi": "phần, bộ phận",
+      "exampleEn": "The store returned the defective components to the manufacturer.",
+      "exampleVi": "Cửa hàng đã trả lại những bộ phận bị lỗi cho nhà sản xuất.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "capable",
+      "word": "capable",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/kéipabl/",
+        "us": "/kéipabl/"
+      },
+      "frequency": 2,
+      "meaningVi": "khả năng, có năng lực Ferrum",
+      "exampleEn": "Corporation is capable of processing all kinds of metals.",
+      "exampleVi": "Tập đoàn Ferrum có khả năng gia công mọi loại kim loại.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "of + danh động từ, còn sau able là cụm to + V.",
+        "2 2 \" \" 3 2"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "economize",
+      "word": "economize",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ikónamaiz/",
+        "us": "/ikónamaiz/"
+      },
+      "frequency": 2,
+      "meaningVi": "tiết kiệm",
+      "exampleEn": "Hybrid cars are becoming popular because they economize on fuel.",
+      "exampleVi": "Dòng xe hơi chạy bằng xăng và điện ngày càng được ưa chuộng vì chúng tiết kiệm nhiên liệu.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "flexible",
+      "word": "flexible",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/fléksibi/",
+        "us": "/fléksabl/"
+      },
+      "frequency": 2,
+      "meaningVi": "mềm, dẻo; dễ thuyết phục; linh hoạt",
+      "exampleEn": "Management is more flexible about granting vacations when business is slow.",
+      "exampleVi": "Ban quản lý đã linh hoạt hơn trong việc cho nhân viên nghỉ phép khi hoạt động kinh doanh chậm lại.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Plastic is a flexible material that has numerous applications.",
+        "Nhựa là một chất liệu mềm dẻo nên có rất nhiều ứng dụng.",
+        "ad) có thể so sánh The car's quality standards are comparable to the industry average.",
+        "Tiêu chuẩn chất lượng của loại xe hơi đó có thể so sánh với mặt bằng của ngành."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "produce",
+      "word": "produce",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "sản xuất, chế tạo",
+      "exampleEn": "The new machinery produces 1,000 units per hour.",
+      "exampleVi": "Chiếc máy mới sản xuất được 1000 sản phẩm mỗi giờ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Ider./ product (n) sản phẩm production (n) sự sản xuất productivity (n) *# = tỷ lệ xuất hiện cao * = tỷ lệ xuất hiện trung bình"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "respectively",
+      "word": "respectively",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/rispéktivli/",
+        "us": "/rispéktivli/"
+      },
+      "frequency": 2,
+      "meaningVi": "từng cái, tương ứng The camera and tablet computer cost $225 and $350",
+      "exampleEn": "respectively.",
+      "exampleVi": "Máy ảnh và máy tính bảng có giá lần lượt là 225 đô-la và 350 dồ-la.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "trim",
+      "word": "trim",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/trim/",
+        "us": "/trim/"
+      },
+      "frequency": 1,
+      "meaningVi": "cắt, tỉa, loại bỏ; sắp xếp, thu dọn",
+      "exampleEn": "This mechanism trims the plastic packaging to. make it smaller.",
+      "exampleVi": "Thiết bị này cắt gọn phần vỏ nhựa cho nó nhỏ hơn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The team trimmed nearly 20 percent off of current production costs.",
+        "Nhóm đã cắt giảm gần 20% chi phí sản xuất hiện tại."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "launch",
+      "word": "launch",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "mắt (sản phẩm mới)",
+      "exampleEn": "Computer programmers fix technical malfunctions before launching any software.",
+      "exampleVi": "Lập trình viên máy tính phải khắc phục các lỗi kỹ thuật trước khi ra mắt bất cứ phần mềm nào.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "separately",
+      "word": "separately",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/séparatli/",
+        "us": "/séparatli/"
+      },
+      "frequency": 1,
+      "meaningVi": "biệt, riêng rẽ, khác nhau",
+      "exampleEn": "The cushioning pads are made separately as each shoe is slightly different.",
+      "exampleVi": "Các tấm lót giày được thiết kế riêng vì mỗi chiếc giày sẽ khác nhau một chút.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "NIh TOEIC dang thúe moi um be made separately được làm riên"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "separately",
+      "word": "separately",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/séparatli/",
+        "us": "/séparatli/"
+      },
+      "frequency": 1,
+      "meaningVi": "dược đặt hàng riên",
+      "exampleEn": "separately thường được sử cùng các",
+      "exampleVi": "động từ như make, order,...",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "expiration",
+      "word": "expiration",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/eksparéijan/",
+        "us": "/eksparéijan/"
+      },
+      "frequency": 1,
+      "meaningVi": "sự hết hạn",
+      "exampleEn": "The expiration date is printed on the top of the milk carton.",
+      "exampleVi": "Hạn sử dụng được in trên nắp hộp sữa.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "coming",
+      "word": "coming",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/manú val \"coming* [kámin/",
+        "us": "/manú val \"coming* [kámin/"
+      },
+      "frequency": 1,
+      "meaningVi": "sắp tới",
+      "exampleEn": "Factory output will double in the coming year.",
+      "exampleVi": "Sản lượng của nhà máy sẽ tăng gấp đôi trong năm tới.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "power",
+      "word": "power",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "sức mạnh, năng lượng/điện Nhà máy bị đóng cửa nửa ngày vì mất điện. lan thi TOBIC dặng thức mội Từ",
+      "exampleEn": "power thường được biết",
+      "exampleVi": "đến với nghĩa \"sức mạnh\".",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "(adi) thuộc hóa học nhà hóa học môn hóa học"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "chemical",
+      "word": "chemical",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/kémikal/",
+        "us": "/kémikal/"
+      },
+      "frequency": 1,
+      "meaningVi": "chất hóa học Đồ bảo hộ rất cần thiết khi ta làm việc với những hóa chất Bai In TOEIC dạng thức mới",
+      "exampleEn": "Ma: Chemical chất hóa",
+      "exampleVi": "học 'chemist nhà hóa học Bài thi có thể xuất hiện câu hỏi yêu cầu phân biệt từ loại giữa",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    }
+  ],
+  "story": {
+    "title": "ORI Tham Quan Nhà Máy Lắp Ráp Máy Bay",
+    "content": "Hãng hàng không của ORI tổ chức chuyến tham quan nhà máy cho nhân viên. Nơi đây **produce** (sản xuất) những chiếc máy bay hiện đại nhất. Trực tiếp đứng trong khu vực **factory** (nhà máy) sản xuất khổng lồ, ORI tận mắt chứng kiến dây chuyền **assemble** (lắp ráp) động cơ phản lực. Từng **component** (linh kiện/thành phần) nhỏ đều được chế tạo tỉ mỉ. Các kỹ sư **check** (kiểm tra) kỹ lưỡng từng mối hàn để đảm bảo an toàn tuyệt đối. Mọi công đoạn đều phải đạt các **standard** (tiêu chuẩn) chất lượng quốc tế nghiêm ngặt. Việc ứng dụng công nghệ mới giúp nâng cao **efficiency** (hiệu suất) làm việc. Sự phối hợp nhịp nhàng giữa **worker** (công nhân) lành nghề và các loại **machine** (máy móc) tự động hóa tạo nên một **output** (sản lượng) sản xuất vô cùng ấn tượng.",
+    "words": [
+      {
+        "word": "produce",
+        "meaningVi": "sản xuất"
+      },
+      {
+        "word": "factory",
+        "meaningVi": "nhà máy"
+      },
+      {
+        "word": "assemble",
+        "meaningVi": "lắp ráp"
+      },
+      {
+        "word": "component",
+        "meaningVi": "phần"
+      },
+      {
+        "word": "check",
+        "meaningVi": "kiểm tra"
+      },
+      {
+        "word": "standard",
+        "meaningVi": "tiêu chuẩn"
+      },
+      {
+        "word": "efficiency",
+        "meaningVi": "hiệu suất"
+      },
+      {
+        "word": "worker",
+        "meaningVi": "công nhân"
+      },
+      {
+        "word": "machine",
+        "meaningVi": "máy móc"
+      },
+      {
+        "word": "output",
+        "meaningVi": "sản lượng"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
+      "questions": [
+        {
+          "q": "The production plant will be fully ___d by next year.",
+          "a": "automate",
+          "options": [
+            "automate",
+            "chemical",
+            "separately",
+            "capacity"
+          ]
+        },
+        {
+          "q": "The quality control team checks if all items meet product ___s.",
+          "a": "specification",
+          "options": [
+            "component",
+            "capacity",
+            "separately",
+            "specification"
+          ]
+        },
+        {
+          "q": "The warehouse's ___ will double after the construction.",
+          "a": "capacity",
+          "options": [
+            "capable",
+            "capacity",
+            "separately",
+            "utilize"
+          ]
+        },
+        {
+          "q": "Components are manufactured abroad and ___d domestically.",
+          "a": "assemble",
+          "options": [
+            "trim",
+            "assemble",
+            "place",
+            "capable"
+          ]
+        },
+        {
+          "q": "The technicians ___d computer technology to improve processes.",
+          "a": "utilize",
+          "options": [
+            "utilize",
+            "coming",
+            "economize",
+            "automate"
+          ]
+        },
+        {
+          "q": "The factory supervisor has ___d production operations on standby.",
+          "a": "place",
+          "options": [
+            "flexible",
+            "tailored",
+            "place",
+            "assemble"
+          ]
+        },
+        {
+          "q": "There is a ___ to the amount of merchandise the factory can make in a day.",
+          "a": "limit",
+          "options": [
+            "utilize",
+            "expiration",
+            "limit",
+            "chemical"
+          ]
+        },
+        {
+          "q": "This equipment can be ___ to the company's production needs.",
+          "a": "tailored",
+          "options": [
+            "utilize",
+            "flexible",
+            "tailored",
+            "economize"
+          ]
+        },
+        {
+          "q": "The store returned the defective ___s to the manufacturer.",
+          "a": "component",
+          "options": [
+            "component",
+            "precaution",
+            "capable",
+            "specification"
+          ]
+        },
+        {
+          "q": "Corporation is ___ of processing all kinds of metals.",
+          "a": "capable",
+          "options": [
+            "economize",
+            "coming",
+            "capable",
+            "operate"
+          ]
+        }
+      ]
+    }
+  ]
+}

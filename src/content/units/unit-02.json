@@ -1,0 +1,1486 @@
+{
+  "id": "unit-02",
+  "day": 2,
+  "title": "Quy định về trang phục",
+  "topic": "Phép tắc - Quy định",
+  "sourcePages": [
+    17,
+    32
+  ],
+  "words": [
+    {
+      "id": "attire",
+      "word": "attire",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/əˈtaɪə(r)/",
+        "us": "/əˈtaɪər/"
+      },
+      "frequency": 2,
+      "meaningVi": "trang phục, quần áo",
+      "exampleEn": "Professional business attire is required of all staff giving presentations.",
+      "exampleVi": "Trang phục công sở chuyên nghiệp là yêu cầu bắt buộc đối với tất cả nhân viên thực hiện bài thuyết trình.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "code",
+      "word": "code",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/kəʊd/",
+        "us": "/koʊd/"
+      },
+      "frequency": 2,
+      "meaningVi": "quy định, điều lệ, mật mã",
+      "exampleEn": "Employees are expected to follow the dress code.",
+      "exampleVi": "Các nhân viên cần phải tuân theo quy định về trang phục.",
+      "derivatives": [],
+      "synonyms": [
+        "rules",
+        "regulations"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "dress code: quy định về trang phục"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "concern-n",
+      "word": "concern",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/kənˈsɜːn/",
+        "us": "/kənˈsɜːrn/"
+      },
+      "frequency": 3,
+      "meaningVi": "sự lo lắng, mối quan ngại",
+      "exampleEn": "The board voiced concerns about safety at the meeting.",
+      "exampleVi": "Hội đồng bày tỏ mối quan ngại về sự an toàn tại cuộc họp.",
+      "derivatives": [
+        {
+          "word": "concerning",
+          "partOfSpeech": "prep",
+          "meaningVi": "liên quan đến"
+        },
+        {
+          "word": "concerned",
+          "partOfSpeech": "adj",
+          "meaningVi": "có liên quan, lo lắng"
+        }
+      ],
+      "synonyms": [
+        "matter",
+        "worry"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "concern about/over: lo lắng/quan ngại về cái gì"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "concern-v",
+      "word": "concern",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/kənˈsɜːn/",
+        "us": "/kənˈsɜːrn/"
+      },
+      "frequency": 3,
+      "meaningVi": "lo lắng, bận tâm; ảnh hưởng, liên quan",
+      "exampleEn": "Citizens are concerned about the new trade protocol.",
+      "exampleVi": "Người dân lo ngại về hiệp định thương mại mới.",
+      "derivatives": [],
+      "synonyms": [
+        "involve",
+        "affect"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "questions concerning: câu hỏi liên quan đến..."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "policy",
+      "word": "policy",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈpɒləsi/",
+        "us": "/ˈpɑːləsi/"
+      },
+      "frequency": 2,
+      "meaningVi": "quy chế, chính sách, điều khoản",
+      "exampleEn": "The employee benefit policy will be expanded next year.",
+      "exampleVi": "Chính sách phúc lợi cho nhân viên sẽ được mở rộng vào năm tới.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "insurance policy: chính sách bảo hiểm"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "comply",
+      "word": "comply",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/kəmˈplaɪ/",
+        "us": "/kəmˈplaɪ/"
+      },
+      "frequency": 2,
+      "meaningVi": "tuân thủ, làm theo",
+      "exampleEn": "Employees must comply with the regulations governing computer use.",
+      "exampleVi": "Nhân viên phải tuân thủ các quy định về quản lý sử dụng máy tính.",
+      "derivatives": [
+        {
+          "word": "compliance",
+          "partOfSpeech": "n",
+          "meaningVi": "sự làm theo, sự phục tùng"
+        }
+      ],
+      "synonyms": [
+        "observe",
+        "obey",
+        "fulfill"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "comply with: tuân thủ (luôn đi kèm with)",
+        "observe: tuân thủ (ngoại động từ, theo sau trực tiếp bởi tân ngữ)",
+        "obey: phục tùng, nghe lời (ai đó)",
+        "fulfill: đáp ứng, thỏa mãn (yêu cầu, điều kiện)"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "regulation",
+      "word": "regulation",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˌreɡjuˈleɪʃn/",
+        "us": "/ˌreɡjuˈleɪʃn/"
+      },
+      "frequency": 2,
+      "meaningVi": "quy định, quy tắc, điều lệ",
+      "exampleEn": "Regulations regarding lunch breaks were established.",
+      "exampleVi": "Những quy định về giờ nghỉ trưa đã được thiết lập.",
+      "derivatives": [
+        {
+          "word": "regulate",
+          "partOfSpeech": "v",
+          "meaningVi": "điều chỉnh, kiểm soát"
+        }
+      ],
+      "synonyms": [
+        "rule",
+        "statute"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "safety regulations: quy tắc an toàn",
+        "customs regulations: quy định hải quan"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "exception",
+      "word": "exception",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ɪkˈsepʃn/",
+        "us": "/ɪkˈsepʃn/"
+      },
+      "frequency": 2,
+      "meaningVi": "ngoại lệ, sự loại trừ",
+      "exampleEn": "Management decided not to make any exceptions to the rules.",
+      "exampleVi": "Ban quản lý quyết định không chấp nhận bất kỳ ngoại lệ nào đối với quy định này.",
+      "derivatives": [
+        {
+          "word": "exceptional",
+          "partOfSpeech": "adj",
+          "meaningVi": "đặc biệt, hiếm có"
+        },
+        {
+          "word": "exceptionally",
+          "partOfSpeech": "adv",
+          "meaningVi": "khác thường, đặc biệt"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "with the exception of: ngoại trừ...",
+        "with very few exceptions: hầu như không có ngoại lệ"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "adhere",
+      "word": "adhere",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ədˈhɪə(r)/",
+        "us": "/ədˈhɪər/"
+      },
+      "frequency": 2,
+      "meaningVi": "bám sát, tuân thủ",
+      "exampleEn": "All staff should do their best to adhere to the company's policies.",
+      "exampleVi": "Tất cả nhân viên nên cố gắng hết sức để tuân thủ các chính sách của công ty.",
+      "derivatives": [
+        {
+          "word": "adherence",
+          "partOfSpeech": "n",
+          "meaningVi": "sự trung thành, gắn bó"
+        }
+      ],
+      "synonyms": [
+        "comply",
+        "follow"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "adhere to: tuân thủ (luôn đi kèm to)"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "severely",
+      "word": "severely",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/sɪˈvɪəli/",
+        "us": "/sɪˈvɪrli/"
+      },
+      "frequency": 2,
+      "meaningVi": "nghiêm khắc, khắt khe; gay go, dữ dội",
+      "exampleEn": "Those who share company data with outside parties will be severely punished.",
+      "exampleVi": "Những ai chia sẻ dữ liệu của công ty ra bên ngoài sẽ bị trừng phạt nghiêm khắc.",
+      "derivatives": [
+        {
+          "word": "severe",
+          "partOfSpeech": "adj",
+          "meaningVi": "khắt khe, gay gắt"
+        }
+      ],
+      "synonyms": [
+        "sternly"
+      ],
+      "antonyms": [
+        "leniently"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "refrain",
+      "word": "refrain",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/rɪˈfreɪn/",
+        "us": "/rɪˈfreɪn/"
+      },
+      "frequency": 2,
+      "meaningVi": "kiềm chế, hạn chế",
+      "exampleEn": "Guards should refrain from making personal calls during a shift.",
+      "exampleVi": "Nhân viên bảo vệ nên hạn chế thực hiện các cuộc gọi cá nhân khi đang trong ca trực.",
+      "derivatives": [],
+      "synonyms": [
+        "avoid",
+        "abstain"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "refrain from: hạn chế, kiềm chế làm việc gì"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "permission",
+      "word": "permission",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/pəˈmɪʃn/",
+        "us": "/pərˈmɪʃn/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự cho phép",
+      "exampleEn": "The CEO gave managers permission to hold a weekend workshop.",
+      "exampleVi": "Giám đốc điều hành đã cho phép các quản lý tổ chức một buổi hội thảo cuối tuần.",
+      "derivatives": [
+        {
+          "word": "permit",
+          "partOfSpeech": "v",
+          "meaningVi": "cho phép"
+        },
+        {
+          "word": "permit",
+          "partOfSpeech": "n",
+          "meaningVi": "giấy phép"
+        }
+      ],
+      "synonyms": [
+        "authorization"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "ask for permission: xin phép"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "access-n",
+      "word": "access",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈækses/",
+        "us": "/ˈækses/"
+      },
+      "frequency": 3,
+      "meaningVi": "quyền truy cập, sự lui tới, lối vào",
+      "exampleEn": "Only authorized personnel may gain access to client files.",
+      "exampleVi": "Chỉ nhân viên được ủy quyền mới có thể truy cập vào các tập tin của khách hàng.",
+      "derivatives": [
+        {
+          "word": "accessible",
+          "partOfSpeech": "adj",
+          "meaningVi": "có thể truy cập"
+        },
+        {
+          "word": "accessibility",
+          "partOfSpeech": "n",
+          "meaningVi": "khả năng tiếp cận"
+        }
+      ],
+      "synonyms": [
+        "entrance",
+        "entry"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "have access to: có quyền tiếp cận/truy cập vào cái gì"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "access-v",
+      "word": "access",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ˈækses/",
+        "us": "/ˈækses/"
+      },
+      "frequency": 3,
+      "meaningVi": "truy cập",
+      "exampleEn": "Click on the link to access the detailed job description.",
+      "exampleVi": "Nhấp vào liên kết để truy cập vào phần mô tả chi tiết công việc.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "access (v) là ngoại động từ, đi thẳng với tân ngữ, không dùng giới từ to"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "thoroughly",
+      "word": "thoroughly",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/ˈθʌrəli/",
+        "us": "/ˈθɜːroʊli/"
+      },
+      "frequency": 3,
+      "meaningVi": "một cách kỹ lưỡng; hoàn toàn, triệt để",
+      "exampleEn": "Please read the user manual thoroughly before installing this software.",
+      "exampleVi": "Vui lòng đọc kỹ hướng dẫn sử dụng trước khi cài đặt phần mềm này.",
+      "derivatives": [
+        {
+          "word": "thorough",
+          "partOfSpeech": "adj",
+          "meaningVi": "kỹ lưỡng, thấu đáo"
+        }
+      ],
+      "synonyms": [
+        "carefully",
+        "completely"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "revise",
+      "word": "revise",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/rɪˈvaɪz/",
+        "us": "/rɪˈvaɪz/"
+      },
+      "frequency": 2,
+      "meaningVi": "sửa đổi, thay đổi (ý kiến, kế hoạch)",
+      "exampleEn": "The office's policies regarding vacations have been revised.",
+      "exampleVi": "Các chính sách của văn phòng liên quan đến ngày nghỉ phép đã được sửa đổi.",
+      "derivatives": [
+        {
+          "word": "revision",
+          "partOfSpeech": "n",
+          "meaningVi": "sự sửa đổi"
+        }
+      ],
+      "synonyms": [
+        "modify",
+        "alter"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "approach-n",
+      "word": "approach",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/əˈprəʊtʃ/",
+        "us": "/əˈproʊtʃ/"
+      },
+      "frequency": 2,
+      "meaningVi": "cách tiếp cận, phương pháp xử lý",
+      "exampleEn": "The manager has a strict approach to enforcing office regulations.",
+      "exampleVi": "Viên quản lý có cách tiếp cận nghiêm khắc trong việc thực thi các quy định của văn phòng.",
+      "derivatives": [],
+      "synonyms": [
+        "method",
+        "way"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "approach to: cách tiếp cận đối với cái gì"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "approach-v",
+      "word": "approach",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/əˈprəʊtʃ/",
+        "us": "/əˈproʊtʃ/"
+      },
+      "frequency": 2,
+      "meaningVi": "tiếp cận, đi đến gần",
+      "exampleEn": "Police approached carefully to arrest the suspect.",
+      "exampleVi": "Cảnh sát đã thận trọng tiếp cận để bắt giữ nghi phạm.",
+      "derivatives": [],
+      "synonyms": [
+        "near"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "approval",
+      "word": "approval",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/əˈpruːvl/",
+        "us": "/əˈpruːvl/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự chấp thuận, sự phê duyệt",
+      "exampleEn": "Please obtain the supervisor's approval before purchasing supplies.",
+      "exampleVi": "Vui lòng xin phê duyệt của quản lý trước khi mua vật tư.",
+      "derivatives": [
+        {
+          "word": "approve",
+          "partOfSpeech": "v",
+          "meaningVi": "chấp thuận"
+        }
+      ],
+      "synonyms": [
+        "permission",
+        "consent"
+      ],
+      "antonyms": [
+        "rejection",
+        "disapproval"
+      ],
+      "toeicNotes": [
+        "obtain approval (for): xin sự chấp thuận/phê duyệt cho cái gì"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "form-n",
+      "word": "form",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/fɔːm/",
+        "us": "/fɔːrm/"
+      },
+      "frequency": 2,
+      "meaningVi": "kiểu, loại, hình thức; mẫu đơn",
+      "exampleEn": "Visitors are required to present a form of identification to security guards.",
+      "exampleVi": "Du khách phải xuất trình một loại giấy tờ tùy thân cho nhân viên bảo vệ.",
+      "derivatives": [
+        {
+          "word": "formal",
+          "partOfSpeech": "adj",
+          "meaningVi": "trang trọng"
+        },
+        {
+          "word": "formation",
+          "partOfSpeech": "n",
+          "meaningVi": "sự hình thành"
+        }
+      ],
+      "synonyms": [
+        "type",
+        "kind"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "a form of identification: một loại giấy tờ tùy thân"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "immediately",
+      "word": "immediately",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/ɪˈmiːdiətli/",
+        "us": "/ɪˈmiːdiətli/"
+      },
+      "frequency": 1,
+      "meaningVi": "ngay lập tức",
+      "exampleEn": "Effective immediately, taxes will be automatically deducted from each paycheck.",
+      "exampleVi": "Ngay khi có hiệu lực, thuế sẽ được tự động khấu trừ từ lương của mỗi người.",
+      "derivatives": [
+        {
+          "word": "immediate",
+          "partOfSpeech": "adj",
+          "meaningVi": "lập tức, tức thời"
+        }
+      ],
+      "synonyms": [
+        "instantly",
+        "promptly"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "immediately after: ngay sau đó",
+        "immediately upon arrival: ngay khi tới nơi"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "inspection",
+      "word": "inspection",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ɪnˈspekʃn/",
+        "us": "/ɪnˈspekʃn/"
+      },
+      "frequency": 3,
+      "meaningVi": "sự kiểm tra, sự thanh tra",
+      "exampleEn": "The facility inspection should be conducted at least once a month.",
+      "exampleVi": "Việc kiểm tra cơ sở nên được tiến hành ít nhất mỗi tháng một lần.",
+      "derivatives": [
+        {
+          "word": "inspect",
+          "partOfSpeech": "v",
+          "meaningVi": "xem xét, kiểm tra"
+        },
+        {
+          "word": "inspector",
+          "partOfSpeech": "n",
+          "meaningVi": "thanh tra viên"
+        }
+      ],
+      "synonyms": [
+        "examination",
+        "audit"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "arrangement",
+      "word": "arrangement",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/əˈreɪndʒmənt/",
+        "us": "/əˈreɪndʒmənt/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự sắp xếp, sự sắp đặt, sự chuẩn bị",
+      "exampleEn": "The manager made arrangements for purchase of new machinery.",
+      "exampleVi": "Viên quản lý đã thu xếp cho việc mua máy móc mới.",
+      "derivatives": [
+        {
+          "word": "arrange",
+          "partOfSpeech": "v",
+          "meaningVi": "sắp xếp"
+        }
+      ],
+      "synonyms": [
+        "preparation",
+        "setup"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "make arrangements to do: chuẩn bị để làm gì",
+        "make arrangements for: chuẩn bị cho cái gì"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "procedure",
+      "word": "procedure",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/prəˈsiːdʒə(r)/",
+        "us": "/prəˈsiːdʒər/"
+      },
+      "frequency": 2,
+      "meaningVi": "thủ tục",
+      "exampleEn": "The procedure for patent applications is outlined on the APTO website.",
+      "exampleVi": "Thủ tục xin cấp bằng sáng chế được tóm lược trên trang web của APTO.",
+      "derivatives": [
+        {
+          "word": "proceed",
+          "partOfSpeech": "v",
+          "meaningVi": "tiến hành, tiếp diễn"
+        },
+        {
+          "word": "procedural",
+          "partOfSpeech": "adj",
+          "meaningVi": "theo thủ tục"
+        }
+      ],
+      "synonyms": [
+        "process",
+        "routine"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "negative",
+      "word": "negative",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ˈneɡətɪv/",
+        "us": "/ˈneɡətɪv/"
+      },
+      "frequency": 2,
+      "meaningVi": "tiêu cực, bi quan",
+      "exampleEn": "The new vacation policy received negative feedback from the employees.",
+      "exampleVi": "Chính sách nghỉ phép mới đã nhận những phản hồi tiêu cực từ các nhân viên.",
+      "derivatives": [],
+      "synonyms": [
+        "pessimistic"
+      ],
+      "antonyms": [
+        "positive",
+        "optimistic"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "mandate-v",
+      "word": "mandate",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ˈmændeɪt/",
+        "us": "/ˈmændeɪt/"
+      },
+      "frequency": 2,
+      "meaningVi": "ra lệnh, ủy quyền, ủy thác",
+      "exampleEn": "The board of directors has mandated an increase for research funding.",
+      "exampleVi": "Hội đồng quản trị đã ra lệnh tăng kinh phí cho nghiên cứu.",
+      "derivatives": [
+        {
+          "word": "mandatory",
+          "partOfSpeech": "adj",
+          "meaningVi": "bắt buộc"
+        }
+      ],
+      "synonyms": [
+        "order",
+        "command"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "mandate-n",
+      "word": "mandate",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈmændeɪt/",
+        "us": "/ˈmændeɪt/"
+      },
+      "frequency": 2,
+      "meaningVi": "lệnh, trát, sự ủy thác",
+      "exampleEn": "Congress gave the committee a mandate to make budget cuts.",
+      "exampleVi": "Quốc hội đã ủy thác cho ủy ban quyền cắt giảm ngân sách.",
+      "derivatives": [],
+      "synonyms": [
+        "command",
+        "authority"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "effect-n",
+      "word": "effect",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ɪˈfekt/",
+        "us": "/ɪˈfekt/"
+      },
+      "frequency": 3,
+      "meaningVi": "hiệu ứng, hiệu quả, hiệu lực",
+      "exampleEn": "The incentive policy will be in effect starting next week.",
+      "exampleVi": "Chính sách động viên đó sẽ có hiệu lực bắt đầu từ tuần tới.",
+      "derivatives": [
+        {
+          "word": "effective",
+          "partOfSpeech": "adj",
+          "meaningVi": "hiệu quả, có hiệu lực"
+        },
+        {
+          "word": "effectively",
+          "partOfSpeech": "adv",
+          "meaningVi": "một cách hiệu quả"
+        }
+      ],
+      "synonyms": [
+        "impact",
+        "influence"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "in effect: có hiệu lực",
+        "come into effect: có hiệu lực",
+        "take effect: được thi hành",
+        "have an effect on: có tác động tới"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "effect-v",
+      "word": "effect",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ɪˈfekt/",
+        "us": "/ɪˈfekt/"
+      },
+      "frequency": 3,
+      "meaningVi": "thực hiện, đem lại",
+      "exampleEn": "He effected a sudden change in the company's expansion plan.",
+      "exampleVi": "Anh ấy đã thực hiện một thay đổi bất ngờ trong kế hoạch mở rộng của công ty.",
+      "derivatives": [],
+      "synonyms": [
+        "achieve",
+        "accomplish",
+        "carry out"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "put into effect (thực thi) có thể thay thế bằng apply"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "according-to",
+      "word": "according to",
+      "partOfSpeech": "prep",
+      "pronunciation": {
+        "uk": "/əˈkɔːdɪŋ tuː/",
+        "us": "/əˈkɔːrdɪŋ tuː/"
+      },
+      "frequency": 2,
+      "meaningVi": "theo, theo như",
+      "exampleEn": "All transactions must be handled according to the guidelines.",
+      "exampleVi": "Tất cả giao dịch phải được xử lý theo hướng dẫn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "enable",
+      "word": "enable",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ɪˈneɪbl/",
+        "us": "/ɪˈneɪbl/"
+      },
+      "frequency": 2,
+      "meaningVi": "làm cho có thể, cho phép",
+      "exampleEn": "Jenny's promotion enabled her to participate in the board meeting.",
+      "exampleVi": "Việc Jenny được thăng chức đã cho phép cô ấy tham gia vào cuộc họp hội đồng.",
+      "derivatives": [],
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "antonyms": [
+        "prevent",
+        "disable"
+      ],
+      "toeicNotes": [
+        "enable A to do: cho phép A làm việc gì"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "standard",
+      "word": "standard",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈstændəd/",
+        "us": "/ˈstændərd/"
+      },
+      "frequency": 2,
+      "meaningVi": "tiêu chuẩn, chuẩn, trình độ",
+      "exampleEn": "The company must make changes to the current safety standards.",
+      "exampleVi": "Công ty cần phải có những thay đổi đối với các tiêu chuẩn an toàn hiện tại.",
+      "derivatives": [
+        {
+          "word": "standardize",
+          "partOfSpeech": "v",
+          "meaningVi": "tiêu chuẩn hóa"
+        }
+      ],
+      "synonyms": [
+        "norm",
+        "criterion"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "drastically",
+      "word": "drastically",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/ˈdræstɪkli/",
+        "us": "/ˈdræstɪkli/"
+      },
+      "frequency": 2,
+      "meaningVi": "một cách mạnh mẽ, quyết liệt, triệt để",
+      "exampleEn": "Fines for breaking rules have been drastically increased.",
+      "exampleVi": "Hình phạt cho việc vi phạm quy định đã được tăng mạnh.",
+      "derivatives": [
+        {
+          "word": "drastic",
+          "partOfSpeech": "adj",
+          "meaningVi": "mạnh mẽ, quyết liệt"
+        }
+      ],
+      "synonyms": [
+        "strongly",
+        "severely"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "constant",
+      "word": "constant",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ˈkɒnstənt/",
+        "us": "/ˈkánstant/"
+      },
+      "frequency": 2,
+      "meaningVi": "liên tục, không ngớt, không dứt",
+      "exampleEn": "The store received constant inquiries about its new return policy.",
+      "exampleVi": "Cửa hàng nhận được những câu hỏi liên tục về chính sách hoàn trả mới.",
+      "derivatives": [
+        {
+          "word": "constantly",
+          "partOfSpeech": "adv",
+          "meaningVi": "liên tục"
+        }
+      ],
+      "synonyms": [
+        "continuous",
+        "continual"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "act-n",
+      "word": "act",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ækt/",
+        "us": "/ækt/"
+      },
+      "frequency": 2,
+      "meaningVi": "hành động, việc làm; đạo luật",
+      "exampleEn": "The new act makes it easier to file personal income tax forms online.",
+      "exampleVi": "Đạo luật mới khiến cho việc nộp các biểu mẫu khai thuế thu nhập cá nhân trên mạng trở nên dễ dàng hơn.",
+      "derivatives": [
+        {
+          "word": "action",
+          "partOfSpeech": "n",
+          "meaningVi": "hành động"
+        },
+        {
+          "word": "active",
+          "partOfSpeech": "adj",
+          "meaningVi": "năng động"
+        }
+      ],
+      "synonyms": [
+        "law",
+        "deed"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "the act of merging: việc sáp nhập"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "act-v",
+      "word": "act",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ækt/",
+        "us": "/ækt/"
+      },
+      "frequency": 2,
+      "meaningVi": "hành động, đưa ra quyết định",
+      "exampleEn": "A lawyer always acts on behalf of his clients.",
+      "exampleVi": "Luật sư luôn hành động thay mặt cho khách hàng của anh ta.",
+      "derivatives": [],
+      "synonyms": [
+        "behave",
+        "perform"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "act on behalf of: hành động thay mặt cho ai"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "compensation",
+      "word": "compensation",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˌkɒmpenˈseɪʃn/",
+        "us": "/ˌkɑːmpenˈseɪʃn/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự đền bù, sự bồi thường",
+      "exampleEn": "Employees will receive compensation based on their performance and evaluation.",
+      "exampleVi": "Nhân viên sẽ nhận được bồi thường dựa trên hiệu suất làm việc và bản đánh giá của họ.",
+      "derivatives": [
+        {
+          "word": "compensate",
+          "partOfSpeech": "v",
+          "meaningVi": "đền bù, bồi thường"
+        }
+      ],
+      "synonyms": [
+        "reimbursement",
+        "payment"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "compensation for: bồi thường cho cái gì"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "ban-n",
+      "word": "ban",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/bæn/",
+        "us": "/bæn/"
+      },
+      "frequency": 2,
+      "meaningVi": "lệnh cấm, sự cấm đoán",
+      "exampleEn": "The government placed a ban on carrying a large volume of liquid on board a plane.",
+      "exampleVi": "Chính phủ ban hành lệnh cấm đối với việc mang một lượng lớn chất lỏng lên máy bay.",
+      "derivatives": [],
+      "synonyms": [
+        "prohibition"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "place a ban on: ban hành lệnh cấm đối với"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "ban-v",
+      "word": "ban",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/bæn/",
+        "us": "/bæn/"
+      },
+      "frequency": 2,
+      "meaningVi": "cấm, ngăn cấm",
+      "exampleEn": "The company banned the use of the Internet for personal purposes.",
+      "exampleVi": "Công ty đã cấm sử dụng Internet cho mục đích cá nhân.",
+      "derivatives": [],
+      "synonyms": [
+        "prohibit",
+        "forbid"
+      ],
+      "antonyms": [
+        "allow",
+        "permit"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "obligation",
+      "word": "obligation",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˌɒblɪˈɡeɪʃn/",
+        "us": "/ˌɑːblɪˈɡeɪʃn/"
+      },
+      "frequency": 2,
+      "meaningVi": "nghĩa vụ, trách nhiệm",
+      "exampleEn": "All researchers have an obligation to publish at least one paper every year.",
+      "exampleVi": "Mọi nhà nghiên cứu đều có trách nhiệm phải xuất bản ít nhất một bài báo mỗi năm.",
+      "derivatives": [
+        {
+          "word": "obligatory",
+          "partOfSpeech": "adj",
+          "meaningVi": "bắt buộc"
+        },
+        {
+          "word": "oblige",
+          "partOfSpeech": "v",
+          "meaningVi": "bắt buộc"
+        }
+      ],
+      "synonyms": [
+        "duty",
+        "responsibility"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "have an obligation to do: có nghĩa vụ phải làm gì"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "authorize",
+      "word": "authorize",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ˈɔːθəraɪz/",
+        "us": "/ˈɔːθəraɪz/"
+      },
+      "frequency": 2,
+      "meaningVi": "ủy quyền, cho phép",
+      "exampleEn": "Allocations of funds must be authorized by management.",
+      "exampleVi": "Việc phân bổ kinh phí phải được ban quản lý cho phép.",
+      "derivatives": [
+        {
+          "word": "authorization",
+          "partOfSpeech": "n",
+          "meaningVi": "sự cho phép, sự cấp phép"
+        },
+        {
+          "word": "authorized",
+          "partOfSpeech": "adj",
+          "meaningVi": "được cho phép, được ủy quyền"
+        }
+      ],
+      "synonyms": [
+        "allow",
+        "permit"
+      ],
+      "antonyms": [
+        "prohibit",
+        "forbid"
+      ],
+      "toeicNotes": [
+        "an authorized service center: một trung tâm dịch vụ được ủy quyền",
+        "unauthorized reproduction: sao chép trái phép"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "prohibit",
+      "word": "prohibit",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/prəˈhɪbɪt/",
+        "us": "/prəˈhɪbɪt/"
+      },
+      "frequency": 2,
+      "meaningVi": "ngăn cấm, cấm đoán",
+      "exampleEn": "The museum prohibits visitors from taking pictures.",
+      "exampleVi": "Bảo tàng không cho phép du khách chụp ảnh.",
+      "derivatives": [
+        {
+          "word": "prohibition",
+          "partOfSpeech": "n",
+          "meaningVi": "sự cấm"
+        }
+      ],
+      "synonyms": [
+        "forbid",
+        "ban"
+      ],
+      "antonyms": [
+        "allow",
+        "permit",
+        "authorize"
+      ],
+      "toeicNotes": [
+        "prohibit A from -ing: cấm A làm gì",
+        "forbid A from -ing/to do: cấm A làm gì"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "abolish",
+      "word": "abolish",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/əˈbɒlɪʃ/",
+        "us": "/əˈbɑːlɪʃ/"
+      },
+      "frequency": 1,
+      "meaningVi": "thủ tiêu, bãi bỏ, hủy bỏ",
+      "exampleEn": "Congress decided to abolish taxes on imported fruit.",
+      "exampleVi": "Quốc hội đã quyết định bãi bỏ thuế đối với các loại trái cây nhập khẩu.",
+      "derivatives": [
+        {
+          "word": "abolition",
+          "partOfSpeech": "n",
+          "meaningVi": "sự bãi bỏ"
+        }
+      ],
+      "synonyms": [
+        "eliminate",
+        "cancel",
+        "annul"
+      ],
+      "antonyms": [
+        "establish",
+        "retain"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "enforce",
+      "word": "enforce",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ɪnˈfɔːs/",
+        "us": "/ɪnˈfɔːrs/"
+      },
+      "frequency": 2,
+      "meaningVi": "thi hành, thúc ép, làm cho có hiệu lực",
+      "exampleEn": "All departments must enforce the no smoking policy.",
+      "exampleVi": "Tất cả các phòng ban phải thực thi quy định về cấm hút thuốc lá.",
+      "derivatives": [
+        {
+          "word": "enforcement",
+          "partOfSpeech": "n",
+          "meaningVi": "sự thúc ép, sự thực thi"
+        }
+      ],
+      "synonyms": [
+        "implement",
+        "execute"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "enforce regulations: thực thi quy định"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "habit",
+      "word": "habit",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈhæbɪt/",
+        "us": "/ˈhæbɪt/"
+      },
+      "frequency": 2,
+      "meaningVi": "thói quen, tập quán cá nhân",
+      "exampleEn": "Setting goals should be a regular habit.",
+      "exampleVi": "Việc đặt mục tiêu nên là một thói quen thường xuyên.",
+      "derivatives": [
+        {
+          "word": "habitual",
+          "partOfSpeech": "adj",
+          "meaningVi": "quen thuộc, thường lệ"
+        }
+      ],
+      "synonyms": [
+        "custom"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "Phân biệt: habit là thói quen cá nhân, convention là tập quán của cộng đồng/doanh nghiệp"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "legislation",
+      "word": "legislation",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˌledʒɪsˈleɪʃn/",
+        "us": "/ˌledʒɪsˈleɪʃn/"
+      },
+      "frequency": 2,
+      "meaningVi": "luật pháp, sự làm luật, pháp chế",
+      "exampleEn": "The committee unanimously voted for the new export legislation.",
+      "exampleVi": "Ủy ban đã nhất trí bỏ phiếu cho luật mới về hạn chế xuất khẩu.",
+      "derivatives": [
+        {
+          "word": "legislate",
+          "partOfSpeech": "v",
+          "meaningVi": "lập pháp"
+        },
+        {
+          "word": "legislator",
+          "partOfSpeech": "n",
+          "meaningVi": "nhà lập pháp"
+        }
+      ],
+      "synonyms": [
+        "law",
+        "statute"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "restrict",
+      "word": "restrict",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/rɪˈstrɪkt/",
+        "us": "/rɪˈstrɪkt/"
+      },
+      "frequency": 2,
+      "meaningVi": "giới hạn, hạn chế",
+      "exampleEn": "Access is restricted to authorized personnel.",
+      "exampleVi": "Việc truy cập chỉ giới hạn cho các nhân viên được ủy quyền.",
+      "derivatives": [
+        {
+          "word": "restriction",
+          "partOfSpeech": "n",
+          "meaningVi": "sự hạn chế"
+        },
+        {
+          "word": "restrictive",
+          "partOfSpeech": "adj",
+          "meaningVi": "hạn chế, giới hạn"
+        }
+      ],
+      "synonyms": [
+        "limit",
+        "confine"
+      ],
+      "antonyms": [
+        "broaden",
+        "expand"
+      ],
+      "toeicNotes": [
+        "restrict A to B: hạn chế A đối với B",
+        "lift/raise a restriction: bãi bỏ sự hạn chế"
+      ],
+      "needsReview": false
+    }
+  ],
+  "story": {
+    "title": "ORI Học Nội Quy Đoàn Bay",
+    "content": "Sau khi trúng tuyển, ORI tham gia khóa đào tạo tân binh. Ngày đầu tiên, cô được yêu cầu **submit** (nộp) các giấy tờ tùy thân. Giáo viên chủ nhiệm phổ biến về **policy** (chính sách) an toàn của hãng hàng không. ORI tự nhủ mình phải **comply** (tuân thủ) nghiêm ngặt mọi **regulation** (quy định) của ngành bay. Ở đây, tuyệt đối không có **exception** (ngoại lệ) nào cho việc đi muộn hay sai tác phong. Các học viên phải **adhere** (bám sát/tuân thủ) các tiêu chuẩn an toàn bay. Bất kỳ vi phạm nào cũng sẽ bị phạt **severely** (nặng nề). Chỉ khi được sự **permission** (cho phép) của giáo viên, ORI mới có quyền **access** (tiếp cận) khu vực mô phỏng buồng lái. Cô chăm chỉ thực hành từng **procedure** (thủ tục) khẩn cấp để đảm bảo an toàn tuyệt đối cho hành khách sau này.",
+    "words": [
+      {
+        "word": "submit",
+        "meaningVi": "nộp"
+      },
+      {
+        "word": "policy",
+        "meaningVi": "quy chế"
+      },
+      {
+        "word": "comply",
+        "meaningVi": "tuân thủ"
+      },
+      {
+        "word": "regulation",
+        "meaningVi": "quy định"
+      },
+      {
+        "word": "exception",
+        "meaningVi": "ngoại lệ"
+      },
+      {
+        "word": "adhere",
+        "meaningVi": "bám sát"
+      },
+      {
+        "word": "severely",
+        "meaningVi": "nghiêm khắc"
+      },
+      {
+        "word": "permission",
+        "meaningVi": "sự cho phép"
+      },
+      {
+        "word": "access",
+        "meaningVi": "quyền truy cập"
+      },
+      {
+        "word": "procedure",
+        "meaningVi": "thủ tục"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
+      "questions": [
+        {
+          "q": "Professional business ___ is required of all staff giving presentations.",
+          "a": "attire",
+          "options": [
+            "act",
+            "access",
+            "attire",
+            "standard"
+          ]
+        },
+        {
+          "q": "Employees are expected to follow the dress ___.",
+          "a": "code",
+          "options": [
+            "code",
+            "inspection",
+            "mandate",
+            "enable"
+          ]
+        },
+        {
+          "q": "The board voiced ___s about safety at the meeting.",
+          "a": "concern",
+          "options": [
+            "authorize",
+            "enforce",
+            "enable",
+            "concern"
+          ]
+        },
+        {
+          "q": "Citizens are ___ed about the new trade protocol.",
+          "a": "concern",
+          "options": [
+            "restrict",
+            "revise",
+            "concern",
+            "comply"
+          ]
+        },
+        {
+          "q": "The employee benefit ___ will be expanded next year.",
+          "a": "policy",
+          "options": [
+            "prohibit",
+            "compensation",
+            "abolish",
+            "policy"
+          ]
+        },
+        {
+          "q": "Employees must ___ with the regulations governing computer use.",
+          "a": "comply",
+          "options": [
+            "comply",
+            "exception",
+            "concern",
+            "policy"
+          ]
+        },
+        {
+          "q": "___s regarding lunch breaks were established.",
+          "a": "regulation",
+          "options": [
+            "authorize",
+            "regulation",
+            "access",
+            "arrangement"
+          ]
+        },
+        {
+          "q": "Management decided not to make any ___s to the rules.",
+          "a": "exception",
+          "options": [
+            "severely",
+            "mandate",
+            "arrangement",
+            "exception"
+          ]
+        },
+        {
+          "q": "All staff should do their best to ___ to the company's policies.",
+          "a": "adhere",
+          "options": [
+            "refrain",
+            "obligation",
+            "adhere",
+            "enable"
+          ]
+        },
+        {
+          "q": "Those who share company data with outside parties will be ___ punished.",
+          "a": "severely",
+          "options": [
+            "severely",
+            "inspection",
+            "attire",
+            "exception"
+          ]
+        }
+      ]
+    }
+  ]
+}

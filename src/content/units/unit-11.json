@@ -1,0 +1,963 @@
+{
+  "id": "unit-11",
+  "day": 11,
+  "title": "Ra mắt sản phẩm mới",
+  "topic": "Phát triển sản phẩm",
+  "sourcePages": [
+    161,
+    176
+  ],
+  "words": [
+    {
+      "id": "research",
+      "word": "research",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ríser t/",
+        "us": "/ríser t/"
+      },
+      "frequency": 3,
+      "meaningVi": "sự nghiên cứu, điều tra",
+      "exampleEn": "The company started a research program into developing GPS technology.",
+      "exampleVi": "Công ty đã bắt đầu một chương trình nghiên cứu về việc phát triển hệ thống định vị toàn cầu (GPS).",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "research on nghiên cứu về áP Hãy nhớ research thường đi cùng giới từ on."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "devise",
+      "word": "devise",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/diváiz/",
+        "us": "/diváiz/"
+      },
+      "frequency": 1,
+      "meaningVi": "minh, chế tạo",
+      "exampleEn": "The firm devised a more efficient network system.",
+      "exampleVi": "Công ty đã tạo ra một hệ thống mạng lưới hiệu quả hơn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "der.",
+        "device (n) thiết bị syn.",
+        "contrive nghi ra, sáng chế ra invent sáng chế 3 revolutionary*.",
+        "der.",
+        "revolution (n) der.",
+        "innovate (v) đổi mới, cách tân innovation (n) sự đổi mới, sự cách tân syn.",
+        "characteristic đặc điểm"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "revolutionary",
+      "word": "revolutionary",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ик rèvalú fonari/",
+        "us": "/ик rèvalú fonari/"
+      },
+      "frequency": 1,
+      "meaningVi": "mạng, cải cách",
+      "exampleEn": "The car's revolutionary new engine surpasses those of the competition.",
+      "exampleVi": "Động cơ mới mang tính cách mạng của chiếc xe này vượt trội hơn các loại xe khác trong cuộc đua.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "gTI Lưu ý phân biệt từ loại revolutionary (adi.",
+        "mang tính cách mạng) và revolution (n.",
+        "cuộc cách mạng)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "innovative",
+      "word": "innovative",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ínavativ/",
+        "us": "/ínavativ/"
+      },
+      "frequency": 1,
+      "meaningVi": "tiến, đổi mới Simpson &",
+      "exampleEn": "Associates provides clients with innovative solutions to their needs.",
+      "exampleVi": "Simpsons & Associates cung cấp cho khách hàng những giải pháp tân tiến nhất phù hợp với nhu cầu của họ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "feature",
+      "word": "feature",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/fírtfar/",
+        "us": "/fírtfar/"
+      },
+      "frequency": 2,
+      "meaningVi": "đặc điểm, tính năng",
+      "exampleEn": "The latest dryer has several new features.",
+      "exampleVi": "Chiếc máy sấy mới nhất có một vài tính năng mới.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "M có tính năng, đặc trưng This refrigerator model features high energy efficiency.",
+        "Mẫu tủ lạnh này có tính năng cực kỳ tiết kiệm năng lượng.",
+        "*#* =tỷ lệ xuất hiện rất cao(*# = tỷ lệ xuất hiện cao * = tỷ lệ xuất hiện trung bình • = từ vung thường gặp trong Part 5 - 6 O = từ vựng thường gặp trong Part 7 Phát triển sản phẩm | 187 \"innovative* ahLDBIC dano tnac moo"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "inspiration",
+      "word": "inspiration",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/inspiréifan/",
+        "us": "/insparéijan/"
+      },
+      "frequency": 1,
+      "meaningVi": "cảm hứng, nguồn cảm hứng",
+      "exampleEn": "The new fashion designer draws her inspiration from traditional attire.",
+      "exampleVi": "Nhà thiết kế thời trang mới đã lấy cảm hứng từ các trang phục truyền thống.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "sufficiently",
+      "word": "sufficiently",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/sofijantli/",
+        "us": "/sofijantli/"
+      },
+      "frequency": 1,
+      "meaningVi": "đủ, đầy đủ, thỏa đáng",
+      "exampleEn": "The containers are sufficiently strong to resist breakage.",
+      "exampleVi": "Các thùng chứa đủ chắc chắn để không bị vỡ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "patent",
+      "word": "patent",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/péitnt/",
+        "us": "/péitnt/"
+      },
+      "frequency": 1,
+      "meaningVi": "bằng sáng chế, giấy đăng ký",
+      "exampleEn": "The lawyers submitted the paperwork for a patent application.",
+      "exampleVi": "Các luật sư đã trình giấy tờ để xin cấp bằng sáng chế.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "envision",
+      "word": "envision",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "dung, mường tượng",
+      "exampleEn": "Management envisions its latest product being sold in stores across the country.",
+      "exampleVi": "Ban lãnh đạo hình dung rằng sản phẩm mới nhất của họ sẽ được bày bán ở các cửa hàng trên cả nước.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "extend",
+      "word": "extend",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/iksténd/",
+        "us": "/iksténd/"
+      },
+      "frequency": 3,
+      "meaningVi": "mở rộng, kéo dài, gia hạn, giơ ra, tỏ ra",
+      "exampleEn": "A switch for adjusting brightness extends from the back of the lamp.",
+      "exampleVi": "Một chiếc núm để điều chỉnh độ sáng nhô ra ở phía sau chiếc đèn bàn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The manager extended the design deadline for a month.",
+        "Người quản lý gia hạn thời gian hoàn thành bản thiết kế trong một tháng.",
+        "The CEO extended his thanks to the research team for their great work.",
+        "Vị giám đốc điều hành bày tỏ sự biết ơn đối với nhóm nghiên cứu vì đã làm việc rất tốt.",
+        "\"bày tỏ\" (lòng cảm kích hoặc sự tôn trọng)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "following",
+      "word": "following",
+      "partOfSpeech": "prep",
+      "pronunciation": {
+        "uk": "/fálouin/",
+        "us": "/fálouin/"
+      },
+      "frequency": 3,
+      "meaningVi": "sau, tiếp theo",
+      "exampleEn": "The software was launched following months of research.",
+      "exampleVi": "Phần mềm này đã được ra mắt sau hàng tháng trời nghiên cứu.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "adj- tiếp theo, sau đây, theo sau Product brochures are available in the following languages.",
+        "Tập sách giới thiệu sản phẩm đã được dịch ra những ngôn ngữ sau."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "intend",
+      "word": "intend",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/inténd/",
+        "us": "/inténd/"
+      },
+      "frequency": 3,
+      "meaningVi": "định, có ý định Beauford",
+      "exampleEn": "Incorporated intends to release its new appliances this fall.",
+      "exampleVi": "Tập đoàn Beauford dự định ra mắt thiết bị gia dụng mới vào mùa thu này.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The inventor intended that her mixer be used for bread-making.",
+        "Nhà sáng chế có ý định sử dụng chiếc máy trộn cho việc làm bánh."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "grant",
+      "word": "grant",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/gramt/",
+        "us": "/grænt/"
+      },
+      "frequency": 3,
+      "meaningVi": "ban, cấp, thừa nhận, công nhận",
+      "exampleEn": "The patent for the handheld computer was granted on April 27.",
+      "exampleVi": "Bằng sáng chế máy tính cầm tay đã được cấp vào ngày 27 tháng Tư.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "grant",
+      "word": "grant",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/gramt/",
+        "us": "/grænt/"
+      },
+      "frequency": 3,
+      "meaningVi": "sự ban, sự cấp cho, sự chuyển nhượng, trợ cấp",
+      "exampleEn": "The research team will receive a government grant of up to $4,000.",
+      "exampleVi": "Nhóm nghiên cứu sẽ được nhận một khoản trợ cấp chính phủ lên tới 4000 đô-la.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "om take ~ for granted coi điều gì là hiển nhiên, không coi trọng B Đây là cụm từ thường được sử dụng để diễn tả việc một chủ thể không biết trân trọng ai/điều gì, coi người đó/điều đó là lẽ đương nhiên."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "allow",
+      "word": "allow",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 3,
+      "meaningVi": "phép, phê duyệt, chấp thuận",
+      "exampleEn": "The program's new feature allows users to conduct advanced searches.",
+      "exampleVi": "Tính năng mới của chương trình này cho phép người dùng thực hiện các tìm kiếm nâng cao.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "der, allowable (adj) có thể cho phép/thừa nhận/ chấp thuận allowed (adi) được cho phép, được phê duvêt allowance (n) sư cho"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "increasingly",
+      "word": "increasingly",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/inkrisinli/",
+        "us": "/inkrisinli/"
+      },
+      "frequency": 3,
+      "meaningVi": "cải thiện, cải tiến, nâng cấp A variety of incentives can improve staff productivity.",
+      "exampleEn": "Technology is becoming an increasingly important factor in the nation's economy.",
+      "exampleVi": "trọng trong nền kinh tế quốc gia.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Lamont Manufacturing invested millions of dollars in improving its assembly line.",
+        "Lamont Manufacturing dã đầu tư hàng triệu đô-la vào việc cải This car has various features not included in older models.",
+        "Special customers are eligible for one free computer upgrade.",
+        "Gina just upgraded her cell phone software.",
+        "Trưởng nhóm nghiên cứu phải kiểm tra toàn bộ thiết bị và hóa chất trong phòng thí nghiệm hằng ngày để đảm bảo an toàn.",
+        "Việc khích lệ động viên với nhiều hình thức có thể cải thiện năng suất lao động của nhân viên.",
+        "ady ngày càng tăng Khoa học kỹ thuật đang trở thành một nhân tố ngày càng quan M đầu tư tiến dây chuyển lắp ráp."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "manual",
+      "word": "manual",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/manjual/",
+        "us": "/manjual/"
+      },
+      "frequency": 3,
+      "meaningVi": "sổ tay, sách hướng dẫn Rachel đang viết hướng dẫn sử dụng cho sản phẩm điều hòa mới.",
+      "exampleEn": "",
+      "exampleVi": "",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "explore",
+      "word": "explore",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/iksplo:/",
+        "us": "/iksplor/"
+      },
+      "frequency": 3,
+      "meaningVi": "hiểm, tìm tòi,",
+      "exampleEn": "khám phá Khách hàng",
+      "exampleVi": "muốn biết thêm thông tin về công ty có thể tìm",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "response",
+      "word": "response",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/rispóns/",
+        "us": "/rispáns/"
+      },
+      "frequency": 3,
+      "meaningVi": "sự phản hồi, câu trả lời, sự hưởng ứng Những người dùng thử sản phẩm lò vi sóng mới được yêu cầu viết câu trả lời cho một số câu hỏi. Bai IN TOEIC dano Wot m0:",
+      "exampleEn": "Len response có nghĩa là",
+      "exampleVi": "\"sự phản hồi\" với một điều gì đó, còn đối phó\" với một điều gì đó.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "appearance",
+      "word": "appearance",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 3,
+      "meaningVi": "sự xuất hiện, vẻ ngoài, diện mạo",
+      "exampleEn": "",
+      "exampleVi": "Nhóm thiết kế đã đổi mới hoàn toàn mẫu mã của sản phẩm.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "successful",
+      "word": "successful",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/saksésfal/",
+        "us": "/saksésfal/"
+      },
+      "frequency": 3,
+      "meaningVi": "công, thành đạt",
+      "exampleEn": "",
+      "exampleVi": "Đèn sàn là sản phẩm thành công nhất của công ty.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "hold",
+      "word": "hold",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/hauld/",
+        "us": "/hould/"
+      },
+      "frequency": 2,
+      "meaningVi": "cầm, giữ, tổ chức",
+      "exampleEn": "The washing machine holds up to three kilograms of laundry.",
+      "exampleVi": "Chiếc máy giặt này giặt được tới 3 kg quần áo.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Eyn.| Từ hold có thể thay thế bằng conduct với ý nghĩa \"tiến hành\" hoặc \"tổ chức\" cuộc họp hay chương trình nào đó."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "advance",
+      "word": "advance",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/advárns/",
+        "us": "/ædvans/"
+      },
+      "frequency": 2,
+      "meaningVi": "tựu, sự tiến bộ, sự thăng tiến",
+      "exampleEn": "The product development team researches advances in computer technology.",
+      "exampleVi": "Bộ phận cải tiến sản phẩm nghiên cứu những thành tựu trong công nghệ tin học.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "rằng khi in đứng trước hoặc đứng sau advance sẽ tạo ra những cụm từ có ý nghĩa khác nhau."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "reliable",
+      "word": "reliable",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/riláiabl/",
+        "us": "/riláiabl/"
+      },
+      "frequency": 2,
+      "meaningVi": "đáng tin cậy Tests indicate that",
+      "exampleEn": "Branco's products are reliable and efficient.",
+      "exampleVi": "Các thử nghiệm đã chỉ ra rằng những sản phẩm của Branco rất đáng tin cậy và hiệu quả.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Salmi TOEIC dang thuc mol Na reliable đáng tin cậy M reliant dựa vào, nhờ cậy, phụ thuộc vào Bạn có thể gặp trong bài thi câu hỏi yêu cầu phân biệt hai từ thuộc cùng loại từ nhưng lại mang ý nghĩa khác nhau này.",
+        "The firm's management system is not reliant on any single person.",
+        "Hệ thống quản lý của công ty không phụ thuộc vào bất kỳ cá nhân nào."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "quality",
+      "word": "quality",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/u kwiliti/",
+        "us": "/u kwiliti/"
+      },
+      "frequency": 2,
+      "meaningVi": "chất lượng",
+      "exampleEn": "The quality control division inspects samples of all items.",
+      "exampleVi": "Bộ phận kiểm soát chất lượng kiểm tra mẫu của toàn bộ sản phẩm.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "development",
+      "word": "development",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/divélapmant/",
+        "us": "/divélapmant/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự phát triển, sự tiến triển",
+      "exampleEn": "The project is in the final stage of development.",
+      "exampleVi": "Dự án đang ở giai đoạn phát triển cuối cùng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Developments in wireless technology allow for high-powered smart phones.",
+        "Sự phát triển của công nghệ không dây phải kể đến điện thoại thông minh tính năng cao.",
+        "sar mn TOEIC dang tot mo.",
+        "(cum| be under development đang phát triển Lp development in sự phát triển của - development có thể được sử dụng với giới từ in hoặc under."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "availability",
+      "word": "availability",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/aveilabíliti/",
+        "us": "/avêilabílati/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự có sẵn, có thể mua được, sự có hiệu lực",
+      "exampleEn": "Availability of product depends on market demand and supply.",
+      "exampleVi": "Sự có mặt của sản phẩm phụ thuộc vào cung và cầu của thị trường.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "update",
+      "word": "update",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/àpdéit/",
+        "us": "/ápdèit/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự cập nhật, sự nâng cấp",
+      "exampleEn": "The website update includes information on the latest hair styling appliances.",
+      "exampleVi": "Việc cập nhật trang web bao gồm cả thông tin về những thiết bị tạo mẫu tóc mới nhất.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Y cập nhật, nâng cấp The factory updated the software of its equipment to speed up the production rate.",
+        "Nhà máy đã nâng cấp phần mềm của thiết bị để đẩy nhanh tốc độ sản xuất."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "accurate",
+      "word": "accurate",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/akjurat/",
+        "us": "/akjurat/"
+      },
+      "frequency": 2,
+      "meaningVi": "đúng, chính xác",
+      "exampleEn": "The new accounting software is accurate and precise.",
+      "exampleVi": "Phần mềm kế toán mới rất đúng và chính xác.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "* = từ vựng thường gặp trong Part 5 - 6O = từ vựng thường gặp trong Part 7 Phát triển sản phẩm | 193"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "complicated",
+      "word": "complicated",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/kámplikeitid/",
+        "us": "/kámplakeitid/"
+      },
+      "frequency": 2,
+      "meaningVi": "phức tạp, rắc rối",
+      "exampleEn": "Project delays often create a complicated situation for the public relations department.",
+      "exampleVi": "Việc trì hoãn dự án thường tạo ra tình huống rắc rối cho bộ phận quan hệ công chúng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "accomplished",
+      "word": "accomplished",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/akámplist/",
+        "us": "/akámplist/"
+      },
+      "frequency": 2,
+      "meaningVi": "đã hoàn thành, trọn vẹn, hoàn hảo, có tài năng",
+      "exampleEn": "The accomplished chemist has been hired to develop a flexible battery.",
+      "exampleVi": "Nhà hóa học tài năng đó đã được thuê để phát triển một loại pin dẻo.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "inquiry",
+      "word": "inquiry",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "sự điều tra, sự thẩm vấn, câu hỏi, sự đòi hỏi",
+      "exampleEn": "Please call our customer representatives for service inquiries.",
+      "exampleVi": "Vui lòng liên hệ nhân viên chăm sóc khách hàng để được giải đáp các câu hỏi về dịch vụ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "indication",
+      "word": "indication",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/indikéifan/",
+        "us": "/indikéifan/"
+      },
+      "frequency": 2,
+      "meaningVi": "biểu hiện, dấu hiệu",
+      "exampleEn": "Uneven printing is an indication of a technical fault.",
+      "exampleVi": "In không đều màu là một dấu hiệu của lỗi kỹ thuật.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Bar ih TOE/C dano tüc mot indication: show (iếm Bạn có thể gặp trong đề thi câu hỏi yêu cầu phân biệt hai từ cùng mang nghĩa \"sự thể hiện\" này.",
+        "-indication dấu hiệu Thường dùng để chỉ dấu hiệu của sự cố, trạng thái, hành động.",
+        "- show sự thể hiện Thường dùng để chỉ các biểu hiện về mặt cảm xúc hay suy nghĩ.",
+        "In a show of gratitude, staff were given bonuses.",
+        "Như một cách thể hiện sự cảm kích, các nhân viên đã được nhận thêm tiền thưởng."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "manufacturer",
+      "word": "manufacturer",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/manjufäktfarar/",
+        "us": "/manjufäktfarar/"
+      },
+      "frequency": 2,
+      "meaningVi": "sản xuất, chủ xưởng, chủ xí nghiệp",
+      "exampleEn": "The manufacturer guarantees all its products for up to one year.",
+      "exampleVi": "Nhà sản xuất bảo hành toàn bộ sản phẩm của họ lên tới một năm.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "a-compatible",
+      "word": "a compatible",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/kempatibl/",
+        "us": "/kempatabl/"
+      },
+      "frequency": 1,
+      "meaningVi": "tương thích, thích hợp",
+      "exampleEn": "The remote control is compatible with all models.",
+      "exampleVi": "Chiếc điều khiển từ xa này tương thích với mọi mãu sản phẩm.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "der.",
+        "superiority (n) sự vượt trội, tính ưu việt Syn.) excellent tuyệt vời ant.",
+        "inferior dưới, thấp hơn, kém hơn a2 absolute* der| absolutely (adv) tuyệt đối, hoàn toàn Isyn.",
+        "complete, utter hoàn toàn um be compatible with tương thích với (sel Từ compatible thường đi cùng giới từ with."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "superior",
+      "word": "superior",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/surpíaria/",
+        "us": "/supíariar/"
+      },
+      "frequency": 1,
+      "meaningVi": "cao, cao cấp, tốt hơn",
+      "exampleEn": "The company's latest television is superior to those on the market today.",
+      "exampleVi": "Chiếc tivi mới nhất của công ty cao cấp hơn các sản phẩm tivi hiện có trên thị trường.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "el be superior to cao cáp hon i Tr superior dược sử dụng cùng giới từ 10, không thể dùng than thay cho to.",
+        "sig superior : incomparable ấn | Hãy lưu ý phân biệt cách sử dụng hai từ cùng có nghĩa \"xuất sắc, nổi trội\" này.",
+        "r superior nổi trội hơn Được dùng để nói về sự nổi trội hơn của đối tượng này so với một đối tượng khác.",
+        "L incomparable không thể so sánh được, có một không hai Được dùng khi nói về một đối tượng xuất sắc tới mức không có đối tượng nào khác có thể so sánh được.",
+        "Tourists praise London's incomparable museums.",
+        "Khách du lịch ngợi ca những viện bảo tàng có một không hai ở London."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "absolute",
+      "word": "absolute",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/æbsalut/",
+        "us": "/æbsalut/"
+      },
+      "frequency": 1,
+      "meaningVi": "tuyệt đối, hoàn toàn, thuần túy",
+      "exampleEn": "The latest technology keeps production costs to an absolute minimum.",
+      "exampleVi": "Công nghệ tiên tiến giúp giảm chi phí sản xuất xuống mức thấp nhất.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Ey to an absolute minimum xuống mức thấp nhất Đây là cụm từ thường được sử dụng khi muốn nói tới việc giảm chi phí hoặc âm lượng tới mức thấp nhất.",
+        "a mn TOEIC gona tuc mor"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "broaden",
+      "word": "broaden",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/bráidn/",
+        "us": "/keróuzan/"
+      },
+      "frequency": 1,
+      "meaningVi": "mở rộng The new",
+      "exampleEn": "CEO is broadening the scope of the company's research.",
+      "exampleVi": "Vị giám đốc điều hành mới đang mở rộng phạm vi nghiên cứu của công ty.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Basn TOEiC dạng thuc mot us broaden : multiply lản | Hãy lưu ý phân biệt cách sử dụng của hai từ cùng có nghĩa \"mở rộng, nhân lên\" này.",
+        "- broaden mở rộng Thường được dùng để nói về việc mở rộng các lĩnh vực nghiên cứu hoặc kinh nghiệm.",
+        "- multiply mở rộng, nhân lên Được dùng khi nói về việc gia tăng số lượng.",
+        ".The firm multiplied its fortunes by investing wisely.",
+        "Công ty đã gia tăng tài sản của mình nhờ việc đầu tư khôn ngoan.",
+        "(sn: Khi được dùng để nói về việc mở rộng phạm vi, giới hạn, broaden có thể thay bằng widen hoặc expand."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "corrosion",
+      "word": "corrosion",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "sự ăn mòn",
+      "exampleEn": "This steel roof is designed to be resistant to corrosion from the weather.",
+      "exampleVi": "Loại mái tôn này được thiết kế để không bị ăn mòn do thời tiết.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Bar tm TOEIC dang thức mới & corrosion : erosior in.",
+        "Hãy lưu ý phân biệt cách sử dụng của hai từ cùng có nghĩ \"sự bào mòn, ăn mòn\" này.",
+        "- corrosion sự ăn mòn, bào mòn Được dùng để nói về hiện tượng kim loại bị gỉ sét.",
+        "-erosion sự xói mòn Được dùng để nói về việc đất hoặc đá bị xói mòn bởi các hiện tượng thiên nhiên.",
+        "Erosion of the coastal environment is a serious problem.",
+        "Vùng bờ biển bị xói mòn là một vấn đề nghiêm trọng."
+      ],
+      "needsReview": false
+    }
+  ],
+  "story": {
+    "title": "Ý Tưởng Phát Triển Sản Phẩm Mới",
+    "content": "Hôm nay, ORI tham gia buổi hội thảo sáng tạo của hãng. Cô đề xuất **design** (thiết kế) một bộ đồ dùng cá nhân thân thiện với môi trường cho hành khách. Cả đội cùng bắt tay **development** (phát triển) mẫu thử nghiệm của **product** (sản phẩm) mới này. Bộ đồ dùng có **feature** (đặc điểm) nhỏ gọn, tiện lợi và tự phân hủy sinh học. Đây là một ý tưởng rất **innovative** (sáng tạo/đột phá). Sản phẩm đã được đưa vào **test** (thử nghiệm) trên một vài chuyến bay quốc tế. Ý kiến đóng góp từ tổ bay giúp đội **improve** (cải tiến) sản phẩm tốt hơn. Hãng luôn ghi nhận mọi **feedback** (phản hồi) của hành khách để đảm bảo **quality** (chất lượng) dịch vụ và nâng tầm **service** (dịch vụ) cabin.",
+    "words": [
+      {
+        "word": "design",
+        "meaningVi": "thiết kế"
+      },
+      {
+        "word": "development",
+        "meaningVi": "sự phát triển"
+      },
+      {
+        "word": "product",
+        "meaningVi": "sản phẩm"
+      },
+      {
+        "word": "feature",
+        "meaningVi": "đặc điểm"
+      },
+      {
+        "word": "innovative",
+        "meaningVi": "tiến"
+      },
+      {
+        "word": "test",
+        "meaningVi": "thử nghiệm"
+      },
+      {
+        "word": "improve",
+        "meaningVi": "cải thiện"
+      },
+      {
+        "word": "feedback",
+        "meaningVi": "phản hồi"
+      },
+      {
+        "word": "quality",
+        "meaningVi": "chất lượng"
+      },
+      {
+        "word": "service",
+        "meaningVi": "dịch vụ"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
+      "questions": [
+        {
+          "q": "The company started a ___ program into developing GPS technology.",
+          "a": "research",
+          "options": [
+            "feature",
+            "research",
+            "envision",
+            "absolute"
+          ]
+        },
+        {
+          "q": "The firm ___d a more efficient network system.",
+          "a": "devise",
+          "options": [
+            "complicated",
+            "indication",
+            "devise",
+            "allow"
+          ]
+        },
+        {
+          "q": "The car's ___ new engine surpasses those of the competition.",
+          "a": "revolutionary",
+          "options": [
+            "inquiry",
+            "accurate",
+            "broaden",
+            "revolutionary"
+          ]
+        },
+        {
+          "q": "Associates provides clients with ___ solutions to their needs.",
+          "a": "innovative",
+          "options": [
+            "update",
+            "broaden",
+            "inquiry",
+            "innovative"
+          ]
+        },
+        {
+          "q": "The latest dryer has several new ___s.",
+          "a": "feature",
+          "options": [
+            "reliable",
+            "successful",
+            "innovative",
+            "feature"
+          ]
+        },
+        {
+          "q": "The new fashion designer draws her ___ from traditional attire.",
+          "a": "inspiration",
+          "options": [
+            "availability",
+            "envision",
+            "superior",
+            "inspiration"
+          ]
+        },
+        {
+          "q": "The containers are ___ strong to resist breakage.",
+          "a": "sufficiently",
+          "options": [
+            "indication",
+            "broaden",
+            "sufficiently",
+            "increasingly"
+          ]
+        },
+        {
+          "q": "The lawyers submitted the paperwork for a ___ application.",
+          "a": "patent",
+          "options": [
+            "patent",
+            "superior",
+            "accomplished",
+            "corrosion"
+          ]
+        },
+        {
+          "q": "Management ___s its latest product being sold in stores across the country.",
+          "a": "envision",
+          "options": [
+            "devise",
+            "inspiration",
+            "envision",
+            "innovative"
+          ]
+        },
+        {
+          "q": "A switch for adjusting brightness ___s from the back of the lamp.",
+          "a": "extend",
+          "options": [
+            "extend",
+            "manual",
+            "superior",
+            "successful"
+          ]
+        }
+      ]
+    }
+  ]
+}

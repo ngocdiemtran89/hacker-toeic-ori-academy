@@ -1,0 +1,1169 @@
+{
+  "id": "unit-01",
+  "day": 1,
+  "title": "Thoát cảnh thất nghiệp",
+  "topic": "Tuyển dụng",
+  "sourcePages": [
+    1,
+    16
+  ],
+  "words": [
+    {
+      "id": "inform",
+      "word": "inform",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ɪnˈfɔːm/",
+        "us": "/ɪnˈfɔːrm/"
+      },
+      "frequency": 3,
+      "meaningVi": "báo, báo tin",
+      "exampleEn": "Please inform the director that the meeting has been canceled.",
+      "exampleVi": "Vui lòng báo cho giám đốc biết là cuộc họp đã bị hủy.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Phân biệt inform và explain:",
+        "- inform + tân ngữ chỉ người + of sth/that-clause: báo cho ai biết về điều gì.",
+        "- explain + to + tân ngữ chỉ người: giải thích cho ai đó."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "resume",
+      "word": "résumé",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈrezjuːmeɪ/",
+        "us": "/ˈrezəmeɪ/"
+      },
+      "frequency": 2,
+      "meaningVi": "sơ yếu lý lịch",
+      "exampleEn": "Fax your résumé and cover letter to the above number.",
+      "exampleVi": "Hãy gửi sơ yếu lý lịch và đơn xin việc của bạn qua fax đến số bên trên.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "opening",
+      "word": "opening",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈəʊpənɪŋ/",
+        "us": "/ˈoʊpnɪŋ/"
+      },
+      "frequency": 2,
+      "meaningVi": "vị trí trống, sự mở cửa, lễ khai trương",
+      "exampleEn": "There are several job openings at the restaurant right now.",
+      "exampleVi": "Ngay bây giờ đang có một vài vị trí công việc còn trống ở nhà hàng.",
+      "derivatives": [],
+      "synonyms": [
+        "vacancy"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "have an opening: có vị trí công việc trống (danh từ đếm được, dùng an opening hoặc openings)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "applicant",
+      "word": "applicant",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈæplɪkənt/",
+        "us": "/ˈæplɪkənt/"
+      },
+      "frequency": 3,
+      "meaningVi": "ứng viên, người nộp đơn xin việc",
+      "exampleEn": "Applicants are required to submit a résumé.",
+      "exampleVi": "Các ứng viên được yêu cầu phải nộp sơ yếu lý lịch.",
+      "derivatives": [
+        {
+          "word": "apply",
+          "partOfSpeech": "v",
+          "meaningVi": "áp dụng, ứng tuyển"
+        },
+        {
+          "word": "application",
+          "partOfSpeech": "n",
+          "meaningVi": "đơn ứng tuyển, sự ứng dụng"
+        },
+        {
+          "word": "appliance",
+          "partOfSpeech": "n",
+          "meaningVi": "thiết bị, dụng cụ"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "complete/submit/receive + an application: hoàn thành/nộp/nhận đơn ứng tuyển.",
+        "Phân biệt applicant (người nộp đơn) và application (đơn xin việc, sự ứng dụng)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "requirement",
+      "word": "requirement",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/rɪˈkwaɪəmənt/",
+        "us": "/rɪˈkwaɪrmənt/"
+      },
+      "frequency": 1,
+      "meaningVi": "điều kiện cần thiết, yêu cầu",
+      "exampleEn": "A driver's license is a requirement of this job.",
+      "exampleVi": "Giấy phép lái xe là một điều kiện cần cho công việc này.",
+      "derivatives": [
+        {
+          "word": "require",
+          "partOfSpeech": "v",
+          "meaningVi": "yêu cầu"
+        }
+      ],
+      "synonyms": [
+        "prerequisite"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "requirement + of/for: yêu cầu/điều kiện cần cho."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "meet",
+      "word": "meet",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/miːt/",
+        "us": "/miːt/"
+      },
+      "frequency": 3,
+      "meaningVi": "thỏa mãn, đáp ứng (yêu cầu, điều kiện)",
+      "exampleEn": "Applicants must meet all the requirements for the job.",
+      "exampleVi": "Các ứng viên phải đáp ứng tất cả yêu cầu của công việc.",
+      "derivatives": [],
+      "synonyms": [
+        "satisfy",
+        "fulfill"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "meet one's needs: đáp ứng nhu cầu của ai đó",
+        "meet requirements: đáp ứng các yêu cầu/đòi hỏi",
+        "meet customer demand: đáp ứng yêu cầu của khách hàng",
+        "meet expectations: thỏa mãn mong đợi"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "qualified",
+      "word": "qualified",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ˈkwɒlɪfaɪd/",
+        "us": "/ˈkwɑːlɪfaɪd/"
+      },
+      "frequency": 3,
+      "meaningVi": "đủ khả năng, trình độ, điều kiện",
+      "exampleEn": "People with master's degrees are qualified for the research position.",
+      "exampleVi": "Những người có bằng thạc sĩ thì đủ điều kiện cho vị trí nghiên cứu này.",
+      "derivatives": [
+        {
+          "word": "qualify",
+          "partOfSpeech": "v",
+          "meaningVi": "đủ điều kiện, phù hợp"
+        },
+        {
+          "word": "qualification",
+          "partOfSpeech": "n",
+          "meaningVi": "phẩm chất, năng lực, bằng cấp"
+        }
+      ],
+      "synonyms": [
+        "certified"
+      ],
+      "antonyms": [
+        "ineligible"
+      ],
+      "toeicNotes": [
+        "be qualified for: đủ điều kiện/năng lực cho cái gì.",
+        "qualifications for: tiêu chuẩn/bằng cấp cho cái gì."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "candidate",
+      "word": "candidate",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈkændɪdət/",
+        "us": "/ˈkændɪdət/"
+      },
+      "frequency": 3,
+      "meaningVi": "ứng viên, thí sinh",
+      "exampleEn": "Five candidates will be selected for final interviews.",
+      "exampleVi": "Năm ứng viên sẽ được chọn vào vòng phỏng vấn cuối cùng.",
+      "derivatives": [],
+      "synonyms": [
+        "applicant"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "confidence",
+      "word": "confidence",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈkɒnfɪdəns/",
+        "us": "/ˈkɑːnfɪdəns/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự tự tin, sự tin tưởng, lòng tin",
+      "exampleEn": "We have confidence that she can handle the position.",
+      "exampleVi": "Chúng tôi có lòng tin rằng cô ấy có thể đảm đương được vị trí này.",
+      "derivatives": [
+        {
+          "word": "confident",
+          "partOfSpeech": "adj",
+          "meaningVi": "tự tin, tin tưởng"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "show/express confidence in: thể hiện sự tin tưởng vào...",
+        "in confidence: bí mật."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "highly",
+      "word": "highly",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/ˈhaɪli/",
+        "us": "/ˈhaɪli/"
+      },
+      "frequency": 1,
+      "meaningVi": "rất, hết sức",
+      "exampleEn": "Mr. Monroe's experience makes him highly qualified for the job.",
+      "exampleVi": "Kinh nghiệm của Monroe khiến ông ấy rất phù hợp với công việc này.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "highly + competent/recommended/qualified: rất có năng lực/được đề xuất/đủ điều kiện."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "professional-adj",
+      "word": "professional",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/prəˈfeʃənl/",
+        "us": "/prəˈfeʃənl/"
+      },
+      "frequency": 3,
+      "meaningVi": "chuyên nghiệp, lành nghề, có tính chuyên môn",
+      "exampleEn": "Jeff is known as a professional photographer.",
+      "exampleVi": "Jeff được biết đến như một nhiếp ảnh gia chuyên nghiệp.",
+      "derivatives": [
+        {
+          "word": "profession",
+          "partOfSpeech": "n",
+          "meaningVi": "nghề nghiệp"
+        },
+        {
+          "word": "professionally",
+          "partOfSpeech": "adv",
+          "meaningVi": "một cách chuyên nghiệp"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "professional-n",
+      "word": "professional",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/prəˈfeʃənl/",
+        "us": "/prəˈfeʃənl/"
+      },
+      "frequency": 3,
+      "meaningVi": "chuyên gia",
+      "exampleEn": "Merseyside Hospital is looking for a certified health professional.",
+      "exampleVi": "Bệnh viện Merseyside đang tìm kiếm một chuyên gia y tế có bằng cấp.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "interview-n",
+      "word": "interview",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈɪntəvjuː/",
+        "us": "/ˈɪntərvjuː/"
+      },
+      "frequency": 3,
+      "meaningVi": "cuộc phỏng vấn",
+      "exampleEn": "The interviews are being held in meeting room three.",
+      "exampleVi": "Các cuộc phỏng vấn đang được thực hiện tại phòng họp số ba.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "interview-v",
+      "word": "interview",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ˈɪntəvjuː/",
+        "us": "/ˈɪntərvjuː/"
+      },
+      "frequency": 3,
+      "meaningVi": "phỏng vấn",
+      "exampleEn": "The manager interviewed almost 100 applicants.",
+      "exampleVi": "Vị quản lý này đã phỏng vấn gần 100 ứng viên.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "hire",
+      "word": "hire",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ˈhaɪə(r)/",
+        "us": "/ˈhaɪər/"
+      },
+      "frequency": 3,
+      "meaningVi": "thuê mướn, tuyển dụng",
+      "exampleEn": "The company expects to hire several new employees next month.",
+      "exampleVi": "Công ty kỳ vọng sẽ tuyển được vài nhân viên mới vào tháng tới.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [
+        "lay off",
+        "dismiss",
+        "fire"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "training",
+      "word": "training",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈtreɪnɪŋ/",
+        "us": "/ˈtreɪnɪŋ/"
+      },
+      "frequency": 3,
+      "meaningVi": "sự đào tạo, huấn luyện",
+      "exampleEn": "This company offers on-the-job training for new staff.",
+      "exampleVi": "Công ty này cung cấp chương trình đào tạo tại chỗ cho nhân viên mới.",
+      "derivatives": [
+        {
+          "word": "train",
+          "partOfSpeech": "v",
+          "meaningVi": "đào tạo, huấn luyện"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "reference",
+      "word": "reference",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈrefrəns/",
+        "us": "/ˈrefrəns/"
+      },
+      "frequency": 3,
+      "meaningVi": "sự giới thiệu, tài liệu tham khảo",
+      "exampleEn": "Philip asked his previous employer to write a reference letter for him.",
+      "exampleVi": "Philip nhờ quản lý cũ của mình viết một lá thư giới thiệu cho anh ấy.",
+      "derivatives": [
+        {
+          "word": "refer",
+          "partOfSpeech": "v",
+          "meaningVi": "tham khảo"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "reference letter: thư giới thiệu",
+        "reference material: tài liệu tham khảo"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "position-n",
+      "word": "position",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/pəˈzɪʃn/",
+        "us": "/pəˈzɪʃn/"
+      },
+      "frequency": 2,
+      "meaningVi": "chức vụ, vị trí",
+      "exampleEn": "The advertised position provides health care and other benefits.",
+      "exampleVi": "Vị trí được quảng cáo đó chu cấp dịch vụ chăm sóc sức khỏe và các phúc lợi khác.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "accept a position: chấp nhận vị trí làm việc",
+        "apply for a position: ứng tuyển cho một vị trí"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "position-v",
+      "word": "position",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/pəˈzɪʃn/",
+        "us": "/pəˈzɪʃn/"
+      },
+      "frequency": 2,
+      "meaningVi": "định vị, đặt vào vị trí",
+      "exampleEn": "The secretary positioned the chairs around the table before the meeting began.",
+      "exampleVi": "Thư ký xếp ghế xung quanh bàn trước khi cuộc họp bắt đầu.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "achievement",
+      "word": "achievement",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ə'tʃi:vmənt/",
+        "us": "/ə'tʃi:vmənt/"
+      },
+      "frequency": 3,
+      "meaningVi": "thành tựu, thành tích, sự đạt được",
+      "exampleEn": "List all of your achievements from previous jobs on your résumé.",
+      "exampleVi": "Hãy liệt kê tất cả những thành tích của bạn trong công việc trước vào bản sơ yếu lý lịch.",
+      "derivatives": [
+        {
+          "word": "achieve",
+          "partOfSpeech": "v",
+          "meaningVi": "đạt được"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "impressed",
+      "word": "impressed",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ɪmˈprest/",
+        "us": "/ɪmˈprest/"
+      },
+      "frequency": 3,
+      "meaningVi": "ấn tượng, cảm phục",
+      "exampleEn": "The CEO was impressed by his assistant's organizing skills.",
+      "exampleVi": "Vị giám đốc điều hành đã bị ấn tượng bởi kỹ năng tổ chức của viên thư ký đó.",
+      "derivatives": [
+        {
+          "word": "impress",
+          "partOfSpeech": "v",
+          "meaningVi": "gây ấn tượng"
+        },
+        {
+          "word": "impressive",
+          "partOfSpeech": "adj",
+          "meaningVi": "đầy ấn tượng"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "be impressed by/with: bị ấn tượng bởi...",
+        "Phân biệt: impressed miêu tả cảm xúc con người, impressive miêu tả đặc điểm đối tượng."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "excellent",
+      "word": "excellent",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ˈeksələnt/",
+        "us": "/ˈeksələnt/"
+      },
+      "frequency": 3,
+      "meaningVi": "xuất sắc, vượt trội, ưu tú",
+      "exampleEn": "Because of her excellent managerial skills, Erin was hired for the job.",
+      "exampleVi": "Nhờ kỹ năng quản lý xuất sắc của mình, Erin đã được tuyển dụng làm công việc này.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "eligible",
+      "word": "eligible",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ˈelɪdʒəbl/",
+        "us": "/ˈelɪdʒəbl/"
+      },
+      "frequency": 2,
+      "meaningVi": "đủ tư cách, thích hợp",
+      "exampleEn": "The part-time workers are also eligible for paid holidays.",
+      "exampleVi": "Các nhân viên bán thời gian cũng đủ điều kiện để được nghỉ phép có trả lương.",
+      "derivatives": [
+        {
+          "word": "eligibility",
+          "partOfSpeech": "n",
+          "meaningVi": "sự đủ tư cách"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "ineligible"
+      ],
+      "toeicNotes": [
+        "be eligible for + noun: đủ điều kiện nhận cái gì.",
+        "be eligible to do sth: đủ điều kiện làm việc gì."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "identify",
+      "word": "identify",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/aɪˈdentɪfaɪ/",
+        "us": "/aɪˈdentɪfaɪ/"
+      },
+      "frequency": 2,
+      "meaningVi": "nhận diện, nhận ra",
+      "exampleEn": "Staff members wear uniforms so that they are easy for customers to identify.",
+      "exampleVi": "Các nhân viên mặc đồng phục để khách hàng dễ dàng nhận ra họ.",
+      "derivatives": [
+        {
+          "word": "identification",
+          "partOfSpeech": "n",
+          "meaningVi": "sự nhận dạng, chứng minh thư"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "associate",
+      "word": "associate",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/əˈsəʊʃieɪt/",
+        "us": "/əˈsoʊʃieɪt/"
+      },
+      "frequency": 2,
+      "meaningVi": "liên kết, kết giao",
+      "exampleEn": "Two of the applicants were associated with a competitor.",
+      "exampleVi": "Hai trong số các ứng viên có liên kết với một đối thủ.",
+      "derivatives": [
+        {
+          "word": "association",
+          "partOfSpeech": "n",
+          "meaningVi": "sự hợp tác, hiệp hội"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "be associated with: có liên kết/liên quan tới..."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "condition",
+      "word": "condition",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/kənˈdɪʃn/",
+        "us": "/kənˈdɪʃn/"
+      },
+      "frequency": 1,
+      "meaningVi": "điều kiện",
+      "exampleEn": "The conditions of employment are listed in the job.",
+      "exampleVi": "Những điều kiện của công việc được liệt kê trong thông báo tuyển dụng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "employment",
+      "word": "employment",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ɪmˈplɔɪmənt/",
+        "us": "/ɪmˈplɔɪmənt/"
+      },
+      "frequency": 2,
+      "meaningVi": "việc làm",
+      "exampleEn": "The company announced employment opportunities in the personnel department.",
+      "exampleVi": "Công ty đã thông báo những cơ hội việc làm ở phòng nhân sự.",
+      "derivatives": [
+        {
+          "word": "employ",
+          "partOfSpeech": "v",
+          "meaningVi": "thuê, tuyển dụng"
+        },
+        {
+          "word": "employee",
+          "partOfSpeech": "n",
+          "meaningVi": "nhân viên"
+        },
+        {
+          "word": "employer",
+          "partOfSpeech": "n",
+          "meaningVi": "người sử dụng lao động"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "unemployment"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "lack-v",
+      "word": "lack",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/læk/",
+        "us": "/læk/"
+      },
+      "frequency": 2,
+      "meaningVi": "thiếu, không có",
+      "exampleEn": "Carl lacked the ability to get along well with his coworkers.",
+      "exampleVi": "Carl không có khả năng hòa nhập với các đồng nghiệp của mình.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "lack-n",
+      "word": "lack",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/læk/",
+        "us": "/læk/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự thiếu hụt",
+      "exampleEn": "Due to a lack of funds, the project has been temporarily halted.",
+      "exampleVi": "Do thiếu kinh phí, dự án đã tạm thời bị dừng lại.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "managerial",
+      "word": "managerial",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ˌmænəˈdʒɪəriəl/",
+        "us": "/ˌmænəˈdʒɪriəl/"
+      },
+      "frequency": 2,
+      "meaningVi": "thuộc về quản lý",
+      "exampleEn": "Mike is seeking a managerial position in the accounting field.",
+      "exampleVi": "Mike đang tìm kiếm một vị trí quản lý trong ngành kế toán.",
+      "derivatives": [
+        {
+          "word": "manage",
+          "partOfSpeech": "v",
+          "meaningVi": "quản lý, điều hành"
+        }
+      ],
+      "synonyms": [
+        "supervisory"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "managerial staff/experience: nhân viên quản lý / kinh nghiệm quản lý."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "diligent",
+      "word": "diligent",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ˈdɪlɪdʒənt/",
+        "us": "/ˈdɪlɪdʒənt/"
+      },
+      "frequency": 2,
+      "meaningVi": "siêng năng, cần cù",
+      "exampleEn": "Carmen is one of the most diligent workers in the company.",
+      "exampleVi": "Carmen là một trong những nhân viên siêng năng nhất ở công ty này.",
+      "derivatives": [
+        {
+          "word": "diligence",
+          "partOfSpeech": "n",
+          "meaningVi": "sự cần cù, siêng năng"
+        },
+        {
+          "word": "diligently",
+          "partOfSpeech": "adv",
+          "meaningVi": "một cách chăm chỉ"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "familiar",
+      "word": "familiar",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/fəˈmɪliə(r)/",
+        "us": "/fəˈmɪliər/"
+      },
+      "frequency": 2,
+      "meaningVi": "quen thuộc, thuần thục",
+      "exampleEn": "Staff must review the handbook to become familiar with it.",
+      "exampleVi": "Nhân viên phải xem lại sổ tay hướng dẫn để nắm rõ nó.",
+      "derivatives": [
+        {
+          "word": "familiarize",
+          "partOfSpeech": "v",
+          "meaningVi": "làm cho quen, phổ biến"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "unfamiliar"
+      ],
+      "toeicNotes": [
+        "be familiar with: quen thuộc với, nắm rõ..."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "proficiency",
+      "word": "proficiency",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/prəˈfɪʃnsi/",
+        "us": "/prəˈfɪʃnsi/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự thông thạo, sự thành thạo",
+      "exampleEn": "Overseas workers need proof of proficiency in a second language.",
+      "exampleVi": "Người lao động ở nước ngoài cần phải chứng minh sự thông thạo một ngôn ngữ thứ hai.",
+      "derivatives": [
+        {
+          "word": "proficient",
+          "partOfSpeech": "adj",
+          "meaningVi": "thông thạo, thành thạo"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "prospective",
+      "word": "prospective",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/prəˈspektɪv/",
+        "us": "/prəˈspektɪv/"
+      },
+      "frequency": 2,
+      "meaningVi": "có tiềm năng, có triển vọng",
+      "exampleEn": "Prospective employees were asked to come in for a second interview.",
+      "exampleVi": "Các nhân viên tiềm năng được yêu cầu đến phỏng vấn vòng hai.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "appeal",
+      "word": "appeal",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/əˈpiːl/",
+        "us": "/əˈpiːl/"
+      },
+      "frequency": 2,
+      "meaningVi": "lôi cuốn, hấp dẫn",
+      "exampleEn": "The 10 percent pay increase appealed to the staff.",
+      "exampleVi": "Mức tăng lương 10% đã hấp dẫn các nhân viên.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "appeal to: lôi cuốn, hấp dẫn ai (nội động từ, luôn đi với to)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "specialize",
+      "word": "specialize",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ˈspeʃəlaɪz/",
+        "us": "/ˈspeʃəlaɪz/"
+      },
+      "frequency": 2,
+      "meaningVi": "chuyên về, học chuyên về",
+      "exampleEn": "Most of the programmers specialized in software design in college.",
+      "exampleVi": "Hầu hết các lập trình viên đều học chuyên về thiết kế phần mềm ở trường đại học.",
+      "derivatives": [
+        {
+          "word": "specialty",
+          "partOfSpeech": "n",
+          "meaningVi": "chuyên môn, đặc sản"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "apprehensive",
+      "word": "apprehensive",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/,æpri'hensiv/",
+        "us": "/,æpri'hensiv/"
+      },
+      "frequency": 2,
+      "meaningVi": "lo lắng, e sợ",
+      "exampleEn": "Many people feel apprehensive before an important job interview.",
+      "exampleVi": "Nhiều người cảm thấy lo lắng trước một cuộc phỏng vấn tuyển dụng quan trọng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "consultant",
+      "word": "consultant",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/kən'sʌltənt/",
+        "us": "/kən'sʌltənt/"
+      },
+      "frequency": 2,
+      "meaningVi": "người tư vấn, cố vấn",
+      "exampleEn": "Emma currently works in London as an interior design consultant.",
+      "exampleVi": "Emma hiện đang làm việc ở London trong vai trò một người tư vấn thiết kế nội thất.",
+      "derivatives": [
+        {
+          "word": "consult",
+          "partOfSpeech": "v",
+          "meaningVi": "tư vấn, hội ý"
+        },
+        {
+          "word": "consultation",
+          "partOfSpeech": "n",
+          "meaningVi": "sự hội ý, cuộc hội luận"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "consult with + người: trao đổi/hội ý với ai.",
+        "consult + tài liệu/chuyên gia (không đi kèm giới từ): tra cứu tài liệu/hỏi ý kiến chuyên gia."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "entitle",
+      "word": "entitle",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ɪnˈtaɪtl/",
+        "us": "/ɪnˈtaɪtl/"
+      },
+      "frequency": 1,
+      "meaningVi": "cho quyền (làm gì)",
+      "exampleEn": "Executives are entitled to additional benefits.",
+      "exampleVi": "Các ủy viên ban quản trị được hưởng những quyền lợi bổ sung.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "be entitled to + noun: được hưởng cái gì.",
+        "be entitled to do sth: được quyền làm việc gì."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "degree",
+      "word": "degree",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/dɪˈɡriː/",
+        "us": "/dɪˈɡriː/"
+      },
+      "frequency": 1,
+      "meaningVi": "bằng cấp, học vị, mức độ",
+      "exampleEn": "A bachelor's degree in engineering is a requirement for this position.",
+      "exampleVi": "Bằng cử nhân về kỹ thuật là một điều kiện cần thiết cho vị trí này.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "payroll",
+      "word": "payroll",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈpeɪrəʊl/",
+        "us": "/ˈpeɪroʊl/"
+      },
+      "frequency": 1,
+      "meaningVi": "bảng lương, tổng quỹ lương",
+      "exampleEn": "Fifteen new employees were added to the payroll last month.",
+      "exampleVi": "Mười lăm nhân viên mới đã được bổ sung vào bảng lương tháng trước.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "on the payroll: có tên trong bảng lương (được tuyển dụng)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "recruit",
+      "word": "recruit",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ri'kru:t/",
+        "us": "/ri'kru:t/"
+      },
+      "frequency": 1,
+      "meaningVi": "tuyển dụng",
+      "exampleEn": "The firm recruits promising graduates on a yearly basis.",
+      "exampleVi": "Hằng năm, công ty tuyển dụng những sinh viên mới tốt nghiệp.",
+      "derivatives": [
+        {
+          "word": "recruitment",
+          "partOfSpeech": "n",
+          "meaningVi": "sự tuyển dụng"
+        },
+        {
+          "word": "recruiter",
+          "partOfSpeech": "n",
+          "meaningVi": "người tuyển dụng"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    }
+  ],
+  "story": {
+    "title": "Giấc Mơ Tiếp Viên Hàng Không Của ORI",
+    "content": "Từ nhỏ, cô bé ORI đã nuôi dưỡng ước mơ trở thành một tiếp viên hàng không. Ngay khi nghe tin hãng hàng không quốc gia **inform** (thông báo) tuyển dụng, ORI đã hào hứng chuẩn bị. Cô dành cả tối để viết một bản **résumé** (sơ yếu lý lịch) thật ấn tượng. Hãng đang có một **opening** (vị trí trống) lớn cho đoàn bay quốc tế. Là một **applicant** (ứng viên) trẻ tuổi, ORI biết mình cần chuẩn bị kỹ càng để đáp ứng mọi **requirement** (yêu cầu) khắt khe của hội đồng. Cô tự nhủ bản thân phải **meet** (đáp ứng) được các tiêu chuẩn về ngoại ngữ và kỹ năng mềm để chứng minh mình là người **qualified** (đủ năng lực). ORI tin rằng cô là một **candidate** (ứng viên) sáng giá. Với sự tự tin (**confidence**) và tác phong làm việc **professional** (chuyên nghiệp), ORI bước vào phòng phỏng vấn với nụ cười rạng rỡ.",
+    "words": [
+      {
+        "word": "inform",
+        "meaningVi": "báo"
+      },
+      {
+        "word": "résumé",
+        "meaningVi": "sơ yếu lý lịch"
+      },
+      {
+        "word": "opening",
+        "meaningVi": "vị trí trống"
+      },
+      {
+        "word": "applicant",
+        "meaningVi": "ứng viên"
+      },
+      {
+        "word": "requirement",
+        "meaningVi": "điều kiện cần thiết"
+      },
+      {
+        "word": "meet",
+        "meaningVi": "thỏa mãn"
+      },
+      {
+        "word": "qualified",
+        "meaningVi": "đủ khả năng"
+      },
+      {
+        "word": "candidate",
+        "meaningVi": "ứng viên"
+      },
+      {
+        "word": "confidence",
+        "meaningVi": "sự tự tin"
+      },
+      {
+        "word": "professional",
+        "meaningVi": "chuyên nghiệp"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
+      "questions": [
+        {
+          "q": "Please ___ the director that the meeting has been canceled.",
+          "a": "inform",
+          "options": [
+            "meet",
+            "inform",
+            "qualified",
+            "prospective"
+          ]
+        },
+        {
+          "q": "Fax your ___ and cover letter to the above number.",
+          "a": "résumé",
+          "options": [
+            "consultant",
+            "reference",
+            "résumé",
+            "interview"
+          ]
+        },
+        {
+          "q": "There are several job ___s at the restaurant right now.",
+          "a": "opening",
+          "options": [
+            "excellent",
+            "reference",
+            "position",
+            "opening"
+          ]
+        },
+        {
+          "q": "___s are required to submit a résumé.",
+          "a": "applicant",
+          "options": [
+            "applicant",
+            "professional",
+            "training",
+            "hire"
+          ]
+        },
+        {
+          "q": "A driver's license is a ___ of this job.",
+          "a": "requirement",
+          "options": [
+            "excellent",
+            "specialize",
+            "requirement",
+            "inform"
+          ]
+        },
+        {
+          "q": "Applicants must ___ all the requirements for the job.",
+          "a": "meet",
+          "options": [
+            "qualified",
+            "diligent",
+            "meet",
+            "position"
+          ]
+        },
+        {
+          "q": "People with master's degrees are ___ for the research position.",
+          "a": "qualified",
+          "options": [
+            "qualified",
+            "payroll",
+            "recruit",
+            "consultant"
+          ]
+        },
+        {
+          "q": "Five ___s will be selected for final interviews.",
+          "a": "candidate",
+          "options": [
+            "degree",
+            "candidate",
+            "employment",
+            "prospective"
+          ]
+        },
+        {
+          "q": "We have ___ that she can handle the position.",
+          "a": "confidence",
+          "options": [
+            "degree",
+            "consultant",
+            "confidence",
+            "inform"
+          ]
+        },
+        {
+          "q": "Mr. Monroe's experience makes him ___ qualified for the job.",
+          "a": "highly",
+          "options": [
+            "impressed",
+            "position",
+            "highly",
+            "proficiency"
+          ]
+        }
+      ]
+    }
+  ]
+}

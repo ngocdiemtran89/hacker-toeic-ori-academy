@@ -1,0 +1,814 @@
+{
+  "id": "unit-17",
+  "day": 17,
+  "title": "Giao hàng nhanh",
+  "topic": "Thương mại - Vận chuyển",
+  "sourcePages": [
+    257,
+    272
+  ],
+  "words": [
+    {
+      "id": "fragile",
+      "word": "fragile",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/frádzail/",
+        "us": "/fradzal/"
+      },
+      "frequency": 1,
+      "meaningVi": "dễ vỡ, mỏng",
+      "exampleEn": "manh Fragile items are wrapped in protective packaging.",
+      "exampleVi": "Những đồ dễ vỡ được gói trong bọc bảo vệ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "perishable",
+      "word": "perishable",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/périjabl/",
+        "us": "/périjabl/"
+      },
+      "frequency": 2,
+      "meaningVi": "dễ hỏng, dễ thối",
+      "exampleEn": "Perishable goods are shipped in insulated containers.",
+      "exampleVi": "Hàng hóa dễ hỏng được vận chuyển trong các thùng cách nhiệt.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Cu perishable + goods/items hàng hóa/đồ đạc dễ hư hỏng gắp Từ perishable thường đi với các danh từ chỉ sản phẩm như goods, item."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "deliver",
+      "word": "deliver",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/dilívar/",
+        "us": "/dilívar/"
+      },
+      "frequency": 3,
+      "meaningVi": "giao, phát; phát biểu, bày tỏ",
+      "exampleEn": "All packages are delivered by the next morning.",
+      "exampleVi": "Tất cả các kiện hàng sẽ được giao vào sáng mai.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The president delivered an address on the international financial crisis.",
+        "Tổng thống đã phát biểu về cuộc khủng hoảng tài chính toàn cầu."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "ensure",
+      "word": "ensure",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 3,
+      "meaningVi": "bảo đảm, quả quyết",
+      "exampleEn": "The receptionist called to ensure the message was delivered.",
+      "exampleVi": "Nhân viên lễ tân gọi điện để đảm bảo rằng tin nhắn đã được chuyển.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "courier",
+      "word": "courier",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/kúriar/",
+        "us": "/kúriar/"
+      },
+      "frequency": 2,
+      "meaningVi": "người đưa thư, công ty vận chuyển",
+      "exampleEn": "The customer will send the package by courier.",
+      "exampleVi": "Vị khách sẽ gửi kiện hàng đó qua công ty vận chuyển.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "• = từ vựng thường gặp trong Part 5 - 6 O = từ vựng thường gặp trong Part 7 Thương mại - Vận chuyển | 283"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "carton",
+      "word": "carton",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/káton/",
+        "us": "/kártn/"
+      },
+      "frequency": 1,
+      "meaningVi": "giấy bìa, hộp/thùng bìa cứng",
+      "exampleEn": "The carton of goods was shipped by sea.",
+      "exampleVi": "Các thùng hàng đó đã được vận chuyển bằng đường biển.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "address",
+      "word": "address",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/adrés/",
+        "us": "/ádres/"
+      },
+      "frequency": 3,
+      "meaningVi": "chỉ",
+      "exampleEn": "The address is stored in our database.",
+      "exampleVi": "Địa chỉ được lưu trong cơ sở dữ liệu của chúng tôi.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "• xử lý, giải quyết A solution was found to address the clients' needs.",
+        "Một giải pháp được tìm ra để giải quyết nhu cầu của khách hàng."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "shipment",
+      "word": "shipment",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/sípmant/",
+        "us": "/sípmant/"
+      },
+      "frequency": 3,
+      "meaningVi": "việc gửi hàng, việc vận chuyển; lô hàng",
+      "exampleEn": "Freightline specializes in the shipment of food products.",
+      "exampleVi": "Freightline chuyên về vận chuyển các sản phẩm thực phẩm.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The shipment was sent to the wrong port.",
+        "Lô hàng đó đã không được gửi tới đúng bến cảng."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "particularly",
+      "word": "particularly",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/patíkjulali/",
+        "us": "/partíkjularli/"
+      },
+      "frequency": 3,
+      "meaningVi": "đặc biệt, cá biệt, đặc biệt là",
+      "exampleEn": "The new trade agreement will hurt local business, particularly farmers.",
+      "exampleVi": "Thỏa thuận thương mại mới sẽ gây tổn hại đến hoạt động buôn bán tại địa phương, đặc biệt là với người nông dân.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Sai Ii TOEIC dano thúc mot (Nga) Cần lưu ý phân biệt rõ từ loại particularly (adv.",
+        "đặc biệt là) và particular (adj.",
+        "đặc biệt)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "adequately",
+      "word": "adequately",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/adikwatli/",
+        "us": "/adikwatli/"
+      },
+      "frequency": 3,
+      "meaningVi": "tương xứng, thích đáng",
+      "exampleEn": "The workers ensure that glassware is adequately wrapped.",
+      "exampleVi": "Các công nhân cam đoan rằng những sản phẩm thủy tinh đó được gói bọc phù hợp.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "TOEIC dang thừc mö: \" 1 appropriately lant.",
+        "inadequately"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "article",
+      "word": "article",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ártikl/",
+        "us": "/ártikl/"
+      },
+      "frequency": 3,
+      "meaningVi": "vật phẩm, đồ; bài báo, điều khoản",
+      "exampleEn": "Several articles of clothing are missing from the shipment.",
+      "exampleVi": "Một vài món quần áo đã bị mất trong quá trình vận chuyển.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "There was an article about tariffs in World Business Magazine.",
+        "Có một bài viết về thuế xuất nhập khẩu trên tạp chí World Business."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "efficient",
+      "word": "efficient",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ifífant/",
+        "us": "/ifífant/"
+      },
+      "frequency": 3,
+      "meaningVi": "hiệu quả, có năng lực",
+      "exampleEn": "Seal-wrap is an efficient means of packaging.",
+      "exampleVi": "Màng bọc là một phương tiện đóng gói hiệu quả.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "a tm TOEIC dang thut mo L quân ý hiệu qua efficient + processing/administration việc xử lý/ efficient thường đi với các danh từ liên quan đến quản lý, vận hành như processing, administration.",
+        "Cần lưu ý phân biệt rõ từ loại efficient (adj, có hiệu quả) và efficiently (adv.",
+        "một cách hiệu quả)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "enclose",
+      "word": "enclose",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 3,
+      "meaningVi": "gồm, gửi kèm theo; vây quanh",
+      "exampleEn": "Please find a copy of the invoice enclosed Vui",
+      "exampleVi": "lòng tìm bản sao hóa đơn được gửi kèm.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The café is beside a courtyard enclosed by art shops.",
+        "Quán cà phê nằm cạnh mảnh sân nhỏ được bao quanh bởi các cửa hàng tranh.",
+        "• = từ vựng thường gặp trong Pari 5 - 6 O = từ vựng thường gặp trong Part 7 Thương mại - Vận chuyển | 285"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "careful",
+      "word": "careful",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/kéarfal/",
+        "us": "/kéarfal/"
+      },
+      "frequency": 3,
+      "meaningVi": "cẩn thận, kỹ lưỡng, chu đáo",
+      "exampleEn": "Dock workers were extra careful with the crates containing sculptures.",
+      "exampleVi": "Nhân viên ở bến tàu cẩn thận hơn với những chiếc thùng dựng các tác phẩm diêu khắc.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "phí nhặt lên, đến lấy; đón Packages can be picked up from the reception desk.",
+        "Có thể đến lấy các gói hàng ở quầy lẽ tân.",
+        "Joan drove to school to pick up her daughter.",
+        "Joan đã lái xe đến trường để đón con gái."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "carry",
+      "word": "carry",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "mang, vác, đem theo; có",
+      "exampleEn": "All delivery drivers are required to carry at least one piece of identification.",
+      "exampleVi": "Mọi tài xế giao hàng đều buộc phải mang theo ít nhất một loại giấy tờ tùy thân.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The store carries shipping containers in six different sizes.",
+        "Cửa hàng này có bán các thùng giao hàng với sáu kích cỡ khác nhau."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "package",
+      "word": "package",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/pakidz/",
+        "us": "/pakidz/"
+      },
+      "frequency": 2,
+      "meaningVi": "đính kèm, gắn vào",
+      "exampleEn": "Carefully attach the address label to the package.",
+      "exampleVi": "Hãy dán thật cẩn thận nhãn dán địa chỉ lên gói hàng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "(v) làm vừa lòng (adj) vui lòng, mãn nguyện Cur 1.",
+        "attach A to B đính kèm/dán A vào B attach thường đi kèm với giới từ to.",
+        "2.",
+        "attached + schedule/document/file thời gian biểu/tài liệu/hồ sơ được đính kèm Tính từ altached thường đi với các danh từ liên quan đến lịch trình hoặc văn bản như schedule, document, file."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "formerly",
+      "word": "formerly",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/fórmali/",
+        "us": "/fórmarli/"
+      },
+      "frequency": 2,
+      "meaningVi": "trước đây Mr.",
+      "exampleEn": "Lee was formerly in charge of the entire shipping department.",
+      "exampleVi": "Anh Lee trước đây từng phụ trách toàn bộ phòng vận tải.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "gói hàng, kiện hàng Packages are delivered daily at 4 P.M.",
+        "Các kiện hàng được giao hằng ngày lúc 4 giờ chiều."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "react",
+      "word": "react",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/riákt/",
+        "us": "/riákt/"
+      },
+      "frequency": 2,
+      "meaningVi": "phản ứng, tác động trở lại",
+      "exampleEn": "Local businesspeople reacted negatively to news of stricter import regulations.",
+      "exampleVi": "Các doanh nhân địa phương phản ứng tiêu cực với thông tin về việc luật nhập khẩu bị siết chặt hơn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "content",
+      "word": "content",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/kóntent/",
+        "us": "/kántent/"
+      },
+      "frequency": 1,
+      "meaningVi": "nội dung, đồ đựng bên trong",
+      "exampleEn": "Please make sure that the contents of your package are not damaged.",
+      "exampleVi": "ui lòng kiểm tra chắc chắn rằng đồ bên trong kiện hàng củ bạn không bị hư hỏng 16 Hackers TOEIC Vocabulary",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "convenience",
+      "word": "convenience",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/kanvíniens/",
+        "us": "/kanvíniens/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự tiện lợi/thuận tiện",
+      "exampleEn": "For your convenience, a tracking number is provided.",
+      "exampleVi": "Để thuận tiện, bạn sẽ được cung cấp một mã theo dõi.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Please reply at your earliest convenience.",
+        "Vui lòng hồi đáp ngay khi bạn có thể.",
+        "Bai tm TOBIC dang thức mới I for your convenience để thuận tiện cho bạn sip at your earliest convenience sớm nhất khi bạn có thể Cụm at your earliest convenience thường được dùng trong thư từ với mong muốn đối phương sẽ sớm hồi đáp."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "acknowledge",
+      "word": "acknowledge",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/aknólidz/",
+        "us": "/aknálidz/"
+      },
+      "frequency": 2,
+      "meaningVi": "nhận, thừa nhận; báo xác nhận, tỏ lòng biết ơn",
+      "exampleEn": "The government acknowledged the need for reduced trade tariffs.",
+      "exampleVi": "Chính phủ ghi nhận nhu cầu đối với việc giảm thuế xuất nhập khẩu.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "I am writing to acknowledge receipt of your letter of November 23.",
+        "i viết thư này để báo rằng tôi đã nhận được lá thu của k ày 23 tháng Mười m"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "caution",
+      "word": "caution",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "sự cẩn trọng, lời cảnh cáo",
+      "exampleEn": "Please use caution when unpacking your order.",
+      "exampleVi": "Xin hãy cẩn trọng khi mở gói hàng của bạn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Barth TOE/C dang thüt möt Cum with caution cẩn thận Tin Hãy ghi nhớ cụm từ thường gặp với caution.",
+        "m thư từ, quan hệ thư từ Please send all correspondence to this address.",
+        "Vui lòng gửi tất cả thư từ tới địa chỉ này."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "separate",
+      "word": "separate",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/séparat/",
+        "us": "/séparèit/"
+      },
+      "frequency": 2,
+      "meaningVi": "rời ra, chia tay; phân loại",
+      "exampleEn": "Liquids must be separated from other materials being shipped.",
+      "exampleVi": "Chất lỏng cần được tách riêng khỏi các chất liệu khác trong quá trình vận chuyển.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The shipping department separates international orders from domestic ones.",
+        "Phòng vận tải phân loại các đơn hàng quốc tế với các đơn hàng trong nước."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "separate",
+      "word": "separate",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/séparat/",
+        "us": "/séparèit/"
+      },
+      "frequency": 2,
+      "meaningVi": "riêng, tách rời",
+      "exampleEn": "Each product will be wrapped in a separate box.",
+      "exampleVi": "Từng sản phẩm sẽ được gói trong một hộp riêng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "remarkable",
+      "word": "remarkable",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/rimárrkabl/",
+        "us": "/rimárrkabl/"
+      },
+      "frequency": 2,
+      "meaningVi": "đáng chú ý, xuất sắc, đặc biệt Epic",
+      "exampleEn": "Corporation underwent a remarkable transformation in its export strategy.",
+      "exampleVi": "Tập đoàn Epic đã trải qua một sự thay đổi đáng kể trong chiến lược xuất khẩu.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "handle",
+      "word": "handle",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/handi/",
+        "us": "/handi/"
+      },
+      "frequency": 2,
+      "meaningVi": "điều khiển, xử lý",
+      "exampleEn": "The hazardous substances must be handled with care.",
+      "exampleVi": "Các chất độc hại cần phải được xử lý thận trọng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "về việc xử lý một vật nào đó, thay bằng manage khi nói về việc quản lý một doanh nghiệp hay dự án nào đó.",
+        "13 14 • = từ vưng thường gặp trong Part 5 - 6 O = từ vựng thường gặp trong Part 7 Thương mại - Vận chuyển | 289 e10n TOEIC Oang dut mo Tuk rimákabll"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "storage",
+      "word": "storage",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/stórridz/",
+        "us": "/stórridz/"
+      },
+      "frequency": 2,
+      "meaningVi": "kho, sự tích trữ",
+      "exampleEn": "Unclaimed packages will be placed in storage for six months.",
+      "exampleVi": "Những kiện hàng không có người nhận sẽ được cất vào kho trong 6 tháng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "M gỡ, tháo, tách ra Please detach and send in the completed form.",
+        "Vui lòng tách ra và gửi dưới dạng bản hoàn thiện.",
+        "separate."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "envelope",
+      "word": "envelope",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/énvaloup/",
+        "us": "/énvaloup/"
+      },
+      "frequency": 2,
+      "meaningVi": "",
+      "exampleEn": "envelope.",
+      "exampleVi": "Cần phải đóng dấu lên địa chỉ phúc đáp trên mỗi phong bì.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "exclusion",
+      "word": "exclusion",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "sự không tính vào, sự loại trừ",
+      "exampleEn": "The exclusion of shipping fees is offered for orders exceeding $500.",
+      "exampleVi": "Những đơn hàng lớn hơn 500 đô-la sẽ được miễn phí vận chuyển.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "recipient",
+      "word": "recipient",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/risípiant/",
+        "us": "/risípiant/"
+      },
+      "frequency": 1,
+      "meaningVi": "người nhận",
+      "exampleEn": "ease enter the recipient's shipping address belo li",
+      "exampleVi": "lòng nhập địa chỉ người nhận vào bên dư",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "affix",
+      "word": "affix",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "đóng (dấu), dán (tem), ký (tên)",
+      "exampleEn": "Please affix a 50-cent stamp for postage to New York.",
+      "exampleVi": "Vui lòng dán tem 50 xu cho kiện hàng gửi tới New York.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "incorrect",
+      "word": "incorrect",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/inkarékt/",
+        "us": "/inkarékt/"
+      },
+      "frequency": 1,
+      "meaningVi": "đúng,",
+      "exampleEn": "sai Incorrect mailing information will slow the order process.",
+      "exampleVi": "Thông tin gửi thư không đúng sẽ làm chậm quy trình đặt hàng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Ty.",
+        "incorrect có thể được thay bằng inaccurate khi được dùng để chỉ việc sai sót, không chính xác về thông tin hay khi kê khai, tính toán.",
+        "Mackers TOEIC Vocabulary Ldyt là vuốt hiân rất con"
+      ],
+      "needsReview": false
+    }
+  ],
+  "story": {
+    "title": "ORI Điều Phối Vận Chuyển Hàng Hóa",
+    "content": "Hôm nay, ORI được tham quan bộ phận vận chuyển hàng hóa hàng không. Cô học cách **shipment** (vận chuyển) các kiện hàng quốc tế lớn. Các khoang hàng (**carton**) trên máy bay chứa đầy thực phẩm và linh kiện y tế. Chi phí cước vận chuyển (**freight**) được tính toán dựa trên khối lượng. ORI theo dõi quá trình **deliver** (giao hàng) từ lúc xe tải **transport** (vận chuyển) hàng đến sân bay. Hàng hóa được phân loại và xếp ngăn nắp trong nhà kho (**warehouse**) rộng lớn. Mỗi hộp đóng gói (**package**) đều được dán mã để thuận tiện cho việc **tracking** (theo dõi) trực tuyến. Sự chuyên nghiệp trong quy trình **logistics** (hậu cần) giúp giảm thiểu tối đa tình trạng **delay** (trì hoãn) giao nhận hàng hóa.",
+    "words": [
+      {
+        "word": "shipment",
+        "meaningVi": "việc gửi hàng"
+      },
+      {
+        "word": "carton",
+        "meaningVi": "giấy bìa"
+      },
+      {
+        "word": "freight",
+        "meaningVi": "cước vận chuyển"
+      },
+      {
+        "word": "deliver",
+        "meaningVi": "giao"
+      },
+      {
+        "word": "transport",
+        "meaningVi": "vận chuyển"
+      },
+      {
+        "word": "warehouse",
+        "meaningVi": "nhà kho"
+      },
+      {
+        "word": "package",
+        "meaningVi": "đính kèm"
+      },
+      {
+        "word": "tracking",
+        "meaningVi": "theo dõi"
+      },
+      {
+        "word": "logistics",
+        "meaningVi": "hậu cần"
+      },
+      {
+        "word": "delay",
+        "meaningVi": "trì hoãn"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
+      "questions": [
+        {
+          "q": "manh ___ items are wrapped in protective packaging.",
+          "a": "fragile",
+          "options": [
+            "acknowledge",
+            "deliver",
+            "content",
+            "fragile"
+          ]
+        },
+        {
+          "q": "___ goods are shipped in insulated containers.",
+          "a": "perishable",
+          "options": [
+            "perishable",
+            "courier",
+            "exclusion",
+            "address"
+          ]
+        },
+        {
+          "q": "All packages are ___ed by the next morning.",
+          "a": "deliver",
+          "options": [
+            "affix",
+            "deliver",
+            "efficient",
+            "careful"
+          ]
+        },
+        {
+          "q": "The receptionist called to ___ the message was delivered.",
+          "a": "ensure",
+          "options": [
+            "ensure",
+            "particularly",
+            "remarkable",
+            "fragile"
+          ]
+        },
+        {
+          "q": "The customer will send the package by ___.",
+          "a": "courier",
+          "options": [
+            "carry",
+            "courier",
+            "caution",
+            "separate"
+          ]
+        },
+        {
+          "q": "The ___ of goods was shipped by sea.",
+          "a": "carton",
+          "options": [
+            "carton",
+            "particularly",
+            "recipient",
+            "article"
+          ]
+        },
+        {
+          "q": "The ___ is stored in our database.",
+          "a": "address",
+          "options": [
+            "separate",
+            "address",
+            "deliver",
+            "content"
+          ]
+        },
+        {
+          "q": "Freightline specializes in the ___ of food products.",
+          "a": "shipment",
+          "options": [
+            "shipment",
+            "carry",
+            "enclose",
+            "separate"
+          ]
+        },
+        {
+          "q": "The new trade agreement will hurt local business, ___ farmers.",
+          "a": "particularly",
+          "options": [
+            "article",
+            "convenience",
+            "particularly",
+            "acknowledge"
+          ]
+        },
+        {
+          "q": "The workers ensure that glassware is ___ wrapped.",
+          "a": "adequately",
+          "options": [
+            "adequately",
+            "storage",
+            "recipient",
+            "remarkable"
+          ]
+        }
+      ]
+    }
+  ]
+}

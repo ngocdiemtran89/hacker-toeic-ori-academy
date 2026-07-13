@@ -1,0 +1,889 @@
+{
+  "id": "unit-03",
+  "day": 3,
+  "title": "Cao thủ chốn văn phòng",
+  "topic": "Công việc văn phòng (1)",
+  "sourcePages": [
+    33,
+    48
+  ],
+  "words": [
+    {
+      "id": "accustomed",
+      "word": "accustomed",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/akástamd/",
+        "us": "/akástamd/"
+      },
+      "frequency": 1,
+      "meaningVi": "với, thành thói quen",
+      "exampleEn": "All our employees are accustomed to using the new design software.",
+      "exampleVi": "Tất cả nhân viên của chúng tôi đều đã quen với việc sử dụng phần mềm thiết kế mới.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Sa"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "accustomed",
+      "word": "accustomed",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/akástamd/",
+        "us": "/akástamd/"
+      },
+      "frequency": 1,
+      "meaningVi": "",
+      "exampleEn": "mo: ci be accustomed to -ing quen",
+      "exampleVi": "với việc gì ăn accustomed thường đi cùng giới từ to, sau to không phải là động từ nguyên thể mà là dạng danh động từ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Hãy chú ý điều này."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "corporation",
+      "word": "corporation",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/köırparéifan/",
+        "us": "/köırparéifan/"
+      },
+      "frequency": 1,
+      "meaningVi": "ty, tập đoàn Delroy",
+      "exampleEn": "Lee heads a multinational telecommunications corporation based in Virginia.",
+      "exampleVi": "Delroy Lee đứng đầu một tập đoàn viễn thông đa quốc gia có trụ sở tại Virginia.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Barl TORIC dano Ihüt moi ma Phân biệt corporation (n.",
+        "tập đoàn) và corporate (adj thuộc về tập đoàn).",
+        "Lưu ý không sử dụng tính từ corporate thay cho danh từ corporation."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "demanding",
+      "word": "demanding",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/dimændin/",
+        "us": "/dimádin/"
+      },
+      "frequency": 2,
+      "meaningVi": "đòi hỏi khắt khe Although Ms.",
+      "exampleEn": "Jenkins is a demanding supervisor, she has a reputation for being fair.",
+      "exampleVi": "Mặc dù Jenkins là một giám sát rất khắt khe, nhưng cô ấy có tiếng là luôn công bằng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "colleague",
+      "word": "colleague",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 3,
+      "meaningVi": "đồng nghiệp",
+      "exampleEn": "Regular social activities can improve cooperation among colleagues.",
+      "exampleVi": "Những hoạt động xã hội thường xuyên có thể tăng cường sự hợp tác giữa các đồng nghiệp.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "request",
+      "word": "request",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/rikwést/",
+        "us": "/rikwést/"
+      },
+      "frequency": 3,
+      "meaningVi": "lời yêu cầu, lời thỉnh cầu",
+      "exampleEn": "Factory tours are available upon request.",
+      "exampleVi": "Các chuyến tham quan nhà máy đã được cung cấp theo yêu cầu.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "request",
+      "word": "request",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/rikwést/",
+        "us": "/rikwést/"
+      },
+      "frequency": 3,
+      "meaningVi": "cầu",
+      "exampleEn": "Mike requested a copy of the contract from the sales director.",
+      "exampleVi": "Mike yêu cầu một bản sao hợp đồng từ giám đốc kinh doanh.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "dar th TOEIC dang thức mot u upon request theo yêu cầu Lang request for yêu cầu cái gì equest that + chủ ngữ+ động từ nguyên thé nhờ ai làm gì be requested to do dược nhờ làm gì Danh từ request thường đi với giới từ for nhưng động từ equest là ngoại động từ nên sau nó là tân ngữ mà không ( lời từ.",
+        "Cần ghi nhớ thêm rằng khi đi sau động từ reques mệnh đề that phải dùng động từ ở dạng nguyên thể."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "efficiently",
+      "word": "efficiently",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/ififentli/",
+        "us": "/ififentli/"
+      },
+      "frequency": 3,
+      "meaningVi": "một cách hiệu quả",
+      "exampleEn": "The software helps employees work more efficiently.",
+      "exampleVi": "Phần mềm này giúp cho các nhân viên làm việc hiệu quả hơn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "manage",
+      "word": "manage",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/mánid3/",
+        "us": "/mánid3/"
+      },
+      "frequency": 1,
+      "meaningVi": "quản lý, xoay xở, giải quyết được The boss decided",
+      "exampleEn": "Colleen could manage the new store.",
+      "exampleVi": "Ông chủ đã quyết dịnh rằng Colleen có thể quản lý cửa hàng mới.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "They managed to do the assigned work in time.",
+        "Họ đã giải quyết công việc được giao đúng thời gian.",
+        ".",
+        "Barm TOEIC dang thüc mol T manage to do xoay sở, cố gắng để làm PE mada then do xoay nải có gầng d ền sự điều hành mới manage kết hợp cùng to và động từ nguyên thể tạo thành cụm mang nghĩa \"cố gắng, xoay sở để làm gi\".",
+        "Từ management thường được biết đến với ý nghĩa \"sự quản lý\", nhưng nó cũng có nghĩa là \"ban điều hành\".",
+        "ặp Cần phân biệt các từ loại manage (v.",
+        "quần lý) và manageable (adj.",
+        "có thể quản lý).",
+        "der.",
+        "direct (v) hướng tới, nhằm, hướng dẫn direction (n) phương hướng M đệ trình, nộp Applicants should submit a résumé to the personnel manager.",
+        "Các ứng viên nên nộp sơ yếu lý lịch cho quản lý nhân sự.",
+        "Bar thi TOEIC dano thüc mới cum 1.",
+        "submit A to B nộp A cho B Để thi thường xuất hiện cụm submit kết hợp với giới từ to.",
+        "2.",
+        "submit a résumé/receipt/recommendation/ proposal nộp sơ yếu lý lịch, hóa đơn, thư giới thiệu, bản đề xuất Từ submit thường đi kèm những danh từ chỉ các loại giấy tờ, đơn từ như résumé, receipi, recommendation, proposal."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "directly",
+      "word": "directly",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/diréktli/",
+        "us": "/dairéktli/"
+      },
+      "frequency": 3,
+      "meaningVi": "trực tiếp, thẳng, ngay",
+      "exampleEn": "All regional branches report directly to the head office in Washington.",
+      "exampleVi": "Tất cả chi nhánh khu vực đều báo cáo trực tiếp tới trụ sở chính tại Washington.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Bat lm TOEIC dano thúc mới um report/contact/call + directly báo cáo/liên hệ/gọi Luon trực tiếp direcily thường đi cùng các từ mang nghĩa \"báo cáo\", \"liên lạc\" như report, contact.",
+        "• = từ vựng thường gặp trong Part 5 - 6 O = từ vựng thường gặp trong Part 7 Công việc văn phòng (1) | 61"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "remind",
+      "word": "remind",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/rimáind/",
+        "us": "/rimáind/"
+      },
+      "frequency": 3,
+      "meaningVi": "nhắc nhở Ms.",
+      "exampleEn": "Williams reminded Mr. Johnson of his lunch meeting.",
+      "exampleVi": "Cô Williams đã nhắc ông Johnson về buổi gặp gỡ ăn trưa của ông ấy.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "= m: TOEI dang laüc mo: remind sb + of sth/mệnh đề that nhắc ai về điều gì \" remind sb to do sth nhắc ai làm gì be reminded to do dược nhắc nhớ làm gì remind thường đi kèm giới từ of, to verb, mệnh đề thai.",
+        "Chúng ta cũng hay gặp trong đề thi dạng bị động reminded."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "instruct",
+      "word": "instruct",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/instrákt/",
+        "us": "/instrákt/"
+      },
+      "frequency": 2,
+      "meaningVi": "hướng dẫn, chỉ thị, dạy",
+      "exampleEn": "The manager instructed the staff to read the conference materials beforehand.",
+      "exampleVi": "Người quản lý chỉ thị cho các nhân viên đọc trước tài liệu của cuộc họp.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "62 | Hackers TOEIC Vocabulary"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "deadline",
+      "word": "deadline",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/dédlàin/",
+        "us": "/dédlàin/"
+      },
+      "frequency": 1,
+      "meaningVi": "hạn chót, thời hạn",
+      "exampleEn": "The team worked together closely and finished the project ahead of the deadline.",
+      "exampleVi": "Cả nhóm đã làm việc chặt chẽ với nhau và hoàn thành dự án trước thời hạn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "sample",
+      "word": "sample",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/sámpl/",
+        "us": "/sármpl/"
+      },
+      "frequency": 2,
+      "meaningVi": "vật mẫu, mẫu thử",
+      "exampleEn": "We need to prepare samples of our products for the fair.",
+      "exampleVi": "Chúng ta cần chuẩn bị các mãu thử của sản phẩm cho hội chợ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "sample",
+      "word": "sample",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/sámpl/",
+        "us": "/sármpl/"
+      },
+      "frequency": 2,
+      "meaningVi": "thử",
+      "exampleEn": "The customer sampled some cake at the opening of the bakery.",
+      "exampleVi": "Khách hàng ăn thử một vài chiếc bánh trong ngày khai trương tiệm bánh.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "notify",
+      "word": "notify",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/nóutafài/",
+        "us": "/nóutafài/"
+      },
+      "frequency": 2,
+      "meaningVi": "báo, cho biết",
+      "exampleEn": "All staff applying for leave must notify their supervisors in writing.",
+      "exampleVi": "Tất cả các nhân viên xin nghỉ phép đều phải thông báo bằng văn bản cho quản lý trực tiếp của mình.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "monitor",
+      "word": "monitor",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/mánater/",
+        "us": "/mánita/"
+      },
+      "frequency": 3,
+      "meaningVi": "hành, thực hiện, hoạt động (việc, bài tập, nghĩa vụ) All work on the assembly line stopped while equipment repairs were being performed. Mọi hoạt động trên dây chuyển lắp ráp đều dừng lại trong khi việc sữa chữa thiết bị đang được tiến hành. ™ giám sát, theo dõi",
+      "exampleEn": "The new director will monitor progress on the project.",
+      "exampleVi": "Người quản lý mới sẽ giám sát tiến độ của dự án.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "deserve",
+      "word": "deserve",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 3,
+      "meaningVi": "đáng, xứng đáng",
+      "exampleEn": "The person with the highest performance evaluation deserves the Employee of the Year Award.",
+      "exampleVi": "Người được đánh giá có năng suất làm việc cao nhất xứng đáng nhận giải thưởng Nhân viên của năm.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Bai h TOFIC dang thức mới cum well-deserved advancement sự tiến bộ xứng đáng thưng Ta cũng hay gặp trong đề thi dạng tính từ deserved (xứng đáng, thích đáng).",
+        "* -t vig rut gh ng a 5 -8 0 it ving thi m ip tong hlr tung bin"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "entire",
+      "word": "entire",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/intáiar/",
+        "us": "/intáia/"
+      },
+      "frequency": 3,
+      "meaningVi": "trọn vẹn, hoàn toàn",
+      "exampleEn": "The entire team gathers every Monday morning to discuss plans for the week.",
+      "exampleVi": "Cả nhóm tự họp lại vào mỗi sáng thứ Hai để trao đổi về kế hoạch của tuần.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "release",
+      "word": "release",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/rilís/",
+        "us": "/rilís/"
+      },
+      "frequency": 1,
+      "meaningVi": "hành, phóng thích, làm nhẹ bớt",
+      "exampleEn": "The company released its annual report.",
+      "exampleVi": "Công ty đã phát hành báo cáo thường niên.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "release",
+      "word": "release",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/rilís/",
+        "us": "/rilís/"
+      },
+      "frequency": 1,
+      "meaningVi": "sự phát hành, sự ra mắt (sản phẩm)",
+      "exampleEn": "The new clothing line will be ready for release by early next year.",
+      "exampleVi": "Dòng sản phẩm thời trang mới sẽ sẵn sàng để ra mắt vào đầu năm tới.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Ban thi TOEIC dạng thức mới cur press release thông cáo báo chí eng r elease date ngày phát hành, ngày ra mắt release thường được sử dụng dưới dạng danh từ ghép."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "extension",
+      "word": "extension",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "sự gia hạn, sự kéo dài, sự mở rộng, máy lẻ (điện thoại)",
+      "exampleEn": "The manager granted an extension of the deadline.",
+      "exampleVi": "Người quản lý đã cho phép kéo dài thêm thời hạn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "To reach Mr.",
+        "Jackson, call our main office and press extension number 727."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "electronically",
+      "word": "electronically",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/ilektránikali/",
+        "us": "/ilektrónikali/"
+      },
+      "frequency": 2,
+      "meaningVi": "bằng điện tử",
+      "exampleEn": "It saves time and resources to send invoices electronically.",
+      "exampleVi": "",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "attentively",
+      "word": "attentively",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/aténtivli/",
+        "us": "/aténtivli/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự tham gia, sự có mặt",
+      "exampleEn": "Attendance records are taken into consideration when determining eligibility for promotion.",
+      "exampleVi": "Bảng ghi chép về độ chuyên cần sẽ được cân nhắc khi xem xét tiêu chuẩn để thăng chức.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "sa l TOEIC dano Müt mod: u attendance records bảng điểm danh, bảng ghi chép về Tưng độ chuyên cần a certificate of attendance giấy chứng nhận tham gia attendance thường kết hợp với records tạo thành danh từ ghép (lúc này records cần viết dưới dạng số nhiều)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "absolutely",
+      "word": "absolutely",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/absaluitli/",
+        "us": "/absaluitli/"
+      },
+      "frequency": 1,
+      "meaningVi": "toàn, chắc chắn, nhất định",
+      "exampleEn": "It is absolutely necessary that everyone on the board is in agreement with the plan.",
+      "exampleVi": "Chắc chắn là mọi người trong hội đồng quản trị đều cần phải đồng ý với kế hoạch này.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Vủy quyền, ủy thác, giao phó Managers must be skilled in delegating responsibilities to subordinates.",
+        "Quản lý phải khéo léo trong việc giao phó trách nhiệm cho cấp dưới của mình.",
+        "h đại biểu, đại diện A delegate sent to the trade fair returned with a profitable business deal.",
+        "Một đại diện được cử đến hội chợ thương mại đã trở về với một thương vụ sinh lời.",
+        "Baum TOEIC dano húc một Hãy lưu ý để dừng nhầm lẫn giữa delegate và delegation."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "attentively",
+      "word": "attentively",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/aténtivli/",
+        "us": "/aténtivli/"
+      },
+      "frequency": 2,
+      "meaningVi": "chăm chú, thận trọng",
+      "exampleEn": "Stockholders listened attentivelly as executives explained the company strategy.",
+      "exampleVi": "Các cổ đông chăm chú lắng nghe khi các ủy viên ban quản trị giải thích về chiến lược của công ty.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "1 delegate gui did leu, hái oin"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "supervision",
+      "word": "supervision",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/su par vísan/",
+        "us": "/surpavízan/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự giám sát",
+      "exampleEn": "Close supervision ensures high quality.",
+      "exampleVi": "Sự giám sát chặt chẽ sẽ đảm bảo hiệu quả cao.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Cần phân biệt rõ danh từ trừu tượng supervision và danh từ chỉ người supervisor."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "workshop",
+      "word": "workshop",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/warkjap/",
+        "us": "/warkjap/"
+      },
+      "frequency": 2,
+      "meaningVi": "hội thảo, buổi đào tạo Mr.",
+      "exampleEn": "Kim was asked to speak at the workshop on Friday.",
+      "exampleVi": "Ông Kim được mời phát biểu tại buổi hội thảo vào thứ Sáu.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "draw",
+      "word": "draw",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/dra/",
+        "us": "/dra/"
+      },
+      "frequency": 2,
+      "meaningVi": "kéo, thu hút",
+      "exampleEn": "The company's annual conference usually draws 800 employees from around the world.",
+      "exampleVi": "Hội nghị thường niên của công ty thường thu hút 800 nhân viên khắp nơi trên thế giới.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "im draw + praise/inspiration + from sb có được lời khen/ thường cảm hứng từ ai gặp draw thường đi cùng các danh từ mang nghĩa khen ngợi, động viên như praise, inspiration.",
+        "(syn.) Khi nói về sự thu hút tạo ra bởi một người nào đó, ta có thể dùng attract thay cho draw."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "revision",
+      "word": "revision",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "sự sửa lại, duyệt lại",
+      "exampleEn": "The team manager will make revisions to the proposal.",
+      "exampleVi": "Trưởng nhóm sẽ duyệt lại đề xuất đó.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "make a revision chỉnh sửa khương revised edition phiên bản được điều chỉnh revised policy chính sách được sửa đổi Dạng quá khứ phân từ revised thường đi cùng các danh từ như edition, policy.",
+        "66 | Hackers TOEIC Vocabulary El superio gu glam t y :OM !CRI 0010 101 10"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "reluctantly",
+      "word": "reluctantly",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/riláktantli/",
+        "us": "/riláktantli/"
+      },
+      "frequency": 2,
+      "meaningVi": "miễn cưỡng, bất đắc dĩ Ms.",
+      "exampleEn": "Danvers reluctantly agreed to cut the advertising budget.",
+      "exampleVi": "Bà Danvers miễn cưỡng đồng ý cắt ngân sách quảng cáo.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "acquaint",
+      "word": "acquaint",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/akwéint/",
+        "us": "/akwéint/"
+      },
+      "frequency": 2,
+      "meaningVi": "với, làm cho ai quen với",
+      "exampleEn": "The training program acquaints new employees with company procedures.",
+      "exampleVi": "Chương trình đào tạo này giúp các nhân viên mới quen với các quy trình của công ty.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "uyền tải, băng chuy (n) vật cản, sự kiểm tra Syn, inspect, examine kiểm tra, xem xét um aquaint A with B (=familiarize A with B) làm cho A quen với B hin câu hỏi trong bài thi thường xuất hiện acquaint đi kèm với giới từ with."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "convey",
+      "word": "convey",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "truyền đạt, vận chuyển",
+      "exampleEn": "The secretary urgently conveyed the message to the director.",
+      "exampleVi": "Thư ký vội vàng truyền đạt lại tin nhắn cho giám đốc.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "m convey A to B chuyển A tới B thiệ Lưu ý: convey thường được sử dụng cùng giới từ to."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "check",
+      "word": "check",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "kiểm tra, xem xét, xác nhận",
+      "exampleEn": "Please check your computer regularly for disk errors.",
+      "exampleVi": "Vui lòng kiểm tra máy tính thường xuyên để tránh bị lỗi đĩa.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Click this link to check for the latest updates.",
+        "Hãy nhấp vào liên kết này để xem những cập nhật mới nhất.",
+        "Cm check A for B kiểm tra A để xác nhận B man check for A xác nhận A Trong đề thi, check thường xuất hiện dưới dạng check A for B, sau check là đối tượng được kiểm tra còn sau for là mục đích kiểm tra."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "London.",
+      "word": "London.",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "trụ sở chính",
+      "exampleEn": "The company headquarters is located in London.",
+      "exampleVi": "Trụ sở chính của công ty được đặt ở London.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        ")= từ vựng thường gặp trong Part 5 -6 = từ vưng thường gặp trong Part Công việc văn phòng (1) | 67 1 cove o (n) t ết 1 Tus hedkwóitaz"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "involved",
+      "word": "involved",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/invólvd/",
+        "us": "/invólvd/"
+      },
+      "frequency": 1,
+      "meaningVi": "vào, có liên quan Dr.",
+      "exampleEn": "Mair was deeply involved in the decision-making process.",
+      "exampleVi": "arm TOBIC dano thac mol be involved in có liên quan đến The sales team concentrated on developing new strategies.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Đội bán hàng đã tập trung vào việc phát triển chiến (am concentrate on tập trung vào png concentrate A on B tập trung A vào B concentrate và giới từ on, nội động từ là concerntrate on và ngoại động từ là concerntrate A on B.",
+        "sự tập trung M sắp xếp, lưu giữ (thư từ, giấy tờ); trình lên, đưa ra (văn kiện) Phòng này đã dưa ra yêu cầu đòi bồi thường bảo hiểm cho thiệt hại do ngập nước trong phòng hội nghị.",
+        "alm TOBIC dang thac mội ci file a claim yêu cầu bồi thường (ví dụ: tiền bảo hiểm) ng file thưởng i kèm các danh từ mang nghĩa yu cầu"
+      ],
+      "needsReview": false
+    }
+  ],
+  "story": {
+    "title": "Ngày Đầu Đi Làm Của ORI",
+    "content": "Hôm nay là ngày đầu tiên ORI nhận việc tại **department** (phòng ban) dịch vụ mặt đất. Các **colleague** (đồng nghiệp) đón tiếp cô rất nồng hậu. ORI được phân công **assist** (hỗ trợ) anh nhóm trưởng trong việc hướng dẫn hành khách. Nhóm trưởng tin tưởng **delegate** (giao phó) cho ORI nhiệm vụ quản lý thẻ lên tàu bay. Cô phải **coordinate** (phối hợp) nhịp nhàng với tổ bay để đảm bảo chuyến bay đúng giờ. Người **supervision** (giám sát) trực tiếp của ORI liên tục **remind** (nhắc nhở) cô phải chú ý đến các chi tiết nhỏ. Theo đúng **instruct** (hướng dẫn) làm việc, ORI đã hoàn thành xuất sắc và **submit** (nộp) bản báo cáo cuối ngày. Cô cảm thấy rất vui vì đã hoàn thành **assignment** (nhiệm vụ) đầu tiên một cách trọn vẹn.",
+    "words": [
+      {
+        "word": "department",
+        "meaningVi": "phòng ban"
+      },
+      {
+        "word": "colleague",
+        "meaningVi": "đồng nghiệp"
+      },
+      {
+        "word": "assist",
+        "meaningVi": "hỗ trợ"
+      },
+      {
+        "word": "delegate",
+        "meaningVi": "giao phó"
+      },
+      {
+        "word": "coordinate",
+        "meaningVi": "phối hợp"
+      },
+      {
+        "word": "supervision",
+        "meaningVi": "sự giám sát"
+      },
+      {
+        "word": "remind",
+        "meaningVi": "nhắc nhở Ms."
+      },
+      {
+        "word": "instruct",
+        "meaningVi": "hướng dẫn"
+      },
+      {
+        "word": "submit",
+        "meaningVi": "nộp"
+      },
+      {
+        "word": "assignment",
+        "meaningVi": "nhiệm vụ"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
+      "questions": [
+        {
+          "q": "All our employees are ___ to using the new design software.",
+          "a": "accustomed",
+          "options": [
+            "attentively",
+            "corporation",
+            "accustomed",
+            "absolutely"
+          ]
+        },
+        {
+          "q": "mo: ci be ___ to -ing quen",
+          "a": "accustomed",
+          "options": [
+            "entire",
+            "electronically",
+            "deserve",
+            "accustomed"
+          ]
+        },
+        {
+          "q": "Lee heads a multinational telecommunications ___ based in Virginia.",
+          "a": "corporation",
+          "options": [
+            "check",
+            "directly",
+            "request",
+            "corporation"
+          ]
+        },
+        {
+          "q": "Jenkins is a ___ supervisor, she has a reputation for being fair.",
+          "a": "demanding",
+          "options": [
+            "reluctantly",
+            "involved",
+            "demanding",
+            "attentively"
+          ]
+        },
+        {
+          "q": "Regular social activities can improve cooperation among ___s.",
+          "a": "colleague",
+          "options": [
+            "sample",
+            "instruct",
+            "colleague",
+            "workshop"
+          ]
+        },
+        {
+          "q": "Factory tours are available upon ___.",
+          "a": "request",
+          "options": [
+            "demanding",
+            "deadline",
+            "accustomed",
+            "request"
+          ]
+        },
+        {
+          "q": "Mike ___ed a copy of the contract from the sales director.",
+          "a": "request",
+          "options": [
+            "remind",
+            "request",
+            "attentively",
+            "release"
+          ]
+        },
+        {
+          "q": "The software helps employees work more ___.",
+          "a": "efficiently",
+          "options": [
+            "efficiently",
+            "corporation",
+            "entire",
+            "London."
+          ]
+        },
+        {
+          "q": "Colleen could ___ the new store.",
+          "a": "manage",
+          "options": [
+            "attentively",
+            "manage",
+            "corporation",
+            "sample"
+          ]
+        },
+        {
+          "q": "All regional branches report ___ to the head office in Washington.",
+          "a": "directly",
+          "options": [
+            "efficiently",
+            "directly",
+            "release",
+            "acquaint"
+          ]
+        }
+      ]
+    }
+  ]
+}

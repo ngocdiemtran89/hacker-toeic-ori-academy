@@ -1,0 +1,918 @@
+{
+  "id": "unit-05",
+  "day": 5,
+  "title": "Vũ khí bí mật",
+  "topic": "Công việc văn phòng (3)",
+  "sourcePages": [
+    65,
+    80
+  ],
+  "words": [
+    {
+      "id": "sophisticated",
+      "word": "sophisticated",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/safístakeitid/",
+        "us": "/safístikeitid/"
+      },
+      "frequency": 1,
+      "meaningVi": "vi, tinh tế, phức tạp, công phu",
+      "exampleEn": "A sophisticated surveillance system was installed.",
+      "exampleVi": "Một hệ thống giám sát tinh vi đã được cài đặt.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The decorator exhibited a sophisticated taste in art.",
+        "Người trang trí đã thể hiện gu thẩm mĩ rất tinh tế."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "timely",
+      "word": "timely",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/táimli/",
+        "us": "/táimli/"
+      },
+      "frequency": 2,
+      "meaningVi": "thời",
+      "exampleEn": "The report was completed in a timely manner.",
+      "exampleVi": "Bản báo cáo đã được hoàn thành kịp thời.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "in a timely manner kip thời thăn Để thi có thể sẽ xuất hiện câu hỏi yêu cầu lựa chọn giới từ in phù hợp với timely.",
+        "adu theo thực tế, thực tế là We cannot realistically expect to have the presentation ready on time.",
+        "Thực tế là chúng tôi không thể mong đợi bài thuyết trình đó được hoàn thành kịp thời hạn.",
+        "| cannot realistically expect + to verb/mệnh đề that hưng thực tế là không thể mong đợi điều gì realistic + expectation/goal/alternative/chance kỳ vọng/mục tiêu/phương án/cơ hội thực tế realistially thường sử dụng cùng động từ expect.",
+        "realistic thường đi kèm các danh từ thể hiện sự kỳ vọng nhu expectation, goal."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "promptly",
+      "word": "promptly",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/prámptli/",
+        "us": "/promptli/"
+      },
+      "frequency": 2,
+      "meaningVi": "chóng, ngay lập tức, đúng giờ",
+      "exampleEn": "It is company policy to respond promptly to all inquiries.",
+      "exampleVi": "Chính sách của công ty là phản hồi mọi thắc mắc ngay lập tức.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The train will leave promptly at 4 P.M.",
+        "Tàu sẽ rời đi đúng 4 giờ chiều.",
+        "ên Phân biệt các từ loại promptly (adv.",
+        "ngay lập tức) và prompt (adj.",
+        "mau lẹ, nhanh chóng)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "accessible",
+      "word": "accessible",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/æksésabl/",
+        "us": "/aksésabl/"
+      },
+      "frequency": 3,
+      "meaningVi": "thể truy cập/tiếp cận được, có thể sử dụng được",
+      "exampleEn": "The 18th floor is only accessible to executive staff.",
+      "exampleVi": "Chỉ nhân viên hành chính mới được sử dụng tầng 18.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Please make the manual accessible to all employees.",
+        "Vui lòng để tất cả nhân viên đều có thể sử dụng cuốn sách hướng dẫn này.",
+        "Đa In TOEIC dạng thức mới make A accessible to B làm cho B sử dụng được A thường • cao Iaccessible by bus/subway/train có thể đi bằng xe buýt/tàu điện ngầm/tàu hỏa M thi hành, tiến hành Board members voted to implement an innovative marketing campaign.",
+        "Các thành viên hội đồng quản trị đã biểu quyết để tiến hành một chiến dịch tiếp thị sáng tạo.",
+        "Bai thi TOEIC dạng thức mới um implement a plan thực hiện một kế hoạch Lue implement measures thực hiện các biện pháp implement thường xuất hiện cùng các danh từ chỉ kế hoạch, biện pháp."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "feedback",
+      "word": "feedback",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/fí:dbak/",
+        "us": "/fí:dbak/"
+      },
+      "frequency": 3,
+      "meaningVi": "phản hồi, ý kiến nhận",
+      "exampleEn": "xét Feedback from colleagues can be of great assistance.",
+      "exampleVi": "Ý kiến nhận xét từ các đồng nghiệp có thể là một sự trợ giúp rất lớn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "outstanding",
+      "word": "outstanding",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/àutstændin/",
+        "us": "/àutstændin/"
+      },
+      "frequency": 3,
+      "meaningVi": "nổi bật, đáng chú ý; còn tồn tại, chưa trả (tiền nợ)",
+      "exampleEn": "The director presented an outstanding business plan.",
+      "exampleVi": "Giám đốc đã trình bày một kế hoạch kinh doanh xuất sắc.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "By clearing its outstanding debt, Cottonvale was able to finance new product development.",
+        "Với việc thanh toán hết khoản nợ còn tồn đọng, Cottonvale đã có thể đầu tư cho việc phát triển sản phẩm mới.",
+        "thông tin informative (adj) nhiều thông tin, kiến thức"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "inform",
+      "word": "inform",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/infarm/",
+        "us": "/infó:m/"
+      },
+      "frequency": 3,
+      "meaningVi": "báo, báo tin",
+      "exampleEn": "Please inform the director that the meeting has been canceled.",
+      "exampleVi": "Vui lòng báo cho giám đốc biết là cuộc họp đã bị hủy.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "đan thi TOBIC dạng thức mới cag inform: explain mớm Hãy phân biệt hai từ cùng mang nghĩa \"cung cấp thông tin\" qua các ví dụ.",
+        "- inform of sth/mệnh đề that cho ai biết về điều gì Sau inform là tân ngũ chỉ người.",
+        "Lexplain to sb + mệnh để that giải thích cho ai về điều gì Sau explain là nội dung giải thích, hãy luôn nhớ thêm giới từ to trước từ chỉ người nghe.",
+        "The CEO explained to the board that the company was in trouble.",
+        "Giám đốc điều hành giải thích với hội đồng quản trị rằng công ty đang gặp rắc rối."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "tài-chính.",
+      "word": "tài chính.",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "",
+      "exampleEn": "laptop.",
+      "exampleVi": "Chúng ta cần một chiếc máy thay cho chiếc máy tính xách tay bị hỏng này.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Human resources is looking for a replacement for Mr.",
+        "Winters.",
+        "Bộ phận nhân sự đang tìm một người thay thế cho ông Winters.",
+        "Ider.",
+        "announce (v) thông báo"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "replacement",
+      "word": "replacement",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ripléismant/",
+        "us": "/ripléismant/"
+      },
+      "frequency": 3,
+      "meaningVi": "cáo, thông báo",
+      "exampleEn": "Mr. Dane posted an announcement about the general meeting.",
+      "exampleVi": "Ông Dane đã dăng một thông báo về đại hội cổ đông.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "department",
+      "word": "department",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "bộ, ban, bộ phận của một đơn vị (chính phủ, trường học, công ty, v.v.)",
+      "exampleEn": "Report payroll problems to the finance department.",
+      "exampleVi": "Hãy báo cáo những vấn đề về tiền lương cho bộ phận tài chính.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "permanently",
+      "word": "permanently",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 3,
+      "meaningVi": "giải thích, giảng giải",
+      "exampleEn": "The manager explained the new regulations to everyone in the department.",
+      "exampleVi": "úc), contain có thể thay bằng control hoặc hold back.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "ady vĩnh cửu, lâu dài, vĩnh viễn Các tệp tin trên máy tính đã bị xóa vĩnh viễn và không thể lấy lạiđược."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "fulfill",
+      "word": "fulfill",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/fulfil/",
+        "us": "/fulfil/"
+      },
+      "frequency": 3,
+      "meaningVi": "thành, đáp ứng (yêu cầu), thực thi, giữ (lời hứa, nghĩa vụ) contract.",
+      "exampleEn": "",
+      "exampleVi": "Thiết kế cuối của sản phẩm đã đáp ứng được các điều khoản trong hợp đồng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "explain",
+      "word": "explain",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ikspléin/",
+        "us": "/ikspléin/"
+      },
+      "frequency": 3,
+      "meaningVi": "bản thảo, nét phác thảo, dàn bài",
+      "exampleEn": "",
+      "exampleVi": "Hãy bắt đầu làm báo cáo bằng việc sắp xếp những ý chính thành một dàn bài. v. vẽ phác thảo, vạch ra/chỉ ra những ý chính máy hút bụi.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "contain",
+      "word": "contain",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/áutlàin/",
+        "us": "/kantéin/"
+      },
+      "frequency": 3,
+      "meaningVi": "gồm, chứa",
+      "exampleEn": "",
+      "exampleVi": "Tủ hồ sơ chứa bản sao tất cả các hóa đơn của chúng ta.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "compile",
+      "word": "compile",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/kampáil/",
+        "us": "/kampáil/"
+      },
+      "frequency": 3,
+      "meaningVi": "soạn, tập hợp, tổng hợp (tài liệu)",
+      "exampleEn": "The assistant compiled a list of tablet computer manufacturers.",
+      "exampleVi": "Người trợ lý đã tổng hợp một danh sách các nhà sản xuất máy tính bảng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Ms.",
+        "Atkins will compile all year-end reports and submit them to Ms.",
+        "Woo.",
+        "Cô Atkins sẽ tập hợp các báo cáo cuối năm và nộp chúng cho bà Woo."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "subsequent",
+      "word": "subsequent",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/sábsikwant/",
+        "us": "/sábsikwant/"
+      },
+      "frequency": 3,
+      "meaningVi": "đến sau, xảy ra sau",
+      "exampleEn": "Some employees received separation pay subsequent to the company's closing.",
+      "exampleVi": "Một số nhân viên đã nhận được khoản tiền bồi thường thôi việc sau khi công ty bị đóng của.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "um subsequent to sau khi"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "overview",
+      "word": "overview",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/duvarviù:/",
+        "us": "/duvarviù:/"
+      },
+      "frequency": 3,
+      "meaningVi": "nhớ từ subsequent đi với giới từ to.",
+      "exampleEn": "",
+      "exampleVi": "",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "provider",
+      "word": "provider",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/praváidar/",
+        "us": "/praváida/"
+      },
+      "frequency": 2,
+      "meaningVi": "tổng",
+      "exampleEn": "quát, khái quát Scott gave an overview of the topic before the presentation.",
+      "exampleVi": "Scott đã đưa ra một cái nhìn khái quát về chủ đề trước khi thuyết trình.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "matter",
+      "word": "matter",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/matar/",
+        "us": "/matar/"
+      },
+      "frequency": 3,
+      "meaningVi": "người cung cấp, nhà cung cấp",
+      "exampleEn": "There are numerous Internet and cable providers in the city.",
+      "exampleVi": "Có rất nhiều nhà cung cấp dịch vụ Internet và truyển hình cáp trong thành phố.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "expertise",
+      "word": "expertise",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "vấn đề, công việc",
+      "exampleEn": "Please deal with personal matters outside the office.",
+      "exampleVi": "Vui lòng giải quyết các vấn đề cá nhân ở ngoài văn phòng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "a-công-ty.",
+      "word": "a công ty.",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "sự tinh thông, sự thành thạo, kỹ năng chuyên môn",
+      "exampleEn": "This kind of project falls outside the firm's area of expertise.",
+      "exampleVi": "Loại dự án này nằm ngoài lĩnh vực chuyên môn của công ty.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "* * - ng xun hận ất ng Pat - y (0 uất hượng trưc"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "demonstrate",
+      "word": "demonstrate",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/démanstrèit/",
+        "us": "/démanstrèit/"
+      },
+      "frequency": 2,
+      "meaningVi": "chứng minh, minh họa, biểu lộ, cho thấy",
+      "exampleEn": "Sales figures demonstrate that the advertising campaign was successful.",
+      "exampleVi": "Các số liệu bán hàng chứng minh rằng chiến dịch quảng cáo đã thành công.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Our representative will demonstrate how to use the instrument.",
+        "Người đại diện của chúng tôi sẽ minh họa cách sử dụng dụng cụ này.",
+        "Barth TOEIC dạng tức mot demonstrate: display Hãy phân biệt hai từ cùng mang nghĩa \"cho thấy\" qua các ví dụ.",
+        "- demonstrate minh họa, trình bày Cho xem và giới thiệu tính năng, cách sử dụng của một vật.",
+        "- display trưng bày Trưng bày một vật để người khác nhìn thấy.",
+        "We will display several machines at the next trade show.",
+        "Chúng tôi sẽ trưng bày một vài chiếc máy ở hội trợ thương mại sau.",
+        "ni người/ vật còn lại, phần còn lại Audits will continue throughout the remainder of the month.",
+        "Việc kiểm toán sẽ tiếp tục trong suốt thời gian còn lại của tháng.",
+        "Bar lhi TOEIC dano thức mới um throughout the remainder of + thời gian Lặp, remainder thường xuất hiện trong các câu hỏi của bài thi TOEIC với ý nghĩa trong suốt phần còn lại của một thời gian cụ thể, vi dụ như throughout the remainder of the month (trong suốt thời gian còn lại của tháng).",
+        "Ir remainder phần còn lại 1- reminder lời nhắc, điều gọi nhớ Bạn cũng có thể gặp trong bài thi câu hỏi yêu cầu phân biệt nghĩa của hai từ khá giống nhau này.",
+        "Management issued a reminder to submit monthly reports by Friday.",
+        "Ban quản lý đã phát giấy báo nhắc nhở về việc gửi báo cáo tháng trước thứ Sáu.",
+        "BeLIn TORI ceng tut mo"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "essential",
+      "word": "essential",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/isénsal/",
+        "us": "/isénsal/"
+      },
+      "frequency": 2,
+      "meaningVi": "cần thiết, thiết yếu, cốt yếu",
+      "exampleEn": "Perseverance is essential to success in business.",
+      "exampleVi": "Sự kiên trì rất cần thiết để thành công trong kinh doanh.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "=: Im 1OEI oane laie md: (cum be essential to/for cần thiết để/cho khường Lặp essential thường đi cùng giới từ to hoặc for."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "divide",
+      "word": "divide",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/diváid/",
+        "us": "/méidze/"
+      },
+      "frequency": 2,
+      "meaningVi": "ra, phân chia",
+      "exampleEn": "Required overtime will be divided equally among employees.",
+      "exampleVi": "Thời gian làm ngoài giờ bắt buộc sẽ được phân chia công bằng giữa các nhân viên.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "• divide A into B chia A thành B san be divided into dược phân chia thành Bạn sẽ thường gặp trong đề thi câu hỏi có divide đi cùng giới từ into.",
+        "e divide : cut (ắn| Hãy phân biệt hai từ cùng mang nghĩa \"chia\" qua các ví dụ.",
+        "- divide phân chia Được dùng khi nói về việc chia thứ gì đó thành nhiều phần.",
+        "L cut cắt giảm Được dùng khi nói về việc cắt bớt thứ gì đó.",
+        "The firm decided to cut 80 full-time positions.",
+        "Công ty đã quyết định cắt giảm 80 vị trí nhân viên chính thức."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "major",
+      "word": "major",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/méidzar/",
+        "us": "/méidzar/"
+      },
+      "frequency": 2,
+      "meaningVi": "chủ yếu, chủ chốt, trọng đại",
+      "exampleEn": "A major figure in publishing, Ms. Yarrow is highly influential.",
+      "exampleVi": "Là một nhân vật chủ chốt trong ngành xuất bản, cô Yarrow có ảnh hưởng rất lớn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The new manager has had a major impact on productivity.",
+        "Người quản lý mới có một ảnh hưởng quan trọng tới năng suất làm việc."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "compliance",
+      "word": "compliance",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/kampláiens/",
+        "us": "/kampláiens/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự tuân theo, sự phục tùng (mệnh lệnh, luật pháp)",
+      "exampleEn": "Government officials will inspect the plant's compliance with safety guidelines.",
+      "exampleVi": "Các quan chức chính phủ sẽ giám sát việc tuân thủ các quy định an toàn của nhà máy.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "*- v/ng xuấn gn tấ ong rat - t 0 vấế hộng trư ng đ lưong Pant"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "clarify",
+      "word": "clarify",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/klærafài/",
+        "us": "/klarifai/"
+      },
+      "frequency": 2,
+      "meaningVi": "lọc, làm rõ",
+      "exampleEn": "The notice clarified some details of the vacation policy modifications.",
+      "exampleVi": "Thông báo đã làm rõ một số chi tiết trong những thay đổi về chính sách nghỉ phép.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "M đương đầu, đối mặt, hướng về Businesses are faced with the challenge of foreign competition.",
+        "Các doanh nghiệp phải đối mặt với thách thức cạnh tranh từ nước ngoài.",
+        "The elevator faces the lobby of the building.",
+        "Thang máy hướng ra sảnh của tòa nhà."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "follow",
+      "word": "follow",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/fálou/",
+        "us": "/fálou/"
+      },
+      "frequency": 2,
+      "meaningVi": "theo, theo dõi, chú ý, theo kịp",
+      "exampleEn": "The guests followed the guide into the exhibition hall.",
+      "exampleVi": "Các vị khách đi theo chỉ dẫn vào trong sảnh triển lãm.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Bill followed the conversations at the meeting closely.",
+        "Bill theo dõi sát sao các cuộc trao đổi trong buổi họp.",
+        "The manager realized the staff was not following his talk.",
+        "Người quản lý nhận ra rằng các nhân viên không chú ý đến bài phát biểu của ông ấy.",
+        "let th TODC dong thün mor follow : precede nhâm.",
+        "Hãy phân biệt hai từ có nghĩa \"theo sau\" và \"đi trước\" này.",
+        "- follow theo sau cái gì Sử dụng khi nói về việc theo sau ai đó/cái gì đó ở phía trước.",
+        "L precede đi trước, đi đầu Sử dụng khi nói về việc gì đó xảy ra trước (về mặt thời gian).",
+        "An emergency consultation preceded the decision to sell the company.",
+        "Một cuộc hội ý khẩn cấp đã diễn rạ trước quyết định bán công ty.",
+        "(syn.",
+        "Trong ngữ cảnh nói về việc tiếp tục để ý tới điều gì đó, follow có thể thay bằng monitor hoặc pay attention to.",
+        "Trong ngữ cảnh nói về việc có thể hiểu, có thể theo kịp nội dung gì, follow có thể thay bằng understand.",
+        "understand MANAM"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "aspect",
+      "word": "aspect",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/áspekt/",
+        "us": "/áspekt/"
+      },
+      "frequency": 2,
+      "meaningVi": "cạnh",
+      "exampleEn": "Every aspect of the problem must be taken into consideration.",
+      "exampleVi": "Mọi khía cạnh của vấn đề này đều phải được cân nhắc.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "ady hình như Apparently, Mr.",
+        "Jones was not invited to this meeting.",
+        "Hình như ông Jones không được mời tới buổi họp này."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "aware",
+      "word": "aware",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/awéar/",
+        "us": "/awéar/"
+      },
+      "frequency": 1,
+      "meaningVi": "biết, nhận thấy, nhận thức được",
+      "exampleEn": "Workers should be made aware of safety procedures.",
+      "exampleVi": "Cần cho công nhân biết về các quy trình an toàn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "| be aware + of/mệnh đề that biết/ý thức về điều gì hưn aware thường đi cùng giới từ ơf."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "extended",
+      "word": "extended",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/iksténdid/",
+        "us": "/iksténdid/"
+      },
+      "frequency": 1,
+      "meaningVi": "mở rộng, kéo dài",
+      "exampleEn": "The accounting department works extended hours on the first week of every month.",
+      "exampleVi": "Bộ phận kế toán phải làm thêm giờ vào tuần đầu tiên hằng tháng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "atm TOEIC dang thứt mới cum work extended hours làm tăng giờ, làm thêm giờ then extended lunch break giờ nghỉ trưa được kéo dài extended thường được dùng để bổ nghĩa cho các từ chỉ giờ làm việc, giờ ăn."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "accidentally",
+      "word": "accidentally",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "cờ, ngoài ý muốn",
+      "exampleEn": "Alison accidentally made some errors in the financial statements.",
+      "exampleVi": "Alison đã vô tình mắc một vài sai sót trong báo cáo tài chính.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "advisable",
+      "word": "advisable",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/adváizabl/",
+        "us": "/adváizabl/"
+      },
+      "frequency": 1,
+      "meaningVi": "làm, thích hợp",
+      "exampleEn": "It is advisable to update computer equipment regularly.",
+      "exampleVi": "Nâng cấp thiết bị máy tính thường xuyên là việc nên làm.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        ":Mn TOLI oang lot"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "concerned",
+      "word": "concerned",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/kansárnd/",
+        "us": "/kansárnd/"
+      },
+      "frequency": 1,
+      "meaningVi": "lắng, lo âu, có liên quan đến",
+      "exampleEn": "Management is concerned about security.",
+      "exampleVi": "Ban quản lý đang lo lắng về vấn đề an ninh.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The report is mainly concerned with current investments.",
+        "Báo cáo này chủ yếu liên quan đến các vụ đầu tư gần đây.",
+        "Ban h TOEIC dạng thực mới be concerned about lo lắng về mung be concerned with có liên quan đến Lưu ý rằng tùy theo giới từ đi kèm là about hay with mà nghĩa của concerned sẽ có sự khác biệt."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "speak",
+      "word": "speak",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/spi:k/",
+        "us": "/spi:k/"
+      },
+      "frequency": 1,
+      "meaningVi": "Mr. Brooke spoke to his clients about a new venture. Ông Brooke đã nói với các khách hàng của mình về một dự án kinh doanh mạo hiểm mới.",
+      "exampleEn": "wo speak: tell: say",
+      "exampleVi": "nhầm Đề thi có thể sẽ xuất hiện câu hỏi yêu cầu phân biệt giữa các từ có cùng nghĩa \"nói\" qua các ví dụ cụ thể.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "- speak to sb about sth nói với ai về điều gì speak + ngôn ngữ nói ngôn ngữ gì Nội động từ speak có nghĩa là \"nói với ai\" sẽ có giới từ to trước từ chỉ người nghe.",
+        "speak cũng được sử dụng dưới dạng ngoại động từ trong trường hợp chỉ hành động nói một ngôn ngữ nào đó, ví dụ như speak English.",
+        "- tell sb + mệnh đề that nói với ai điều gì tell thường được theo sau bởi tân ngữ chỉ người và tiếp đó là một tân ngữ gián tiếp hoặc mệnh đề that.",
+        "Mr.",
+        "Bennett told reporters that he would retire soon.",
+        "Ông Bennet nói với các nhà báo rằng ông ấy sẽ sớm nghỉ hưu.",
+        "L say to sb + mệnh đề that nói với ai điều gì say thường được sử dụng cùng mệnh để thai và nhất định phải có to trước từ chỉ người nghe.",
+        "The customer said to the clerk that he was happy with the purchase.",
+        "Vị khách nói với nhân viên bán hàng rằng anh ấy rất hài lòng với sản phẩm đã mua.",
+        "100 | Hackers TOEIC Vocabulary BasI TOEIC dero luc mo."
+      ],
+      "needsReview": false
+    }
+  ],
+  "story": {
+    "title": "ORI Sắp Xếp Hồ Sơ Lưu Trữ",
+    "content": "Chiều nay, ORI được phân công dọn dẹp phòng lưu trữ. Cô phải sắp xếp lại toàn bộ **file** (hồ sơ) và **document** (tài liệu) của các chuyến bay cũ. ORI xếp gọn gàng các tài liệu vào tủ **cabinet** (tủ đựng tài liệu) lớn. Cô dán nhãn từng chiếc **folder** (thư mục bìa giấy) để dễ dàng tìm kiếm. Việc **organize** (tổ chức/sắp xếp) này giúp mọi người dễ dàng **retrieve** (tìm lại/lấy lại) thông tin khi cần thiết. Nhiều hồ sơ trong phòng **archive** (lưu trữ) này chứa thông tin **sensitive** (nhạy cảm) và mang tính chất **confidential** (mật/bảo mật). ORI làm việc hết sức cẩn thận, đồng thời **update** (cập nhật) hệ thống dữ liệu điện tử của phòng ban.",
+    "words": [
+      {
+        "word": "file",
+        "meaningVi": "hồ sơ"
+      },
+      {
+        "word": "document",
+        "meaningVi": "tài liệu"
+      },
+      {
+        "word": "cabinet",
+        "meaningVi": "tủ hồ sơ"
+      },
+      {
+        "word": "folder",
+        "meaningVi": "thư mục"
+      },
+      {
+        "word": "organize",
+        "meaningVi": "tổ chức"
+      },
+      {
+        "word": "retrieve",
+        "meaningVi": "tìm lại"
+      },
+      {
+        "word": "archive",
+        "meaningVi": "lưu trữ"
+      },
+      {
+        "word": "sensitive",
+        "meaningVi": "nhạy cảm"
+      },
+      {
+        "word": "confidential",
+        "meaningVi": "mật"
+      },
+      {
+        "word": "update",
+        "meaningVi": "cập nhật"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
+      "questions": [
+        {
+          "q": "A ___ surveillance system was installed.",
+          "a": "sophisticated",
+          "options": [
+            "sophisticated",
+            "promptly",
+            "accessible",
+            "aware"
+          ]
+        },
+        {
+          "q": "The report was completed in a ___ manner.",
+          "a": "timely",
+          "options": [
+            "divide",
+            "accessible",
+            "timely",
+            "outstanding"
+          ]
+        },
+        {
+          "q": "It is company policy to respond ___ to all inquiries.",
+          "a": "promptly",
+          "options": [
+            "overview",
+            "promptly",
+            "explain",
+            "compile"
+          ]
+        },
+        {
+          "q": "The 18th floor is only ___ to executive staff.",
+          "a": "accessible",
+          "options": [
+            "compliance",
+            "accessible",
+            "replacement",
+            "expertise"
+          ]
+        },
+        {
+          "q": "xét ___ from colleagues can be of great assistance.",
+          "a": "feedback",
+          "options": [
+            "demonstrate",
+            "matter",
+            "expertise",
+            "feedback"
+          ]
+        },
+        {
+          "q": "The director presented an ___ business plan.",
+          "a": "outstanding",
+          "options": [
+            "feedback",
+            "sophisticated",
+            "outstanding",
+            "replacement"
+          ]
+        },
+        {
+          "q": "Please ___ the director that the meeting has been canceled.",
+          "a": "inform",
+          "options": [
+            "inform",
+            "permanently",
+            "major",
+            "department"
+          ]
+        },
+        {
+          "q": "Report payroll problems to the finance ___.",
+          "a": "department",
+          "options": [
+            "expertise",
+            "department",
+            "clarify",
+            "major"
+          ]
+        },
+        {
+          "q": "The assistant ___d a list of tablet computer manufacturers.",
+          "a": "compile",
+          "options": [
+            "demonstrate",
+            "sophisticated",
+            "compile",
+            "clarify"
+          ]
+        },
+        {
+          "q": "Some employees received separation pay ___ to the company's closing.",
+          "a": "subsequent",
+          "options": [
+            "contain",
+            "feedback",
+            "subsequent",
+            "fulfill"
+          ]
+        }
+      ]
+    }
+  ]
+}

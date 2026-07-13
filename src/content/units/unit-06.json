@@ -1,0 +1,957 @@
+{
+  "id": "unit-06",
+  "day": 6,
+  "title": "Ngày nghỉ",
+  "topic": "Thời gian rảnh - Cộng đồng",
+  "sourcePages": [
+    81,
+    96
+  ],
+  "words": [
+    {
+      "id": "collection",
+      "word": "collection",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 3,
+      "meaningVi": "bộ sưu tập, sự thu thập, sự quyên góp",
+      "exampleEn": "The museum has a unique collection of stamps.",
+      "exampleVi": "Bảo tàng sở hữu một bộ sưu tập tem độc đáo.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Toll collection operates by means of an electronic system.",
+        "Việc thu phí vận hành thông qua một hệ thống điện tử.",
+        "der.",
+        "living (adj) đang tồn tại 1 ceramic tiles collection bộ sưu tập gạch men toll collection việc thu phí (cầu đường) Hãy ghi nhớ các cách sử dụng collection trong bài thi TOEIC!",
+        "2.",
+        "Collect A from B thu thập A từ B Động từ collect thường đi kèm giới từ from.",
+        "- collection sự thu thập, bộ sưu tập - collectable đối tượng sưu tầm Trong bài thi có thể xuất hiện hai từ có hình thái tương tự nhưng mang nghĩa khác nhau này."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "exhibition",
+      "word": "exhibition",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/êksibífon/",
+        "us": "/êksibífon/"
+      },
+      "frequency": 1,
+      "meaningVi": "cuộc triển lăm, sự trưng bày",
+      "exampleEn": "The gallery hosted an exhibition of urban scenic photographs.",
+      "exampleVi": "Phòng trưng bày đã tổ chức một cuộc triển lãm ảnh phong cảnh thành phố.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "celebrity",
+      "word": "celebrity",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/salébrati/",
+        "us": "/silébriti/"
+      },
+      "frequency": 2,
+      "meaningVi": "người nổi tiếng",
+      "exampleEn": "Many celebrities attended the city's summer park festival.",
+      "exampleVi": "Rất nhiều người nổi tiếng đã tham dự lễ hội công viên mùa hè của thành phố.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "live",
+      "word": "live",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/laiv/",
+        "us": "/liv/"
+      },
+      "frequency": 1,
+      "meaningVi": "trực tiếp (radio, TV), sống",
+      "exampleEn": "Finnegan's café hosts a live music performance every Saturday.",
+      "exampleVi": "Quán cà phê Finnegan's tổ chức một buổi trình diễn nhạc sống vào mỗi thứ Bảy.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "- live trực tiếp Me Calive dang sóng live được dùng để mô tả sự sống động của danh từ, còn alive lại được sử dụng với vai trò bổ ngữ.",
+        "The bird is still alive.",
+        "Con chim vẫn còn sống.",
+        "•• = từ vưng thường gặp trong Part 5 - 6 O = từ vựng thường gặp trong Part 7 Thời gian rảnh - Cộng đồng | 107 \"exhibition*"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "popular",
+      "word": "popular",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/pápjular/",
+        "us": "/pópjula/"
+      },
+      "frequency": 1,
+      "meaningVi": "ứng biến, ngẫu hứng",
+      "exampleEn": "The performers improvised a jazz melody.",
+      "exampleVi": "Các nghệ sĩ đã chơi ngẫu hứng một khúc nhạc jazz.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "donation",
+      "word": "donation",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/dounéijan/",
+        "us": "/dounéijan/"
+      },
+      "frequency": 1,
+      "meaningVi": "nổi tiếng, phổ biến",
+      "exampleEn": "Broadway musicals are so popular that they frequently go on tour.",
+      "exampleVi": "Nhạc kịch Broadway nổi tiếng đến mức họ thường xuyên đi lưu diễn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Bai thi TOEIC dạng thức mới popular : likable : preferred : favorite Đề thi TOEIC thường có các câu hỏi yêu cầu phân biệt sự khác nhau giữa các từ cùng mang nghĩa \"yêu thích\" này.",
+        "popular được yêu thích Được dùng khi nói về một thứ được nhiều người ưa thích.",
+        "- likable có cảm tình Được dùng khi nói về người hoặc vật nhận được cảm tình của người khác.",
+        "Likable managers receive greater respect from staff.",
+        "Những quản lý dễ mến nhận được nhiều sự tôn trọng hơn từ các nhân viên.",
+        "preferred dược thích hơn, được ưa hơn Được dùng khi nói về một thứ được ưa thích hơn những thứ khác.",
+        "Please select your preferred means of transportation below.",
+        "Xin hãy lựa chọn ở dưới đây L phương tiện giao thông mà bạn ưa thích.",
+        "favorite đươc thích nhất Dược dùng khi nói về một thứ được thích nhất trong nhiều thí tis favorite pastime is fishing Trò tiêu khiển anh ấy thích nhất là câu cá."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "improvise",
+      "word": "improvise",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ímpravàiz/",
+        "us": "/ímpravàiz/"
+      },
+      "frequency": 1,
+      "meaningVi": "sự quyên góp, từ thiện, sự tặng",
+      "exampleEn": "The library is accepting donations of children's books.",
+      "exampleVi": "Thư viện đang tiếp nhận những khoản quyên tặng sách thiếu nhi.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Bai thì TOEIC dạng thức mới I donation sự quyên tặng L donor người quyền góp Hãy lưu ý phân biệt danh từ chỉ hành động donation và danh từ chỉ người donor.",
+        "Lan Phân biệt từ loại donation (n.",
+        "sự quyên góp) và donate (v.",
+        "quyên góp)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "alumni",
+      "word": "alumni",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/alámnai/",
+        "us": "/alámnai/"
+      },
+      "frequency": 2,
+      "meaningVi": "bày, giới thiệu",
+      "exampleEn": "Please present valid tickets at the door.",
+      "exampleVi": "Vui lòng xuất trình vé hợp lệ tại cửa ra vào.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "present",
+      "word": "present",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/prizént/",
+        "us": "/préznt/"
+      },
+      "frequency": 3,
+      "meaningVi": "mặt, hiện diện, hiện tại, hiện thời",
+      "exampleEn": "The present owner of the resort intends to renovate it.",
+      "exampleVi": "Người chủ hiện tại của khu nghỉ dưỡng có ý định cải tạo nó.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Famous athlete Matt London was present at the game.",
+        "Vận động viên điền kinh nổi tiếng Matt London đã có mặt trong trận thi đấu đó.",
+        "cm present A with B đưa B cho A uơn present B to A dưa B cho A Sau with là từ chỉ vật được đưa, sau to là từ chỉ người."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "admission",
+      "word": "admission",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/admí{an/",
+        "us": "/admí{an/"
+      },
+      "frequency": 3,
+      "meaningVi": "sự thú nhận, sự nhận vào, sự thu nạp",
+      "exampleEn": "Those wishing to visit the exhibit will be charged an extra admission fee.",
+      "exampleVi": "Những người muốn tới thăm triển lãm sẽ bị tính thêm phí vào cửa.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Sart TOEIC dang truc mo."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "banquet",
+      "word": "banquet",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/bánkwit/",
+        "us": "/bánkwit/"
+      },
+      "frequency": 3,
+      "meaningVi": "bữa tiệc lớn",
+      "exampleEn": "The hotel has facilities for large-scale wedding banquets.",
+      "exampleVi": "Khách sạn có cơ sở vật chất để tổ chức những tiệc cưới quy mô lớn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Thời gian rảnh - Cộng đồng | 109 8 Hackers TOEIC Vocabulary Ba 1N TOEI dang tr0c midt * i ng nuớn g"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "c-midt",
+      "word": "c midt",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "1 0 uế vn tru g sặp",
+      "exampleEn": "trng man trng bh",
+      "exampleVi": "",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "anniversary",
+      "word": "anniversary",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/anavárrsari/",
+        "us": "/aenivá sari/"
+      },
+      "frequency": 3,
+      "meaningVi": "lễ kỷ niệm, ngày kỷ niệm",
+      "exampleEn": "The couple celebrated their 50th anniversary with a party.",
+      "exampleVi": "Cặp đôi đã ăn mừng kỷ niệm 50 năm ngày cưới của mình bằng một bữa tiệc.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "required",
+      "word": "required",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/rikwáiard/",
+        "us": "/rikwáiard/"
+      },
+      "frequency": 3,
+      "meaningVi": "cần thiết, được yêu cầu, phải có",
+      "exampleEn": "Proper swimming attire is required when using the hotel pool.",
+      "exampleVi": "Bắt buộc phải có đồ bơi phù hợp khi bạn sử dụng bể bơi của khách sạn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        ": im J OEIC dang Iur mot Cu be required for cần thiết cho điều gì ớn be required to do cần thiết để làm gì Chúng ta thường gặp trong đề thi dạng bị động required đi kèm với giới từ for hoặc to verb."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "succeed",
+      "word": "succeed",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 3,
+      "meaningVi": "nối tiếp, kế tiếp; thành công",
+      "exampleEn": "Peggy succeeded in convincing her family to visit Hawaii.",
+      "exampleVi": "Peggy đã thành công trong việc thuyết phục gia đình đi tham quan Hawaii.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Mr.",
+        "Chambers will succeed Ms.",
+        "Shipman as head of the Tourism Board after she retires.",
+        "Ông Chambers sẽ kế nhiệm bà Shipman trong vai trò trưởng ban Du lịch sau khi bà ấy nghỉ hưu."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rest",
+      "word": "rest",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 3,
+      "meaningVi": "nghỉ ngơi, thư giãn",
+      "exampleEn": "Hikers can rest on the bench halfway up the hill.",
+      "exampleVi": "Người đi bộ có thể nghỉ chân ở chiếc ghế băng giữa đường đi lên đồi.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "in sự thư giãn, nghỉ ngơi; phần còn lại The tour group had a rest before visiting the palace.",
+        "Nhóm du lịch đã nghỉ ngơi trước khi tới thăm cung diện.",
+        "Baran TOEI sang trüe mot (ym Khi được dùng với nghĩa chỉ thứ còn lại hoặc người còn lại, rest có thể thay bằng remainder."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "fund-raising",
+      "word": "fund-raising",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/fándrèizin/",
+        "us": "/fándrèizin/"
+      },
+      "frequency": 3,
+      "meaningVi": "việc gây quỹ",
+      "exampleEn": "Auctions are a popular form of fund-raising.",
+      "exampleVi": "Đấu giá là một hình thức gây quỹ phổ biến.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "resume",
+      "word": "resume",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/rizjum/",
+        "us": "/rizjum/"
+      },
+      "frequency": 3,
+      "meaningVi": "lấy lại, giành lại, bắt đầu lại, lại tiếp tục",
+      "exampleEn": "The play will resume after a short intermission.",
+      "exampleVi": "Vở kịch sẽ lại tiếp tục sau thời gian giải lao ngắn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "issue",
+      "word": "issue",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 3,
+      "meaningVi": "sự xuất bản, số báo, lần in; vấn đề Jack's cake recipe was in the",
+      "exampleEn": "April issue of Baker Monthly.",
+      "exampleVi": "Công thức làm bánh của Jack có trong số tháng Tư của tạp chí Baker Monthly.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "There are many perspectives on the issue of global warming.",
+        "Có rất nhiều quan điểm về vấn để sự nóng lên toàn cầu.",
+        "baNh TOEIC dang thuc mor Hãy nhớ cách dùng từ issue trong bài thi TOEIC."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "appear",
+      "word": "appear",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/apíar/",
+        "us": "/apía/"
+      },
+      "frequency": 3,
+      "meaningVi": "xuất hiện, trình diện",
+      "exampleEn": "The novelist appeared at the bookstore to sign autographs.",
+      "exampleVi": "Nhà văn đã xuất hiện ở hiệu sách để ký tặng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "uem appear in court trình diện tại tòa Hãy ghi nhớ những cách sử dụng này của từ appear.",
+        "R - từ vưng thường gặp trong Part 5 - 6 O = từ vựng thường gặp trong Pai Thời gian rảnh - Cộng đồng | 111"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "accompany",
+      "word": "accompany",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/okámpani/",
+        "us": "/okámpani/"
+      },
+      "frequency": 2,
+      "meaningVi": "đi cùng ai đó, kèm theo",
+      "exampleEn": "Mary accompanied her grandmother to the mall.",
+      "exampleVi": "Mary đi cùng bà cô ấy tới trung tâm thương mại.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Be careful because strong winds often accompany rain in the mountains.",
+        "Hãy cẩn thận vì ở trên núi gió mạnh thường kèm theo mưa."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "edition",
+      "word": "edition",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "sự phát hành, sự xuất bản, lần in, phiên bản",
+      "exampleEn": "A revised edition of the economics book will be published soon.",
+      "exampleVi": "Phiên bản có chỉnh sửa của cuốn sách kinh tế này sẽ sớm được xuất bản.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "specifically",
+      "word": "specifically",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/spisifikali/",
+        "us": "/spasífikali/"
+      },
+      "frequency": 2,
+      "meaningVi": "cụ thể, rõ ràng, đặc trưng",
+      "exampleEn": "The package terms specifically stated that guests would stay at a hotel.",
+      "exampleVi": "Các điều khoản của gói du lịch đã nêu rõ rằng du khách sẽ ở tại khách sạn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Campgrounds around the lake are worth visiting, specifically the Milligan site.",
+        "Những bãi cắm trại ở quanh hồ rất đáng ghé thăm, cụ thể là bãi Milligan."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "anonymous",
+      "word": "anonymous",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/anánamas/",
+        "us": "/anánimas/"
+      },
+      "frequency": 2,
+      "meaningVi": "giấu tên, ẩn danh, nặc danh The charity received $6,000",
+      "exampleEn": "from an anonymous donor.",
+      "exampleVi": "Tổ chức từ thiện đã nhận được 6000 đô-la từ một người quyên góp ẩn danh.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "M giao phó, ủy thác, cam kết, hứa The store is committed to providing excellent customer service.",
+        "Cửa hàng luôn cam kết cung cấp dịch vụ khách hàng tuyệt hảo."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "committ",
+      "word": "committ",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "thức",
+      "exampleEn": "mot (ip| be committed to -ing",
+      "exampleVi": "tận tâm với, cam kết làm gì Lưu ý, trong trường hợp này, sau giới từ to là danh động từ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "informative",
+      "word": "informative",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/inf5:rmativ/",
+        "us": "/inf5:mativ/"
+      },
+      "frequency": 2,
+      "meaningVi": "nhiều thông tin, có kiến thức, bổ ích",
+      "exampleEn": "The documentary was informative and interesting.",
+      "exampleVi": "Bộ phim tài liệu này rất bổ ích và thú vị.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "audience",
+      "word": "audience",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/árdiens/",
+        "us": "/árdiens/"
+      },
+      "frequency": 2,
+      "meaningVi": "giả, thính giả",
+      "exampleEn": "The audience applauded the singer enthusiastically.",
+      "exampleVi": "Khán giả cổ vũ cho ca sĩ rất nồng nhiệt.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "author",
+      "word": "author",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/5:0ar/",
+        "us": "/naut/"
+      },
+      "frequency": 2,
+      "meaningVi": "giả",
+      "exampleEn": "All of the author's short stories are popular.",
+      "exampleVi": "Tất cả truyện ngắn của tác giả đó đều nổi tiếng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "M ghi chú, lưu ý Please note the intricate details of the architecture.",
+        "Xin hãy lưu ý các chi tiết phức tạp của công trình kiến trúc này."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "antique",
+      "word": "antique",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/us0a [æntick/",
+        "us": "/us0a [æntick/"
+      },
+      "frequency": 1,
+      "meaningVi": "đồ cổ",
+      "exampleEn": "Antiques are popular for home decor.",
+      "exampleVi": "Đồ cổ rất phổ biến trong việc trang trí nhà cửa.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "manuscript",
+      "word": "manuscript",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/mánjuskript/",
+        "us": "/mánjuskript/"
+      },
+      "frequency": 1,
+      "meaningVi": "bản viết tay, bản thảo",
+      "exampleEn": "The author is working on several manuscripts.",
+      "exampleVi": "Tác giả đó đang viết một vài bản thảo.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "R"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "beneficial",
+      "word": "beneficial",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/bènafíjal/",
+        "us": "/bènifífal/"
+      },
+      "frequency": 1,
+      "meaningVi": "lợi, có ích",
+      "exampleEn": "The organization's work is beneficial to the community.",
+      "exampleVi": "Hoạt động của tổ chức đó có ích cho cộng đồng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "be beneficial for có ích cho cái gì tn be beneficial to có ích cho ai Hãy nhớ beneficial thường đi kèm giới từ to và for."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "upcoming",
+      "word": "upcoming",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ápkàmin/",
+        "us": "/ápkàmin/"
+      },
+      "frequency": 1,
+      "meaningVi": "sắp đến, sắp tới",
+      "exampleEn": "A reporter spoke to a candidate for the upcoming election.",
+      "exampleVi": "Phóng viên đã trao đổi với một ứng cử viên về cuộc bầu cử sắp tới.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Bar thi TOEIC dạng Thüc mới o upcoming school year năm học sắp tới ắp upcoming event sự kiện sắp tới upcoming mayoral election cuộc bầu cử thị trưởng sắp tới Hãy ghi nhớ các cách sử dụng thường gặp của upcoming với các từ như year, event, election."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "lend",
+      "word": "lend",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/lend/",
+        "us": "/lend/"
+      },
+      "frequency": 1,
+      "meaningVi": "mượn, cho vay",
+      "exampleEn": "The library lends a variety of audio-visual materials.",
+      "exampleVi": "Thư viện cho mượn rất nhiều loại tài liệu nghe nhìn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Sar thi TOEIC dạng thức mới s lend: borrow: rent • Hãy phân biệt sự khác nhau của các từ cùng mana nahĩa \"cho mượn\", \"mượn\" qua các ví dụ.",
+        "-lend cho mượn Được dùng khi nói về việc cho mượn thứ gì đó miễn phí.",
+        "- borrow mươn Được dùng khi nói về việc mượn thứ gì đó miễn phí.",
+        "We borrowed umbrellas at the front desk.",
+        "Chúng tôi đã mượn những cái ô ở quầy lễ tân.",
+        "- rent thuê Được dùng khi nói đến việc thuê xe hoặc thuê nhà (có mất phí.",
+        "Mark rented a car for the journey.",
+        "Mark đã thuê một chiếc xe cho chuyến đi đó."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "local",
+      "word": "local",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/láukal/",
+        "us": "/láukal/"
+      },
+      "frequency": 1,
+      "meaningVi": "địa phương, cục bộ",
+      "exampleEn": "The tournament will be held at the local high school.",
+      "exampleVi": "Trận đấu sẽ được tổ chức tại trường trung học địa phương.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "sam m TOEIC dang Thüc mot Pap| local high school trường trung học địa phương Lưu ý rằng high school là danh từ ghép nên ta phải dùng tính từ local chứ không phải trạng từ locally."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "advocate",
+      "word": "advocate",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/aedvokat/",
+        "us": "/aedvokat/"
+      },
+      "frequency": 1,
+      "meaningVi": "người ủng hộ, người biện hộ",
+      "exampleEn": "The writer is an advocate of public education.",
+      "exampleVi": "Nhà văn này là một người ủng hộ giáo dục công lập.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Bài thi TOEIC dạng thức mới Ee adorae f ali ing hg digl"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "contributor",
+      "word": "contributor",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/kantríbjuter/",
+        "us": "/kantríbjuter/"
+      },
+      "frequency": 1,
+      "meaningVi": "người cống hiến, người đóng góp journal.",
+      "exampleEn": "",
+      "exampleVi": "Bác sĩ đó là người thường xuyên đóng góp cho tạp chí",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "so-defy",
+      "word": "so defy",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "thức, không tuân theo, bất chấp tất cả Những tập phim tài liệu này đi ngược lại các hiểu biết thông thường về thể hình. Không lời nào có thể diễn tả được về vở kịch",
+      "exampleEn": "này.",
+      "exampleVi": "Balm TOEIC dane thüt mo: Chungdefy description được sử dụng khi nói về điều gì đó quá bất ngờ hoặc quá xuất sắc tới mức không thể diễn tả được.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Đây là cách diễn đạt thường xuất hiện trong đề thi TOEIC."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "fascinating",
+      "word": "fascinating",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/fasanèitin/",
+        "us": "/fasineitin/"
+      },
+      "frequency": 1,
+      "meaningVi": "hấp dẫn, lôi cuốn, quyến rũ Nhiều tác phẩm nghệ thuật hấp dẫn đã được trưng",
+      "exampleEn": "bày.",
+      "exampleVi": "fascinating dùng để nói về người hoặc vật có tính hấp dẫn, fascinated dùng để nói về cảm xúc khi bị hấp dẫn bởi thứ gì đó.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Hãy lưu ý sự khác biệt này để không bị nhầm lẫn."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "showing",
+      "word": "showing",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/Sóuin/",
+        "us": "/Sóuin/"
+      },
+      "frequency": 1,
+      "meaningVi": "sự trình diễn; chứng cứ",
+      "exampleEn": "",
+      "exampleVi": "Sẽ có thêm một buổi triển lãm các tác phẩm của nghệ sĩ này.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    }
+  ],
+  "story": {
+    "title": "Cuối Tuần Vui Vẻ Của ORI",
+    "content": "Sau một tuần làm việc chăm chỉ, ORI muốn dành thời gian để **relax** (thư giãn). Cô đăng ký tham gia một **activity** (hoạt động) tình nguyện của **committ** (cộng đồng) hàng không. Rất nhiều đồng nghiệp cùng **participate** (tham gia) chuyến đi này. Ban tổ chức đã **organize** (tổ chức) một buổi dã ngoại tuyệt vời. Mọi người **gather** (tụ họp/tập trung) tại một công viên xanh mát. Họ cùng chơi trò chơi, chia sẻ về **entertainment** (sở thích) cá nhân và thưởng thức các tiết mục **hobby** (giải trí) cây nhà lá vườn. ORI rất yêu thích các hoạt động **outdoor** (ngoài trời) này. Cô thật sự **enjoy** (tận hưởng) không khí trong lành và những tiếng cười sảng khoái bên bạn bè.",
+    "words": [
+      {
+        "word": "relax",
+        "meaningVi": "thư giãn"
+      },
+      {
+        "word": "activity",
+        "meaningVi": "hoạt động"
+      },
+      {
+        "word": "committ",
+        "meaningVi": "thức"
+      },
+      {
+        "word": "participate",
+        "meaningVi": "tham gia"
+      },
+      {
+        "word": "organize",
+        "meaningVi": "tổ chức"
+      },
+      {
+        "word": "gather",
+        "meaningVi": "tụ họp"
+      },
+      {
+        "word": "entertainment",
+        "meaningVi": "giải trí"
+      },
+      {
+        "word": "hobby",
+        "meaningVi": "sở thích"
+      },
+      {
+        "word": "outdoor",
+        "meaningVi": "ngoài trời"
+      },
+      {
+        "word": "enjoy",
+        "meaningVi": "tận hưởng"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
+      "questions": [
+        {
+          "q": "The museum has a unique ___ of stamps.",
+          "a": "collection",
+          "options": [
+            "rest",
+            "appear",
+            "collection",
+            "admission"
+          ]
+        },
+        {
+          "q": "The gallery hosted an ___ of urban scenic photographs.",
+          "a": "exhibition",
+          "options": [
+            "exhibition",
+            "rest",
+            "accompany",
+            "advocate"
+          ]
+        },
+        {
+          "q": "Finnegan's café hosts a ___ music performance every Saturday.",
+          "a": "live",
+          "options": [
+            "fascinating",
+            "issue",
+            "live",
+            "anonymous"
+          ]
+        },
+        {
+          "q": "The ___ owner of the resort intends to renovate it.",
+          "a": "present",
+          "options": [
+            "so defy",
+            "informative",
+            "present",
+            "fund-raising"
+          ]
+        },
+        {
+          "q": "Those wishing to visit the exhibit will be charged an extra ___ fee.",
+          "a": "admission",
+          "options": [
+            "advocate",
+            "required",
+            "admission",
+            "informative"
+          ]
+        },
+        {
+          "q": "The hotel has facilities for large-scale wedding ___s.",
+          "a": "banquet",
+          "options": [
+            "present",
+            "banquet",
+            "succeed",
+            "admission"
+          ]
+        },
+        {
+          "q": "The couple celebrated their 50th ___ with a party.",
+          "a": "anniversary",
+          "options": [
+            "edition",
+            "anonymous",
+            "anniversary",
+            "admission"
+          ]
+        },
+        {
+          "q": "Proper swimming attire is ___ when using the hotel pool.",
+          "a": "required",
+          "options": [
+            "rest",
+            "present",
+            "donation",
+            "required"
+          ]
+        },
+        {
+          "q": "Peggy ___ed in convincing her family to visit Hawaii.",
+          "a": "succeed",
+          "options": [
+            "issue",
+            "audience",
+            "anniversary",
+            "succeed"
+          ]
+        },
+        {
+          "q": "Hikers can ___ on the bench halfway up the hill.",
+          "a": "rest",
+          "options": [
+            "showing",
+            "rest",
+            "accompany",
+            "anniversary"
+          ]
+        }
+      ]
+    }
+  ]
+}

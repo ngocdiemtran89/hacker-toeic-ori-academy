@@ -1,0 +1,830 @@
+{
+  "id": "unit-09",
+  "day": 9,
+  "title": "Hồi sinh nền kinh tế",
+  "topic": "Kinh tế",
+  "sourcePages": [
+    129,
+    144
+  ],
+  "words": [
+    {
+      "id": "stagnant",
+      "word": "stagnant",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/stagnent/",
+        "us": "/stagnent/"
+      },
+      "frequency": 1,
+      "meaningVi": "trệ, uể oải, lờ đờ",
+      "exampleEn": "Profits are down this year as sales have been stagnant.",
+      "exampleVi": "Lợi nhuận năm nay giảm là do việc kinh doanh trì trệ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "(Eyn: Khi được dùng với nghĩa \"tình trạng suy thoái\", stagnant có thể thay bằng sluggish."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "dramatically",
+      "word": "dramatically",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/dramætikali/",
+        "us": "/dramætikali/"
+      },
+      "frequency": 3,
+      "meaningVi": "đột ngột, đáng kể",
+      "exampleEn": "Interest rates climbed dramatically.",
+      "exampleVi": "Lãi suất đã đột ngột tăng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "tăng lên/tăng trưởng/tăng đột ngột dramatically thường đi cùng các động từ mang nghĩa \"tăng lên\" như increase.",
+        "(y.I Khi nói về một biến động lớn và đột ngột, dramatically có thể được thay bằng substantially."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "brisk",
+      "word": "brisk",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/brisk/",
+        "us": "/brisk/"
+      },
+      "frequency": 1,
+      "meaningVi": "động, phát đạt, nhanh nhẹn",
+      "exampleEn": "A brisk market is developing in online shopping.",
+      "exampleVi": "Một thị trường sôi động đang phát triển trên môi trường mua sắm trực tuyến.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "\"rong lành, mát mổ\" (chỉ thời tiết) hoặc mang nghĩa \"nhanh chóng\", khi đó nó có thể lần lượt được thay bằng fresh hoặc quick, rapid, brief."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "unstable",
+      "word": "unstable",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/instéibl/",
+        "us": "/instéibl/"
+      },
+      "frequency": 1,
+      "meaningVi": "ổn định, không bền vững",
+      "exampleEn": "Gas prices have been unstable in recent years.",
+      "exampleVi": "Giá xăng dầu không ổn định trong những năm gần đây.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "(o ingease grugimb + dramatically"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rapidly",
+      "word": "rapidly",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/rápidli/",
+        "us": "/rápidli/"
+      },
+      "frequency": 2,
+      "meaningVi": "chóng, mau lẹ",
+      "exampleEn": "Energy demand increased rapidly.",
+      "exampleVi": "Nhu cầu về năng lượng tăng lên nhanh chóng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "soar",
+      "word": "soar",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/soir/",
+        "us": "/so:/"
+      },
+      "frequency": 1,
+      "meaningVi": "lên, tăng vọt",
+      "exampleEn": "Interest rates have soared due to inflation.",
+      "exampleVi": "Lãi suất tăng vọt lên do lạm phát.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "analyst",
+      "word": "analyst",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/nalist/",
+        "us": "/paténfal/"
+      },
+      "frequency": 3,
+      "meaningVi": "người phân tích, nhà phân tích",
+      "exampleEn": "Analysts recommend buying stock in energy companies.",
+      "exampleVi": "Các nhà phân tích khuyên nên mua cổ phiếu của các công ty năng lượng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "potential",
+      "word": "potential",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "tiềm năng, có khả năng",
+      "exampleEn": "Potential earnings from the trade deal could reach billions of dollars.",
+      "exampleVi": "Nguồn thu nhập tiềm năng từ giao dịch thương mại này có thể lên tới hàng tỷ đô-la.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "i tiểm lực tiềm năng The newly formed company has great potential to succeed.",
+        "Công ty mới thành lập đó có tiềm năng thành công rất lớn."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "pleased",
+      "word": "pleased",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/plizzd/",
+        "us": "/plizzd/"
+      },
+      "frequency": 2,
+      "meaningVi": "lòng, vui",
+      "exampleEn": "Investors are pleased with the market's performance.",
+      "exampleVi": "Nhà đầu tư rất hài lòng với hiệu quả của thị trường đó.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "costly",
+      "word": "costly",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/kástli/",
+        "us": "/kóstli/"
+      },
+      "frequency": 3,
+      "meaningVi": "tốn kém, đắt tiền",
+      "exampleEn": "Starting a business is costly.",
+      "exampleVi": "Khởi nghiệp sẽ rất tốn kém.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "particular",
+      "word": "particular",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/partíkjular/",
+        "us": "/patíkjulo/"
+      },
+      "frequency": 3,
+      "meaningVi": "đặc biệt, đặc thù, chi tiết",
+      "exampleEn": "Import taxes are higher for particular products that are luxury goods.",
+      "exampleVi": "Một số sản phẩm đặc biệt như là hàng xa xỉ bị áp thuế nhập khẩu cao hơn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Balihi TOEIC dana thüe moi cum in particular đặc biệt, nói riêng ae particular thường đi cùng giới từ in.",
+        "*#* = tỷ lệ xuất hiện rất cao * * = tỷ lệ xuất hiện cao *= tỷ lệ xuất hiện trung bình • = từ vưng thường gặp trong Part 5 - 6 : O - từ vưng thường gặp trong Part 7 8 Kinh tế | 157 bale !Ob dano NNR NO"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "drastic",
+      "word": "drastic",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/évadans/",
+        "us": "/évadans/"
+      },
+      "frequency": 3,
+      "meaningVi": "mạnh mẽ, quyết liệt",
+      "exampleEn": "Resolving the financial crisis will require drastic . action.",
+      "exampleVi": "Giải quyết khủng hoảng tài chính đòi hỏi phải có những hành động quyết liệt.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Private citizens want drastic reform of the banking industry.",
+        "Người dân mong muốn cải tổ triệt để ngành ngân hàng."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "evenly",
+      "word": "evenly",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/í:vanli/",
+        "us": "/í:vanli/"
+      },
+      "frequency": 2,
+      "meaningVi": "bằng, đều, ngang bằng nhau",
+      "exampleEn": "Economic wealth is not evenly distributed.",
+      "exampleVi": "Sự giàu có về kinh tế không được phân chia đều.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "evidence",
+      "word": "evidence",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/évidans/",
+        "us": "/évidans/"
+      },
+      "frequency": 3,
+      "meaningVi": "bằng chứng, dấu hiệu",
+      "exampleEn": "The latest employment data shows evidence that the economy is improving.",
+      "exampleVi": "Dữ liệu về việc làm mới nhất cho thấy bằng chứng rằng nền kinh tế đang cải thiện.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "prospect",
+      "word": "prospect",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/práspekt/",
+        "us": "/práspekt/"
+      },
+      "frequency": 3,
+      "meaningVi": "viễn cảnh, triển vọng Bolton",
+      "exampleEn": "Industries is facing the prospect of having to reduce its workforce.",
+      "exampleVi": "Bolton Industries đang đối mặt với viễn cảnh phải cắt giảm nhân lực.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "lead",
+      "word": "lead",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/lind/",
+        "us": "/lind/"
+      },
+      "frequency": 3,
+      "meaningVi": "chỉ huy, dẫn dắt, khiến cho, tạo nên (kết quả nào đó) Ms.",
+      "exampleEn": "Vasquez helped lead the company to success.",
+      "exampleVi": "Cô Vasquez đã giúp dẫn dắt công ty tới thành công.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Growing oil markets will lead to economic improvement.",
+        "Sự phát triển của thị trường dầu khí sẽ dẫn tới những cải thiện về kinh tế.",
+        "im TOEI cang trut mor cụm 1.",
+        "lead to dẫn đến hường lead thường kết hợp với giới từ to.",
+        "2.",
+        "leading + brand/company/figure thương hiệu/công ty/nhân vật dẫn đầu leading thường đi cùng các từ chỉ thương hiệu, công ty, nhân vật."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "fall",
+      "word": "fall",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "giảm xuống (giá cả, giá trị)",
+      "exampleEn": "The rate of unemployment has fallen steadily this quarter.",
+      "exampleVi": "Tỷ lệ thất nghiệp đã giảm đều trong quý này.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "thời kỳ, giai đoạn, khoảng thời gian For a period of three years, the company underrent rapid expansion.",
+        "Trong khoảng thời gian ba năm, công ty đã nhanh chóng mở rộng."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "indicator",
+      "word": "indicator",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/indikeitar/",
+        "us": "/indikeitar/"
+      },
+      "frequency": 2,
+      "meaningVi": "chỉ số",
+      "exampleEn": "Current economic indicators show rising growth in mining.",
+      "exampleVi": "Các chỉ số kinh tế hiện tại cho thấy sự phát triển ngày càng tăng trong ngành khai thác mỏ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "biểu thị, cho biết indication (n) der.",
+        "industrial (adi) (thuộc) công nghiệp industrious (adj) cần cù, siêng năng (der.",
+        "likelihood (n) sự khả thi lant) unlikely không chắc xảy ra 8"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "industry",
+      "word": "industry",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/índastri/",
+        "us": "/índastri/"
+      },
+      "frequency": 2,
+      "meaningVi": "nghiệp, ngành, nghề",
+      "exampleEn": "Jobs in the newspaper industry are declining rapidly.",
+      "exampleVi": "Việc làm trong ngành báo chí đang giảm nhanh chóng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "likely",
+      "word": "likely",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "khả năng, có thể xảy ra The new",
+      "exampleEn": "CEO is likely to confront major challenges.",
+      "exampleVi": "Vị giám đốc điều hành mới có khả năng sẽ phải đối mặt với những thách thức lớn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Ear!!",
+        "TOEI.",
+        "dang Inut moi tr be likely to do có thể sẽ làm gì sấp Hãy nhớ cách kết hợp thường gặp likely + to verb.",
+        "(in\" Hãy phân biệt hai từ cùng mang nghĩa \"có khả năng xảy ra\".",
+        "- likely có thể là Được dùng khi nói về một việc có khả năng xảy ra trong thực tế và thường sử dụng với chủ ngữ là người.",
+        "L possible có thể, có khả năng Được dùng để nói về chuyện gì đó có khả năng thành hiện thực và chủ ngữ không phải là người.",
+        "It is not possible to process your request at the moment.",
+        "Hiện tại chúng tôi không thể xử lý yêu cầu của bạn."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "director",
+      "word": "director",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/diréktar/",
+        "us": "/dairékta/"
+      },
+      "frequency": 2,
+      "meaningVi": "đốc, người chỉ đạo",
+      "exampleEn": "The company directors are discussing a new business strategy.",
+      "exampleVi": "Ban giám đốc công ty đang thảo luận về một chiến lược kinh doanh mới.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "substitute",
+      "word": "substitute",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/sábstatjù:t/",
+        "us": "/sábstitjut/"
+      },
+      "frequency": 2,
+      "meaningVi": "người/vật thay thế",
+      "exampleEn": "Corn syrup is used as a substitute for sugar in many food products.",
+      "exampleVi": "Xi-rô ngô được sử dụng như một nguyên liệu thay thế cho đường trong nhiều loại thực phẩm.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "substitute",
+      "word": "substitute",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/sábstatjù:t/",
+        "us": "/sábstitjut/"
+      },
+      "frequency": 2,
+      "meaningVi": "thế Ms.",
+      "exampleEn": "Ohara will be substituting for the project manager this week.",
+      "exampleVi": "Cô Ohara sẽ thay thế người quản lý dự án trong tuần này.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Bai th TOE/C dang thức mới tm substitute A with B (B for A) thay thế A bằng ặp be substituted for A được thay thế cho / be substituted with B được thay thế bằng B substitute thường đi cùng giới từ for, with.",
+        "Bạn cũng có thể gặp từ này trong để thì ở dạng bị động."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "consequence",
+      "word": "consequence",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "hậu quả, hệ quả, kết quả",
+      "exampleEn": "Profits grew as a consequence of increased business.",
+      "exampleVi": "Lợi nhuận tăng là kết quả của việc kinh doanh được cải thiện.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "economical",
+      "word": "economical",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/èkanámikal/",
+        "us": "/èkanámikal/"
+      },
+      "frequency": 1,
+      "meaningVi": "tiết kiệm, kinh tế",
+      "exampleEn": "Companies are searching for economical ways to utilize energy.",
+      "exampleVi": "Các công ty đang tìm kiếm những giải pháp tiết kiệm trong việc sử dụng năng lượng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "- economical kinh tế, tiết kiệm -economic thuộc về kinh tế, liên quan đến kinh tế Hãy phân biệt hai từ có cùng gốc từ và cùng từ loại này.",
+        "The latest economic indicators are available on the Internet.",
+        "Những chỉ số kinh tế mới nhất đã có trên Internet.",
+        "economics kinh tế học (số ít, không có mạo từ) economics được viết ở dạng số nhiều nhưng luôn được dùng như số ít và không có mạo từ đi kèm."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "thrive",
+      "word": "thrive",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/Oraiv/",
+        "us": "/Oraiv/"
+      },
+      "frequency": 1,
+      "meaningVi": "triển mạnh, phát đạt",
+      "exampleEn": "The delivery service industry is thriving.",
+      "exampleVi": "Ngành dịch vụ giao hàng đang phát triển mạnh.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "8 syn.",
+        "prosper, flourish phát đạt, hưng thịnh (v) giảm"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "implication",
+      "word": "implication",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ikanmikal [implikéifan/",
+        "us": "/ikanmikal [implikéifan/"
+      },
+      "frequency": 1,
+      "meaningVi": "sự liên quan, sự dính líu, hàm ý The Supreme",
+      "exampleEn": "Court ruling has implications for small businesses.",
+      "exampleVi": "Phán quyết của tòa án tối cao có liên quan đến các doanh nghiệp nhỏ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "wane",
+      "word": "wane",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/wein/",
+        "us": "/wein/"
+      },
+      "frequency": 1,
+      "meaningVi": "sự suy giảm",
+      "exampleEn": "Consumer spending is on the wane.",
+      "exampleVi": "Chi tiêu của người tiêu dùng đang giảm dần.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "prosperity",
+      "word": "prosperity",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/praspérati/",
+        "us": "/prospériti/"
+      },
+      "frequency": 1,
+      "meaningVi": "sự hưng thịnh, sự phát đạt",
+      "exampleEn": "prosperity và giới từ of.",
+      "exampleVi": "Nền kinh tế phát triển mạnh mẽ là điều kiện tiên quyết cho sự hưng thịnh của quốc gia. Lp | Đề thi có thể xuất hiện câu hỏi liên quan tới",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "depression",
+      "word": "depression",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/dipréfan/",
+        "us": "/dipréfan/"
+      },
+      "frequency": 1,
+      "meaningVi": "sự sựt giá, tình trạng đình trệ",
+      "exampleEn": "suy thoái kinh tế.",
+      "exampleVi": "Toàn bộ ngành công nghiệp đang trải qua một cuộc",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "dwindle",
+      "word": "dwindle",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/dwindl/",
+        "us": "/dwindl/"
+      },
+      "frequency": 1,
+      "meaningVi": "nhỏ lại, giảm",
+      "exampleEn": "",
+      "exampleVi": "Lợi nhuận của công ty đã giảm vào những năm 1990.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "impede",
+      "word": "impede",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/impird/",
+        "us": "/impird/"
+      },
+      "frequency": 1,
+      "meaningVi": "cản trở, ngăn cản",
+      "exampleEn": "",
+      "exampleVi": "Thiên tai xảy ra vào mùa hè sẽ gây cản trở cho sự phát triển của cả nước.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "promising",
+      "word": "promising",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/prámisin/",
+        "us": "/prómisin/"
+      },
+      "frequency": 1,
+      "meaningVi": "đầy hứa hẹn, nhiều triển vọng",
+      "exampleEn": "",
+      "exampleVi": "Rất nhiều người dang tìm kiếm những nghề nghiệp đầy triển vọng trong lĩnh vực y tế và công nghệ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "adversity",
+      "word": "adversity",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/advársati/",
+        "us": "/advársati/"
+      },
+      "frequency": 1,
+      "meaningVi": "sự bất lợi, nghịch cảnh",
+      "exampleEn": "",
+      "exampleVi": "Bất chấp nghịch cảnh mà Mike phải đối mặt, anh ấy vẫn tìm được một công việc.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    }
+  ],
+  "story": {
+    "title": "ORI Đọc Tin Tức Kinh Tế Hàng Không",
+    "content": "Buổi sáng tại quán cà phê, ORI chăm chú đọc báo về tình hình **economical** (kinh tế) toàn cầu. Báo cáo chỉ ra sự **growth** (tăng trưởng) mạnh mẽ của ngành dịch vụ. Mặc dù áp lực **inflation** (lạm phát) vẫn còn, nhưng **industry** (ngành công nghiệp) hàng không đang dần **recover** (phục hồi) nhanh chóng. Doanh thu (**revenue**) của hãng bay đạt mức kỷ lục, mang lại **profit** (lợi nhuận) lớn cho các nhà đầu tư. Sự phục hồi này là nhờ **demand** (nhu cầu) đi lại bằng đường hàng không của **passenger** (hành khách) tăng cao sau đại dịch. Hãng bay của ORI cũng đã tối ưu hóa **costly** (chi phí) vận hành để giữ mức giá vé ổn định cho mọi người.",
+    "words": [
+      {
+        "word": "economical",
+        "meaningVi": "tiết kiệm"
+      },
+      {
+        "word": "growth",
+        "meaningVi": "tăng trưởng"
+      },
+      {
+        "word": "inflation",
+        "meaningVi": "lạm phát"
+      },
+      {
+        "word": "industry",
+        "meaningVi": "nghiệp"
+      },
+      {
+        "word": "recover",
+        "meaningVi": "phục hồi"
+      },
+      {
+        "word": "revenue",
+        "meaningVi": "doanh thu"
+      },
+      {
+        "word": "profit",
+        "meaningVi": "lợi nhuận"
+      },
+      {
+        "word": "demand",
+        "meaningVi": "nhu cầu"
+      },
+      {
+        "word": "passenger",
+        "meaningVi": "hành khách"
+      },
+      {
+        "word": "costly",
+        "meaningVi": "tốn kém"
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
+      "questions": [
+        {
+          "q": "Profits are down this year as sales have been ___.",
+          "a": "stagnant",
+          "options": [
+            "dwindle",
+            "director",
+            "thrive",
+            "stagnant"
+          ]
+        },
+        {
+          "q": "Interest rates climbed ___.",
+          "a": "dramatically",
+          "options": [
+            "dwindle",
+            "dramatically",
+            "economical",
+            "unstable"
+          ]
+        },
+        {
+          "q": "A ___ market is developing in online shopping.",
+          "a": "brisk",
+          "options": [
+            "substitute",
+            "brisk",
+            "evidence",
+            "pleased"
+          ]
+        },
+        {
+          "q": "Gas prices have been ___ in recent years.",
+          "a": "unstable",
+          "options": [
+            "likely",
+            "unstable",
+            "economical",
+            "substitute"
+          ]
+        },
+        {
+          "q": "Energy demand increased ___.",
+          "a": "rapidly",
+          "options": [
+            "indicator",
+            "lead",
+            "rapidly",
+            "substitute"
+          ]
+        },
+        {
+          "q": "Interest rates have ___ed due to inflation.",
+          "a": "soar",
+          "options": [
+            "promising",
+            "prosperity",
+            "impede",
+            "soar"
+          ]
+        },
+        {
+          "q": "___s recommend buying stock in energy companies.",
+          "a": "analyst",
+          "options": [
+            "brisk",
+            "analyst",
+            "substitute",
+            "soar"
+          ]
+        },
+        {
+          "q": "___ earnings from the trade deal could reach billions of dollars.",
+          "a": "potential",
+          "options": [
+            "drastic",
+            "impede",
+            "potential",
+            "evidence"
+          ]
+        },
+        {
+          "q": "Investors are ___ with the market's performance.",
+          "a": "pleased",
+          "options": [
+            "pleased",
+            "depression",
+            "evidence",
+            "industry"
+          ]
+        },
+        {
+          "q": "Starting a business is ___.",
+          "a": "costly",
+          "options": [
+            "adversity",
+            "implication",
+            "costly",
+            "soar"
+          ]
+        }
+      ]
+    }
+  ]
+}

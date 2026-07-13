@@ -1,0 +1,842 @@
+{
+  "id": "unit-14",
+  "day": 14,
+  "title": "Mục đích chuyến công tác",
+  "topic": "Du lịch - Sân bay",
+  "sourcePages": [
+    209,
+    224
+  ],
+  "words": [
+    {
+      "id": "international",
+      "word": "international",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/intenajan|/",
+        "us": "/intarnáfanl/"
+      },
+      "frequency": 1,
+      "meaningVi": "quốc lế",
+      "exampleEn": "Passengers for international flights check in at counter three.",
+      "exampleVi": "Hành khách của các chuyến bay quốc tế làm thủ tục tại quầy số 3.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "itinerary",
+      "word": "itinerary",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/aitínarari/",
+        "us": "/aitínarari/"
+      },
+      "frequency": 2,
+      "meaningVi": "trình, lộ trình",
+      "exampleEn": "The itinerary includes a visit to Boston.",
+      "exampleVi": "Hành trình có bao gồm chuyến tham quan Boston.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "exotic",
+      "word": "exotic",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 1,
+      "meaningVi": "kỳ lạ, đẹp kỳ lạ",
+      "exampleEn": "Our website contains information on numerous exotic vacation spots.",
+      "exampleVi": "Trang web của chúng tôi có thông tin về rất nhiều địa điểm đi nghỉ tuyệt đẹp.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "diverse",
+      "word": "diverse",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/u daivás/",
+        "us": "/dáivars/"
+      },
+      "frequency": 2,
+      "meaningVi": "phú, đa dạng, nhiều loại",
+      "exampleEn": "A diverse selection of tours is available for London.",
+      "exampleVi": "Có rất nhiều lựa chọn cho các chuyến du lịch tới London.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Ba 1m TOEW dong thot mo cum\" a diverse + selection/range + of + danh từ số nhiều thên rất nhiều lựa chọn/loại diverse thường đi kèm với cụm a selection/range of.",
+        "Lúc này, diverse được đặt vào giữa mạo từ a và cụm selection/range, sau giới từ ơf là một danh từ số nhiều."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "superb",
+      "word": "superb",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/su:páib/",
+        "us": "/surpárrb/"
+      },
+      "frequency": 1,
+      "meaningVi": "nga, tráng lệ, tuyệt vời",
+      "exampleEn": "The service at the hotel was superb.",
+      "exampleVi": "Dịch vụ của khách sạn này rất tuyệt.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "attractions."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "baggage",
+      "word": "baggage",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/bagid3/",
+        "us": "/bagid3/"
+      },
+      "frequency": 1,
+      "meaningVi": "you. Hãy xếp hành lý vào dưới chiếc ghế ở phía trước bạn. an h: TOEIC dang thức mới",
+      "exampleEn": "Cu baggage claim nơi",
+      "exampleVi": "nhận hành lý (ở sân bay) e baggage và luggage đều là danh từ không đếm được, vì vậy hãy nhớ không dùng mạo từ a baggage hoặc hình thức số nhiều baggages.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "destination",
+      "word": "destination",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 3,
+      "meaningVi": "đích, điểm đến",
+      "exampleEn": "Travel agents can provide information about a travel destination.",
+      "exampleVi": "Các đại lý du lịch sẽ cung cấp thông tin về điểm du lịch.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "missing",
+      "word": "missing",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/mísig/",
+        "us": "/mísig/"
+      },
+      "frequency": 3,
+      "meaningVi": "bị mất, thất lạc",
+      "exampleEn": "The missing luggage will be sent to the hotel when it is found.",
+      "exampleVi": "Hành lý thất lạc sẽ được gửi đến khách sạn khi được tìm thấy.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "locate",
+      "word": "locate",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/laukéit/",
+        "us": "/laukéit/"
+      },
+      "frequency": 3,
+      "meaningVi": "vị trí, nằm ở, định vị",
+      "exampleEn": "Airline staff have tried to locate the lost luggage.",
+      "exampleVi": "Nhân viên sân bay đã cố gắng xác định vị trí hành lý bị thất lạc.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "International Arrivals is located on the next level.",
+        "Cửa đến của ga quốc tế nằm ở tầng tiếp theo.",
+        "Bai thi TOEIC dạng thức mới cm be (conveniently/perfectly) located + in/at/on ướn nằm ở vị trí thuận lợi tại Từ locate thường đi kèm với các giới từ in, at, on ở hình thức bị động.",
+        "Lúc này, những trạng từ conveniently hay perfectly được dùng để nhấn mạnh việc chủ ngữ được đặt ở vị trí tốt, thuận lợi.",
+        "(ym.) locate có thể thay bằng find khi dùng với nghĩa xác định vị trí chính xác của một đổ vật hoặc một công trình nào đó.",
+        "er locaion (w) vit,"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "board",
+      "word": "board",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/bord/",
+        "us": "/bard/"
+      },
+      "frequency": 2,
+      "meaningVi": "xấp xỉ, khoảng",
+      "exampleEn": "A nonstop flight takes approximately 13 hours.",
+      "exampleVi": "Một chuyến bay thẳng mất khoảng 13 tiếng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "ar t# TOEIC dang tuat mor (Ap) Cần phân biệt loại từ approximately (adv.",
+        "xấp xỉ) và approximate (adj.",
+        "khoảng)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "process",
+      "word": "process",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/práuses/",
+        "us": "/práses/"
+      },
+      "frequency": 3,
+      "meaningVi": "trình, tiến trình",
+      "exampleEn": "The entire airline ticketing process can be done online.",
+      "exampleVi": "Toàn bộ quá trình đặt vé máy bay có thể được thực hiện trên mạng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "process",
+      "word": "process",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/práuses/",
+        "us": "/práses/"
+      },
+      "frequency": 3,
+      "meaningVi": "công, xử lý, giải quyết The Chinese",
+      "exampleEn": "Embassy processes tourist visas.",
+      "exampleVi": "Đại sứ quán Trung Quốc sẽ giải quyết visa cho khách du lịch.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "board",
+      "word": "board",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/bord/",
+        "us": "/bard/"
+      },
+      "frequency": 2,
+      "meaningVi": "(tàu, xe, máy bay)",
+      "exampleEn": "Business class passengers were invited to board the plane first.",
+      "exampleVi": "Khách hàng hạng thương gia được mời lên máy bay trước.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "board",
+      "word": "board",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/bord/",
+        "us": "/bard/"
+      },
+      "frequency": 2,
+      "meaningVi": "ban, ủy ban, bộ Tourism",
+      "exampleEn": "Scotland's board of directors approved the budget proposal.",
+      "exampleVi": "Ban lãnh đạo của công ty Tourism Scoiland đã thông qua bản đề xuất ngân sách.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Barm TOBIC gaua lhuc mo Cum a board member thành viên ban lãnh đạo r0 a board of directors ban lãnh đạo Từ board trong phần thì Listening hay được dùng với nghĩa \"lên (tàu, máy bay)\", còn trong phần thi Reading lại thường mang nghĩa là \"ban lãnh đạo\".",
+        "t y = tử lê xuất hiên rất cao *# = tỷ lê xuất hiện cao * = tỷ lệ xuất hiện trung bình • = từ vựng thường gặp trong Part 5 - 6 O = từ vựng thường gặp trong Part 7 Du lịch - Sân bay | 237"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "is-comfortable",
+      "word": "is comfortable",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/kámfotabl/",
+        "us": "/kámfartabl/"
+      },
+      "frequency": 3,
+      "meaningVi": "thoải mái, dễ chịu",
+      "exampleEn": "The beds in this hotel are very comfortable.",
+      "exampleVi": "Giường ở khách sạn này vô cùng dễ chịu.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "tờ khai (hải quan)"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "declare",
+      "word": "declare",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/dikléa/",
+        "us": "/dikléar/"
+      },
+      "frequency": 3,
+      "meaningVi": "bố, tuyên bố, khai (để đóng thuế)",
+      "exampleEn": "Goods subject to import fees must be declared.",
+      "exampleVi": "Cần phải kê khai những hàng hóa thuộc diện đóng phí nhập khẩu.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "specify",
+      "word": "specify",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/spésifai/",
+        "us": "/spésafài/"
+      },
+      "frequency": 3,
+      "meaningVi": "rõ, ghi rõ",
+      "exampleEn": "Travelers can specify on the form which cities they would like to visit.",
+      "exampleVi": "Du khách có thể ghi rõ những thành phố họ muốn tham quan trên tờ đơn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "depart",
+      "word": "depart",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 3,
+      "meaningVi": "khởi hành Flight QF302 to",
+      "exampleEn": "Sydney departs from London Heathrow airport at 10:45 P.M.",
+      "exampleVi": "Chuyến hay QF302 tới Sydney sẽ khởi hành từ sân bay London Heathrow lúc 10:45 tối.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "emergency",
+      "word": "emergency",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "trường hợp khẩn cấp",
+      "exampleEn": "In case of emergency, oxygen masks will automatically drop from above.",
+      "exampleVi": "Trong trường hợp khẩn cấp, mặt nạ oxy sẽ tự động rơi từ trên xuống.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "passengert",
+      "word": "passengert",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/pásand/",
+        "us": "/paesandser/"
+      },
+      "frequency": 1,
+      "meaningVi": "captain.",
+      "exampleEn": "",
+      "exampleVi": "Những hành khách lên chuyến tàu du lịch đó sẽ được thuyền trưởng chào đón.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "tour",
+      "word": "tour",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/tuar/",
+        "us": "/tuar/"
+      },
+      "frequency": 2,
+      "meaningVi": "chuyến du lịch, chuyến tham quan",
+      "exampleEn": "The guide gave us a tour of the manufacturing plant.",
+      "exampleVi": "am on tour trong chuyến đi điểm du lịch.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Flyway Airlines is a popular carrier among travelers because it is inexpensive.",
+        "This plane was originally designed as a cargo carrier.",
+        "Italians customarily greet one another with a kiss on the cheek.",
+        "Lan Cần phân biệt loại từ customarily (adv.",
+        "theo lễ thường) và customary (adj, thông thường).",
+        "khẩu, hải quan"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "confuse",
+      "word": "confuse",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "",
+        "us": ""
+      },
+      "frequency": 2,
+      "meaningVi": "trộn, gây khó hiểu, gây bối rối",
+      "exampleEn": "The building's lack of signs confused visitors.",
+      "exampleVi": "Việc tòa nhà thiếu biển chỉ dẫn đã gây bối rối cho khách tới thăm.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "arrive",
+      "word": "arrive",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/aráiv/",
+        "us": "/aráiv/"
+      },
+      "frequency": 2,
+      "meaningVi": "đến, tới nơi",
+      "exampleEn": "The tour bus will arrive at its destination on time.",
+      "exampleVi": "Xe buýt du lịch sẽ tới điểm đến đúng giờ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "brochure",
+      "word": "brochure",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/broufúar/",
+        "us": "/broufúar/"
+      },
+      "frequency": 2,
+      "meaningVi": "cuốn sách mỏng, tờ gấp (để quảng cáo)",
+      "exampleEn": "Pick up a sightseeing brochure at the information center.",
+      "exampleVi": "Hãy lấy một tờ gấp giới thiệu về các danh lam thắng cảnh tại quầy thông tin.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "| brochure : catalog: guidelines Cần phân biệt cách sử dụng các từ vựng cùng mang nghĩa là \"sách giới thiệu, sách chỉ dẫn\" này.",
+        "• brochure tờ gấp quảng cáo Cuốn sách mỏng/tờ gấp có tranh ảnh, dùng cho mục đích giới thiệu, quảng bá.",
+        "catalog danh mục Bảng danh mục các sản phẩm hoặc sách trong thư viện.",
+        "Mark browsed through a catalog of duty-free items on sale.",
+        "Mark đã đọc qua danh mục các sản phẩm miễn thuế được bày bán.",
+        "guidelines chỉ dẫn, bản hướng dẫn Những cuốn sách mỏng bao gồm thông tin hướng dẫn về các chế độ, chính sách ealth and safety guidelines for travelers a osted all over the airpo Những chỉ dẫn về y tế và an ninh cho du khách được dán khắp sân bay.",
+        "M gồm, kéo theo; tham gia Getting to Kelford by bus involves one transfer.",
+        "Đi tới Kelford bằng xe buýt cần qua một lần chuyển tuyến.",
+        "The opening ceremony involved many local native dances.",
+        "Lễ khai trương có sự góp mặt của nhiều vũ công người bản địa trong vùng.",
+        "James enjoys involving himself in planning family vacations.",
+        "James thích thú khi được tham gia vào việc lên kế hoạch cho kỳ nghỉ của gia đình."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "ship",
+      "word": "ship",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/sip/",
+        "us": "/sip/"
+      },
+      "frequency": 2,
+      "meaningVi": "vận chuyển, gửi (hàng hóa, hành khách)",
+      "exampleEn": "The company's fleet ships cargo internationally.",
+      "exampleVi": "Đội tàu của công ty này vận chuyển hàng hóa xuyên quốc gia.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "unavailable",
+      "word": "unavailable",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ànavéilabl/",
+        "us": "/ànavéilabl/"
+      },
+      "frequency": 2,
+      "meaningVi": "sẵn, chưa xong, chưa sẵn sàng",
+      "exampleEn": "The luxury suite is currently unavailable.",
+      "exampleVi": "Phòng nghỉ cao cấp hiện không có sẵn.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "customs",
+      "word": "customs",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/sú:tkeis/",
+        "us": "/sú:tkeis/"
+      },
+      "frequency": 1,
+      "meaningVi": "hải quan",
+      "exampleEn": "Hundreds of passengers go through customs every hour.",
+      "exampleVi": "Hàng trăm hành khách đi qua cửa hải quan mỗi giờ.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Bai thi TOEIC dạng thức mới cum customs regulations điều lệ hải quan mn customs clearance việc thông quan go through customs làm thủ tục qua của hải quan customs thường xuất hiện trong các cụm từ cố định, hãy ghi nhớ những cụm từ này."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "away",
+      "word": "away",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/awéi/",
+        "us": "/awéi/"
+      },
+      "frequency": 1,
+      "meaningVi": "xa, cách xa, mất đi",
+      "exampleEn": "The city hall is located about fifteen miles away from the convention center.",
+      "exampleVi": "Quảng trường thành phố nằm cách trung tâm hội nghị chừng 15 dặm.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "ue away: far in | Lưu ý phân biệt cách sử dụng của hai từ cùng mang nghĩa là \"xa\" này.",
+        "- away xa, cách xa Ngay trước away ta có thể dùng từ chỉ đơn vị tính khoảng cách.",
+        "L far xa Trước far không được dùng từ chỉ đơn vị tính khoảng cách, 20 kilometers far from the airport là cụm từ sai.",
+        "The subway station is located far from the domestic airport.",
+        "Ga tàu điện ngầm nằm cách xa sân bay nội địa."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "dramatic",
+      "word": "dramatic",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/drematik/",
+        "us": "/drematik/"
+      },
+      "frequency": 1,
+      "meaningVi": "kịch tính, gây xúc động; đột ngột, ấn tượng",
+      "exampleEn": "This tour includes admiring the country's most dramatic scenery.",
+      "exampleVi": "Chuyến du lịch này bao gồm cả hoạt động chiêm ngưỡng cảnh đẹp ấn tượng nhất đất nước.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "ar th TOEIC dang tức một cum dramatic scenery khung cảnh ấn tượng Le dramatic + increase/rise/fall mức tăng/giảm mạnh Ngoài nghĩa \"kịch tích\", dramatic còn được hiểu là \"nhanh, mạnh\" khi đi với các danh từ chỉ sự tăng, giảm như increase, rise hay fall."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "hospitality",
+      "word": "hospitality",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/hospitalati/",
+        "us": "/haspatalati/"
+      },
+      "frequency": 1,
+      "meaningVi": "sự hiếu khách, sự thân thiện",
+      "exampleEn": "The guests appreciated the hospitality extended to them during their stay.",
+      "exampleVi": "Các vị khách đều rất cảm kích sự hiếu khách mà họ đã nhận được trong suốt thời gian ở đây.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "Bai thi TOEIC dang thức mới im hospitality extended to sự hiếu khách dành ch un hospitality industry ngành khách sạt Từ hospitality với nghĩa \"sự hiếu khách\" thường được kết hợp với động từ extend."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "indulge",
+      "word": "indulge",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/indáld3/",
+        "us": "/indáld3/"
+      },
+      "frequency": 1,
+      "meaningVi": "chiều theo; tận hưởng, say mê",
+      "exampleEn": "Indulge in a getaway to the jungles and reefs of Belize.",
+      "exampleVi": "Hãy tận hưởng quãng thời gian sống tách biệt trong rừng rậm và các rặng đá ngầm ở Belize.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "der| seat (n) chỗ ngồi; (v) ngồi um indulge in tận hưởng (= be addicted to) sặp indulge thường đi kèm với giới từ in"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "proximity",
+      "word": "proximity",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/proksímiti/",
+        "us": "/proksímiti/"
+      },
+      "frequency": 1,
+      "meaningVi": "sự gần, sự lân cận",
+      "exampleEn": "he conference center is in close proximity to the hote rung",
+      "exampleVi": "tâm hội nghị ở rất gần khách sạr ml in close proximity to ở rất gần",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "proximity",
+      "word": "proximity",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/proksímiti/",
+        "us": "/proksímiti/"
+      },
+      "frequency": 1,
+      "meaningVi": "Từ",
+      "exampleEn": "proximity thường xuất hiện trong các",
+      "exampleVi": "cụm từ cố định, bạn hãy ghi nhớ những cụm từ này.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "seating",
+      "word": "seating",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/sitig/",
+        "us": "/praksímati/"
+      },
+      "frequency": 1,
+      "meaningVi": "chỗ ngồi; sự xếp chỗ",
+      "exampleEn": "The seating capacity of this airplane is 250 passengers.",
+      "exampleVi": "Số ghế ngồi của chiếc máy bay này đủ cho 250 hành khách.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "The seating arrangements were finalized before guests arrived.",
+        "Việc bố trí chỗ ngồi đã được hoàn tất trước khi khách đến.",
+        "BanhTOEIC dang Inde mol ld seating : seat hầm Lưu ý phân biêt cách sử dung của hai từ cùng mang nghĩa là \"chỗ ngồi\" này.",
+        "- seating khu vực chỗ ngồi, việc sắp xếp chỗ ngồi Là từ chỉ toàn bộ khu vực chỗ ngồi hoặc việc bố trí chỗ ngồi ở một chương trình, sự kiện nào đó.",
+        "L seat chỗ ngồi Thường được dùng để chỉ một chỗ ngồi cụ thể.",
+        "The hotel lounge has a dozen fully reclining seats.",
+        "Sảnh chờ của khách sạn có 12 chiếc ghế tựa.",
+        "• = từ vựng thường gặp trong Part 5 - 6 O = từ vựng thường gặp trong Part 7 Du lịch - Sân bay | 243 Ba m TOti dang mul mudr"
+      ],
+      "needsReview": false
+    }
+  ],
+  "story": {
+    "title": "Hành Trình Bay Của ORI",
+    "content": "Hôm nay, ORI thức dậy từ 4 giờ sáng để chuẩn bị đến **airport** (sân bay). Cô sẽ tham gia một **flight** (chuyến bay) đường dài đến Tokyo. Cầm tấm vé (**ticket**) và cuốn hộ chiếu (**passport**) trên tay, ORI cảm thấy vô cùng háo hức. Cô nhanh chóng hoàn tất thủ tục lên máy bay (**board**) và gửi hành lý (**baggage**). Dù thời tiết xấu làm chuyến bay bị **delay** (trì hoãn) nhẹ, ORI vẫn kiên nhẫn đợi ở cửa **gate** (cổng lên máy bay). Cuối cùng, máy bay cũng cất cánh hướng về **destination** (điểm đến). ORI mỉm cười nhìn ra cửa sổ, tự hào là một **passengert** (hành khách) đặc biệt đại diện cho hãng.",
+    "words": [
+      {
+        "word": "airport",
+        "meaningVi": "sân bay"
+      },
+      {
+        "word": "flight",
+        "meaningVi": "chuyến bay"
+      },
+      {
+        "word": "ticket",
+        "meaningVi": "vé"
+      },
+      {
+        "word": "passport",
+        "meaningVi": "hộ chiếu"
+      },
+      {
+        "word": "board",
+        "meaningVi": "xấp xỉ"
+      },
+      {
+        "word": "baggage",
+        "meaningVi": "you. Hãy xếp hành lý vào dưới chiếc ghế ở phía trước bạn. an h: TOEIC dang thức mới"
+      },
+      {
+        "word": "delay",
+        "meaningVi": "trì hoãn"
+      },
+      {
+        "word": "gate",
+        "meaningVi": "cổng"
+      },
+      {
+        "word": "destination",
+        "meaningVi": "đích"
+      },
+      {
+        "word": "passengert",
+        "meaningVi": "captain."
+      }
+    ]
+  },
+  "quiz": [
+    {
+      "type": "fill-in-the-blank",
+      "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
+      "questions": [
+        {
+          "q": "Passengers for ___ flights check in at counter three.",
+          "a": "international",
+          "options": [
+            "locate",
+            "passengert",
+            "international",
+            "arrive"
+          ]
+        },
+        {
+          "q": "The ___ includes a visit to Boston.",
+          "a": "itinerary",
+          "options": [
+            "declare",
+            "board",
+            "proximity",
+            "itinerary"
+          ]
+        },
+        {
+          "q": "Our website contains information on numerous ___ vacation spots.",
+          "a": "exotic",
+          "options": [
+            "declare",
+            "specify",
+            "exotic",
+            "itinerary"
+          ]
+        },
+        {
+          "q": "A ___ selection of tours is available for London.",
+          "a": "diverse",
+          "options": [
+            "dramatic",
+            "international",
+            "diverse",
+            "board"
+          ]
+        },
+        {
+          "q": "The service at the hotel was ___.",
+          "a": "superb",
+          "options": [
+            "process",
+            "superb",
+            "ship",
+            "locate"
+          ]
+        },
+        {
+          "q": "Cu ___ claim nơi",
+          "a": "baggage",
+          "options": [
+            "locate",
+            "baggage",
+            "diverse",
+            "passengert"
+          ]
+        },
+        {
+          "q": "Travel agents can provide information about a travel ___.",
+          "a": "destination",
+          "options": [
+            "missing",
+            "destination",
+            "away",
+            "unavailable"
+          ]
+        },
+        {
+          "q": "The ___ luggage will be sent to the hotel when it is found.",
+          "a": "missing",
+          "options": [
+            "process",
+            "proximity",
+            "proximity",
+            "missing"
+          ]
+        },
+        {
+          "q": "Airline staff have tried to ___ the lost luggage.",
+          "a": "locate",
+          "options": [
+            "locate",
+            "board",
+            "brochure",
+            "itinerary"
+          ]
+        },
+        {
+          "q": "The entire airline ticketing ___ can be done online.",
+          "a": "process",
+          "options": [
+            "specify",
+            "board",
+            "proximity",
+            "process"
+          ]
+        }
+      ]
+    }
+  ]
+}

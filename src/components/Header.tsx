@@ -3,9 +3,11 @@ import { Link } from 'react-router-dom';
 interface HeaderProps {
   dark: boolean;
   onToggleDark: () => void;
+  onLock?: () => void;
+  isAuthenticated?: boolean;
 }
 
-export default function Header({ dark, onToggleDark }: HeaderProps) {
+export default function Header({ dark, onToggleDark, onLock, isAuthenticated }: HeaderProps) {
   return (
     <header className={`sticky top-0 z-50 border-b transition-all duration-300 ${
       dark
@@ -28,6 +30,23 @@ export default function Header({ dark, onToggleDark }: HeaderProps) {
         </Link>
 
         <div className="flex items-center gap-2">
+          {isAuthenticated && onLock && (
+            <button
+              onClick={onLock}
+              className={`w-9 h-9 rounded-xl flex items-center justify-center transition-all duration-200 hover:scale-105 active:scale-95 ${
+                dark
+                  ? 'bg-surface-800 text-surface-200 hover:bg-surface-800/80 hover:text-red-400'
+                  : 'bg-primary-50 text-primary-600 hover:bg-primary-100 hover:text-red-500'
+              }`}
+              title="Khóa website"
+              aria-label="Lock website"
+            >
+              <svg className="w-4.5 h-4.5" fill="none" stroke="currentColor" strokeWidth="2" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z"/>
+              </svg>
+            </button>
+          )}
+
           <button
             onClick={onToggleDark}
             className={`w-9 h-9 rounded-xl flex items-center justify-center transition-all duration-200 hover:scale-105 active:scale-95 ${

@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { useState, useEffect } from 'react';
 import Header from './components/Header';
+import PasswordGate from './components/PasswordGate';
 import DashboardPage from './pages/DashboardPage';
 import UnitDetailPage from './pages/UnitDetailPage';
 import FlashcardPage from './pages/FlashcardPage';
@@ -13,10 +14,28 @@ export default function App() {
     return saved ? JSON.parse(saved) : false;
   });
 
+  const [isAuthenticated, setIsAuthenticated] = useState(() => {
+    return localStorage.getItem('ori-auth') === 'true';
+  });
+
   useEffect(() => {
     localStorage.setItem('ori-dark-mode', JSON.stringify(dark));
     document.documentElement.classList.toggle('dark', dark);
   }, [dark]);
+
+  const handleAuthSuccess = () => {
+    localStorage.setItem('ori-auth', 'true');
+    setIsAuthenticated(true);
+  };
+
+  const handleLock = () => {
+    localStorage.removeItem('ori-auth');
+    setIsAuthenticated(false);
+  };
+
+  if (!isAuthenticated) {
+    return <PasswordGate dark={dark} onSuccess={handleAuthSuccess} />;
+  }
 
   return (
     <BrowserRouter>
@@ -25,7 +44,12 @@ export default function App() {
           ? 'bg-surface-950 text-surface-100' 
           : 'bg-gradient-to-br from-primary-50 via-white to-accent-400/10 text-surface-900'
       }`}>
-        <Header dark={dark} onToggleDark={() => setDark(!dark)} />
+        <Header 
+          dark={dark} 
+          onToggleDark={() => setDark(!dark)} 
+          onLock={handleLock}
+          isAuthenticated={isAuthenticated}
+        />
         <main className="max-w-6xl mx-auto px-4 sm:px-6 pb-12">
           <Routes>
             <Route path="/" element={<DashboardPage dark={dark} />} />

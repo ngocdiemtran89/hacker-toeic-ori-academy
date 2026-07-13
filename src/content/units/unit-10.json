@@ -834,10 +834,10 @@
           "q": "For every ___ of $100 or more, customers will receive a raffle ticket.",
           "a": "purchase",
           "options": [
-            "spare",
-            "instruction",
-            "fabric",
-            "purchase"
+            "area",
+            "valid",
+            "purchase",
+            "price"
           ]
         },
         {
@@ -845,79 +845,79 @@
           "a": "installment",
           "options": [
             "installment",
-            "offer",
-            "benefit",
-            "experg"
+            "spare",
+            "valid",
+            "spare"
           ]
         },
         {
           "q": "Toyama launched an ___ mid-range sedan.",
           "a": "affordable",
           "options": [
-            "delivery",
+            "affordable",
+            "valid",
             "qualify",
-            "auction",
-            "affordable"
+            "refund"
           ]
         },
         {
           "q": "The sales representatives help customers decide ___ what style fits them best.",
           "a": "exactly",
           "options": [
-            "description",
-            "qualify",
-            "charge",
-            "exactly"
+            "valid",
+            "exactly",
+            "affordable",
+            "exclusively"
           ]
         },
         {
           "q": "A number of antique pieces will be sold at the ___.",
           "a": "auction",
           "options": [
-            "redeemable",
+            "affordable",
+            "experienced",
             "auction",
-            "area",
-            "benefit"
+            "valid"
           ]
         },
         {
           "q": "The price includes shipping and handling ___s.",
           "a": "charge",
           "options": [
-            "notice",
-            "installment",
-            "benefit",
-            "charge"
+            "charge",
+            "auction",
+            "spare",
+            "fabric"
           ]
         },
         {
           "q": "The phone company ___s high fees for installations.",
           "a": "charge",
           "options": [
-            "area",
+            "desire",
             "charge",
-            "description",
-            "offer"
+            "exclusively",
+            "area"
           ]
         },
         {
           "q": "The prices listed in the catalog are effective until further ___.",
           "a": "notice",
           "options": [
-            "instruction",
-            "alter",
-            "charge",
-            "notice"
+            "mutually",
+            "refund",
+            "notice",
+            "benefit"
           ]
         },
         {
           "q": "Bill is the most ___ salesperson in the store.",
           "a": "experienced",
           "options": [
-            "purchase",
-            "o hành",
-            "fabric",
-            "experienced"
+            "delivery",
+            "experienced",
+            "area",
+            "authentie"
           ]
         },
         {
@@ -925,9 +925,9 @@
           "a": "instruction",
           "options": [
             "instruction",
-            "fabric",
-            "notice",
-            "experg"
+            "relatively",
+            "delivery",
+            "valid"
           ]
         }
       ]

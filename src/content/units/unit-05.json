@@ -816,49 +816,49 @@
           "q": "A ___ surveillance system was installed.",
           "a": "sophisticated",
           "options": [
-            "sophisticated",
-            "promptly",
-            "accessible",
-            "aware"
+            "concerned",
+            "permanently",
+            "clarify",
+            "sophisticated"
           ]
         },
         {
           "q": "The report was completed in a ___ manner.",
           "a": "timely",
           "options": [
-            "divide",
+            "tài chính.",
+            "concerned",
             "accessible",
-            "timely",
-            "outstanding"
+            "timely"
           ]
         },
         {
           "q": "It is company policy to respond ___ to all inquiries.",
           "a": "promptly",
           "options": [
-            "overview",
+            "a công ty.",
+            "department",
             "promptly",
-            "explain",
-            "compile"
+            "timely"
           ]
         },
         {
           "q": "The 18th floor is only ___ to executive staff.",
           "a": "accessible",
           "options": [
-            "compliance",
+            "expertise",
+            "accidentally",
             "accessible",
-            "replacement",
-            "expertise"
+            "essential"
           ]
         },
         {
           "q": "xét ___ from colleagues can be of great assistance.",
           "a": "feedback",
           "options": [
-            "demonstrate",
-            "matter",
+            "a công ty.",
             "expertise",
+            "accessible",
             "feedback"
           ]
         },
@@ -866,50 +866,50 @@
           "q": "The director presented an ___ business plan.",
           "a": "outstanding",
           "options": [
-            "feedback",
-            "sophisticated",
             "outstanding",
-            "replacement"
+            "aspect",
+            "replacement",
+            "compliance"
           ]
         },
         {
           "q": "Please ___ the director that the meeting has been canceled.",
           "a": "inform",
           "options": [
+            "overview",
             "inform",
-            "permanently",
-            "major",
-            "department"
+            "a công ty.",
+            "replacement"
           ]
         },
         {
           "q": "Report payroll problems to the finance ___.",
           "a": "department",
           "options": [
-            "expertise",
             "department",
-            "clarify",
-            "major"
+            "sophisticated",
+            "expertise",
+            "aspect"
           ]
         },
         {
           "q": "The assistant ___d a list of tablet computer manufacturers.",
           "a": "compile",
           "options": [
-            "demonstrate",
-            "sophisticated",
+            "matter",
             "compile",
-            "clarify"
+            "expertise",
+            "essential"
           ]
         },
         {
           "q": "Some employees received separation pay ___ to the company's closing.",
           "a": "subsequent",
           "options": [
-            "contain",
-            "feedback",
             "subsequent",
-            "fulfill"
+            "department",
+            "speak",
+            "compile"
           ]
         }
       ]

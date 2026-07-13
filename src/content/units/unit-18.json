@@ -221,9 +221,9 @@
           "q": "The hotel ___d the guest for the erroneous charge.",
           "a": "compensate",
           "options": [
+            "reception",
             "compensate",
-            "chef",
-            "elegant",
+            "flavor",
             "container"
           ]
         },
@@ -231,20 +231,20 @@
           "q": "The restaurant's head ___ is famous across Europe.",
           "a": "chef",
           "options": [
-            "chef",
-            "elegant",
             "reception",
-            "available"
+            "available",
+            "chef",
+            "container"
           ]
         },
         {
           "q": "Food may be kept for longer periods by storing it in airtight ___s.",
           "a": "container",
           "options": [
+            "compensate",
             "container",
-            "elegant",
-            "chef",
-            "available"
+            "reception",
+            "compensate"
           ]
         },
         {
@@ -252,39 +252,39 @@
           "a": "elegant",
           "options": [
             "elegant",
-            "flavor",
             "available",
-            "chef"
+            "chef",
+            "flavor"
           ]
         },
         {
           "q": "The shop sells ice cream in a variety of ___s.",
           "a": "flavor",
           "options": [
-            "flavor",
-            "available",
-            "container",
-            "compensate"
+            "compensate",
+            "elegant",
+            "reception",
+            "flavor"
           ]
         },
         {
           "q": "The sauna is ___ to all registered guests.",
           "a": "available",
           "options": [
-            "reception",
-            "container",
+            "available",
+            "chef",
             "elegant",
-            "available"
+            "compensate"
           ]
         },
         {
           "q": "The college held a welcome ___ for the guest speaker.",
           "a": "reception",
           "options": [
-            "chef",
-            "flavor",
+            "reception",
             "available",
-            "reception"
+            "elegant",
+            "compensate"
           ]
         }
       ]

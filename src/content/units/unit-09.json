@@ -728,59 +728,59 @@
           "q": "Profits are down this year as sales have been ___.",
           "a": "stagnant",
           "options": [
-            "dwindle",
-            "director",
-            "thrive",
-            "stagnant"
+            "substitute",
+            "evenly",
+            "stagnant",
+            "prospect"
           ]
         },
         {
           "q": "Interest rates climbed ___.",
           "a": "dramatically",
           "options": [
-            "dwindle",
             "dramatically",
-            "economical",
-            "unstable"
+            "analyst",
+            "pleased",
+            "substitute"
           ]
         },
         {
           "q": "A ___ market is developing in online shopping.",
           "a": "brisk",
           "options": [
-            "substitute",
+            "implication",
             "brisk",
-            "evidence",
-            "pleased"
+            "analyst",
+            "economical"
           ]
         },
         {
           "q": "Gas prices have been ___ in recent years.",
           "a": "unstable",
           "options": [
-            "likely",
             "unstable",
-            "economical",
-            "substitute"
+            "dramatically",
+            "analyst",
+            "evidence"
           ]
         },
         {
           "q": "Energy demand increased ___.",
           "a": "rapidly",
           "options": [
-            "indicator",
-            "lead",
-            "rapidly",
-            "substitute"
+            "economical",
+            "director",
+            "fall",
+            "rapidly"
           ]
         },
         {
           "q": "Interest rates have ___ed due to inflation.",
           "a": "soar",
           "options": [
-            "promising",
+            "dwindle",
             "prosperity",
-            "impede",
+            "depression",
             "soar"
           ]
         },
@@ -788,20 +788,20 @@
           "q": "___s recommend buying stock in energy companies.",
           "a": "analyst",
           "options": [
-            "brisk",
-            "analyst",
             "substitute",
-            "soar"
+            "implication",
+            "impede",
+            "analyst"
           ]
         },
         {
           "q": "___ earnings from the trade deal could reach billions of dollars.",
           "a": "potential",
           "options": [
-            "drastic",
-            "impede",
-            "potential",
-            "evidence"
+            "analyst",
+            "pleased",
+            "indicator",
+            "potential"
           ]
         },
         {
@@ -809,19 +809,19 @@
           "a": "pleased",
           "options": [
             "pleased",
-            "depression",
-            "evidence",
-            "industry"
+            "evenly",
+            "promising",
+            "indicator"
           ]
         },
         {
           "q": "Starting a business is ___.",
           "a": "costly",
           "options": [
-            "adversity",
-            "implication",
             "costly",
-            "soar"
+            "prosperity",
+            "implication",
+            "pleased"
           ]
         }
       ]

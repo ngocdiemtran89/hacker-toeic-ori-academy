@@ -850,30 +850,30 @@
           "q": "Customer ___s help to improve product quality.",
           "a": "survey",
           "options": [
-            "t.\nT",
+            "consecutive",
             "survey",
-            "appreciate",
-            "affect"
+            "ng.",
+            "buy"
           ]
         },
         {
           "q": "Almost all survey ___s rated the product highly.",
           "a": "respondent",
           "options": [
-            "consistently",
-            "s utmost",
             "respondent",
-            "competition"
+            "appreciate",
+            "probable",
+            "campaign"
           ]
         },
         {
           "q": "anatronic has a virtual ___ on th lanufacture of digital recorders Panatronic",
           "a": "monopoly",
           "options": [
-            "affect",
             "monopoly",
-            "seasonal",
-            "survey"
+            "appreciate",
+            "respondent",
+            "comparison"
           ]
         },
         {
@@ -882,38 +882,38 @@
           "options": [
             "competition",
             "appreciate",
-            "additional",
-            "postpone"
+            "raise",
+            "expand"
           ]
         },
         {
           "q": "The factory has ___ provided the highest grade products.",
           "a": "consistently",
           "options": [
-            "targef",
+            "impact",
             "t.\nT",
-            "consistently",
-            "examine"
+            "mounting",
+            "consistently"
           ]
         },
         {
           "q": "The company could not meet the increased ___ for mobile devices.",
           "a": "demand",
           "options": [
-            "focus",
-            "expand",
-            "demand",
-            "reserve"
+            "reserve",
+            "comparison",
+            "affect",
+            "demand"
           ]
         },
         {
           "q": "Optics has ___ed its marketing and sales division.",
           "a": "expand",
           "options": [
-            "expectation",
-            "expand",
-            "mounting",
-            "very"
+            "reserve",
+            "targef",
+            "buy",
+            "expand"
           ]
         },
         {
@@ -921,18 +921,18 @@
           "a": "advanced",
           "options": [
             "advanced",
-            "cooperate",
-            "seasonal",
-            "like"
+            "affect",
+            "ng.",
+            "buy"
           ]
         },
         {
           "q": "Organizers ___d the conference on management strategies because of bad weather.",
           "a": "postpone",
           "options": [
-            "affect",
-            "ng.",
             "postpone",
+            "targef",
+            "buy",
             "mounting"
           ]
         },
@@ -940,10 +940,10 @@
           "q": "Several investors decided to purchase ___ stocks.",
           "a": "additional",
           "options": [
-            "respondent",
-            "additional",
-            "extremely",
-            "postpone"
+            "appreciate",
+            "targef",
+            "cooperate",
+            "additional"
           ]
         }
       ]

@@ -828,100 +828,100 @@
           "q": "The popular video game is ___ out of stock in stores, but may be bought online.",
           "a": "temporarily",
           "options": [
+            "move",
+            "quote",
             "temporarily",
-            "commercial",
-            "inventory",
-            "move"
+            "invoice"
           ]
         },
         {
           "q": "Imported vehicles are sold only by licensed car ___s.",
           "a": "dealer",
           "options": [
-            "assure",
-            "commercial",
-            "selection",
-            "dealer"
+            "inventory",
+            "seek",
+            "dealer",
+            "discount"
           ]
         },
         {
           "q": "Many factories offer a modest discount for ___- orders.",
           "a": "bulk",
           "options": [
-            "seek",
+            "bulk",
+            "clientele",
             "discount",
-            "distribute",
-            "bulk"
+            "cOst"
           ]
         },
         {
           "q": "The ___ in the warehouse is checked at regular intervals.",
           "a": "inventory",
           "options": [
-            "cOst",
-            "stock",
-            "selection",
-            "inventory"
+            "invoice",
+            "contact",
+            "inventory",
+            "bulk"
           ]
         },
         {
           "q": "The plant is running ___ on its supply of raw materials.",
           "a": "short",
           "options": [
-            "invoice",
             "short",
-            "stock",
-            "affordability"
+            "distribute",
+            "selection",
+            "temporarily"
           ]
         },
         {
           "q": "Our website boasts a wide ___ of gift items.",
           "a": "selection",
           "options": [
-            "selection",
-            "s finalize",
-            "seek",
-            "temporarily"
+            "acquisition",
+            "acclaim",
+            "provide",
+            "selection"
           ]
         },
         {
           "q": "Some ___ products may be subject to import taxes.",
           "a": "commercial",
           "options": [
-            "cOst",
-            "measure",
-            "bargain",
-            "commercial"
+            "commercial",
+            "seek",
+            "acquisition",
+            "retail"
           ]
         },
         {
           "q": "The secretary ___ed supplies from the main office.",
           "a": "order",
           "options": [
-            "satisfactory",
-            "invoice",
-            "bargain",
-            "order"
+            "assure",
+            "measure",
+            "order",
+            "stock"
           ]
         },
         {
           "q": "We ___ customers with detailed product lists by e-mail.",
           "a": "provide",
           "options": [
-            "contact",
-            "clientele",
+            "cOst",
             "provide",
-            "contact"
+            "represent",
+            "market"
           ]
         },
         {
           "q": "___ the supplier to request express delivery.",
           "a": "contact",
           "options": [
-            "contact",
-            "affordability",
+            "acclaim",
             "cOst",
-            "dealer"
+            "contact",
+            "bulk"
           ]
         }
       ]

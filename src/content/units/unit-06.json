@@ -855,79 +855,79 @@
           "q": "The museum has a unique ___ of stamps.",
           "a": "collection",
           "options": [
-            "rest",
-            "appear",
-            "collection",
-            "admission"
+            "issue",
+            "advocate",
+            "present",
+            "collection"
           ]
         },
         {
           "q": "The gallery hosted an ___ of urban scenic photographs.",
           "a": "exhibition",
           "options": [
+            "advocate",
+            "improvise",
             "exhibition",
-            "rest",
-            "accompany",
-            "advocate"
+            "upcoming"
           ]
         },
         {
           "q": "Finnegan's café hosts a ___ music performance every Saturday.",
           "a": "live",
           "options": [
-            "fascinating",
             "issue",
-            "live",
-            "anonymous"
+            "specifically",
+            "antique",
+            "live"
           ]
         },
         {
           "q": "The ___ owner of the resort intends to renovate it.",
           "a": "present",
           "options": [
-            "so defy",
-            "informative",
+            "showing",
             "present",
-            "fund-raising"
+            "audience",
+            "accompany"
           ]
         },
         {
           "q": "Those wishing to visit the exhibit will be charged an extra ___ fee.",
           "a": "admission",
           "options": [
-            "advocate",
-            "required",
-            "admission",
-            "informative"
+            "audience",
+            "present",
+            "informative",
+            "admission"
           ]
         },
         {
           "q": "The hotel has facilities for large-scale wedding ___s.",
           "a": "banquet",
           "options": [
-            "present",
-            "banquet",
-            "succeed",
-            "admission"
+            "audience",
+            "showing",
+            "advocate",
+            "banquet"
           ]
         },
         {
           "q": "The couple celebrated their 50th ___ with a party.",
           "a": "anniversary",
           "options": [
-            "edition",
-            "anonymous",
-            "anniversary",
-            "admission"
+            "fascinating",
+            "resume",
+            "donation",
+            "anniversary"
           ]
         },
         {
           "q": "Proper swimming attire is ___ when using the hotel pool.",
           "a": "required",
           "options": [
-            "rest",
             "present",
-            "donation",
+            "alumni",
+            "celebrity",
             "required"
           ]
         },
@@ -935,20 +935,20 @@
           "q": "Peggy ___ed in convincing her family to visit Hawaii.",
           "a": "succeed",
           "options": [
-            "issue",
+            "succeed",
             "audience",
-            "anniversary",
-            "succeed"
+            "live",
+            "antique"
           ]
         },
         {
           "q": "Hikers can ___ on the bench halfway up the hill.",
           "a": "rest",
           "options": [
-            "showing",
+            "lend",
+            "specifically",
             "rest",
-            "accompany",
-            "anniversary"
+            "donation"
           ]
         }
       ]

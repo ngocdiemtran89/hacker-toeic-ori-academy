@@ -834,20 +834,20 @@
           "q": "For every ___ of $100 or more, customers will receive a raffle ticket.",
           "a": "purchase",
           "options": [
-            "area",
-            "valid",
             "purchase",
-            "price"
+            "instruction",
+            "receipt",
+            "experg"
           ]
         },
         {
           "q": "The shop allows buyers to pay for furniture in monthly ___s.",
           "a": "installment",
           "options": [
+            "experg",
             "installment",
-            "spare",
-            "valid",
-            "spare"
+            "delivery",
+            "charge"
           ]
         },
         {
@@ -855,79 +855,79 @@
           "a": "affordable",
           "options": [
             "affordable",
-            "valid",
-            "qualify",
-            "refund"
+            "notice",
+            "description",
+            "exclusively"
           ]
         },
         {
           "q": "The sales representatives help customers decide ___ what style fits them best.",
           "a": "exactly",
           "options": [
-            "valid",
+            "description",
             "exactly",
-            "affordable",
-            "exclusively"
+            "offer",
+            "offer"
           ]
         },
         {
           "q": "A number of antique pieces will be sold at the ___.",
           "a": "auction",
           "options": [
-            "affordable",
-            "experienced",
+            "offer",
             "auction",
-            "valid"
+            "mutually",
+            "offer"
           ]
         },
         {
           "q": "The price includes shipping and handling ___s.",
           "a": "charge",
           "options": [
+            "consumption",
             "charge",
-            "auction",
-            "spare",
-            "fabric"
+            "exactly",
+            "mutually"
           ]
         },
         {
           "q": "The phone company ___s high fees for installations.",
           "a": "charge",
           "options": [
-            "desire",
+            "mutually",
             "charge",
-            "exclusively",
-            "area"
+            "carefully",
+            "exactly"
           ]
         },
         {
           "q": "The prices listed in the catalog are effective until further ___.",
           "a": "notice",
           "options": [
-            "mutually",
-            "refund",
             "notice",
-            "benefit"
+            "offer",
+            "description",
+            "o hành"
           ]
         },
         {
           "q": "Bill is the most ___ salesperson in the store.",
           "a": "experienced",
           "options": [
-            "delivery",
+            "affordable",
             "experienced",
-            "area",
-            "authentie"
+            "price",
+            "area"
           ]
         },
         {
           "q": "The receipt gives ___s for returning or exchanging items.",
           "a": "instruction",
           "options": [
-            "instruction",
+            "auction",
             "relatively",
-            "delivery",
-            "valid"
+            "instruction",
+            "charge"
           ]
         }
       ]

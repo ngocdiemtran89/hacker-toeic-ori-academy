@@ -2853,6 +2853,753 @@ for day_num, info in DAY_INFO.items():
             }
         ]
 
+    if day_num == 4:
+        words_data = [
+            {
+                "id": "lax",
+                "word": "lax",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/læks/", "us": "/læks/"},
+                "frequency": 2,
+                "meaningVi": "lơ là, cầu thả, không nghiêm túc",
+                "exampleEn": "As of late, the staff has been rather lax in turning in reports.",
+                "exampleVi": "Gần đây, các nhân viên có phần hơi thiếu nghiêm túc trong việc nộp báo cáo.",
+                "derivatives": [],
+                "synonyms": ["negligent"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "procrastinate",
+                "word": "procrastinate",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/prəˈkræstɪneɪt/", "us": "/proʊˈkræstɪneɪt/"},
+                "frequency": 2,
+                "meaningVi": "trì hoãn, chần chừ",
+                "exampleEn": "Mr. Jones procrastinated with his fund request and missed the deadline.",
+                "exampleVi": "Ông Jones trì hoãn việc yêu cầu cấp kinh phí của mình và đã bỏ lỡ thời hạn.",
+                "derivatives": [
+                    {"word": "procrastination", "partOfSpeech": "n", "meaningVi": "sự trì hoãn"}
+                ],
+                "synonyms": ["delay", "postpone"],
+                "antonyms": ["hurry", "hasten"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "combined",
+                "word": "combined",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/kəmˈbaɪnd/", "us": "/kəmˈbaɪnd/"},
+                "frequency": 2,
+                "meaningVi": "được kết hợp, chung, tổng hợp",
+                "exampleEn": "Retail Specialists employs professionals with a combined experience of 30 years in sales.",
+                "exampleVi": "Công ty Retail Specialists đã thuê những người chuyên nghiệp với 30 năm kinh nghiệm tổng hợp trong ngành bán hàng.",
+                "derivatives": [
+                    {"word": "combine", "partOfSpeech": "v", "meaningVi": "kết hợp"},
+                    {"word": "combination", "partOfSpeech": "n", "meaningVi": "sự kết hợp"}
+                ],
+                "synonyms": ["joint"],
+                "antonyms": [],
+                "toeicNotes": ["combined experience: kinh nghiệm tổng hợp", "combined efforts: nỗ lực chung"],
+                "needsReview": False
+            },
+            {
+                "id": "accomplish",
+                "word": "accomplish",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/əˈkʌmplɪʃ/", "us": "/əˈdɑːmplɪʃ/"},
+                "frequency": 2,
+                "meaningVi": "hoàn thành, đạt được, làm xong",
+                "exampleEn": "Careful planning is essential for accomplishing goals.",
+                "exampleVi": "Lập kế hoạch cẩn thận rất cần thiết cho việc hoàn thành mục tiêu.",
+                "derivatives": [
+                    {"word": "accomplishment", "partOfSpeech": "n", "meaningVi": "sự hoàn thành, thành tựu"},
+                    {"word": "accomplished", "partOfSpeech": "adj", "meaningVi": "tài năng, đã hoàn thành"}
+                ],
+                "synonyms": ["achieve", "fulfill"],
+                "antonyms": [],
+                "toeicNotes": ["accomplished author: tác giả tài năng"],
+                "needsReview": False
+            },
+            {
+                "id": "voluntarily",
+                "word": "voluntarily",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/ˈvɒləntrəli/", "us": "/ˌvɑːlənˈterəli/"},
+                "frequency": 2,
+                "meaningVi": "tự nguyện, tình nguyện",
+                "exampleEn": "He voluntarily took on the challenging assignment in order to gain experience.",
+                "exampleVi": "Anh ấy tình nguyện đảm nhiệm công việc đầy thách thức để lấy kinh nghiệm.",
+                "derivatives": [
+                    {"word": "voluntary", "partOfSpeech": "adj", "meaningVi": "tự nguyện"},
+                    {"word": "volunteer", "partOfSpeech": "n", "meaningVi": "tình nguyện viên"}
+                ],
+                "synonyms": [],
+                "antonyms": ["grudgingly"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "undertake",
+                "word": "undertake",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˌʌndəˈteɪk/", "us": "/ˌʌndərˈteɪk/"},
+                "frequency": 2,
+                "meaningVi": "đảm nhận, tiếp quản",
+                "exampleEn": "She had to undertake the task on short notice.",
+                "exampleVi": "Cô ấy phải gánh vác nhiệm vụ đó khá gấp gáp.",
+                "derivatives": [],
+                "synonyms": ["take on", "assume"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "assume",
+                "word": "assume",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/əˈsjuːm/", "us": "/əˈsuːm/"},
+                "frequency": 3,
+                "meaningVi": "cho rằng, giả thiết; gánh vác, đảm nhận",
+                "exampleEn": "The marketing department will assume responsibility for the project.",
+                "exampleVi": "Bộ phận tiếp thị sẽ gánh vác trách nhiệm của dự án đó.",
+                "derivatives": [
+                    {"word": "assumption", "partOfSpeech": "n", "meaningVi": "sự giả định"}
+                ],
+                "synonyms": ["presume", "take on", "undertake"],
+                "antonyms": [],
+                "toeicNotes": ["Phân biệt: assume (cho là, gánh vác), presume (giả sử, đoán chừng)"],
+                "needsReview": False
+            },
+            {
+                "id": "employee",
+                "word": "employee",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ɪmˈplɔɪiː/", "us": "/ɪmˈplɔɪiː/"},
+                "frequency": 3,
+                "meaningVi": "nhân viên, người lao động",
+                "exampleEn": "There are only three employees working under Ms. Anderson.",
+                "exampleVi": "Chỉ có ba nhân viên làm việc dưới quyền cô Anderson.",
+                "derivatives": [
+                    {"word": "employer", "partOfSpeech": "n", "meaningVi": "chủ lao động"},
+                    {"word": "employ", "partOfSpeech": "v", "meaningVi": "tuyển dụng"}
+                ],
+                "synonyms": ["worker", "staff member"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "assist",
+                "word": "assist",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/əˈsɪst/", "us": "/əˈsɪst/"},
+                "frequency": 3,
+                "meaningVi": "trợ giúp, hỗ trợ",
+                "exampleEn": "A staff member assisted with preparations for the conference.",
+                "exampleVi": "Một nhân viên đã hỗ trợ việc chuẩn bị cho hội nghị.",
+                "derivatives": [
+                    {"word": "assistant", "partOfSpeech": "n", "meaningVi": "trợ lý"},
+                    {"word": "assistance", "partOfSpeech": "n", "meaningVi": "sự giúp đỡ"}
+                ],
+                "synonyms": ["help", "support"],
+                "antonyms": [],
+                "toeicNotes": ["assist with: hỗ trợ việc gì"],
+                "needsReview": False
+            },
+            {
+                "id": "satisfied",
+                "word": "satisfied",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈsætɪsfaɪd/", "us": "/ˈsætɪsfaɪd/"},
+                "frequency": 3,
+                "meaningVi": "hài lòng, thỏa mãn",
+                "exampleEn": "Not everyone was satisfied with changes to the overtime policy.",
+                "exampleVi": "Không phải ai cũng thấy hài lòng với những thay đổi trong chính sách làm thêm giờ.",
+                "derivatives": [
+                    {"word": "satisfy", "partOfSpeech": "v", "meaningVi": "làm hài lòng"},
+                    {"word": "satisfactory", "partOfSpeech": "adj", "meaningVi": "thỏa đáng, vừa lòng"}
+                ],
+                "synonyms": ["contented"],
+                "antonyms": ["dissatisfied"],
+                "toeicNotes": ["be satisfied with: hài lòng với"],
+                "needsReview": False
+            },
+            {
+                "id": "occasionally",
+                "word": "occasionally",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/əˈkeɪʒnəli/", "us": "/əˈkeɪʒnəli/"},
+                "frequency": 2,
+                "meaningVi": "thỉnh thoảng, đôi khi",
+                "exampleEn": "Staff should occasionally take time to relax so they do not get tired.",
+                "exampleVi": "Thỉnh thoảng các nhân viên nên dành thời gian thư giãn để không bị mệt mỏi.",
+                "derivatives": [
+                    {"word": "occasional", "partOfSpeech": "adj", "meaningVi": "thỉnh thoảng"},
+                    {"word": "occasion", "partOfSpeech": "n", "meaningVi": "dịp, cơ hội"}
+                ],
+                "synonyms": ["sometimes", "at times"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "manner",
+                "word": "manner",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈmænə(r)/", "us": "/ˈmænər/"},
+                "frequency": 2,
+                "meaningVi": "cách, lối, thái độ, cử chỉ",
+                "exampleEn": "Sean was annoyed by the manner in which his boss gave him orders.",
+                "exampleVi": "Sean thấy bực mình với cái cách mà ông chủ ra lệnh cho anh ấy.",
+                "derivatives": [],
+                "synonyms": ["way", "fashion"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "responsible",
+                "word": "responsible",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/rɪˈspɒnsəbl/", "us": "/rɪˈspɑːnsəbl/"},
+                "frequency": 3,
+                "meaningVi": "chịu trách nhiệm, có trách nhiệm",
+                "exampleEn": "Businesses are responsible for ensuring customer satisfaction.",
+                "exampleVi": "Các doanh nghiệp có trách nhiệm đảm bảo sự hài lòng của khách hàng.",
+                "derivatives": [
+                    {"word": "responsibility", "partOfSpeech": "n", "meaningVi": "trách nhiệm"}
+                ],
+                "synonyms": ["accountable", "liable"],
+                "antonyms": [],
+                "toeicNotes": ["be responsible for: chịu trách nhiệm về cái gì", "hold A responsible for B: bắt A chịu trách nhiệm về B", "Phân biệt: responsible (có trách nhiệm) và responsive (phản ứng nhanh, đáp lại nhiệt tình)"],
+                "needsReview": False
+            },
+            {
+                "id": "conduct",
+                "word": "conduct",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/kənˈdʌkt/", "us": "/kənˈdʌkt/"},
+                "frequency": 3,
+                "meaningVi": "tiến hành, thực hiện, chỉ đạo",
+                "exampleEn": "IJMR Ltd's technology department will conduct the research study.",
+                "exampleVi": "Bộ phận công nghệ của công ty IJMR sẽ tiến hành nghiên cứu này.",
+                "derivatives": [],
+                "synonyms": ["carry out", "perform"],
+                "antonyms": [],
+                "toeicNotes": ["conduct an inspection: tiến hành kiểm tra", "conduct a seminar: tổ chức hội thảo", "conduct research/study: thực hiện nghiên cứu/điều tra"],
+                "needsReview": False
+            },
+            {
+                "id": "adjust",
+                "word": "adjust",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/əˈdʒʌst/", "us": "/əˈdʒʌst/"},
+                "frequency": 3,
+                "meaningVi": "điều chỉnh, thích ứng, thích nghi",
+                "exampleEn": "The employees quickly adjusted to the new e-mail system.",
+                "exampleVi": "Các nhân viên đã nhanh chóng thích ứng với hệ thống thư điện tử mới.",
+                "derivatives": [
+                    {"word": "adjustment", "partOfSpeech": "n", "meaningVi": "sự điều chỉnh"},
+                    {"word": "adjustable", "partOfSpeech": "adj", "meaningVi": "có thể điều chỉnh"}
+                ],
+                "synonyms": ["adapt", "fit"],
+                "antonyms": [],
+                "toeicNotes": ["adjust to: thích ứng với", "adjust A to B: điều chỉnh A cho phù hợp với B"],
+                "needsReview": False
+            },
+            {
+                "id": "personnel",
+                "word": "personnel",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˌpɜːsəˈnel/", "us": "/ˌpɜːrsəˈnel/"},
+                "frequency": 3,
+                "meaningVi": "nhân viên, công chức, phòng nhân sự",
+                "exampleEn": "We often use an agency to find reliable temporary personnel.",
+                "exampleVi": "Chúng tôi thường sử dụng công ty môi giới để tìm những nhân viên thời vụ đáng tin cậy.",
+                "derivatives": [],
+                "synonyms": ["staff", "employees"],
+                "antonyms": [],
+                "toeicNotes": ["sales personnel: nhân viên bán hàng", "personnel department: phòng nhân sự"],
+                "needsReview": False
+            },
+            {
+                "id": "agree",
+                "word": "agree",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/əˈɡriː/", "us": "/əˈɡriː/"},
+                "frequency": 3,
+                "meaningVi": "đồng ý, nhất trí, thỏa thuận",
+                "exampleEn": "The team agreed on the recommendations of the advisor.",
+                "exampleVi": "Nhóm đã nhất trí với những đề xuất của người cố vấn.",
+                "derivatives": [
+                    {"word": "agreement", "partOfSpeech": "n", "meaningVi": "sự đồng ý, thỏa thuận"}
+                ],
+                "synonyms": ["consent", "concur"],
+                "antonyms": ["disagree"],
+                "toeicNotes": [
+                    "agree on + ý kiến/đề xuất: đồng ý, nhất trí về cái gì",
+                    "agree to + phương án/điều kiện: tán thành phương án/điều kiện",
+                    "agree with + người: đồng ý với ai",
+                    "agree to do: đồng ý làm gì"
+                ],
+                "needsReview": False
+            },
+            {
+                "id": "supervise",
+                "word": "supervise",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˈsuːpəvaɪz/", "us": "/ˈsuːpərvaɪz/"},
+                "frequency": 3,
+                "meaningVi": "giám sát",
+                "exampleEn": "Ms. Wilson supervises the employees in sector B.",
+                "exampleVi": "Cô Wilson giám sát các nhân viên ở khu vực B.",
+                "derivatives": [
+                    {"word": "supervision", "partOfSpeech": "n", "meaningVi": "sự giám sát"},
+                    {"word": "supervisor", "partOfSpeech": "n", "meaningVi": "người giám sát"}
+                ],
+                "synonyms": ["oversee", "monitor"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "coworker",
+                "word": "coworker",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˌkəʊˈwɜːkə(r)/", "us": "/ˌkoʊˈwɜːrkər/"},
+                "frequency": 3,
+                "meaningVi": "đồng nghiệp",
+                "exampleEn": "Coworkers who live near each other often travel to work together.",
+                "exampleVi": "Các đồng nghiệp sống gần nhau thường đi làm cùng nhau.",
+                "derivatives": [],
+                "synonyms": ["coworker", "associate"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "direct",
+                "word": "direct",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/daɪˈrekt/", "us": "/daɪˈrekt/"},
+                "frequency": 3,
+                "meaningVi": "hướng dẫn, chỉ đạo, chỉ đường",
+                "exampleEn": "The receptionist directs new employees to the auditorium where orientation will be held.",
+                "exampleVi": "Nhân viên lễ tân hướng dẫn nhân viên mới đến hội trường nơi tổ chức buổi định hướng.",
+                "derivatives": [
+                    {"word": "direction", "partOfSpeech": "n", "meaningVi": "sự chỉ dẫn, phương hướng"},
+                    {"word": "director", "partOfSpeech": "n", "meaningVi": "giám đốc, người chỉ đạo"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["direct A to B: hướng dẫn A tới B"],
+                "needsReview": False
+            },
+            {
+                "id": "confidential",
+                "word": "confidential",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˌkɒnfɪˈdenʃl/", "us": "/ˌkɑːnfɪˈdenʃl/"},
+                "frequency": 2,
+                "meaningVi": "bảo mật, cẩn mật, bí mật",
+                "exampleEn": "Internal documents must be kept confidential.",
+                "exampleVi": "Các tài liệu nội bộ phải được giữ bảo mật.",
+                "derivatives": [
+                    {"word": "confidentiality", "partOfSpeech": "n", "meaningVi": "sự cẩn mật, bảo mật"},
+                    {"word": "confidentially", "partOfSpeech": "adv", "meaningVi": "một cách bí mật, cẩn mật"}
+                ],
+                "synonyms": ["secret", "classified"],
+                "antonyms": [],
+                "toeicNotes": ["Khi nói về bí mật liên quan đến chính phủ, tài liệu, ta có thể sử dụng classified, secret thay cho confidential."],
+                "needsReview": False
+            },
+            {
+                "id": "assign",
+                "word": "assign",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/əˈsaɪn/", "us": "/əˈsaɪn/"},
+                "frequency": 2,
+                "meaningVi": "phân công, bổ nhiệm, giao việc",
+                "exampleEn": "The office manager assigned desks to the new recruits.",
+                "exampleVi": "Người quản lý văn phòng đã phân công bàn làm việc cho các nhân viên mới tuyển dụng.",
+                "derivatives": [
+                    {"word": "assigned", "partOfSpeech": "adj", "meaningVi": "được phân công"},
+                    {"word": "assignment", "partOfSpeech": "n", "meaningVi": "nhiệm vụ, công việc được giao"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "leading",
+                "word": "leading",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈliːdɪŋ/", "us": "/ˈliːdɪŋ/"},
+                "frequency": 2,
+                "meaningVi": "dẫn đầu, hàng đầu, chủ đạo",
+                "exampleEn": "Shepherd Industries is a leading exporter of wooden furniture.",
+                "exampleVi": "Tập đoàn Shepherd là công ty xuất khẩu hàng đầu trong mảng đồ gỗ nội thất.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["leading company: công ty hàng đầu"],
+                "needsReview": False
+            },
+            {
+                "id": "formal",
+                "word": "formal",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈfɔːml/", "us": "/ˈfɔːrml/"},
+                "frequency": 2,
+                "meaningVi": "trang trọng, chính thức",
+                "exampleEn": "The awards ceremony requires wearing formal business attire.",
+                "exampleVi": "Buổi lễ trao giải yêu cầu phải mặc trang phục công sở trang trọng.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "remove",
+                "word": "remove",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/rɪˈmuːv/", "us": "/rɪˈmuːv/"},
+                "frequency": 2,
+                "meaningVi": "xóa bỏ, loại bỏ, cách chức, dọn đi",
+                "exampleEn": "The vice president was removed from his position because of a scandal.",
+                "exampleVi": "Ông phó chủ tịch đã bị cách chức khỏi vị trí của mình do một vụ bê bối.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["remove A from B: cách chức/xóa bỏ/dọn A khỏi B"],
+                "needsReview": False
+            },
+            {
+                "id": "collect",
+                "word": "collect",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/kəˈlekt/", "us": "/kəˈlekt/"},
+                "frequency": 2,
+                "meaningVi": "thu thập, tập hợp, thu lượm",
+                "exampleEn": "The author collected management ideas from around the world for his book.",
+                "exampleVi": "Tác giả đã tập hợp các ý tưởng về quản lý từ khắp nơi trên thế giới cho cuốn sách của mình.",
+                "derivatives": [
+                    {"word": "collective", "partOfSpeech": "adj", "meaningVi": "tập thể, chung"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "coordinate",
+                "word": "coordinate",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/kəʊˈɔːdɪneɪt/", "us": "/koʊˈɔːrdneɪt/"},
+                "frequency": 2,
+                "meaningVi": "điều phối, phối hợp",
+                "exampleEn": "The Chicago office coordinated the planning process.",
+                "exampleVi": "Văn phòng ở Chicago đã điều phối quá trình lên kế hoạch.",
+                "derivatives": [
+                    {"word": "coordinator", "partOfSpeech": "n", "meaningVi": "điều phối viên"},
+                    {"word": "coordination", "partOfSpeech": "n", "meaningVi": "sự phối hợp"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "hardly",
+                "word": "hardly",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/ˈhɑːdli/", "us": "/ˈhɑːrdli/"},
+                "frequency": 2,
+                "meaningVi": "hầu như không, hiếm khi",
+                "exampleEn": "She was hardly ever late for her shift.",
+                "exampleVi": "Cô ấy hầu như không bao giờ đi muộn trong ca làm việc của mình.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["hardly ever: hầu như không bao giờ"],
+                "needsReview": False
+            },
+            {
+                "id": "abstract",
+                "word": "abstract",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈæbstrækt/", "us": "/ˈæbstrækt/"},
+                "frequency": 2,
+                "meaningVi": "trừu tượng, mơ hồ",
+                "exampleEn": "Copland spent thousands of dollars on an abstract painting for the lobby.",
+                "exampleVi": "Copland đã chi hàng nghìn đô-la cho một bức tranh trừu tượng để treo ở tiền sảnh.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "directory",
+                "word": "directory",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/əˈdextri/", "us": "/daɪˈrektəri/"},
+                "frequency": 2,
+                "meaningVi": "danh bạ, sổ địa chỉ",
+                "exampleEn": "The company directory shows where the marketing department is.",
+                "exampleVi": "Danh bạ của công ty sẽ cho biết phòng tiếp thị nằm ở đâu.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "accountable",
+                "word": "accountable",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/əˈkaʊntəbl/", "us": "/əˈkaʊntəbl/"},
+                "frequency": 2,
+                "meaningVi": "chịu trách nhiệm giải trình",
+                "exampleEn": "All employees are accountable for the duties they have been assigned to complete.",
+                "exampleVi": "Mọi nhân viên phải chịu trách nhiệm cho các nhiệm vụ mà họ được giao để hoàn thành.",
+                "derivatives": [
+                    {"word": "accountability", "partOfSpeech": "n", "meaningVi": "trách nhiệm giải trình"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["be accountable for: chịu trách nhiệm về cái gì", "hold A accountable for B: bắt A chịu trách nhiệm về B", "be accountable to: chịu trách nhiệm trước ai"],
+                "needsReview": False
+            },
+            {
+                "id": "skillfully",
+                "word": "skillfully",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/ˈskɪlfəli/", "us": "/ˈskɪlfəli/"},
+                "frequency": 2,
+                "meaningVi": "thành thạo, khéo léo",
+                "exampleEn": "Brenda skillfully edited the report to fit on one page.",
+                "exampleVi": "Brenda đã khéo léo chỉnh sửa bản báo cáo cho vừa một trang giấy.",
+                "derivatives": [
+                    {"word": "skillful", "partOfSpeech": "adj", "meaningVi": "thành thạo, khéo léo"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "exclusive",
+                "word": "exclusive",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ɪkˈskluːsɪv/", "us": "/ɪkˈskluːsɪv/"},
+                "frequency": 2,
+                "meaningVi": "riêng biệt, độc quyền",
+                "exampleEn": "Delegates with special passes have exclusive access to a tour of the facilities.",
+                "exampleVi": "Các đại biểu có thẻ đặc biệt sẽ được tham gia riêng một chuyến tham quan thực địa.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "intention",
+                "word": "intention",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ɪnˈtenʃn/", "us": "/ɪnˈtenʃn/"},
+                "frequency": 2,
+                "meaningVi": "ý định, mục đích",
+                "exampleEn": "She had every intention of attending the conference, but could not.",
+                "exampleVi": "Cô ấy có ý định tham dự hội thảo nhưng lại không thể.",
+                "derivatives": [
+                    {"word": "intent", "partOfSpeech": "n", "meaningVi": "ý định, mục đích (không đếm được)"},
+                    {"word": "intend", "partOfSpeech": "v", "meaningVi": "dự định"},
+                    {"word": "intentional", "partOfSpeech": "adj", "meaningVi": "cố ý, có chủ ý"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["have every intention of -ing: nhất định phải làm gì"],
+                "needsReview": False
+            },
+            {
+                "id": "transform",
+                "word": "transform",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/trænsˈfɔːm/", "us": "/trænsˈfɔːrm/"},
+                "frequency": 2,
+                "meaningVi": "biến đổi, thay đổi",
+                "exampleEn": "Computerization has transformed the way companies do business.",
+                "exampleVi": "Vi tính hóa đã thay đổi cách các công ty làm việc.",
+                "derivatives": [
+                    {"word": "transformation", "partOfSpeech": "n", "meaningVi": "sự biến đổi, sự thay đổi"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "respectful",
+                "word": "respectful",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/rɪˈspektfl/", "us": "/rɪˈspektfl/"},
+                "frequency": 2,
+                "meaningVi": "tôn trọng, lễ phép, kính cẩn",
+                "exampleEn": "Sales clerks are reminded to be respectful to all clients.",
+                "exampleVi": "Các nhân viên bán hàng được nhắc nhở phải tôn trọng tất cả khách hàng.",
+                "derivatives": [
+                    {"word": "respect", "partOfSpeech": "v/n", "meaningVi": "tôn trọng/sự tôn trọng"},
+                    {"word": "respectfully", "partOfSpeech": "adv", "meaningVi": "một cách kính cẩn"},
+                    {"word": "respectable", "partOfSpeech": "adj", "meaningVi": "đáng kính"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["respect for: sự tôn trọng dành cho", "with respect: với sự tôn trọng"],
+                "needsReview": False
+            },
+            {
+                "id": "duplicate-n",
+                "word": "duplicate",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈdjuːplɪkeɪt/", "us": "/ˈduːplɪkeɪt/"},
+                "frequency": 2,
+                "meaningVi": "bản sao",
+                "exampleEn": "A duplicate of each contract is kept in the company records.",
+                "exampleVi": "Bản sao của mỗi hợp đồng được lưu giữ trong tài liệu hồ sơ của công ty.",
+                "derivatives": [],
+                "synonyms": ["copy"],
+                "antonyms": ["original"],
+                "toeicNotes": ["make duplicates of: sao chép lại cái gì", "in duplicate: làm thành 2 bản"],
+                "needsReview": False
+            },
+            {
+                "id": "duplicate-v",
+                "word": "duplicate",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˈdjuːplɪkeɪt/", "us": "/ˈduːplɪkeɪt/"},
+                "frequency": 2,
+                "meaningVi": "nhân đôi, sao chép",
+                "exampleEn": "The system will duplicate the database for backup purposes.",
+                "exampleVi": "Hệ thống sẽ sao chép cơ sở dữ liệu cho mục đích dự phòng.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "contrary",
+                "word": "contrary",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈkɒntrəri/", "us": "/ˈkɑːntreri/"},
+                "frequency": 2,
+                "meaningVi": "sự trái ngược, điều ngược lại",
+                "exampleEn": "Techworld is in financial trouble, despite claims to the contrary.",
+                "exampleVi": "Techworld đang gặp khó khăn về tài chính mặc dù họ tuyên bố điều ngược lại.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["evidence to the contrary: bằng chứng chứng minh điều ngược lại", "on the contrary: trái lại, ngược lại"],
+                "needsReview": False
+            },
+            {
+                "id": "disturbing",
+                "word": "disturbing",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/dɪˈstɜːbɪŋ/", "us": "/dɪˈstɜːrbɪŋ/"},
+                "frequency": 2,
+                "meaningVi": "làm nhiễu loạn, xáo trộn, đáng lo ngại",
+                "exampleEn": "Shareholders found reports of the CEO's incompetence disturbing.",
+                "exampleVi": "Các cổ đông nhận thấy những báo cáo về sự kém cỏi của vị giám đốc điều hành thật gây nhiễu loạn.",
+                "derivatives": [
+                    {"word": "disturb", "partOfSpeech": "v", "meaningVi": "làm phiền, quấy rầy"},
+                    {"word": "disturbance", "partOfSpeech": "n", "meaningVi": "sự làm phiền"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "engage",
+                "word": "engage",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ɪnˈɡeɪdʒ/", "us": "/ɪnˈɡeɪdʒ/"},
+                "frequency": 2,
+                "meaningVi": "tham gia, cam kết, thu hút",
+                "exampleEn": "Each worker was engaged in at least two projects.",
+                "exampleVi": "Mỗi công nhân đều được tham gia vào ít nhất hai dự án.",
+                "derivatives": [
+                    {"word": "engagement", "partOfSpeech": "n", "meaningVi": "sự hứa hẹn, cam kết, sự đính hôn"},
+                    {"word": "engaging", "partOfSpeech": "adj", "meaningVi": "cuốn hút, duyên dáng"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["engage in: tham gia vào cái gì", "be engaged in: liên quan đến/bận rộn với cái gì"],
+                "needsReview": False
+            },
+            {
+                "id": "foster",
+                "word": "foster",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˈfɒstə(r)/", "us": "/ˈfɑːstər/"},
+                "frequency": 2,
+                "meaningVi": "thúc đẩy, bồi dưỡng, bồi đắp",
+                "exampleEn": "Staff dinners helped foster better work relations.",
+                "exampleVi": "Những bữa tối giữa các nhân viên đã giúp bồi đắp mối quan hệ tốt hơn trong công việc.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["Phân biệt: foster (thúc đẩy về quan hệ/sự kiện), enlarge (mở rộng về vật lý như bãi đỗ xe)"],
+                "needsReview": False
+            },
+            {
+                "id": "neutrality",
+                "word": "neutrality",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/njuːˈtræləti/", "us": "/nuːˈtræləti/"},
+                "frequency": 2,
+                "meaningVi": "tính chất trung lập, thái độ trung lập",
+                "exampleEn": "Managers must display complete neutrality in disagreements between employees.",
+                "exampleVi": "Người quản lý phải giữ thái độ hoàn toàn trung lập trong những cuộc tranh cãi giữa các nhân viên.",
+                "derivatives": [
+                    {"word": "neutral", "partOfSpeech": "adj", "meaningVi": "trung lập"},
+                    {"word": "neutrally", "partOfSpeech": "adv", "meaningVi": "một cách trung lập"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "widely",
+                "word": "widely",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/ˈwaɪdli/", "us": "/ˈwaɪdli/"},
+                "frequency": 2,
+                "meaningVi": "rộng rãi, nhiều, rộng khắp",
+                "exampleEn": "Ben Hurley is a widely admired business leader.",
+                "exampleVi": "Ben Hurley là một nhà điều hành doanh nghiệp được nhiều người ngưỡng mộ.",
+                "derivatives": [
+                    {"word": "wide", "partOfSpeech": "adj", "meaningVi": "rộng"},
+                    {"word": "width", "partOfSpeech": "n", "meaningVi": "bề rộng"},
+                    {"word": "widen", "partOfSpeech": "v", "meaningVi": "mở rộng"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            }
+        ]
+
+
+
 
 
     # Generate Quiz questions (Fill-in-the-blank)

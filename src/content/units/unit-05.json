@@ -817,48 +817,48 @@
           "a": "sophisticated",
           "options": [
             "concerned",
-            "permanently",
-            "clarify",
-            "sophisticated"
+            "a công ty.",
+            "sophisticated",
+            "clarify"
           ]
         },
         {
           "q": "The report was completed in a ___ manner.",
           "a": "timely",
           "options": [
-            "tài chính.",
-            "concerned",
-            "accessible",
-            "timely"
+            "compile",
+            "provider",
+            "timely",
+            "divide"
           ]
         },
         {
           "q": "It is company policy to respond ___ to all inquiries.",
           "a": "promptly",
           "options": [
-            "a công ty.",
-            "department",
-            "promptly",
-            "timely"
+            "expertise",
+            "compliance",
+            "concerned",
+            "promptly"
           ]
         },
         {
           "q": "The 18th floor is only ___ to executive staff.",
           "a": "accessible",
           "options": [
-            "expertise",
-            "accidentally",
             "accessible",
-            "essential"
+            "follow",
+            "subsequent",
+            "sophisticated"
           ]
         },
         {
           "q": "xét ___ from colleagues can be of great assistance.",
           "a": "feedback",
           "options": [
-            "a công ty.",
-            "expertise",
-            "accessible",
+            "essential",
+            "sophisticated",
+            "aware",
             "feedback"
           ]
         },
@@ -867,18 +867,18 @@
           "a": "outstanding",
           "options": [
             "outstanding",
-            "aspect",
-            "replacement",
-            "compliance"
+            "clarify",
+            "demonstrate",
+            "department"
           ]
         },
         {
           "q": "Please ___ the director that the meeting has been canceled.",
           "a": "inform",
           "options": [
-            "overview",
+            "timely",
             "inform",
-            "a công ty.",
+            "compliance",
             "replacement"
           ]
         },
@@ -886,30 +886,30 @@
           "q": "Report payroll problems to the finance ___.",
           "a": "department",
           "options": [
-            "department",
-            "sophisticated",
-            "expertise",
-            "aspect"
+            "provider",
+            "replacement",
+            "major",
+            "department"
           ]
         },
         {
           "q": "The assistant ___d a list of tablet computer manufacturers.",
           "a": "compile",
           "options": [
-            "matter",
-            "compile",
-            "expertise",
-            "essential"
+            "subsequent",
+            "demonstrate",
+            "major",
+            "compile"
           ]
         },
         {
           "q": "Some employees received separation pay ___ to the company's closing.",
           "a": "subsequent",
           "options": [
+            "feedback",
             "subsequent",
-            "department",
-            "speak",
-            "compile"
+            "tài chính.",
+            "matter"
           ]
         }
       ]

@@ -555,99 +555,99 @@
           "q": "The production plant will be fully ___d by next year.",
           "a": "automate",
           "options": [
-            "place",
+            "precaution",
+            "tailored",
             "power",
-            "automate",
-            "utilize"
+            "automate"
           ]
         },
         {
           "q": "The quality control team checks if all items meet product ___s.",
           "a": "specification",
           "options": [
-            "power",
+            "coming",
             "specification",
-            "capacity",
-            "flexible"
+            "expiration",
+            "power"
           ]
         },
         {
           "q": "The warehouse's ___ will double after the construction.",
           "a": "capacity",
           "options": [
+            "place",
+            "tailored",
             "capacity",
-            "automate",
-            "trim",
-            "tailored"
+            "specification"
           ]
         },
         {
           "q": "Components are manufactured abroad and ___d domestically.",
           "a": "assemble",
           "options": [
+            "respectively",
+            "tailored",
             "assemble",
-            "capable",
-            "utilize",
-            "trim"
+            "launch"
           ]
         },
         {
           "q": "The technicians ___d computer technology to improve processes.",
           "a": "utilize",
           "options": [
-            "separately",
-            "respectively",
-            "precaution",
-            "utilize"
+            "economize",
+            "power",
+            "utilize",
+            "produce"
           ]
         },
         {
           "q": "The factory supervisor has ___d production operations on standby.",
           "a": "place",
           "options": [
-            "capacity",
+            "place",
+            "capable",
             "launch",
-            "trim",
-            "place"
+            "automate"
           ]
         },
         {
           "q": "There is a ___ to the amount of merchandise the factory can make in a day.",
           "a": "limit",
           "options": [
-            "precaution",
-            "assemble",
-            "expiration",
-            "limit"
+            "tailored",
+            "limit",
+            "separately",
+            "assemble"
           ]
         },
         {
           "q": "This equipment can be ___ to the company's production needs.",
           "a": "tailored",
           "options": [
-            "launch",
+            "place",
             "tailored",
-            "economize",
-            "automate"
+            "specification",
+            "utilize"
           ]
         },
         {
           "q": "The store returned the defective ___s to the manufacturer.",
           "a": "component",
           "options": [
-            "capacity",
-            "utilize",
-            "component",
-            "specification"
+            "place",
+            "economize",
+            "launch",
+            "component"
           ]
         },
         {
           "q": "Corporation is ___ of processing all kinds of metals.",
           "a": "capable",
           "options": [
-            "power",
+            "produce",
+            "separately",
             "capable",
-            "automate",
             "utilize"
           ]
         }

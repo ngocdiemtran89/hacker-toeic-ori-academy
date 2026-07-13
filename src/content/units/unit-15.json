@@ -774,100 +774,100 @@
           "q": "Chryssom liked the ___ so much that she decided to invest immediately.",
           "a": "proposal",
           "options": [
-            "terminate",
-            "challenging",
-            "proposal",
-            "commission"
+            "review",
+            "collaborate",
+            "narrow",
+            "proposal"
           ]
         },
         {
           "q": "The corporations formed an ___ to protect themselves from competitors.",
           "a": "alliance",
           "options": [
-            "proficient",
+            "narrow",
             "alliance",
-            "collaborate",
-            "review"
+            "contract",
+            "revised"
           ]
         },
         {
           "q": "Ine su re ___s was that the goods must",
           "a": "stipulation",
           "options": [
-            "challenging",
+            "revised",
             "stipulation",
-            "terminate",
-            "commission"
+            "negotiation",
+            "challenging"
           ]
         },
         {
           "q": "We cannot agree to the ___s offered.",
           "a": "term",
           "options": [
-            "option",
+            "negotiation",
             "term",
-            "commission",
-            "security"
+            "u omit",
+            "conflict"
           ]
         },
         {
           "q": "The contractors and management finally reached a ___ following several talks.",
           "a": "compromise",
           "options": [
-            "initially",
-            "expire",
-            "compromise",
-            "challenging"
+            "agreement",
+            "security",
+            "alliance",
+            "compromise"
           ]
         },
         {
           "q": "___s are now in process.",
           "a": "negotiation",
           "options": [
-            "challenging",
-            "revised",
+            "bid",
+            "agreement",
             "negotiation",
-            "proceed"
+            "renew"
           ]
         },
         {
           "q": "The ___ has been signed by both parties.",
           "a": "agreement",
           "options": [
-            "renew",
             "agreement",
-            "challenging",
-            "narrow"
+            "alliance",
+            "compromise",
+            "option"
           ]
         },
         {
           "q": "Friday's negotiations ended in a ___.",
           "a": "deadlock",
           "options": [
-            "initially",
             "deadlock",
-            "alliance",
-            "option"
+            "foundation",
+            "proficient",
+            "agreement"
           ]
         },
         {
           "q": "Please ___ all of the documents carefully.",
           "a": "review",
           "options": [
+            "proceed",
             "review",
-            "narrow",
-            "bid",
-            "imperative"
+            "terminate",
+            "deadlock"
           ]
         },
         {
           "q": "The law requires all participants in the transaction to sign a ___.",
           "a": "contract",
           "options": [
-            "revised",
-            "terminate",
-            "renew",
-            "contract"
+            "proceed",
+            "contract",
+            "bid",
+            "alliance"
           ]
         }
       ]

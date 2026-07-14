@@ -24,7 +24,8 @@ export default function Header({ dark, onToggleDark, onLock, isAuthenticated }: 
               <span className="gradient-text">TOEIC Vocabulary</span>
             </h1>
             <p className={`text-[10px] font-medium tracking-wide ${dark ? 'text-surface-200/50' : 'text-primary-400/70'}`}>
-              ORI ACADEMY • Since 2013
+              <span className="md:hidden">ORI ACADEMY - TOEIC - Giao tiếp - Hàng Không (Từ 2013)</span>
+              <span className="hidden md:inline">ORI ACADEMY - TOEIC - Giao tiếp phản xạ - Phỏng vấn xin việc Hàng Không từ 2013 đến nay</span>
             </p>
           </div>
         </Link>

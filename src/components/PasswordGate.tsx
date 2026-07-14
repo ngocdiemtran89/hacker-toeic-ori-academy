@@ -55,8 +55,8 @@ export default function PasswordGate({ dark, onSuccess }: PasswordGateProps) {
             <h2 className="text-2xl font-black tracking-tight mb-2">
               <span className="gradient-text">ORI TOEIC ACADEMY</span>
             </h2>
-            <p className={`text-xs font-medium tracking-wide ${dark ? 'text-surface-400' : 'text-primary-600/70'}`}>
-              Học Từ Vựng TOEIC Hiệu Quả
+            <p className={`text-xs font-semibold tracking-wide text-center px-4 ${dark ? 'text-surface-400' : 'text-primary-600/70'}`}>
+              TOEIC - Giao tiếp phản xạ - Phỏng vấn xin việc Hàng Không từ 2013 đến nay
             </p>
           </div>
 

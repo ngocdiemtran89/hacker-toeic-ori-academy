@@ -14,7 +14,7 @@ export default function DashboardPage({ dark }: Props) {
       <section className="text-center py-10 space-y-4 animate-fade-in">
         <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold bg-gradient-to-r from-primary-500/10 to-accent-500/10 text-primary-600 dark:text-primary-300 border border-primary-200/30 dark:border-primary-500/20">
           <span className="w-1.5 h-1.5 rounded-full bg-accent-500 animate-pulse" />
-          Hackers TOEIC Vocabulary
+          ORI ACADEMY - TOEIC - Giao tiếp phản xạ - Phỏng vấn xin việc Hàng Không từ 2013 đến nay
         </div>
         <h2 className="text-4xl sm:text-5xl font-black tracking-tight">
           Học từ vựng TOEIC

@@ -774,39 +774,39 @@
           "q": "Chryssom liked the ___ so much that she decided to invest immediately.",
           "a": "proposal",
           "options": [
-            "initially",
-            "modify",
+            "compromise",
+            "negotiation",
             "proposal",
-            "revised"
+            "dedicate"
           ]
         },
         {
           "q": "The corporations formed an ___ to protect themselves from competitors.",
           "a": "alliance",
           "options": [
-            "conflict",
-            "compromise",
-            "renew",
-            "alliance"
+            "security",
+            "initially",
+            "alliance",
+            "conflict"
           ]
         },
         {
           "q": "Ine su re ___s was that the goods must",
           "a": "stipulation",
           "options": [
-            "stipulation",
-            "alliance",
-            "originally",
-            "compromise"
+            "proposal",
+            "expire",
+            "bid",
+            "stipulation"
           ]
         },
         {
           "q": "We cannot agree to the ___s offered.",
           "a": "term",
           "options": [
-            "expire",
-            "review",
-            "proposal",
+            "option",
+            "bid",
+            "u omit",
             "term"
           ]
         },
@@ -814,40 +814,40 @@
           "q": "The contractors and management finally reached a ___ following several talks.",
           "a": "compromise",
           "options": [
-            "stipulation",
             "modify",
-            "renew",
-            "compromise"
+            "compromise",
+            "commission",
+            "initially"
           ]
         },
         {
           "q": "___s are now in process.",
           "a": "negotiation",
           "options": [
-            "negotiation",
-            "terminate",
-            "bid",
-            "alliance"
+            "review",
+            "narrow",
+            "proposal",
+            "negotiation"
           ]
         },
         {
           "q": "The ___ has been signed by both parties.",
           "a": "agreement",
           "options": [
+            "imperative",
+            "proposal",
             "agreement",
-            "signature",
-            "modify",
-            "contract"
+            "revised"
           ]
         },
         {
           "q": "Friday's negotiations ended in a ___.",
           "a": "deadlock",
           "options": [
-            "terminate",
-            "deadlock",
-            "proposal",
-            "contract"
+            "proceed",
+            "dedicate",
+            "security",
+            "deadlock"
           ]
         },
         {
@@ -855,9 +855,9 @@
           "a": "review",
           "options": [
             "review",
-            "agreement",
+            "option",
             "signature",
-            "term"
+            "define"
           ]
         },
         {
@@ -865,9 +865,9 @@
           "a": "contract",
           "options": [
             "contract",
-            "define",
-            "agreement",
-            "deadlock"
+            "collaborate",
+            "security",
+            "negotiation"
           ]
         }
       ]

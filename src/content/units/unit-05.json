@@ -1139,80 +1139,80 @@
           "q": "A ___ surveillance system was installed.",
           "a": "sophisticated",
           "options": [
-            "sophisticated",
-            "expertise",
-            "face",
-            "implement"
+            "announcement",
+            "major",
+            "department",
+            "sophisticated"
           ]
         },
         {
           "q": "The report was completed in a ___ manner.",
           "a": "timely",
           "options": [
-            "clarify",
-            "concerned",
+            "compile",
             "timely",
-            "face"
+            "face",
+            "aspect"
           ]
         },
         {
           "q": "We cannot ___ expect to have the presentation ready on time.",
           "a": "realistically",
           "options": [
-            "sophisticated",
+            "major",
+            "department",
             "realistically",
-            "apparently",
-            "demonstrate"
+            "compile"
           ]
         },
         {
           "q": "It is company policy to respond ___ to all inquiries.",
           "a": "promptly",
           "options": [
-            "apparently",
-            "explain",
-            "follow",
-            "promptly"
+            "outline",
+            "concerned",
+            "promptly",
+            "compliance"
           ]
         },
         {
           "q": "The 18th floor is only ___ to executive staff.",
           "a": "accessible",
           "options": [
-            "speak",
-            "demonstrate",
-            "inform",
-            "accessible"
+            "fulfill",
+            "aspect",
+            "accessible",
+            "permanently"
           ]
         },
         {
           "q": "Board members voted to ___ an innovative marketing campaign.",
           "a": "implement",
           "options": [
-            "demonstrate",
-            "overview",
             "implement",
-            "major"
+            "announcement",
+            "demonstrate",
+            "outline"
           ]
         },
         {
           "q": "___ from colleagues can be of great assistance.",
           "a": "feedback",
           "options": [
-            "feedback",
-            "overview",
-            "expertise",
-            "fulfill"
+            "apparently",
+            "extended",
+            "compile",
+            "feedback"
           ]
         },
         {
           "q": "The director presented an ___ business plan.",
           "a": "outstanding",
           "options": [
-            "outstanding",
-            "subsequent",
-            "provider",
-            "timely"
+            "implement",
+            "sophisticated",
+            "replacement",
+            "outstanding"
           ]
         },
         {
@@ -1220,19 +1220,19 @@
           "a": "inform",
           "options": [
             "inform",
-            "replacement",
-            "speak",
-            "compliance"
+            "aware",
+            "implement",
+            "announcement"
           ]
         },
         {
           "q": "The CEO ___ed to the board that the company was in trouble.",
           "a": "explain",
           "options": [
-            "speak",
+            "compile",
             "explain",
-            "timely",
-            "outline"
+            "extended",
+            "contain"
           ]
         }
       ]

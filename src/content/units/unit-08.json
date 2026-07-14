@@ -685,19 +685,19 @@
           "q": "___s showed only marginal interest in the new tablet computer.",
           "a": "customer",
           "options": [
-            "customer",
             "less",
-            "instantly",
-            "means"
+            "customer",
+            "attract",
+            "subscribe"
           ]
         },
         {
           "q": "Telephone representatives should make the needs of ___s their priority.",
           "a": "customer",
           "options": [
-            "adopt",
-            "advantage",
-            "means",
+            "disregard",
+            "steadily",
+            "analyze",
             "customer"
           ]
         },
@@ -706,68 +706,68 @@
           "a": "instantly",
           "options": [
             "instantly",
-            "customer",
-            "analyze",
-            "c creative"
+            "introduce",
+            "initial",
+            "intensify"
           ]
         },
         {
           "q": "Management's ___ for expansion has been successful.",
           "a": "strategy",
           "options": [
-            "analyze",
-            "intensify",
             "strategy",
-            "forward"
+            "initial",
+            "ng.\naggressively",
+            "adopt"
           ]
         },
         {
           "q": "Studies indicate that consumers prefer ___ively packaged products.",
           "a": "attract",
           "options": [
-            "customer",
-            "means",
+            "necessarily",
             "attract",
-            "c creative"
+            "initial",
+            "majority"
           ]
         },
         {
           "q": "All of the invited guests had a pleasant ___ at the store opening.",
           "a": "experience",
           "options": [
-            "analyze",
-            "disregard",
+            "introduce",
             "experience",
-            "instantly"
+            "largely",
+            "discussion"
           ]
         },
         {
           "q": "Researchers were asked to ___ the survey data.",
           "a": "analyze",
           "options": [
+            "necessarily",
+            "forward",
             "analyze",
-            "customer",
-            "favorably",
-            "instantly"
+            "advantage"
           ]
         },
         {
           "q": "ElectroLife ___d a new line of vacuum cleaners.",
           "a": "introduce",
           "options": [
-            "initial",
-            "favorably",
             "introduce",
-            "largely"
+            "attract",
+            "means",
+            "advantage"
           ]
         },
         {
           "q": "Firm ___s clients on intellectual property matters.",
           "a": "advise",
           "options": [
-            "adopt",
-            "means",
-            "largely",
+            "less",
+            "intensify",
+            "forward",
             "advise"
           ]
         },
@@ -775,10 +775,10 @@
           "q": "Direct surveys are one ___ of gathering consumer feedback.",
           "a": "means",
           "options": [
+            "attract",
             "means",
-            "less",
-            "majority",
-            "forward"
+            "subscribe",
+            "analyze"
           ]
         }
       ]

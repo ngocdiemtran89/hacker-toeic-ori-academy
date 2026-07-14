@@ -828,19 +828,19 @@
           "q": "The popular video game is ___ out of stock in stores, but may be bought online.",
           "a": "temporarily",
           "options": [
-            "discount",
-            "temporarily",
-            "quote",
-            "affordability"
+            "s finalize",
+            "cOst",
+            "encompass",
+            "temporarily"
           ]
         },
         {
           "q": "Imported vehicles are sold only by licensed car ___s.",
           "a": "dealer",
           "options": [
-            "satisfactory",
-            "affordability",
-            "move",
+            "contact",
+            "invoice",
+            "retail",
             "dealer"
           ]
         },
@@ -848,20 +848,20 @@
           "q": "Many factories offer a modest discount for ___- orders.",
           "a": "bulk",
           "options": [
+            "cOst",
             "bulk",
-            "represent",
-            "invoice",
-            "supply"
+            "acclaim",
+            "inventory"
           ]
         },
         {
           "q": "The ___ in the warehouse is checked at regular intervals.",
           "a": "inventory",
           "options": [
-            "retail",
+            "distribute",
+            "market",
             "inventory",
-            "subject",
-            "cOst"
+            "measure"
           ]
         },
         {
@@ -869,9 +869,9 @@
           "a": "short",
           "options": [
             "short",
-            "encompass",
-            "acclaim",
-            "stock"
+            "affordability",
+            "assure",
+            "contact"
           ]
         },
         {
@@ -879,49 +879,49 @@
           "a": "selection",
           "options": [
             "selection",
-            "s finalize",
-            "quote",
-            "invoice"
+            "contact",
+            "dealer",
+            "quote"
           ]
         },
         {
           "q": "Some ___ products may be subject to import taxes.",
           "a": "commercial",
           "options": [
-            "bulk",
-            "commercial",
-            "affordability",
-            "contact"
+            "encompass",
+            "quote",
+            "cOst",
+            "commercial"
           ]
         },
         {
           "q": "The secretary ___ed supplies from the main office.",
           "a": "order",
           "options": [
-            "short",
+            "retail",
             "order",
-            "affordability",
-            "seek"
+            "distribute",
+            "invoice"
           ]
         },
         {
           "q": "We ___ customers with detailed product lists by e-mail.",
           "a": "provide",
           "options": [
-            "invoice",
-            "distribute",
             "provide",
-            "encompass"
+            "invoice",
+            "quote",
+            "contact"
           ]
         },
         {
           "q": "___ the supplier to request express delivery.",
           "a": "contact",
           "options": [
-            "move",
-            "quote",
+            "retail",
+            "bulk",
             "contact",
-            "affordability"
+            "bargain"
           ]
         }
       ]

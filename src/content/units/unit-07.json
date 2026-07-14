@@ -850,30 +850,30 @@
           "q": "Customer ___s help to improve product quality.",
           "a": "survey",
           "options": [
-            "effective",
-            "consecutive",
             "survey",
-            "very"
+            "like",
+            "demonstrationO",
+            "effective"
           ]
         },
         {
           "q": "Almost all survey ___s rated the product highly.",
           "a": "respondent",
           "options": [
-            "cooperate",
-            "seasonal",
+            "effective",
             "respondent",
-            "reserve"
+            "demonstrationO",
+            "buy"
           ]
         },
         {
           "q": "anatronic has a virtual ___ on th lanufacture of digital recorders Panatronic",
           "a": "monopoly",
           "options": [
+            "consistently",
             "monopoly",
-            "cooperate",
-            "advanced",
-            "appreciate"
+            "survey",
+            "publicize"
           ]
         },
         {
@@ -881,69 +881,69 @@
           "a": "competition",
           "options": [
             "competition",
-            "cooperate",
-            "respondent",
-            "raise"
+            "very",
+            "analysis",
+            "like"
           ]
         },
         {
           "q": "The factory has ___ provided the highest grade products.",
           "a": "consistently",
           "options": [
-            "consistently",
-            "survey",
-            "t.\nT",
-            "extremely"
+            "respondent",
+            "raise",
+            "appreciate",
+            "consistently"
           ]
         },
         {
           "q": "The company could not meet the increased ___ for mobile devices.",
           "a": "demand",
           "options": [
-            "campaign",
-            "publicize",
+            "competition",
             "demand",
-            "mounting"
+            "advanced",
+            "appreciate"
           ]
         },
         {
           "q": "Optics has ___ed its marketing and sales division.",
           "a": "expand",
           "options": [
-            "raise",
-            "expand",
-            "focus",
-            "comparison"
+            "survey",
+            "respondent",
+            "impact",
+            "expand"
           ]
         },
         {
           "q": "Modern cell phones are very ___ compared to those from a decade ago.",
           "a": "advanced",
           "options": [
-            "examine",
             "advanced",
-            "competition",
-            "buy"
+            "reserve",
+            "buy",
+            "demonstrationO"
           ]
         },
         {
           "q": "Organizers ___d the conference on management strategies because of bad weather.",
           "a": "postpone",
           "options": [
+            "buy",
+            "probable",
             "postpone",
-            "examine",
-            "expand",
-            "monopoly"
+            "ng."
           ]
         },
         {
           "q": "Several investors decided to purchase ___ stocks.",
           "a": "additional",
           "options": [
+            "expectation",
+            "raise",
             "additional",
-            "seasonal",
-            "publicize",
-            "comparison"
+            "demonstrationO"
           ]
         }
       ]

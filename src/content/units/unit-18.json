@@ -222,19 +222,19 @@
           "a": "compensate",
           "options": [
             "compensate",
-            "flavor",
-            "elegant",
-            "container"
+            "container",
+            "reception",
+            "elegant"
           ]
         },
         {
           "q": "The restaurant's head ___ is famous across Europe.",
           "a": "chef",
           "options": [
-            "reception",
+            "container",
+            "flavor",
             "chef",
-            "compensate",
-            "available"
+            "compensate"
           ]
         },
         {
@@ -242,28 +242,28 @@
           "a": "container",
           "options": [
             "container",
-            "available",
-            "chef",
-            "compensate"
+            "elegant",
+            "compensate",
+            "chef"
           ]
         },
         {
           "q": "The recently renovated lobby boasts ___. decor.",
           "a": "elegant",
           "options": [
-            "flavor",
-            "reception",
+            "chef",
             "elegant",
-            "available"
+            "flavor",
+            "container"
           ]
         },
         {
           "q": "The shop sells ice cream in a variety of ___s.",
           "a": "flavor",
           "options": [
+            "available",
             "compensate",
-            "elegant",
-            "compensate",
+            "reception",
             "flavor"
           ]
         },
@@ -271,20 +271,20 @@
           "q": "The sauna is ___ to all registered guests.",
           "a": "available",
           "options": [
+            "reception",
             "available",
             "compensate",
-            "chef",
-            "flavor"
+            "elegant"
           ]
         },
         {
           "q": "The college held a welcome ___ for the guest speaker.",
           "a": "reception",
           "options": [
+            "reception",
             "compensate",
-            "flavor",
-            "compensate",
-            "reception"
+            "elegant",
+            "container"
           ]
         }
       ]

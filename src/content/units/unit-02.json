@@ -1384,59 +1384,59 @@
           "q": "Professional business ___ is required of all staff giving presentations.",
           "a": "attire",
           "options": [
+            "access",
             "code",
-            "habit",
-            "attire",
-            "adhere"
+            "revise",
+            "attire"
           ]
         },
         {
           "q": "Employees are expected to follow the dress ___.",
           "a": "code",
           "options": [
+            "regulation",
             "code",
-            "constant",
-            "drastically",
-            "enforce"
+            "according to",
+            "approval"
           ]
         },
         {
           "q": "The board voiced ___s about safety at the meeting.",
           "a": "concern",
           "options": [
-            "enforce",
             "concern",
-            "abolish",
-            "approval"
+            "mandate",
+            "restrict",
+            "enforce"
           ]
         },
         {
           "q": "Citizens are ___ed about the new trade protocol.",
           "a": "concern",
           "options": [
-            "exception",
+            "immediately",
+            "negative",
             "concern",
-            "prohibit",
-            "effect"
+            "access"
           ]
         },
         {
           "q": "The employee benefit ___ will be expanded next year.",
           "a": "policy",
           "options": [
-            "act",
+            "obligation",
+            "restrict",
             "policy",
-            "approach",
-            "habit"
+            "immediately"
           ]
         },
         {
           "q": "Employees must ___ with the regulations governing computer use.",
           "a": "comply",
           "options": [
-            "concern",
-            "severely",
-            "arrangement",
+            "constant",
+            "immediately",
+            "legislation",
             "comply"
           ]
         },
@@ -1444,40 +1444,40 @@
           "q": "___s regarding lunch breaks were established.",
           "a": "regulation",
           "options": [
+            "procedure",
             "regulation",
-            "negative",
-            "attire",
-            "ban"
+            "policy",
+            "concern"
           ]
         },
         {
           "q": "Management decided not to make any ___s to the rules.",
           "a": "exception",
           "options": [
-            "severely",
             "exception",
-            "compensation",
-            "concern"
+            "severely",
+            "concern",
+            "constant"
           ]
         },
         {
           "q": "All staff should do their best to ___ to the company's policies.",
           "a": "adhere",
           "options": [
-            "inspection",
-            "enforce",
-            "permission",
-            "adhere"
+            "adhere",
+            "standard",
+            "severely",
+            "thoroughly"
           ]
         },
         {
           "q": "Those who share company data with outside parties will be ___ punished.",
           "a": "severely",
           "options": [
-            "approach",
-            "mandate",
+            "authorize",
+            "habit",
             "severely",
-            "revise"
+            "obligation"
           ]
         }
       ]

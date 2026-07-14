@@ -855,20 +855,20 @@
           "q": "The museum has a unique ___ of stamps.",
           "a": "collection",
           "options": [
-            "audience",
-            "so defy",
+            "advocate",
             "collection",
-            "committ"
+            "alumni",
+            "c midt"
           ]
         },
         {
           "q": "The gallery hosted an ___ of urban scenic photographs.",
           "a": "exhibition",
           "options": [
-            "exhibition",
-            "showing",
             "local",
-            "issue"
+            "improvise",
+            "exhibition",
+            "banquet"
           ]
         },
         {
@@ -876,39 +876,39 @@
           "a": "live",
           "options": [
             "live",
-            "appear",
-            "celebrity",
-            "accompany"
+            "alumni",
+            "present",
+            "antique"
           ]
         },
         {
           "q": "The ___ owner of the resort intends to renovate it.",
           "a": "present",
           "options": [
-            "banquet",
+            "appear",
             "present",
-            "rest",
-            "live"
+            "admission",
+            "accompany"
           ]
         },
         {
           "q": "Those wishing to visit the exhibit will be charged an extra ___ fee.",
           "a": "admission",
           "options": [
-            "live",
             "admission",
-            "beneficial",
-            "anonymous"
+            "popular",
+            "manuscript",
+            "specifically"
           ]
         },
         {
           "q": "The hotel has facilities for large-scale wedding ___s.",
           "a": "banquet",
           "options": [
-            "so defy",
-            "anniversary",
+            "alumni",
+            "manuscript",
             "banquet",
-            "specifically"
+            "accompany"
           ]
         },
         {
@@ -916,19 +916,19 @@
           "a": "anniversary",
           "options": [
             "anniversary",
-            "audience",
-            "popular",
-            "anonymous"
+            "lend",
+            "alumni",
+            "advocate"
           ]
         },
         {
           "q": "Proper swimming attire is ___ when using the hotel pool.",
           "a": "required",
           "options": [
-            "antique",
-            "manuscript",
-            "fascinating",
-            "required"
+            "banquet",
+            "required",
+            "edition",
+            "specifically"
           ]
         },
         {
@@ -936,19 +936,19 @@
           "a": "succeed",
           "options": [
             "succeed",
-            "collection",
-            "lend",
-            "committ"
+            "alumni",
+            "donation",
+            "celebrity"
           ]
         },
         {
           "q": "Hikers can ___ on the bench halfway up the hill.",
           "a": "rest",
           "options": [
-            "local",
-            "fund-raising",
-            "rest",
-            "contributor"
+            "improvise",
+            "antique",
+            "collection",
+            "rest"
           ]
         }
       ]

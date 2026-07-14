@@ -1067,10 +1067,10 @@
           "q": "Please ___ the director that the meeting has been canceled.",
           "a": "inform",
           "options": [
-            "degree",
-            "specialize",
             "inform",
-            "highly"
+            "training",
+            "diligent",
+            "proficiency"
           ]
         },
         {
@@ -1078,69 +1078,69 @@
           "a": "résumé",
           "options": [
             "résumé",
-            "requirement",
-            "qualified",
-            "confidence"
+            "interview",
+            "apprehensive",
+            "reference"
           ]
         },
         {
           "q": "There are several job ___s at the restaurant right now.",
           "a": "opening",
           "options": [
-            "hire",
-            "applicant",
-            "opening",
-            "interview"
+            "achievement",
+            "recruit",
+            "diligent",
+            "opening"
           ]
         },
         {
           "q": "___s are required to submit a résumé.",
           "a": "applicant",
           "options": [
-            "apprehensive",
-            "interview",
             "applicant",
-            "résumé"
+            "appeal",
+            "inform",
+            "entitle"
           ]
         },
         {
           "q": "A driver's license is a ___ of this job.",
           "a": "requirement",
           "options": [
-            "requirement",
-            "excellent",
-            "applicant",
-            "apprehensive"
+            "reference",
+            "confidence",
+            "inform",
+            "requirement"
           ]
         },
         {
           "q": "Applicants must ___ all the requirements for the job.",
           "a": "meet",
           "options": [
-            "candidate",
-            "confidence",
-            "training",
-            "meet"
+            "meet",
+            "managerial",
+            "entitle",
+            "eligible"
           ]
         },
         {
           "q": "People with master's degrees are ___ for the research position.",
           "a": "qualified",
           "options": [
-            "professional",
-            "lack",
             "qualified",
-            "interview"
+            "diligent",
+            "applicant",
+            "managerial"
           ]
         },
         {
           "q": "Five ___s will be selected for final interviews.",
           "a": "candidate",
           "options": [
-            "opening",
             "candidate",
+            "opening",
             "inform",
-            "recruit"
+            "achievement"
           ]
         },
         {
@@ -1148,19 +1148,19 @@
           "a": "confidence",
           "options": [
             "confidence",
-            "opening",
-            "position",
-            "apprehensive"
+            "highly",
+            "prospective",
+            "achievement"
           ]
         },
         {
           "q": "Mr. Monroe's experience makes him ___ qualified for the job.",
           "a": "highly",
           "options": [
-            "highly",
-            "specialize",
-            "professional",
-            "candidate"
+            "meet",
+            "applicant",
+            "diligent",
+            "highly"
           ]
         }
       ]

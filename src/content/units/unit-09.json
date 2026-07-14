@@ -728,59 +728,59 @@
           "q": "Profits are down this year as sales have been ___.",
           "a": "stagnant",
           "options": [
-            "drastic",
-            "stagnant",
-            "evenly",
-            "prosperity"
+            "adversity",
+            "substitute",
+            "depression",
+            "stagnant"
           ]
         },
         {
           "q": "Interest rates climbed ___.",
           "a": "dramatically",
           "options": [
-            "particular",
-            "likely",
-            "fall",
-            "dramatically"
+            "implication",
+            "dramatically",
+            "wane",
+            "analyst"
           ]
         },
         {
           "q": "A ___ market is developing in online shopping.",
           "a": "brisk",
           "options": [
+            "analyst",
+            "particular",
             "brisk",
-            "depression",
-            "potential",
-            "implication"
+            "depression"
           ]
         },
         {
           "q": "Gas prices have been ___ in recent years.",
           "a": "unstable",
           "options": [
+            "substitute",
             "unstable",
-            "lead",
-            "pleased",
-            "implication"
+            "brisk",
+            "director"
           ]
         },
         {
           "q": "Energy demand increased ___.",
           "a": "rapidly",
           "options": [
-            "rapidly",
-            "evenly",
-            "fall",
-            "pleased"
+            "industry",
+            "likely",
+            "unstable",
+            "rapidly"
           ]
         },
         {
           "q": "Interest rates have ___ed due to inflation.",
           "a": "soar",
           "options": [
-            "lead",
-            "brisk",
-            "rapidly",
+            "evenly",
+            "substitute",
+            "substitute",
             "soar"
           ]
         },
@@ -788,40 +788,40 @@
           "q": "___s recommend buying stock in energy companies.",
           "a": "analyst",
           "options": [
-            "indicator",
-            "adversity",
+            "drastic",
+            "consequence",
             "analyst",
-            "industry"
+            "fall"
           ]
         },
         {
           "q": "___ earnings from the trade deal could reach billions of dollars.",
           "a": "potential",
           "options": [
-            "director",
             "potential",
-            "implication",
-            "pleased"
+            "fall",
+            "prospect",
+            "particular"
           ]
         },
         {
           "q": "Investors are ___ with the market's performance.",
           "a": "pleased",
           "options": [
-            "likely",
-            "pleased",
-            "wane",
-            "drastic"
+            "consequence",
+            "particular",
+            "adversity",
+            "pleased"
           ]
         },
         {
           "q": "Starting a business is ___.",
           "a": "costly",
           "options": [
-            "rapidly",
+            "economical",
+            "dwindle",
             "costly",
-            "pleased",
-            "lead"
+            "unstable"
           ]
         }
       ]

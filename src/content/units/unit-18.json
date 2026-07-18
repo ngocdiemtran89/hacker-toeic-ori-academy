@@ -221,40 +221,40 @@
           "q": "The hotel ___d the guest for the erroneous charge.",
           "a": "compensate",
           "options": [
-            "reception",
             "container",
-            "compensate",
-            "chef"
+            "reception",
+            "elegant",
+            "compensate"
           ]
         },
         {
           "q": "The restaurant's head ___ is famous across Europe.",
           "a": "chef",
           "options": [
-            "flavor",
-            "chef",
             "elegant",
-            "available"
+            "chef",
+            "compensate",
+            "compensate"
           ]
         },
         {
           "q": "Food may be kept for longer periods by storing it in airtight ___s.",
           "a": "container",
           "options": [
+            "chef",
             "compensate",
-            "available",
             "container",
-            "flavor"
+            "reception"
           ]
         },
         {
           "q": "The recently renovated lobby boasts ___. decor.",
           "a": "elegant",
           "options": [
-            "elegant",
-            "flavor",
             "compensate",
-            "available"
+            "compensate",
+            "chef",
+            "elegant"
           ]
         },
         {
@@ -262,29 +262,29 @@
           "a": "flavor",
           "options": [
             "flavor",
+            "available",
             "compensate",
-            "reception",
-            "container"
+            "elegant"
           ]
         },
         {
           "q": "The sauna is ___ to all registered guests.",
           "a": "available",
           "options": [
-            "container",
             "available",
-            "elegant",
-            "compensate"
+            "compensate",
+            "flavor",
+            "chef"
           ]
         },
         {
           "q": "The college held a welcome ___ for the guest speaker.",
           "a": "reception",
           "options": [
-            "container",
-            "chef",
             "reception",
-            "available"
+            "flavor",
+            "chef",
+            "container"
           ]
         }
       ]

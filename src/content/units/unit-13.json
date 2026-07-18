@@ -867,20 +867,20 @@
           "q": "Customers can register ___s at the customer service center or online.",
           "a": "complaint",
           "options": [
-            "complaint",
-            "politely",
             "apologize",
-            "satisfaction"
+            "specific",
+            "complaint",
+            "return"
           ]
         },
         {
           "q": "The problem will be ___t with immediately.",
           "a": "deal",
           "options": [
+            "complete",
+            "commentary",
             "deal",
-            "interact",
-            "guarantee",
-            "politely"
+            "specific"
           ]
         },
         {
@@ -888,49 +888,49 @@
           "a": "respond",
           "options": [
             "respond",
-            "return",
-            "inconvenience",
-            "politely"
+            "disclose",
+            "confident",
+            "apologize"
           ]
         },
         {
           "q": "All inquiries must be handled in a ___ manner.",
           "a": "courteous",
           "options": [
+            "applaud",
             "courteous",
-            "certain",
-            "return",
-            "respond"
+            "respond",
+            "confident"
           ]
         },
         {
           "q": "We hope our assistance was to your ___.",
           "a": "satisfaction",
           "options": [
-            "presentation",
+            "damage.",
+            "courteous",
             "satisfaction",
-            "defective",
-            "disclose"
+            "evaluation"
           ]
         },
         {
           "q": "We apologize for the ___ during construction.",
           "a": "inconvenience",
           "options": [
-            "satisfaction",
+            "deal",
+            "depend on",
             "inconvenience",
-            "inquire",
-            "observe"
+            "guarantee"
           ]
         },
         {
           "q": "Cheryl asked the manager if it would ___ him to reschedule her interview.",
           "a": "inconvenience",
           "options": [
-            "combine",
-            "argumentative",
             "inconvenience",
-            "critical"
+            "reflect",
+            "applaud",
+            "observe"
           ]
         },
         {
@@ -938,8 +938,8 @@
           "a": "complete",
           "options": [
             "complete",
-            "courteous",
-            "politely",
+            "return",
+            "defective",
             "presentation"
           ]
         },
@@ -947,20 +947,20 @@
           "q": "Once you receive a confirmation e-mail, the registration process is ___.",
           "a": "complete",
           "options": [
-            "depend on",
-            "reflect",
+            "damage.",
+            "presentation",
             "complete",
-            "combine"
+            "depend on"
           ]
         },
         {
           "q": "When seeking help online, clients must be ver ___ in describing problems.",
           "a": "specific",
           "options": [
-            "argumentative",
-            "deal",
-            "inconvenience",
-            "specific"
+            "specific",
+            "inquire",
+            "commentary",
+            "respond"
           ]
         }
       ]

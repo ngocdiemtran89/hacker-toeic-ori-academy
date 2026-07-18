@@ -861,29 +861,29 @@
           "q": "The company started a ___ program into developing GPS technology.",
           "a": "research",
           "options": [
-            "allow",
-            "accomplished",
-            "intend",
-            "research"
+            "research",
+            "inquiry",
+            "inspiration",
+            "accomplished"
           ]
         },
         {
           "q": "The firm ___d a more efficient network system.",
           "a": "devise",
           "options": [
-            "devise",
-            "envision",
-            "feature",
-            "inspiration"
+            "extend",
+            "complicated",
+            "intend",
+            "devise"
           ]
         },
         {
           "q": "The car's ___ new engine surpasses those of the competition.",
           "a": "revolutionary",
           "options": [
-            "successful",
-            "availability",
-            "complicated",
+            "development",
+            "a compatible",
+            "accomplished",
             "revolutionary"
           ]
         },
@@ -891,70 +891,70 @@
           "q": "Associates provides clients with ___ solutions to their needs.",
           "a": "innovative",
           "options": [
-            "envision",
-            "inspiration",
+            "a compatible",
+            "reliable",
             "innovative",
-            "hold"
+            "development"
           ]
         },
         {
           "q": "The latest dryer has several new ___s.",
           "a": "feature",
           "options": [
+            "patent",
             "feature",
-            "manual",
-            "successful",
-            "appearance"
+            "inquiry",
+            "successful"
           ]
         },
         {
           "q": "The new fashion designer draws her ___ from traditional attire.",
           "a": "inspiration",
           "options": [
-            "increasingly",
-            "sufficiently",
-            "inspiration",
-            "reliable"
+            "explore",
+            "broaden",
+            "accomplished",
+            "inspiration"
           ]
         },
         {
           "q": "The containers are ___ strong to resist breakage.",
           "a": "sufficiently",
           "options": [
+            "inspiration",
+            "response",
             "sufficiently",
-            "accomplished",
-            "corrosion",
-            "availability"
+            "corrosion"
           ]
         },
         {
           "q": "The lawyers submitted the paperwork for a ___ application.",
           "a": "patent",
           "options": [
-            "following",
             "patent",
-            "grant",
-            "availability"
+            "manufacturer",
+            "sufficiently",
+            "update"
           ]
         },
         {
           "q": "Management ___s its latest product being sold in stores across the country.",
           "a": "envision",
           "options": [
+            "update",
             "envision",
-            "increasingly",
-            "manual",
-            "hold"
+            "advance",
+            "intend"
           ]
         },
         {
           "q": "A switch for adjusting brightness ___s from the back of the lamp.",
           "a": "extend",
           "options": [
+            "manual",
+            "availability",
             "extend",
-            "reliable",
-            "a compatible",
-            "quality"
+            "research"
           ]
         }
       ]

@@ -9,29 +9,46 @@
   ],
   "words": [
     {
-      "id": "customer",
-      "word": "customer",
-      "partOfSpeech": "adj",
+      "id": "advertisement",
+      "word": "advertisement",
+      "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/kástemor/",
-        "us": "/kástemor/"
+        "uk": "/ədˈvɜːtɪsmənt/",
+        "us": "/ˌædvərˈtaɪzmənt/"
       },
       "frequency": 3,
-      "meaningVi": "ở mép, ngoài lề, không đáng kể",
-      "exampleEn": "Customers showed only marginal interest in the new tablet computer.",
-      "exampleVi": "Người tiêu dùng tỏ ra không mấy quan tâm đến sản phẩm máy tính bảng mới.",
+      "meaningVi": "quảng cáo",
+      "exampleEn": "Sales have been propelled by the new advertisement.",
+      "exampleVi": "Doanh số bán hàng đã được thúc đẩy bởi quảng cáo mới này.",
       "derivatives": [],
       "synonyms": [],
       "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "marginal",
+      "word": "marginal",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ˈmɑːdʒɪnl/",
+        "us": "/ˈmɑːrdʒɪnl/"
+      },
+      "frequency": 2,
+      "meaningVi": "không đáng kể, ở mép, sát giới hạn",
+      "exampleEn": "Customers showed only marginal interest in the new tablet computer.",
+      "exampleVi": "Người tiêu dùng tỏ ra không mấy quan tâm đến sản phẩm máy tính bảng mới.",
+      "derivatives": [
+        {
+          "word": "margin",
+          "partOfSpeech": "n",
+          "meaningVi": "lề, mép, giới hạn, biên, sự chênh lệch"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
       "toeicNotes": [
-        "The maintenance department decorated the marginal area of the company premises.",
-        "Bộ phận bảo trì đã trang trí khu vực xung quanh của tòa nhà công ty.",
-        "ud marginal : approximate i.",
-        "Đề thi có thể sẽ xuất hiện câu hỏi yêu cầu phân biệt sự khác nhau của hai từ cùng mang nghĩa \"xung quanh\" này.",
-        "- marginal xung quanh, gần ranh giới Được dùng để chỉ vị tri hơi xa trung tâm.",
-        "-approximate xấp xỉ, gần đúng Được dùng để chỉ sự gần đúng về số lượng.",
-        "The accountant figured an approximate amount of tax the company needs to pay.",
-        "Nhân viên kế toán đã tính ước lượng khoản tiền thuế mà công ty cần phải trả."
+        "Phân biệt: marginal (xung quanh, gần ranh giới) và approximate (xấp xỉ, gần đúng)"
       ],
       "needsReview": false
     },
@@ -40,17 +57,65 @@
       "word": "customer",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/kástemor/",
-        "us": "/kástemor/"
+        "uk": "/ˈkʌstəmə(r)//",
+        "us": "/ˈkʌstəmər/"
       },
       "frequency": 3,
-      "meaningVi": "người tiêu dùng, khách hàng",
+      "meaningVi": "khách hàng, người tiêu dùng",
       "exampleEn": "Telephone representatives should make the needs of customers their priority.",
-      "exampleVi": "Nhân viên bán hàng trên điện thoại nên đặt nhu cầu của khách hàng là ưu tiên hàng dầu.",
+      "exampleVi": "Nhân viên bán hàng trên điện thoại nên đặt nhu cầu của khách hàng là ưu tiên hàng đầu.",
+      "derivatives": [],
+      "synonyms": [
+        "patron"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "influence-v",
+      "word": "influence",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ˈɪnfluəns/",
+        "us": "/ˈɪnfluəns/"
+      },
+      "frequency": 2,
+      "meaningVi": "ảnh hưởng, tác động, chi phối",
+      "exampleEn": "Demand for housing directly influences the cost of homes.",
+      "exampleVi": "Nhu cầu về nhà ở ảnh hưởng trực tiếp tới giá nhà.",
+      "derivatives": [
+        {
+          "word": "influential",
+          "partOfSpeech": "adj",
+          "meaningVi": "có ảnh hưởng"
+        }
+      ],
+      "synonyms": [
+        "affect"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "influence-n",
+      "word": "influence",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈɪnfluəns/",
+        "us": "/ˈɪnfluəns/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự ảnh hưởng, tác dụng",
+      "exampleEn": "Product reviews have a profound influence on sales.",
+      "exampleVi": "Những đánh giá về sản phẩm có tác động rất lớn đến việc bán hàng.",
       "derivatives": [],
       "synonyms": [],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "have an influence on: có ảnh hưởng tới"
+      ],
       "needsReview": false
     },
     {
@@ -58,61 +123,129 @@
       "word": "instantly",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/ínstantli/",
-        "us": "/ínstantli/"
+        "uk": "/ˈɪnstəntli/",
+        "us": "/ˈɪnstəntli/"
       },
-      "frequency": 1,
-      "meaningVi": "khi, ngay lập tức",
+      "frequency": 3,
+      "meaningVi": "ngay lập tức",
       "exampleEn": "The brand logo should be instantly recognizable.",
       "exampleVi": "Logo của thương hiệu cần được dễ dàng nhận diện ngay lập tức.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "instance",
+          "partOfSpeech": "n",
+          "meaningVi": "ví dụ"
+        },
+        {
+          "word": "instant",
+          "partOfSpeech": "adj",
+          "meaningVi": "ngay lập tức"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [
-        "TOEIC dang thưc mor de instantly: urgently: hastily lắn Đề thi có thể sẽ xuất hiện câu hỏi yêu cầu phân biệt các từ cùng mang nghĩa \"ngay lập tức\".",
-        "- instantly ngay lập tức Được dùng để diễn tả về việc gì đó xảy ra ngay tức thì.",
-        "- urgently khẩn cấp Được dùng để nói về việc cần phải ứng phó ngay với một tình huống khẩn cấp.",
-        "Action is urgently needed to avoid a financial crisis.",
-        "Cần có hành động cấp bách để ngăn chặn khủng hoảng tài chính.",
-        "-hastily vội vàng Được dùng để diễn tả việc vội vàng hành động mà chưa suy nghĩ kỹ.",
-        "The boss acted too hastilly in accepting Mr.",
-        "Binny's resignation.",
-        "Ông chủ đã hết sức nóng vội trong việc chấp thuận đơn xin từ chức của anh Binny."
+        "Phân biệt: instantly (ngay tức thì), urgently (khẩn cấp), hastily (vội vàng)"
       ],
       "needsReview": false
     },
     {
-      "id": "c-creative",
-      "word": "c creative",
+      "id": "creative",
+      "word": "creative",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/krieitiv/",
-        "us": "/krieitiv/"
+        "uk": "/kriˈeɪtɪv/",
+        "us": "/kriˈeɪtɪv/"
       },
-      "frequency": 1,
-      "meaningVi": "tạo",
+      "frequency": 2,
+      "meaningVi": "sáng tạo",
       "exampleEn": "Mr. Beaumont came up with a creative idea.",
       "exampleVi": "Ông Beaumont đã nảy ra một ý tưởng sáng tạo.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "create",
+          "partOfSpeech": "v",
+          "meaningVi": "tạo ra"
+        },
+        {
+          "word": "creativity",
+          "partOfSpeech": "n",
+          "meaningVi": "sự sáng tạo"
+        },
+        {
+          "word": "creatively",
+          "partOfSpeech": "adv",
+          "meaningVi": "một cách sáng tạo"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
     },
     {
-      "id": "ng.\naggressively",
-      "word": "ng.\naggressively",
+      "id": "aggressively",
+      "word": "aggressively",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/agrésivli/",
-        "us": "/agrésivli/"
+        "uk": "/əˈɡresɪvli/",
+        "us": "/əˈɡresɪvli/"
       },
-      "frequency": 2,
-      "meaningVi": "xáo, tích cực",
+      "frequency": 3,
+      "meaningVi": "xông xáo, tích cực, quyết liệt",
       "exampleEn": "The best sales representatives aggressively seek out potential clients.",
       "exampleVi": "Những nhân viên bán hàng tốt nhất luôn tích cực tìm kiếm các khách hàng tiềm năng.",
+      "derivatives": [
+        {
+          "word": "aggressive",
+          "partOfSpeech": "adj",
+          "meaningVi": "xông xáo, chủ động, quyết liệt"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [
+        "passively"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "aim-v",
+      "word": "aim",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/eɪm/",
+        "us": "/eɪm/"
+      },
+      "frequency": 3,
+      "meaningVi": "nhắm tới, có mục đích",
+      "exampleEn": "Sport Apparel developed athletic gear aimed at teenagers.",
+      "exampleVi": "Sport Apparel đã phát triển những dụng cụ thể thao nhằm tới đối tượng thanh thiếu niên.",
       "derivatives": [],
       "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "aim to do: định làm gì",
+        "aimed at: nhằm mục tiêu vào (đối tượng)"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "aim-n",
+      "word": "aim",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/eɪm/",
+        "us": "/eɪm/"
+      },
+      "frequency": 3,
+      "meaningVi": "mục tiêu, mục đích",
+      "exampleEn": "The division head will outline the aims of the marketing strategy.",
+      "exampleVi": "Trưởng bộ phận sẽ vạch ra các mục tiêu của chiến lược marketing này.",
+      "derivatives": [],
+      "synonyms": [
+        "intention"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -122,21 +255,64 @@
       "word": "strategy",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/stratadzi/",
-        "us": "/stratadzi/"
+        "uk": "/ˈstrætədʒi/",
+        "us": "/ˈstrætədʒi/"
       },
       "frequency": 2,
       "meaningVi": "chiến lược",
       "exampleEn": "Management's strategy for expansion has been successful.",
-      "exampleVi": "Chiến lược mở rộng của ban quản lý đã thành công.",
-      "derivatives": [],
+      "exampleVi": "Chiến dịch mở rộng của ban quản lý đã thành công.",
+      "derivatives": [
+        {
+          "word": "strategic",
+          "partOfSpeech": "adj",
+          "meaningVi": "có tính chiến lược"
+        },
+        {
+          "word": "strategically",
+          "partOfSpeech": "adv",
+          "meaningVi": "có chiến lược"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "toeicNotes": [
-        "(der.",
-        "strategic (adi) có tính chiến lược strategically (adv) der.",
-        "attractive (ad)) lôi cuốn, quyến rũ attraction (n) sức hút, sự hấp dẫn"
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "indicate",
+      "word": "indicate",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ˈɪndɪkeɪt/",
+        "us": "/ˈɪndɪkeɪt/"
+      },
+      "frequency": 3,
+      "meaningVi": "biểu thị, cho biết, chỉ ra",
+      "exampleEn": "Studies indicate that consumers prefer attractively packaged products.",
+      "exampleVi": "Các nghiên cứu chỉ ra rằng người tiêu dùng thích những sản phẩm được đóng gói bắt mắt.",
+      "derivatives": [
+        {
+          "word": "indicative",
+          "partOfSpeech": "adj",
+          "meaningVi": "tỏ ra, chỉ ra"
+        },
+        {
+          "word": "indication",
+          "partOfSpeech": "n",
+          "meaningVi": "sự biểu thị, dấu hiệu"
+        },
+        {
+          "word": "indicator",
+          "partOfSpeech": "n",
+          "meaningVi": "chỉ số, chỉ tiêu"
+        }
       ],
+      "synonyms": [
+        "show"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
       "needsReview": false
     },
     {
@@ -144,35 +320,60 @@
       "word": "attract",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/atrakt/",
-        "us": "/atrakt/"
+        "uk": "/əˈtrækt/",
+        "us": "/əˈtrækt/"
       },
       "frequency": 3,
-      "meaningVi": "biểu thị, cho biết, chỉ ra",
-      "exampleEn": "Studies indicate that consumers prefer attractively packaged products.",
-      "exampleVi": "Các nghiên cứu chỉ ra rằng người tiêu dùng thích những sản phẩm được đóng gói bắt mắt.",
-      "derivatives": [],
+      "meaningVi": "thu hút, lôi cuốn",
+      "exampleEn": "The automaker is making an effort to attract younger buyers.",
+      "exampleVi": "Nhà sản xuất xe ô tô đang nỗ lực để thu hút những người tiêu dùng trẻ tuổi.",
+      "derivatives": [
+        {
+          "word": "attractive",
+          "partOfSpeech": "adj",
+          "meaningVi": "thu hút, hấp dẫn"
+        },
+        {
+          "word": "attraction",
+          "partOfSpeech": "n",
+          "meaningVi": "sức hút, sự hấp dẫn"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "toeicNotes": [
-        "Vì thu hút, lôi cuốn The automaker is making an effort to attract younger buyers.",
-        "Nhà sản xuất xe ô tô đang nỗ lực để thu hút những người tiêu dùng trẻ tuổi.",
-        "• = từ vựng thường gặp trong Part 5 - 6 O = từ vựng thường gặp trong Part 7 Marketing (2) | 141"
-      ],
+      "toeicNotes": [],
       "needsReview": false
     },
     {
-      "id": "experience",
+      "id": "experience-n",
       "word": "experience",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ɪkˈspɪəriəns/",
+        "us": "/ɪkˈspɪəriəns/"
       },
       "frequency": 3,
-      "meaningVi": "nghiệm, sự trải nghiệm",
+      "meaningVi": "kinh nghiệm, sự trải nghiệm",
       "exampleEn": "All of the invited guests had a pleasant experience at the store opening.",
       "exampleVi": "Tất cả khách mời đã có trải nghiệm vui vẻ trong ngày khai trương cửa hàng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "experience-v",
+      "word": "experience",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ɪkˈspɪəriəns/",
+        "us": "/ɪkˈspɪəriəns/"
+      },
+      "frequency": 3,
+      "meaningVi": "trải nghiệm, trải qua",
+      "exampleEn": "Customers can experience the new service free for a limited time.",
+      "exampleVi": "Khách hàng có thể trải nghiệm dịch vụ mới miễn phí trong một khoảng thời gian giới hạn.",
       "derivatives": [],
       "synonyms": [],
       "antonyms": [],
@@ -184,14 +385,25 @@
       "word": "analyze",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈænəlaɪz/",
+        "us": "/ˈænəlaɪz/"
       },
-      "frequency": 2,
-      "meaningVi": "trải nghiệm, trải qua Customers can experience the new service free for a limited time. Khách hàng có thể trải nghiệm dịch vụ mới miễn phí trong một khoảng thời gian giới hạn. M phân tích",
+      "frequency": 3,
+      "meaningVi": "phân tích",
       "exampleEn": "Researchers were asked to analyze the survey data.",
       "exampleVi": "Các nhà nghiên cứu đã được yêu cầu phân tích các dữ liệu khảo sát.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "analysis",
+          "partOfSpeech": "n",
+          "meaningVi": "sự phân tích"
+        },
+        {
+          "word": "analyst",
+          "partOfSpeech": "n",
+          "meaningVi": "nhà phân tích"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [],
@@ -202,14 +414,25 @@
       "word": "introduce",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/intradjús/",
-        "us": "/intradjús/"
+        "uk": "/ˌɪntrəˈdjuːs/",
+        "us": "/ˌɪntrəˈduːs/"
       },
       "frequency": 3,
       "meaningVi": "giới thiệu, đưa ra",
       "exampleEn": "ElectroLife introduced a new line of vacuum cleaners.",
       "exampleVi": "ElectroLife đã giới thiệu một dòng sản phẩm máy hút bụi mới.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "introduction",
+          "partOfSpeech": "n",
+          "meaningVi": "sự giới thiệu"
+        },
+        {
+          "word": "introductory",
+          "partOfSpeech": "adj",
+          "meaningVi": "để giới thiệu"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [],
@@ -220,18 +443,35 @@
       "word": "advise",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/adváiz/",
-        "us": "/adváiz/"
+        "uk": "/ədˈvaɪz/",
+        "us": "/ədˈvaɪz/"
       },
       "frequency": 3,
-      "meaningVi": "nhủ, tư vấn Coburn Law",
-      "exampleEn": "Firm advises clients on intellectual property matters.",
+      "meaningVi": "khuyên bảo, khuyên nhủ, tư vấn",
+      "exampleEn": "Coburn Law Firm advises clients on intellectual property matters.",
       "exampleVi": "Hãng Luật Coburn tư vấn cho khách hàng về các vấn đề sở hữu trí tuệ.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "advice",
+          "partOfSpeech": "n",
+          "meaningVi": "lời khuyên"
+        },
+        {
+          "word": "advisor",
+          "partOfSpeech": "n",
+          "meaningVi": "người cố vấn"
+        },
+        {
+          "word": "advisory",
+          "partOfSpeech": "adj",
+          "meaningVi": "tư vấn, khuyến cáo"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [
-        "advise A to do khuyên A làm gì Me advise A on B tư vấn cho A về B Trong đề thi, bạn thường hay gặp dạng advise + lân ngữ + to verb."
+        "advise A to do: khuyên A làm gì",
+        "advise A on B: tư vấn cho A về B"
       ],
       "needsReview": false
     },
@@ -240,38 +480,49 @@
       "word": "subscribe",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/səbˈskraɪb/",
+        "us": "/səbˈskraɪb/"
       },
       "frequency": 3,
       "meaningVi": "đăng ký, đặt mua dài hạn (báo, tạp chí)",
       "exampleEn": "Subscribing to the monthly fashion magazine costs only $40 a year.",
       "exampleVi": "Đặt mua dài hạn tạp chí thời trang hằng tháng chỉ tốn 40 đô-la một năm.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "subscription",
+          "partOfSpeech": "n",
+          "meaningVi": "sự đặt mua định kỳ"
+        },
+        {
+          "word": "subscriber",
+          "partOfSpeech": "n",
+          "meaningVi": "người đặt mua định kỳ"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
     },
     {
-      "id": "means",
-      "word": "means",
+      "id": "absence",
+      "word": "absence",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/ábsans/",
-        "us": "/ábsans/"
+        "uk": "/ˈæbsəns/",
+        "us": "/ˈæbsəns/"
       },
       "frequency": 3,
-      "meaningVi": "sự vắng mặt, nghỉ; sự thiếu, không có",
+      "meaningVi": "sự vắng mặt, sự nghỉ phép, sự thiếu",
       "exampleEn": "The absence of competition will help product sales.",
       "exampleVi": "Không có cạnh tranh sẽ có lợi cho việc bán sản phẩm.",
       "derivatives": [],
       "synonyms": [],
-      "antonyms": [],
+      "antonyms": [
+        "presence"
+      ],
       "toeicNotes": [
-        "Staff members must strictly observe the new policy on absences.",
-        "Các nhân viên phải tuân thủ nghiêm ngặt quy định mới về nghỉ phép.",
-        "(e durig/in + one' albsence wong khi al do vang mặt absence thường đi cùng giới từ during hoặc in."
+        "during/in one's absence: trong lúc ai đó vắng mặt"
       ],
       "needsReview": false
     },
@@ -280,23 +531,50 @@
       "word": "means",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/ábsans/",
-        "us": "/ábsans/"
+        "uk": "/miːnz/",
+        "us": "/miːnz/"
       },
       "frequency": 3,
-      "meaningVi": "phương tiện, cách",
+      "meaningVi": "phương tiện, cách thức",
       "exampleEn": "Direct surveys are one means of gathering consumer feedback.",
       "exampleVi": "Khảo sát trực tiếp là một trong những cách để thu thập phản hồi của khách hàng.",
       "derivatives": [],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [
-        "by mesns of bằng cách (2?",
-        "Hãy ghi nhớ rằng means thường xuất hiện dưới dạng cụm từ by means of.",
-        "- means of phương pháp, phương tiện cho cái gì Khi mang nghĩa \"phương tiện\", means thường đi với giới từ of.",
-        "L instrument for công cụ để làm gì Khi mang nghĩa \"công cự\", instrument thường đi với giới từ for.",
-        "The Internet is an invaluable instrument for conducting research.",
-        "Mạng Internet là một công cụ quan trọng cho việc tiến hành nghiên cứu."
+        "by means of: bằng phương tiện/cách",
+        "Phân biệt: means of (phương pháp/phương tiện cho cái gì) và instrument for (công cụ để làm gì)"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "prefer",
+      "word": "prefer",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/prɪˈfɜː(r)/",
+        "us": "/prɪˈfɜːr/"
+      },
+      "frequency": 3,
+      "meaningVi": "thích hơn (những cái khác)",
+      "exampleEn": "Customers prefer Luster Shampoo to any other competing brand.",
+      "exampleVi": "Người tiêu dùng thích dầu gội Luster hơn các thương hiệu cạnh tranh khác.",
+      "derivatives": [
+        {
+          "word": "preferable",
+          "partOfSpeech": "adj",
+          "meaningVi": "được ưa thích hơn"
+        },
+        {
+          "word": "preference",
+          "partOfSpeech": "n",
+          "meaningVi": "sự ưa thích hơn"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "prefer A to B: thích A hơn B"
       ],
       "needsReview": false
     },
@@ -305,61 +583,92 @@
       "word": "advantage",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/zed vantid3/",
-        "us": "/adváintidz/"
+        "uk": "/ədˈvɑːntɪdʒ/",
+        "us": "/ədˈvæntɪdʒ/"
       },
       "frequency": 3,
       "meaningVi": "lợi ích, lợi thế",
       "exampleEn": "One advantage of consumer testing is the development of marketing insight.",
       "exampleVi": "Một lợi ích của hoạt động thử nghiệm với người tiêu dùng là có được hiểu biết thấu đáo về marketing.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "advantageous",
+          "partOfSpeech": "adj",
+          "meaningVi": "có lợi, thuận lợi"
+        }
+      ],
       "synonyms": [],
-      "antonyms": [],
+      "antonyms": [
+        "disadvantage"
+      ],
       "toeicNotes": [
-        "(ami luad ntage"
+        "take advantage of: lợi dụng, tận dụng",
+        "Phân biệt: advantage (điểm mạnh, ưu thế so với người khác) và benefit (lợi ích mang lại từ cái gì)"
       ],
       "needsReview": false
     },
     {
-      "id": "forward",
+      "id": "forward-adv",
       "word": "forward",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/forward/",
-        "us": "/fo:wad/"
+        "uk": "/ˈfɔːwəd/",
+        "us": "/ˈfɔːrwərd/"
       },
       "frequency": 3,
-      "meaningVi": "về phía trước; tiến bộ",
-      "exampleEn": "Our company's research program has moved forward",
+      "meaningVi": "về phía trước, tiến bộ",
+      "exampleEn": "Our company's research program has moved forward substantially.",
       "exampleVi": "Chương trình nghiên cứu của công ty chúng tôi đã tiến triển đáng kể.",
       "derivatives": [],
       "synonyms": [],
+      "antonyms": [
+        "backward"
+      ],
+      "toeicNotes": [
+        "a huge step forward: một bước tiến lớn",
+        "look forward to -ing: mong đợi làm gì"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "forward-v",
+      "word": "forward",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ˈfɔːwəd/",
+        "us": "/ˈfɔːrwərd/"
+      },
+      "frequency": 3,
+      "meaningVi": "chuyển tiếp (đồ vật, thông tin)",
+      "exampleEn": "Please forward your e-mail to the accounting manager.",
+      "exampleVi": "Vui lòng chuyển tiếp email cho trưởng phòng kế toán.",
+      "derivatives": [],
+      "synonyms": [
+        "send",
+        "redirect"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
     },
     {
-      "id": "forward",
-      "word": "forward",
-      "partOfSpeech": "v",
+      "id": "contemporary",
+      "word": "contemporary",
+      "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/forward/",
-        "us": "/fo:wad/"
+        "uk": "/kənˈtempərəri/",
+        "us": "/kənˈtempəreri/"
       },
-      "frequency": 3,
-      "meaningVi": "gửi, chuyển tiếp (đồ vật, thông tin)",
-      "exampleEn": "Please forward your e-mail to the accounting manager.",
-      "exampleVi": "Vui lòng chuyển tiếp email cho trưởng phòng kế toán.",
+      "frequency": 2,
+      "meaningVi": "đương thời, hiện đại",
+      "exampleEn": "Advertising messages change over time to reflect contemporary attitudes.",
+      "exampleVi": "Các thông điệp quảng cáo thay đổi theo thời gian để phản ánh những quan điểm đương thời.",
       "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [
-        "Barm TOEIC dạng thac mdi cum 1.",
-        "a huge step forward một bước tiến lớn step (bước) khi kết hợp với forward tạo thành nghĩa \"bước tiến\", đây là cụm từ thường xuất hiện trong để thi TOEIC.",
-        "2.",
-        "look forward to-ing mong đợi, chờ đợi điều gì Sau look forward to sẽ là danh động từ.",
-        "\" contemporary o"
+      "synonyms": [
+        "modern"
       ],
+      "antonyms": [],
+      "toeicNotes": [],
       "needsReview": false
     },
     {
@@ -367,15 +676,24 @@
       "word": "discussion",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/diskifan/",
-        "us": "/diskifan/"
+        "uk": "/dɪˈskʌʃn/",
+        "us": "/dɪˈskʌʃn/"
       },
       "frequency": 3,
       "meaningVi": "sự thảo luận, sự tranh luận",
       "exampleEn": "A discussion was held to decide how to promote the product.",
       "exampleVi": "Một cuộc thảo luận đã được tổ chức để quyết định cách thức quảng bá sản phẩm.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "discuss",
+          "partOfSpeech": "v",
+          "meaningVi": "thảo luận"
+        }
+      ],
+      "synonyms": [
+        "debate",
+        "conversation"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -385,16 +703,29 @@
       "word": "initial",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/inífal/",
-        "us": "/inífal/"
+        "uk": "/ɪˈnɪʃl/",
+        "us": "/ɪˈnɪʃl/"
       },
       "frequency": 2,
-      "meaningVi": "đầu, lúc đầu",
+      "meaningVi": "ban đầu, lúc đầu",
       "exampleEn": "Initial findings show that customers are satisfied with the service.",
       "exampleVi": "Những kết quả ban đầu cho thấy người tiêu dùng hài lòng với dịch vụ này.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "initiate",
+          "partOfSpeech": "v",
+          "meaningVi": "đề xướng, khởi xướng"
+        },
+        {
+          "word": "initially",
+          "partOfSpeech": "adv",
+          "meaningVi": "vào lúc đầu"
+        }
+      ],
       "synonyms": [],
-      "antonyms": [],
+      "antonyms": [
+        "final"
+      ],
       "toeicNotes": [],
       "needsReview": false
     },
@@ -403,20 +734,23 @@
       "word": "steadily",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/stédili/",
-        "us": "/stédili/"
+        "uk": "/ˈstedəli/",
+        "us": "/ˈstedəli/"
       },
       "frequency": 2,
-      "meaningVi": "vững chắc, bình tĩnh, kiên định",
-      "exampleEn": "Ron steadily answered investors' questions about his business idea.",
-      "exampleVi": "Ron đã bình tĩnh trả lời các câu hỏi của nhà đầu tư về ý tưởng kinh doanh của anh ấy.",
-      "derivatives": [],
+      "meaningVi": "vững chắc, kiên định, tăng dần đều",
+      "exampleEn": "Product sales steadily increased as time passed.",
+      "exampleVi": "Lượng sản phẩm bán ra tăng ổn định theo thời gian.",
+      "derivatives": [
+        {
+          "word": "steady",
+          "partOfSpeech": "adj",
+          "meaningVi": "ổn định, kiên định"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "toeicNotes": [
-        "Product sales steadily increased as time passed.",
-        "Lượng sản phẩm bán ra tăng ổn định theo thời gian."
-      ],
+      "toeicNotes": [],
       "needsReview": false
     },
     {
@@ -424,19 +758,34 @@
       "word": "necessarily",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/nèsasérali/",
-        "us": "/nésaserili/"
+        "uk": "/ˈnesəsərəli/",
+        "us": "/ˌnesəˈserəli/"
       },
       "frequency": 2,
       "meaningVi": "tất yếu, nhất thiết",
       "exampleEn": "Increased production does not necessarily lead to greater revenues.",
       "exampleVi": "Sản lượng tăng không nhất thiết dẫn đến doanh thu tăng.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "necessary",
+          "partOfSpeech": "adj",
+          "meaningVi": "cần thiết"
+        },
+        {
+          "word": "necessitate",
+          "partOfSpeech": "v",
+          "meaningVi": "bắt phải, đòi hỏi"
+        },
+        {
+          "word": "necessity",
+          "partOfSpeech": "n",
+          "meaningVi": "sự cần thiết"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [
-        "Bai tm TOEIC dạng thức mới cr not necessarily + động từ không nhất thiết phả gản!",
-        "Để thi sẽ thường xuất hiện dạng phủ dịnh noi necessarily"
+        "not necessarily: không nhất thiết phải"
       ],
       "needsReview": false
     },
@@ -445,21 +794,58 @@
       "word": "resolve",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/rizólv/",
-        "us": "/rizólv/"
+        "uk": "/rɪˈzɒlv/",
+        "us": "/rɪˈzɑːlv/"
       },
       "frequency": 2,
       "meaningVi": "giải quyết, kiên quyết",
       "exampleEn": "The new facial cream promises to resolve 90 percent of common skin problems.",
-      "exampleVi": "Loại kem dưỡng da mới hứa hẹn sẽ giải quyết được 90% những vấn để thường gặp về da.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [
-        "M phát hiện ra, khám phá ra Only a few people detected any actual differences between the two models.",
-        "Chỉ một vài người nhận ra tất cả những khác biệt thực sự giữa hai mẫu này.",
-        "• = từ vựng thường gặp trong Part 5 - 6 • O = từ vưng thường gão trong Part 7 8 Marketing (2) | 145"
+      "exampleVi": "Loại kem dưỡng da mới hứa hẹn sẽ giải quyết được 90% những vấn đề thường gặp về da.",
+      "derivatives": [
+        {
+          "word": "resolution",
+          "partOfSpeech": "n",
+          "meaningVi": "sự giải quyết, quyết định"
+        }
       ],
+      "synonyms": [
+        "solve",
+        "settle"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "detect",
+      "word": "detect",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/dɪˈtekt/",
+        "us": "/dɪˈtekt/"
+      },
+      "frequency": 2,
+      "meaningVi": "phát hiện ra, khám phá ra, nhận ra",
+      "exampleEn": "Only a few people detected any actual differences between the two models.",
+      "exampleVi": "Chỉ một vài người nhận ra những khác biệt thực sự giữa hai mẫu này.",
+      "derivatives": [
+        {
+          "word": "detection",
+          "partOfSpeech": "n",
+          "meaningVi": "sự phát hiện"
+        },
+        {
+          "word": "detective",
+          "partOfSpeech": "n/adj",
+          "meaningVi": "thám tử/thuộc thám tử"
+        }
+      ],
+      "synonyms": [
+        "discover",
+        "notice"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
       "needsReview": false
     },
     {
@@ -467,46 +853,95 @@
       "word": "intensify",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/inténsafài/",
-        "us": "/inténsifai/"
+        "uk": "/ɪnˈtensɪfaɪ/",
+        "us": "/ɪnˈtensɪfaɪ/"
       },
       "frequency": 2,
-      "meaningVi": "tăng lên, tăng cường",
+      "meaningVi": "làm tăng lên, tăng cường, gia tăng",
       "exampleEn": "The movie studio intensified its promotional activities to draw in a wider audience.",
       "exampleVi": "Hãng phim đã tăng cường các hoạt động quảng bá để thu hút một lượng lớn khán giả.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [
-        "ady thuận lợi, tốt đẹp The product demonstration was favorablly received by consumers.",
-        "Buổi trưng bày giới thiệu sản phẩm đã được khách hàng nồng nhiệt đón nhận.",
-        "Earnings continue to develop favorably.",
-        "Thu nhập tiếp tục tăng theo xu hướng khả quan."
+      "derivatives": [
+        {
+          "word": "intense",
+          "partOfSpeech": "adj",
+          "meaningVi": "mạnh, cực kỳ"
+        },
+        {
+          "word": "intensive",
+          "partOfSpeech": "adj",
+          "meaningVi": "chuyên sâu, tập trung"
+        }
       ],
+      "synonyms": [],
+      "antonyms": [
+        "weaken",
+        "diminish"
+      ],
+      "toeicNotes": [],
       "needsReview": false
     },
     {
       "id": "favorably",
       "word": "favorably",
-      "partOfSpeech": "v",
+      "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/féivarabli/",
-        "us": "/féivarabli/"
+        "uk": "/ˈfeɪvərəbli/",
+        "us": "/ˈfeɪvərəbli/"
       },
       "frequency": 2,
-      "meaningVi": "gồm,",
-      "exampleEn": "thanh toán, che phủ The rental deposit covers the cost of repairing damage to the equipment.",
-      "exampleVi": "Tiền đặt cọc thuê nhà đã bao gồm cả phí sửa chữa các thiết bị hư hỏng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [
-        "The firm's budget is large enough to cover marketing expenses for a year.",
-        "Ngân sách của công ty đủ lớn để thanh toán chi phí marketing trong một năm.",
-        "The car was covered by a sheet before being unveiled at the launch.",
-        "Chiếc xe đã được phủ một tấm vải trước khi được công bố tại buổi ra mắt.",
-        "có thể thay bằng pay."
+      "meaningVi": "thuận lợi, tốt đẹp, có thiện chí",
+      "exampleEn": "The product demonstration was favorably received by consumers.",
+      "exampleVi": "Buổi trưng bày giới thiệu sản phẩm đã được khách hàng nồng nhiệt đón nhận.",
+      "derivatives": [
+        {
+          "word": "favor",
+          "partOfSpeech": "n/v",
+          "meaningVi": "thiện chí/ủng hộ"
+        },
+        {
+          "word": "favorable",
+          "partOfSpeech": "adj",
+          "meaningVi": "thuận lợi"
+        },
+        {
+          "word": "favored",
+          "partOfSpeech": "adj",
+          "meaningVi": "được ưa chuộng"
+        }
       ],
+      "synonyms": [],
+      "antonyms": [
+        "unfavorably"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "cover",
+      "word": "cover",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ˈkʌvə(r)/",
+        "us": "/ˈkʌvər/"
+      },
+      "frequency": 2,
+      "meaningVi": "bao gồm, thanh toán (chi phí), che phủ, xử lý (tin tức)",
+      "exampleEn": "The firm's budget is large enough to cover marketing expenses for a year.",
+      "exampleVi": "Ngân sách của công ty đủ lớn để thanh toán chi phí marketing trong một năm.",
+      "derivatives": [
+        {
+          "word": "coverage",
+          "partOfSpeech": "n",
+          "meaningVi": "sự phủ sóng, tin tức, phạm vi"
+        }
+      ],
+      "synonyms": [
+        "include",
+        "pay",
+        "report on"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
       "needsReview": false
     },
     {
@@ -517,19 +952,17 @@
         "uk": "/les/",
         "us": "/les/"
       },
-      "frequency": 1,
-      "meaningVi": "hơn, kém hơn",
-      "exampleEn": "less competition among insurance companies led to higher premiums.",
+      "frequency": 2,
+      "meaningVi": "ít hơn, kém hơn",
+      "exampleEn": "Less competition among insurance companies led to higher premiums.",
       "exampleVi": "Ít sự cạnh tranh hơn giữa các công ty bảo hiểm đã dẫn đến việc tăng phí bảo hiểm.",
       "derivatives": [],
       "synonyms": [],
-      "antonyms": [],
+      "antonyms": [
+        "more"
+      ],
       "toeicNotes": [
-        "im TOEIC dang moc mor d8 r less ít hơn cái gì - lesser kém hơn Less được sử dụng khi nói về số lượng, mức độ ít hơn; lesser được sử dụng khi nói về thứ gì đó ít giá trị, ít quan trọng hơn.",
-        "Hãy ghi nhớ để tránh nhâm lẫn.",
-        "Comments in blue indicate topics of lesser Những bình luận màu xanh biểu thị các chủ đề ít quan trọng hơn.",
-        ":4.",
-        "TOEI daro f0r sno importance."
+        "Phân biệt: less (nói về số lượng, mức độ ít hơn) và lesser (kém quan trọng hơn, ít giá trị hơn)"
       ],
       "needsReview": false
     },
@@ -538,22 +971,27 @@
       "word": "majority",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/éfart/",
-        "us": "/madsorati/"
+        "uk": "/məˈdʒɒrəti/",
+        "us": "/məˈdʒɔːrəti/"
       },
       "frequency": 2,
-      "meaningVi": "đa số, số đông",
+      "meaningVi": "đa số, phần lớn, số đông",
       "exampleEn": "The majority of registered clients pay their dues regularly.",
       "exampleVi": "Đa số các khách hàng đã đăng ký đều trả phí rất đều đặn.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "major",
+          "partOfSpeech": "adj/n",
+          "meaningVi": "chủ yếu/chuyên ngành"
+        }
+      ],
       "synonyms": [],
-      "antonyms": [],
+      "antonyms": [
+        "minority"
+      ],
       "toeicNotes": [
-        "can majority: mos ẫn Đề thi nhiều khả năng sẽ xuất hiện câu hỏi yêu cầu phân biệ hai từ cùng mang nghĩa \"đa số\" này.",
-        "- a/the majority of da số Trước majority có thể dùng mạo từ không xác dịnh a hoặc mạo từ xác định the.",
-        "- most of the hầu hết Trước most không sử dụng mạo từ.",
-        "Most of the advertising budget is spent on television commercials.",
-        "Phần lớn ngân sách quảng cáo được chi cho quảng cáo truyền hình."
+        "a/the majority of + N(plural): đa số",
+        "Phân biệt: majority (có mạo từ a/the) và most of the (không sử dụng mạo từ trước most)"
       ],
       "needsReview": false
     },
@@ -562,14 +1000,20 @@
       "word": "adopt",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/adápt/",
-        "us": "/éfat/"
+        "uk": "/əˈdɒpt/",
+        "us": "/əˈdɑːpt/"
       },
       "frequency": 2,
-      "meaningVi": "qua, lựa chọn, làm theo",
+      "meaningVi": "thông qua, lựa chọn, làm theo, nhận nuôi",
       "exampleEn": "Plenty of research must be done before adopting a particular marketing strategy.",
       "exampleVi": "Cần phải thực hiện nhiều cuộc nghiên cứu trước khi thông qua một chiến lược marketing nhất định.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "adoption",
+          "partOfSpeech": "n",
+          "meaningVi": "sự chấp nhận, nhận nuôi"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [],
@@ -580,15 +1024,24 @@
       "word": "largely",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/lá:rdzli/",
-        "us": "/lárdzli/"
+        "uk": "/ˈlɑːdʒli/",
+        "us": "/ˈlɑːrdʒli/"
       },
       "frequency": 2,
-      "meaningVi": "lớn, phần lớn",
+      "meaningVi": "phần lớn, đa phần, trên quy mô lớn",
       "exampleEn": "Public reaction to the charity foundation was largely positive.",
       "exampleVi": "Phản ứng của công chúng đối với tổ chức từ thiện này đa phần là tích cực.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "large",
+          "partOfSpeech": "adj",
+          "meaningVi": "lớn"
+        }
+      ],
+      "synonyms": [
+        "mostly",
+        "mainly"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -598,16 +1051,27 @@
       "word": "disregard",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/disrigárd/",
-        "us": "/disrigá:d/"
+        "uk": "/ˌdɪsrɪˈɡɑːd/",
+        "us": "/ˌdɪsrɪˈɡɑːrd/"
       },
       "frequency": 2,
-      "meaningVi": "nhẹ, không đếm xỉa đến",
-      "exampleEn": "The company should not disregard customers' opinions if it wants to improve the service quality.",
+      "meaningVi": "xem nhẹ, không đếm xỉa đến, lờ đi",
+      "exampleEn": "The company should not disregard customers' opinions if it wants to improve service quality.",
       "exampleVi": "Công ty không nên xem nhẹ ý kiến của khách hàng nếu muốn cải thiện chất lượng dịch vụ.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "disregard",
+          "partOfSpeech": "n",
+          "meaningVi": "sự bỏ qua, sự lơ là"
+        }
+      ],
+      "synonyms": [
+        "ignore"
+      ],
+      "antonyms": [
+        "consider",
+        "respect"
+      ],
       "toeicNotes": [],
       "needsReview": false
     },
@@ -616,13 +1080,103 @@
       "word": "effort",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈefət/",
+        "us": "/ˈefərt/"
       },
-      "frequency": 1,
+      "frequency": 2,
       "meaningVi": "sự cố gắng, sự nỗ lực",
       "exampleEn": "TV commercials were run in an effort to broaden consumer awareness of new brands.",
       "exampleVi": "Quảng cáo được phát trên truyền hình với nỗ lực nhằm tăng cường sự nhận diện của người tiêu dùng đối với những thương hiệu mới.",
+      "derivatives": [],
+      "synonyms": [
+        "endeavor"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "in an effort to do: trong nỗ lực làm gì",
+        "make an effort: nỗ lực"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "incentive",
+      "word": "incentive",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ɪnˈsentɪv/",
+        "us": "/ɪnˈsentɪv/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự khích lệ, ưu đãi, khuyến khích",
+      "exampleEn": "Financial incentives such as coupons may encourage purchases.",
+      "exampleVi": "Những ưu đãi về tài chính như phiếu giảm giá có thể khuyến khích việc mua hàng.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "financial incentives: ưu đãi tài chính",
+        "extra incentives: phần thưởng thêm",
+        "Phân biệt: incentive (tiền khuyến khích), budget (ngân sách), earning (thu nhập)"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "need-n",
+      "word": "need",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/niːd/",
+        "us": "/niːd/"
+      },
+      "frequency": 2,
+      "meaningVi": "nhu cầu, sự cần thiết",
+      "exampleEn": "The company is in need of an untapped market.",
+      "exampleVi": "Công ty đang cần một thị trường chưa được khai thác.",
+      "derivatives": [],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "in need of: đang cần cái gì",
+        "meet the needs of: đáp ứng nhu cầu của"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "need-v",
+      "word": "need",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/niːd/",
+        "us": "/niːd/"
+      },
+      "frequency": 2,
+      "meaningVi": "cần, muốn",
+      "exampleEn": "We need to scrutinize each transaction for potential errors.",
+      "exampleVi": "Chúng tôi cần xem xét kỹ lưỡng từng giao dịch để tìm các lỗi có thể xảy ra.",
+      "derivatives": [
+        {
+          "word": "needy",
+          "partOfSpeech": "adj",
+          "meaningVi": "nghèo túng, thiếu thốn"
+        }
+      ],
+      "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "mastermind",
+      "word": "mastermind",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈmɑːstəmaɪnd/",
+        "us": "/ˈmæstərmaɪnd/"
+      },
+      "frequency": 2,
+      "meaningVi": "quân sư, đạo diễn, người tổ chức, bộ óc",
+      "exampleEn": "Mr. Dane is the mastermind behind the innovative design.",
+      "exampleVi": "Ông Dane chính là bộ óc đằng sau thiết kế sáng tạo đó.",
       "derivatives": [],
       "synonyms": [],
       "antonyms": [],
@@ -632,7 +1186,7 @@
   ],
   "story": {
     "title": "Phân Tích Phản Hồi Khách Hàng",
-    "content": "Để đánh giá hiệu quả chiến dịch marketing, ORI cùng nhóm nghiên cứu tiến hành làm một bản **survey** (khảo sát) trực tuyến. Họ nhận được rất nhiều **feedback** (phản hồi) tích cực từ hành khách. Tỷ lệ **response** (phản hồi/trả lời) khảo sát vượt mong đợi. ORI chịu trách nhiệm tổng hợp và **analyze** (phân tích) số liệu. Qua đó, cô hiểu rõ hơn về **consumer** (người tiêu dùng) và **preference** (sự ưu tiên/sở thích) của họ khi chọn hãng bay. Chỉ số **satisfaction** (sự hài lòng) của khách hàng tăng vọt. ORI đã viết một bản **report** (báo cáo) tóm tắt gửi giám đốc. **result** (Kết quả) này là động lực để hãng tiếp tục **improve** (cải thiện) chất lượng phục vụ trên mọi chuyến bay.",
+    "content": "Để đánh giá hiệu quả chiến dịch marketing, ORI cùng nhóm nghiên cứu tiến hành làm một bản **survey** (khảo sát) trực tuyến. Họ nhận được rất nhiều **feedback** (phản hồi) tích cực từ hành khách. Tỷ lệ **response** (phản hồi/trả lời) khảo sát vượt mong đợi. ORI chịu trách nhiệm tổng hợp và **analyze** (phân tích) số liệu. Qua đó, cô hiểu rõ hơn về **consumer** (người tiêu dùng) và **prefer** (sự ưu tiên/sở thích) của họ khi chọn hãng bay. Chỉ số **satisfaction** (sự hài lòng) của khách hàng tăng vọt. ORI đã viết một bản **report** (báo cáo) tóm tắt gửi giám đốc. **result** (Kết quả) này là động lực để hãng tiếp tục **improve** (cải thiện) chất lượng phục vụ trên mọi chuyến bay.",
     "words": [
       {
         "word": "survey",
@@ -648,15 +1202,15 @@
       },
       {
         "word": "analyze",
-        "meaningVi": "trải nghiệm"
+        "meaningVi": "phân tích"
       },
       {
         "word": "consumer",
         "meaningVi": "người tiêu dùng"
       },
       {
-        "word": "preference",
-        "meaningVi": "sự ưu tiên"
+        "word": "prefer",
+        "meaningVi": "thích hơn (những cái khác)"
       },
       {
         "word": "satisfaction",
@@ -682,103 +1236,103 @@
       "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
       "questions": [
         {
-          "q": "___s showed only marginal interest in the new tablet computer.",
-          "a": "customer",
+          "q": "Sales have been propelled by the new ___.",
+          "a": "advertisement",
           "options": [
-            "less",
-            "customer",
-            "attract",
-            "subscribe"
+            "advertisement",
+            "majority",
+            "need",
+            "aim"
+          ]
+        },
+        {
+          "q": "Customers showed only ___ interest in the new tablet computer.",
+          "a": "marginal",
+          "options": [
+            "marginal",
+            "instantly",
+            "necessarily",
+            "introduce"
           ]
         },
         {
           "q": "Telephone representatives should make the needs of ___s their priority.",
           "a": "customer",
           "options": [
-            "disregard",
-            "steadily",
-            "analyze",
+            "resolve",
+            "advantage",
+            "forward",
             "customer"
+          ]
+        },
+        {
+          "q": "Demand for housing directly ___s the cost of homes.",
+          "a": "influence",
+          "options": [
+            "influence",
+            "subscribe",
+            "disregard",
+            "means"
+          ]
+        },
+        {
+          "q": "Product reviews have a profound ___ on sales.",
+          "a": "influence",
+          "options": [
+            "influence",
+            "advertisement",
+            "advantage",
+            "aim"
           ]
         },
         {
           "q": "The brand logo should be ___ recognizable.",
           "a": "instantly",
           "options": [
-            "instantly",
-            "introduce",
-            "initial",
-            "intensify"
-          ]
-        },
-        {
-          "q": "Management's ___ for expansion has been successful.",
-          "a": "strategy",
-          "options": [
-            "strategy",
-            "initial",
-            "ng.\naggressively",
-            "adopt"
-          ]
-        },
-        {
-          "q": "Studies indicate that consumers prefer ___ively packaged products.",
-          "a": "attract",
-          "options": [
-            "necessarily",
-            "attract",
-            "initial",
-            "majority"
-          ]
-        },
-        {
-          "q": "All of the invited guests had a pleasant ___ at the store opening.",
-          "a": "experience",
-          "options": [
-            "introduce",
             "experience",
-            "largely",
-            "discussion"
+            "need",
+            "advantage",
+            "instantly"
           ]
         },
         {
-          "q": "Researchers were asked to ___ the survey data.",
-          "a": "analyze",
+          "q": "Mr. Beaumont came up with a ___ idea.",
+          "a": "creative",
           "options": [
-            "necessarily",
-            "forward",
-            "analyze",
-            "advantage"
+            "creative",
+            "cover",
+            "aim",
+            "instantly"
           ]
         },
         {
-          "q": "ElectroLife ___d a new line of vacuum cleaners.",
-          "a": "introduce",
+          "q": "The best sales representatives ___ seek out potential clients.",
+          "a": "aggressively",
           "options": [
+            "aggressively",
             "introduce",
-            "attract",
-            "means",
-            "advantage"
+            "advertisement",
+            "indicate"
           ]
         },
         {
-          "q": "Firm ___s clients on intellectual property matters.",
-          "a": "advise",
+          "q": "Sport Apparel developed athletic gear ___ed at teenagers.",
+          "a": "aim",
           "options": [
-            "less",
-            "intensify",
-            "forward",
-            "advise"
-          ]
-        },
-        {
-          "q": "Direct surveys are one ___ of gathering consumer feedback.",
-          "a": "means",
-          "options": [
-            "attract",
-            "means",
-            "subscribe",
+            "advantage",
+            "aim",
+            "aggressively",
             "analyze"
+          ]
+        },
+        {
+          "q": "The division head will outline the ___s of the marketing strategy.",
+          "a": "aim",
+          "options": [
+            "aim",
+            "experience",
+            "forward",
+            "strategy"
           ]
         }
       ]

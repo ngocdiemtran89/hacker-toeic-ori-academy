@@ -6568,6 +6568,1576 @@ for day_num, info in DAY_INFO.items():
             }
         ]
 
+    if day_num == 9:
+        words_data = [
+            {
+                "id": "stagnant",
+                "word": "stagnant",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈstæɡnənt/", "us": "/ˈstæɡnənt/"},
+                "frequency": 2,
+                "meaningVi": "trì trệ, uể oải, lờ đờ, đình trệ",
+                "exampleEn": "Profits are down this year as sales have been stagnant.",
+                "exampleVi": "Lợi nhuận năm nay giảm là do việc kinh doanh trì trệ.",
+                "derivatives": [
+                    {"word": "stagnate", "partOfSpeech": "v", "meaningVi": "đình trệ, đình đốn"}
+                ],
+                "synonyms": ["sluggish"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "dramatically",
+                "word": "dramatically",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/drəˈmætɪkli/", "us": "/drəˈmætɪkli/"},
+                "frequency": 3,
+                "meaningVi": "đột ngột, đáng kể, kịch tính",
+                "exampleEn": "Interest rates climbed dramatically.",
+                "exampleVi": "Lãi suất đã đột ngột tăng.",
+                "derivatives": [
+                    {"word": "dramatic", "partOfSpeech": "adj", "meaningVi": "kịch tính, đột ngột"}
+                ],
+                "synonyms": ["substantially"],
+                "antonyms": [],
+                "toeicNotes": ["increase/grow/climb dramatically: tăng lên đột ngột/đáng kể"],
+                "needsReview": False
+            },
+            {
+                "id": "brisk",
+                "word": "brisk",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/brɪsk/", "us": "/brɪsk/"},
+                "frequency": 2,
+                "meaningVi": "sôi động, phát đạt, nhanh nhẹn, trong lành (thời tiết)",
+                "exampleEn": "A brisk market is developing in online shopping.",
+                "exampleVi": "Một thị trường sôi động đang phát triển trên môi trường mua sắm trực tuyến.",
+                "derivatives": [],
+                "synonyms": ["strong", "lively", "quick", "rapid"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "unstable",
+                "word": "unstable",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/uânˈsteɪbl/", "us": "/ʌnˈsteɪbl/"},
+                "frequency": 2,
+                "meaningVi": "không ổn định, không bền vững",
+                "exampleEn": "Gas prices have been unstable in recent years.",
+                "exampleVi": "Giá xăng dầu không ổn định trong những năm gần đây.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": ["stable"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "rapidly",
+                "word": "rapidly",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/ˈræpɪdli/", "us": "/ˈræpɪdli/"},
+                "frequency": 3,
+                "meaningVi": "nhanh chóng, mau lẹ",
+                "exampleEn": "Energy demand increased rapidly.",
+                "exampleVi": "Nhu cầu về năng lượng tăng lên nhanh chóng.",
+                "derivatives": [
+                    {"word": "rapid", "partOfSpeech": "adj", "meaningVi": "nhanh chóng"},
+                    {"word": "rapidity", "partOfSpeech": "n", "meaningVi": "sự nhanh chóng"}
+                ],
+                "synonyms": ["quickly", "swiftly"],
+                "antonyms": ["slowly"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "soar",
+                "word": "soar",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/sɔː(r)/", "us": "/sɔːr/"},
+                "frequency": 2,
+                "meaningVi": "bay vút lên, tăng vọt",
+                "exampleEn": "Interest rates have soared due to inflation.",
+                "exampleVi": "Lãi suất tăng vọt lên do lạm phát.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": ["plummet"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "assert",
+                "word": "assert",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/əˈsɜːt/", "us": "/əˈsɜːrt/"},
+                "frequency": 2,
+                "meaningVi": "khẳng định, quả quyết, đòi quyền lợi",
+                "exampleEn": "The report asserts that corporate growth will continue.",
+                "exampleVi": "Báo cáo khẳng định rằng công ty sẽ tiếp tục tăng trưởng.",
+                "derivatives": [
+                    {"word": "assertion", "partOfSpeech": "n", "meaningVi": "sự khẳng định"},
+                    {"word": "assertive", "partOfSpeech": "adj", "meaningVi": "quả quyết, quyết đoán"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "boost",
+                "word": "boost",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/buːst/", "us": "/buːst/"},
+                "frequency": 2,
+                "meaningVi": "thúc đẩy, nâng lên, tăng cường",
+                "exampleEn": "The real estate industry has helped boost the economy.",
+                "exampleVi": "Ngành bất động sản đã giúp thúc đẩy nền kinh tế.",
+                "derivatives": [
+                    {"word": "boost", "partOfSpeech": "n", "meaningVi": "sự tăng lên, sự thúc đẩy"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "analyst",
+                "word": "analyst",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈænəlɪst/", "us": "/ˈænəlɪst/"},
+                "frequency": 3,
+                "meaningVi": "nhà phân tích, người phân tích",
+                "exampleEn": "Analysts recommend buying stock in energy companies.",
+                "exampleVi": "Các nhà phân tích khuyên nên mua cổ phiếu của các công ty năng lượng.",
+                "derivatives": [
+                    {"word": "analyze", "partOfSpeech": "v", "meaningVi": "phân tích"},
+                    {"word": "analysis", "partOfSpeech": "n", "meaningVi": "sự phân tích"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["financial analyst: nhà phân tích tài chính", "market analyst: nhà phân tích thị trường"],
+                "needsReview": False
+            },
+            {
+                "id": "potential-adj",
+                "word": "potential",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/pəˈtenʃl/", "us": "/pəˈtenʃl/"},
+                "frequency": 2,
+                "meaningVi": "tiềm năng, có khả năng",
+                "exampleEn": "Potential earnings from the trade deal could reach billions of dollars.",
+                "exampleVi": "Nguồn thu nhập tiềm năng từ giao dịch thương mại này có thể lên tới hàng tỷ đô-la.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "potential-n",
+                "word": "potential",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/pəˈtenʃl/", "us": "/pəˈtenʃl/"},
+                "frequency": 2,
+                "meaningVi": "tiềm lực, tiềm năng",
+                "exampleEn": "The newly formed company has great potential to succeed.",
+                "exampleVi": "Công ty mới thành lập đó có tiềm năng thành công rất lớn.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "pleased",
+                "word": "pleased",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/pliːzd/", "us": "/pliːzd/"},
+                "frequency": 3,
+                "meaningVi": "hài lòng, vui mừng",
+                "exampleEn": "Investors are pleased with the market's performance.",
+                "exampleVi": "Nhà đầu tư rất hài lòng với hiệu quả của thị trường đó.",
+                "derivatives": [],
+                "synonyms": ["satisfied", "happy"],
+                "antonyms": ["displeased"],
+                "toeicNotes": ["be pleased to do: sẵn lòng làm gì", "be pleased with: hài lòng với"],
+                "needsReview": False
+            },
+            {
+                "id": "remain",
+                "word": "remain",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/rɪˈmeɪn/", "us": "/rɪˈmeɪn/"},
+                "frequency": 3,
+                "meaningVi": "vẫn, duy trì, còn như cũ",
+                "exampleEn": "The cost of living will remain stable over the next decade.",
+                "exampleVi": "Chi phí sinh hoạt vẫn sẽ ổn định trong thập kỷ tới.",
+                "derivatives": [
+                    {"word": "remainder", "partOfSpeech": "n", "meaningVi": "phần còn lại"},
+                    {"word": "remaining", "partOfSpeech": "adj", "meaningVi": "còn lại"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["remain steady/stable/the same: duy trì ổn định/như cũ", "remain to be seen: vẫn còn phải chờ xem"],
+                "needsReview": False
+            },
+            {
+                "id": "limited",
+                "word": "limited",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈlɪmɪtɪd/", "us": "/ˈlɪmɪtɪd/"},
+                "frequency": 3,
+                "meaningVi": "hạn chế, bị giới hạn",
+                "exampleEn": "The island nation has limited natural resources.",
+                "exampleVi": "Quốc đảo này có nguồn tài nguyên thiên nhiên hạn chế.",
+                "derivatives": [
+                    {"word": "limit", "partOfSpeech": "v/n", "meaningVi": "giới hạn/sự giới hạn"},
+                    {"word": "limitation", "partOfSpeech": "n", "meaningVi": "sự hạn chế"}
+                ],
+                "synonyms": ["restricted"],
+                "antonyms": ["unlimited"],
+                "toeicNotes": ["limited offer: ưu đãi có giới hạn", "for a limited time: trong thời gian giới hạn"],
+                "needsReview": False
+            },
+            {
+                "id": "costly",
+                "word": "costly",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈkɒstli/", "us": "/ˈkɔːstli/"},
+                "frequency": 3,
+                "meaningVi": "tốn kém, đắt đỏ",
+                "exampleEn": "Starting a business is costly.",
+                "exampleVi": "Khởi nghiệp sẽ rất tốn kém.",
+                "derivatives": [
+                    {"word": "cost", "partOfSpeech": "n/v", "meaningVi": "chi phí/trị giá"}
+                ],
+                "synonyms": ["expensive"],
+                "antonyms": ["cheap", "inexpensive"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "particular",
+                "word": "particular",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/pəˈtɪkjələ(r)/", "us": "/pərˈtɪkjələr/"},
+                "frequency": 3,
+                "meaningVi": "đặc biệt, riêng biệt, cụ thể, chi tiết",
+                "exampleEn": "Import taxes are higher for particular products that are luxury goods.",
+                "exampleVi": "Một số sản phẩm đặc biệt như là hàng xa xỉ bị áp thuế nhập khẩu cao hơn.",
+                "derivatives": [
+                    {"word": "particularly", "partOfSpeech": "adv", "meaningVi": "đặc biệt, cá biệt"}
+                ],
+                "synonyms": ["specific"],
+                "antonyms": [],
+                "toeicNotes": ["in particular: nói riêng, đặc biệt"],
+                "needsReview": False
+            },
+            {
+                "id": "drastic",
+                "word": "drastic",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈdræstɪk/", "us": "/ˈdræstɪk/"},
+                "frequency": 3,
+                "meaningVi": "mạnh mẽ, quyết liệt, triệt để",
+                "exampleEn": "Resolving the financial crisis will require drastic action.",
+                "exampleVi": "Giải quyết khủng hoảng tài chính đòi hỏi phải có những hành động quyết liệt.",
+                "derivatives": [
+                    {"word": "drastically", "partOfSpeech": "adv", "meaningVi": "quyết liệt, triệt để"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["drastic reform: cải cách triệt để"],
+                "needsReview": False
+            },
+            {
+                "id": "evenly",
+                "word": "evenly",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/ˈiːvnli/", "us": "/ˈiːvnli/"},
+                "frequency": 2,
+                "meaningVi": "ngang nhau, đều, công bằng",
+                "exampleEn": "Economic wealth is not evenly distributed.",
+                "exampleVi": "Sự giàu có về kinh tế không được phân chia đều.",
+                "derivatives": [
+                    {"word": "even", "partOfSpeech": "adj", "meaningVi": "đều, bằng phẳng, chẵn"}
+                ],
+                "synonyms": ["equally"],
+                "antonyms": ["unevenly"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "evidence",
+                "word": "evidence",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈevɪdəns/", "us": "/ˈevɪdəns/"},
+                "frequency": 3,
+                "meaningVi": "bằng chứng, chứng cứ, dấu hiệu",
+                "exampleEn": "The latest employment data shows evidence that the economy is improving.",
+                "exampleVi": "Dữ liệu về việc làm mới nhất cho thấy bằng chứng rằng nền kinh tế đang cải thiện.",
+                "derivatives": [
+                    {"word": "evident", "partOfSpeech": "adj", "meaningVi": "rõ ràng, hiển nhiên"},
+                    {"word": "evidently", "partOfSpeech": "adv", "meaningVi": "hiển nhiên, rõ ràng"}
+                ],
+                "synonyms": ["proof"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "prospect",
+                "word": "prospect",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈprɒspekt/", "us": "/ˈprɑːspekt/"},
+                "frequency": 3,
+                "meaningVi": "viễn cảnh, triển vọng, khả năng thành công",
+                "exampleEn": "Bolton Industries is facing the prospect of having to reduce its workforce.",
+                "exampleVi": "Bolton Industries đang đối mặt với viễn cảnh phải cắt giảm nhân lực.",
+                "derivatives": [
+                    {"word": "prospective", "partOfSpeech": "adj", "meaningVi": "tương lai, có triển vọng"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "lead",
+                "word": "lead",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/liːd/", "us": "/liːd/"},
+                "frequency": 3,
+                "meaningVi": "dẫn dắt, chỉ huy, dẫn đến",
+                "exampleEn": "Growing oil markets will lead to economic improvement.",
+                "exampleVi": "Sự phát triển của thị trường dầu khí sẽ dẫn tới những cải thiện về kinh tế.",
+                "derivatives": [
+                    {"word": "leading", "partOfSpeech": "adj", "meaningVi": "dẫn đầu, hàng đầu"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["lead to: dẫn đến", "leading brand/company/figure: thương hiệu/công ty/nhân vật hàng đầu"],
+                "needsReview": False
+            },
+            {
+                "id": "fall-v",
+                "word": "fall",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/fɔːl/", "us": "/fɔːl/"},
+                "frequency": 2,
+                "meaningVi": "giảm xuống, hạ xuống, rơi",
+                "exampleEn": "The rate of unemployment has fallen steadily this quarter.",
+                "exampleVi": "Tỷ lệ thất nghiệp đã giảm đều trong quý này.",
+                "derivatives": [],
+                "synonyms": ["decrease", "drop"],
+                "antonyms": ["rise", "increase"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "fall-n",
+                "word": "fall",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/fɔːl/", "us": "/fɔːl/"},
+                "frequency": 2,
+                "meaningVi": "sự giảm, sự rơi, sự sụp đổ",
+                "exampleEn": "A sharp fall in prices was observed.",
+                "exampleVi": "Sự giảm giá mạnh đã được ghi nhận.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "period",
+                "word": "period",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈpɪəriəd/", "us": "/ˈpɪriəd/"},
+                "frequency": 3,
+                "meaningVi": "thời kỳ, giai đoạn, khoảng thời gian",
+                "exampleEn": "For a period of three years, the company underwent rapid expansion.",
+                "exampleVi": "Trong khoảng thời gian ba năm, công ty đã nhanh chóng mở rộng.",
+                "derivatives": [
+                    {"word": "periodic", "partOfSpeech": "adj", "meaningVi": "định kỳ"},
+                    {"word": "periodically", "partOfSpeech": "adv", "meaningVi": "định kỳ"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "indicator",
+                "word": "indicator",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈɪndɪkeɪtə(r)/", "us": "/ˈɪndɪkeɪtər/"},
+                "frequency": 3,
+                "meaningVi": "chỉ số, công cụ chỉ thị",
+                "exampleEn": "Current economic indicators show rising growth in mining.",
+                "exampleVi": "Các chỉ số kinh tế hiện tại cho thấy sự phát triển ngày càng tăng trong ngành khai thác mỏ.",
+                "derivatives": [
+                    {"word": "indicate", "partOfSpeech": "v", "meaningVi": "chỉ ra"},
+                    {"word": "indication", "partOfSpeech": "n", "meaningVi": "sự biểu thị"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["economic indicator: chỉ số kinh tế"],
+                "needsReview": False
+            },
+            {
+                "id": "industry",
+                "word": "industry",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈɪndəstri/", "us": "/ˈɪndəstri/"},
+                "frequency": 3,
+                "meaningVi": "ngành công nghiệp, ngành sản xuất, sự cần cù",
+                "exampleEn": "Jobs in the newspaper industry are declining rapidly.",
+                "exampleVi": "Việc làm trong ngành báo chí đang giảm nhanh chóng.",
+                "derivatives": [
+                    {"word": "industrial", "partOfSpeech": "adj", "meaningVi": "thuộc công nghiệp"},
+                    {"word": "industrious", "partOfSpeech": "adj", "meaningVi": "cần cù, siêng năng"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "likely",
+                "word": "likely",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈlaɪkli/", "us": "/ˈlaɪkli/"},
+                "frequency": 2,
+                "meaningVi": "có khả năng xảy ra, có thể, chắc hẳn",
+                "exampleEn": "The new CEO is likely to confront major challenges.",
+                "exampleVi": "Vị giám đốc điều hành mới có khả năng sẽ phải đối mặt với những thách thức lớn.",
+                "derivatives": [
+                    {"word": "likelihood", "partOfSpeech": "n", "meaningVi": "sự có thể xảy ra"}
+                ],
+                "synonyms": [],
+                "antonyms": ["unlikely"],
+                "toeicNotes": ["be likely to do: có khả năng làm gì", "Phân biệt: likely (có khả năng xảy ra trong thực tế, thường có chủ ngữ là người) và possible (có khả năng thành hiện thực, chủ ngữ thường không phải người)"],
+                "needsReview": False
+            },
+            {
+                "id": "boom",
+                "word": "boom",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/buːm/", "us": "/buːm/"},
+                "frequency": 2,
+                "meaningVi": "sự bùng nổ, sự phát triển nhanh chóng",
+                "exampleEn": "Land developers are taking advantage of the housing boom.",
+                "exampleVi": "Các nhà phát triển dự án bất động sản đang tận dụng sự bùng nổ của thị trường nhà đất.",
+                "derivatives": [
+                    {"word": "boom", "partOfSpeech": "v", "meaningVi": "phát triển nhanh vọt"}
+                ],
+                "synonyms": [],
+                "antonyms": ["slump", "depression"],
+                "toeicNotes": ["housing boom: sự bùng nổ nhà đất"],
+                "needsReview": False
+            },
+            {
+                "id": "director",
+                "word": "director",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/daɪˈrektə(r)/", "us": "/daɪˈrektər/"},
+                "frequency": 2,
+                "meaningVi": "giám đốc, người chỉ đạo",
+                "exampleEn": "The company directors are discussing a new business strategy.",
+                "exampleVi": "Ban giám đốc công ty đang thảo luận về một chiến lược kinh doanh mới.",
+                "derivatives": [
+                    {"word": "direct", "partOfSpeech": "v/adj", "meaningVi": "chỉ đạo/trực tiếp"},
+                    {"word": "direction", "partOfSpeech": "n", "meaningVi": "sự chỉ đạo, hướng"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "substitute-n",
+                "word": "substitute",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈsʌbstɪtjuːt/", "us": "/ˈsʌbstɪtuːt/"},
+                "frequency": 2,
+                "meaningVi": "người thay thế, vật thay thế",
+                "exampleEn": "Corn syrup is used as a substitute for sugar in many food products.",
+                "exampleVi": "Xi-rô ngô được sử dụng như một nguyên liệu thay thế cho đường trong nhiều loại thực phẩm.",
+                "derivatives": [],
+                "synonyms": ["replacement"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "substitute-v",
+                "word": "substitute",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˈsʌbstɪtjuːt/", "us": "/ˈsʌbstɪtuːt/"},
+                "frequency": 2,
+                "meaningVi": "thay thế",
+                "exampleEn": "Ms. Ohara will be substituting for the project manager this week.",
+                "exampleVi": "Cô Ohara sẽ thay thế người quản lý dự án trong tuần này.",
+                "derivatives": [],
+                "synonyms": ["replace"],
+                "antonyms": [],
+                "toeicNotes": ["substitute A with B: thay thế A bằng B", "substitute B for A: thay thế B cho A"],
+                "needsReview": False
+            },
+            {
+                "id": "consequence",
+                "word": "consequence",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈkɒnsɪkwəns/", "us": "/ˈkɑːnsəkwens/"},
+                "frequency": 2,
+                "meaningVi": "hậu quả, kết quả, hệ quả",
+                "exampleEn": "Profits grew as a consequence of increased business.",
+                "exampleVi": "Lợi nhuận tăng là kết quả của việc kinh doanh được cải thiện.",
+                "derivatives": [
+                    {"word": "consequential", "partOfSpeech": "adj", "meaningVi": "thuộc hệ quả, tự phụ"}
+                ],
+                "synonyms": ["result", "outcome"],
+                "antonyms": [],
+                "toeicNotes": ["as a consequence of: là kết quả của, do hậu quả của"],
+                "needsReview": False
+            },
+            {
+                "id": "fairly",
+                "word": "fairly",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/ˈfeəli/", "us": "/ˈferli/"},
+                "frequency": 2,
+                "meaningVi": "khá, công bằng, ngay thẳng",
+                "exampleEn": "Concerns over the bankruptcy are fairly widespread.",
+                "exampleVi": "Những lo ngại về việc phá sản là khá phổ biến.",
+                "derivatives": [
+                    {"word": "fair", "partOfSpeech": "adj", "meaningVi": "công bằng, trung thực"}
+                ],
+                "synonyms": ["quite", "reasonably", "equally"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "economical",
+                "word": "economical",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˌiːkəˈnɒmɪkl/", "us": "/ˌiːkəˈnɑːmɪkl/"},
+                "frequency": 2,
+                "meaningVi": "tiết kiệm, mang tính kinh tế",
+                "exampleEn": "Companies are searching for economical ways to utilize energy.",
+                "exampleVi": "Các công ty đang tìm kiếm những giải pháp tiết kiệm trong việc sử dụng năng lượng.",
+                "derivatives": [
+                    {"word": "economy", "partOfSpeech": "n", "meaningVi": "nền kinh tế"},
+                    {"word": "economic", "partOfSpeech": "adj", "meaningVi": "thuộc kinh tế"},
+                    {"word": "economics", "partOfSpeech": "n", "meaningVi": "kinh tế học"}
+                ],
+                "synonyms": ["thrifty", "saving"],
+                "antonyms": ["extravagant"],
+                "toeicNotes": ["Phân biệt: economical (tiết kiệm, kinh tế) và economic (thuộc về nền kinh tế, kinh tế)"],
+                "needsReview": False
+            },
+            {
+                "id": "thrive",
+                "word": "thrive",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/θraɪv/", "us": "/θraɪv/"},
+                "frequency": 2,
+                "meaningVi": "phát triển mạnh, thịnh vượng, phát đạt",
+                "exampleEn": "The delivery service industry is thriving.",
+                "exampleVi": "Ngành dịch vụ giao hàng đang phát triển mạnh.",
+                "derivatives": [],
+                "synonyms": ["prosper", "flourish"],
+                "antonyms": ["fail", "decline"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "implication",
+                "word": "implication",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˌɪmplɪˈkeɪʃn/", "us": "/ˌimplɪˈkeɪʃn/"},
+                "frequency": 2,
+                "meaningVi": "sự liên quan, sự dính líu, hàm ý ngụ ý",
+                "exampleEn": "The Supreme Court ruling has implications for small businesses.",
+                "exampleVi": "Phán quyết của tòa án tối cao có liên quan đến các doanh nghiệp nhỏ.",
+                "derivatives": [
+                    {"word": "implicate", "partOfSpeech": "v", "meaningVi": "ngụ ý, ám chỉ"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "wane-n",
+                "word": "wane",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/weɪn/", "us": "/weɪn/"},
+                "frequency": 2,
+                "meaningVi": "sự suy giảm, sự hao mòn",
+                "exampleEn": "Consumer spending is on the wane.",
+                "exampleVi": "Chiêu tiêu của người tiêu dùng đang giảm dần.",
+                "derivatives": [],
+                "synonyms": ["decline", "diminution"],
+                "antonyms": ["wax"],
+                "toeicNotes": ["on the wane: đang trên đà suy giảm"],
+                "needsReview": False
+            },
+            {
+                "id": "wane-v",
+                "word": "wane",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/weɪn/", "us": "/weɪn/"},
+                "frequency": 2,
+                "meaningVi": "suy giảm, yếu đi, tàn tạ",
+                "exampleEn": "Her popularity began to wane after the scandal.",
+                "exampleVi": "Sự nổi tiếng của cô ấy bắt đầu giảm sút sau vụ bê bối.",
+                "derivatives": [],
+                "synonyms": ["decline", "fade"],
+                "antonyms": ["grow", "increase"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "prosperity",
+                "word": "prosperity",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/prɒˈsperəti/", "us": "/prɑːˈsperəti/"},
+                "frequency": 2,
+                "meaningVi": "sự thịnh vượng, sự phát đạt",
+                "exampleEn": "Strong economic growth is a prerequisite for national prosperity.",
+                "exampleVi": "Tăng trưởng kinh tế mạnh mẽ là điều kiện tiên quyết cho sự thịnh vượng quốc gia.",
+                "derivatives": [
+                    {"word": "prosper", "partOfSpeech": "v", "meaningVi": "thành công, phát đạt"},
+                    {"word": "prosperous", "partOfSpeech": "adj", "meaningVi": "thịnh vượng, khấm khá"}
+                ],
+                "synonyms": ["wealth", "affluence"],
+                "antonyms": ["poverty"],
+                "toeicNotes": ["in times of prosperity: trong thời kỳ thịnh vượng"],
+                "needsReview": False
+            },
+            {
+                "id": "depression",
+                "word": "depression",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/dɪˈpreʃn/", "us": "/dɪˈpreʃn/"},
+                "frequency": 2,
+                "meaningVi": "tình trạng suy thoái (kinh tế), sự trầm cảm",
+                "exampleEn": "The entire industry is going through an economic depression.",
+                "exampleVi": "Toàn bộ ngành công nghiệp đang trải qua thời kỳ suy thoái kinh tế.",
+                "derivatives": [],
+                "synonyms": ["slump", "recession"],
+                "antonyms": ["boom", "prosperity"],
+                "toeicNotes": ["economic depression: suy thoái kinh tế"],
+                "needsReview": False
+            },
+            {
+                "id": "dwindle",
+                "word": "dwindle",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˈdwɪndl/", "us": "/ˈdwɪndl/"},
+                "frequency": 2,
+                "meaningVi": "giảm bớt, thu nhỏ, nhỏ lại",
+                "exampleEn": "The company's profits dwindled in the 1990s.",
+                "exampleVi": "Lợi nhuận của công ty đã sụt giảm trong những năm 1990.",
+                "derivatives": [],
+                "synonyms": ["diminish", "decrease", "shrink"],
+                "antonyms": ["grow", "increase"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "impede",
+                "word": "impede",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ɪmˈpiːd/", "us": "/ɪmˈpiːd/"},
+                "frequency": 2,
+                "meaningVi": "cản trở, ngăn trở",
+                "exampleEn": "Natural calamities in the summer will impede national growth.",
+                "exampleVi": "Thiên tai vào mùa hè sẽ cản trở sự tăng trưởng của quốc gia.",
+                "derivatives": [
+                    {"word": "impediment", "partOfSpeech": "n", "meaningVi": "sự cản trở, trở ngại"}
+                ],
+                "synonyms": ["hinder", "obstruct"],
+                "antonyms": ["facilitate"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "promising",
+                "word": "promising",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈprɒmɪsɪŋ/", "us": "/ˈprɑːmɪsɪŋ/"},
+                "frequency": 2,
+                "meaningVi": "đầy hứa hẹn, đầy triển vọng",
+                "exampleEn": "Many people find promising careers in health and technology.",
+                "exampleVi": "Nhiều người tìm thấy những nghề nghiệp đầy triển vọng trong ngành y tế và công nghệ.",
+                "derivatives": [
+                    {"word": "promise", "partOfSpeech": "v/n", "meaningVi": "hứa/lời hứa"}
+                ],
+                "synonyms": ["hopeful", "encouraging"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "adversity",
+                "word": "adversity",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ədˈvɜːsəti/", "us": "/ədˈvɜːrsəti/"},
+                "frequency": 2,
+                "meaningVi": "hoàn cảnh khó khăn, nghịch cảnh, tai họa",
+                "exampleEn": "In spite of the adversity he faced, Mike managed to find a job.",
+                "exampleVi": "Bất chấp nghịch cảnh phải đối mặt, Mike vẫn xoay xở tìm được một công việc.",
+                "derivatives": [
+                    {"word": "adverse", "partOfSpeech": "adj", "meaningVi": "bất lợi, ngược lại"}
+                ],
+                "synonyms": ["difficulty", "hardship"],
+                "antonyms": ["prosperity", "good fortune"],
+                "toeicNotes": [],
+                "needsReview": False
+            }
+        ]
+
+    if day_num == 10:
+        words_data = [
+            {
+                "id": "purchase-v",
+                "word": "purchase",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˈpɜːtʃəs/", "us": "/ˈpɜːrtʃəs/"},
+                "frequency": 3,
+                "meaningVi": "mua, sắm",
+                "exampleEn": "The customer purchased a laptop computer.",
+                "exampleVi": "Vị khách đã mua một chiếc máy tính xách tay.",
+                "derivatives": [],
+                "synonyms": ["buy"],
+                "antonyms": ["sell"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "purchase-n",
+                "word": "purchase",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈpɜːtʃəs/", "us": "/ˈpɜːrtʃəs/"},
+                "frequency": 3,
+                "meaningVi": "việc mua hàng, món đồ mua được",
+                "exampleEn": "For every purchase of $100 or more, customers will receive a raffle ticket.",
+                "exampleVi": "Với mỗi lần mua hàng giá trị từ 100 đô-la trở lên, khách hàng sẽ nhận được một tấm vé số.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["within ~ days of purchase: trong vòng ~ ngày kể từ ngày mua hàng"],
+                "needsReview": False
+            },
+            {
+                "id": "installment",
+                "word": "installment",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ɪnˈstɔːlmənt/", "us": "/ɪnˈstɔːlmənt/"},
+                "frequency": 2,
+                "meaningVi": "sự trả góp, tiền trả góp",
+                "exampleEn": "The shop allows buyers to pay for furniture in monthly installments.",
+                "exampleVi": "Cửa hàng cho phép khách trả tiền mua đồ nội thất bằng hình thức trả góp theo tháng.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["pay in monthly installments: trả góp hàng tháng"],
+                "needsReview": False
+            },
+            {
+                "id": "affordable",
+                "word": "affordable",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/əˈfɔːdəbl/", "us": "/əˈfɔːrdəbl/"},
+                "frequency": 2,
+                "meaningVi": "(giá cả) phải chăng, có thể chi trả được",
+                "exampleEn": "Toyama launched an affordable mid-range sedan.",
+                "exampleVi": "Toyama đã ra mắt một mẫu xe sedan tầm trung với mức giá hợp lý.",
+                "derivatives": [
+                    {"word": "afford", "partOfSpeech": "v", "meaningVi": "có đủ khả năng chi trả"},
+                    {"word": "affordability", "partOfSpeech": "n", "meaningVi": "tính hợp lý về giá cả"},
+                    {"word": "affordably", "partOfSpeech": "adv", "meaningVi": "ở mức giá phải chăng"}
+                ],
+                "synonyms": ["reasonable", "inexpensive"],
+                "antonyms": ["expensive", "costly"],
+                "toeicNotes": ["at an affordable price/rate: với mức giá hợp lý"],
+                "needsReview": False
+            },
+            {
+                "id": "exactly",
+                "word": "exactly",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/ɪɡˈzæktli/", "us": "/ɪɡˈzæktli/"},
+                "frequency": 3,
+                "meaningVi": "chính xác, đúng",
+                "exampleEn": "The sales representatives help customers decide exactly what style fits them best.",
+                "exampleVi": "Nhân viên bán hàng giúp người mua xác định chính xác phong cách phù hợp với họ.",
+                "derivatives": [
+                    {"word": "exact", "partOfSpeech": "adj", "meaningVi": "chính xác"}
+                ],
+                "synonyms": ["precisely"],
+                "antonyms": ["inaccurately"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "auction",
+                "word": "auction",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈɔːkʃn/", "us": "/ˈɑːkʃn/"},
+                "frequency": 2,
+                "meaningVi": "cuộc đấu giá, sự bán đấu giá",
+                "exampleEn": "A number of antique pieces will be sold at the auction.",
+                "exampleVi": "Nhiều món đồ cổ sẽ được bán tại buổi đấu giá.",
+                "derivatives": [
+                    {"word": "auctioneer", "partOfSpeech": "n", "meaningVi": "người điều hành bán đấu giá"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["sell at auction: bán đấu giá"],
+                "needsReview": False
+            },
+            {
+                "id": "authentic",
+                "word": "authentic",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ɔːˈθentɪk/", "us": "/ɑːˈθentɪk/"},
+                "frequency": 2,
+                "meaningVi": "thật, đích thực, đáng tin",
+                "exampleEn": "The new downtown restaurant serves authentic Spanish cuisine.",
+                "exampleVi": "Nhà hàng mới ở trung tâm thành phố phục vụ các món Tây Ban Nha đích thực.",
+                "derivatives": [
+                    {"word": "authenticity", "partOfSpeech": "n", "meaningVi": "tính xác thực, tính chân thật"}
+                ],
+                "synonyms": ["genuine", "real"],
+                "antonyms": ["fake", "counterfeit"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "charge-n",
+                "word": "charge",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/tʃɑːdʒ/", "us": "/tʃɑːrdʒ/"},
+                "frequency": 3,
+                "meaningVi": "tiền phải trả, phí, nhiệm vụ, trách nhiệm",
+                "exampleEn": "The price includes shipping and handling charges.",
+                "exampleVi": "Giá này đã bao gồm phí vận chuyển và xử lý.",
+                "derivatives": [],
+                "synonyms": ["expense", "fee", "cost"],
+                "antonyms": [],
+                "toeicNotes": ["free of charge: miễn phí", "in charge of: chịu trách nhiệm, đảm nhiệm", "additional charge: chi phí phát sinh thêm"],
+                "needsReview": False
+            },
+            {
+                "id": "charge-v",
+                "word": "charge",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/tʃɑːdʒ/", "us": "/tʃɑːrdʒ/"},
+                "frequency": 3,
+                "meaningVi": "thu phí, tính phí, ghi nợ vào thẻ",
+                "exampleEn": "The phone company charges high fees for installations.",
+                "exampleVi": "Công ty viễn thông đó thu phí lắp đặt cao.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["charge A to B: tính khoản phí A vào B"],
+                "needsReview": False
+            },
+            {
+                "id": "notice-n",
+                "word": "notice",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈnəʊtɪs/", "us": "/ˈnəʊtɪs/"},
+                "frequency": 3,
+                "meaningVi": "thông báo, yết thị, sự chú ý",
+                "exampleEn": "The prices listed in the catalog are effective until further notice.",
+                "exampleVi": "Giá ghi trong danh mục có hiệu lực cho đến khi có thông báo thêm.",
+                "derivatives": [
+                    {"word": "notify", "partOfSpeech": "v", "meaningVi": "thông báo, báo tin"},
+                    {"word": "notification", "partOfSpeech": "n", "meaningVi": "sự thông báo"},
+                    {"word": "noticeable", "partOfSpeech": "adj", "meaningVi": "đáng chú ý"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["until further notice: cho đến khi có thông báo mới", "give two weeks' notice: thông báo trước hai tuần"],
+                "needsReview": False
+            },
+            {
+                "id": "notice-v",
+                "word": "notice",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˈnəʊtɪs/", "us": "/ˈnəʊtɪs/"},
+                "frequency": 3,
+                "meaningVi": "chú ý, nhận biết, nhận ra",
+                "exampleEn": "The customer noticed a flaw in the display item.",
+                "exampleVi": "Khách hàng nhận ra một vết lỗi trên sản phẩm trưng bày.",
+                "derivatives": [],
+                "synonyms": ["observe", "spot"],
+                "antonyms": ["ignore"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "experienced",
+                "word": "experienced",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ɪkˈspɪəriənst/", "us": "/ɪkˈspɪriənst/"},
+                "frequency": 3,
+                "meaningVi": "có kinh nghiệm, lão luyện",
+                "exampleEn": "Bill is the most experienced salesperson in the store.",
+                "exampleVi": "Bill là nhân viên bán hàng có kinh nghiệm nhất ở cửa hàng.",
+                "derivatives": [
+                    {"word": "experience", "partOfSpeech": "n/v", "meaningVi": "kinh nghiệm/trải nghiệm"}
+                ],
+                "synonyms": ["expert", "seasoned"],
+                "antonyms": ["inexperienced"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "instruction",
+                "word": "instruction",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ɪnˈstrʌkʃn/", "us": "/ɪnˈstrʌkʃn/"},
+                "frequency": 3,
+                "meaningVi": "lời chỉ dẫn, hướng dẫn",
+                "exampleEn": "The receipt gives instructions for returning or exchanging items.",
+                "exampleVi": "Biên lai có cung cấp hướng dẫn cách đổi trả sản phẩm.",
+                "derivatives": [
+                    {"word": "instruct", "partOfSpeech": "v", "meaningVi": "hướng dẫn, chỉ bảo"},
+                    {"word": "instructional", "partOfSpeech": "adj", "meaningVi": "thuộc hướng dẫn"}
+                ],
+                "synonyms": ["directions", "guidance"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "expert-n",
+                "word": "expert",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈekspɜːt/", "us": "/ˈekspɜːrt/"},
+                "frequency": 2,
+                "meaningVi": "chuyên gia",
+                "exampleEn": "A personal shopper is an expert at finding bargains for customers.",
+                "exampleVi": "Chuyên viên tư vấn mua sắm cá nhân chính là chuyên gia trong việc tìm ra những món hời cho khách hàng.",
+                "derivatives": [
+                    {"word": "expertly", "partOfSpeech": "adv", "meaningVi": "một cách thành thạo, chuyên nghiệp"}
+                ],
+                "synonyms": ["specialist"],
+                "antonyms": ["novice", "amateur"],
+                "toeicNotes": ["expert at/in: chuyên gia về lĩnh vực gì"],
+                "needsReview": False
+            },
+            {
+                "id": "expert-adj",
+                "word": "expert",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈekspɜːt/", "us": "/ˈekspɜːrt/"},
+                "frequency": 2,
+                "meaningVi": "về mặt chuyên môn, thành thạo, lão luyện",
+                "exampleEn": "An expert designer created the layout of the store.",
+                "exampleVi": "Nhà thiết kế có chuyên môn đã lên bố cục cho cửa hàng.",
+                "derivatives": [],
+                "synonyms": ["skillful", "proficient"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "warranty",
+                "word": "warranty",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈwɒrənti/", "us": "/ˈwɔːrənti/"},
+                "frequency": 3,
+                "meaningVi": "giấy bảo hành, sự bảo hành",
+                "exampleEn": "The computer is under warranty for two years.",
+                "exampleVi": "Máy tính được bảo hành trong vòng 2 năm.",
+                "derivatives": [],
+                "synonyms": ["guarantee"],
+                "antonyms": [],
+                "toeicNotes": ["under warranty: trong thời gian bảo hành"],
+                "needsReview": False
+            },
+            {
+                "id": "refund-n",
+                "word": "refund",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈriːfʌnd/", "us": "/ˈriːfʌnd/"},
+                "frequency": 3,
+                "meaningVi": "sự hoàn tiền, tiền trả lại",
+                "exampleEn": "Buyers can get a full refund for a defective product.",
+                "exampleVi": "Người mua có thể được hoàn trả toàn bộ tiền nếu sản phẩm bị lỗi.",
+                "derivatives": [
+                    {"word": "refundable", "partOfSpeech": "adj", "meaningVi": "có thể hoàn trả"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["a full refund: hoàn tiền toàn bộ", "provide a refund: hoàn lại tiền"],
+                "needsReview": False
+            },
+            {
+                "id": "refund-v",
+                "word": "refund",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/rɪˈfʌnd/", "us": "/rɪˈfʌnd/"},
+                "frequency": 3,
+                "meaningVi": "hoàn tiền, trả lại tiền",
+                "exampleEn": "The store will refund the purchase price if you have a valid receipt.",
+                "exampleVi": "Cửa hàng sẽ hoàn lại tiền mua nếu bạn có hóa đơn hợp lệ.",
+                "derivatives": [],
+                "synonyms": ["reimburse", "pay back"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "subscriber",
+                "word": "subscriber",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/səbˈskraɪbə(r)/", "us": "/səbˈskraɪbər/"},
+                "frequency": 3,
+                "meaningVi": "người đăng ký, người theo dõi, người đặt mua dài hạn",
+                "exampleEn": "The website now has millions of subscribers.",
+                "exampleVi": "Trang web này hiện có hàng triệu người theo dõi.",
+                "derivatives": [
+                    {"word": "subscribe", "partOfSpeech": "v", "meaningVi": "đăng ký, mua dài hạn"},
+                    {"word": "subscription", "partOfSpeech": "n", "meaningVi": "sự mua định kỳ"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "delivery",
+                "word": "delivery",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/dɪˈlɪvəri/", "us": "/dɪˈlɪvəri/"},
+                "frequency": 3,
+                "meaningVi": "sự giao hàng, sự phân phát",
+                "exampleEn": "We guarantee delivery within three days.",
+                "exampleVi": "Chúng tôi cam đoan sẽ giao hàng trong vòng ba ngày.",
+                "derivatives": [
+                    {"word": "deliver", "partOfSpeech": "v", "meaningVi": "giao hàng"}
+                ],
+                "synonyms": ["shipment"],
+                "antonyms": [],
+                "toeicNotes": ["express delivery: giao hàng hỏa tốc"],
+                "needsReview": False
+            },
+            {
+                "id": "price-n",
+                "word": "price",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/praɪs/", "us": "/praɪs/"},
+                "frequency": 3,
+                "meaningVi": "giá, giá cả",
+                "exampleEn": "The new color printer has a retail price of only $150.99.",
+                "exampleVi": "Chiếc máy in màu mới có giá bán lẻ là 150,99 đô-la.",
+                "derivatives": [
+                    {"word": "pricey", "partOfSpeech": "adj", "meaningVi": "đắt đỏ"}
+                ],
+                "synonyms": ["cost", "rate"],
+                "antonyms": [],
+                "toeicNotes": ["a reduced price: giá đã giảm", "retail price: giá bán lẻ", "wholesale price: giá bán sỉ"],
+                "needsReview": False
+            },
+            {
+                "id": "price-v",
+                "word": "price",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/praɪs/", "us": "/praɪs/"},
+                "frequency": 3,
+                "meaningVi": "định giá, đặt giá",
+                "exampleEn": "The merchandise was priced reasonably to attract customers.",
+                "exampleVi": "Hàng hóa được định giá hợp lý để thu hút khách hàng.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "receipt",
+                "word": "receipt",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/rɪˈsiːt/", "us": "/rɪˈsiːt/"},
+                "frequency": 3,
+                "meaningVi": "biên lai, hóa đơn",
+                "exampleEn": "The original receipt is required for all refunds.",
+                "exampleVi": "Mọi khoản hoàn lại đều cần phải có biên lai gốc.",
+                "derivatives": [
+                    {"word": "receive", "partOfSpeech": "v", "meaningVi": "nhận"}
+                ],
+                "synonyms": ["proof of purchase"],
+                "antonyms": [],
+                "toeicNotes": ["original/valid receipt: biên lai gốc/hợp lệ"],
+                "needsReview": False
+            },
+            {
+                "id": "offer-v",
+                "word": "offer",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˈɒfə(r)/", "us": "/ˈɔːfər/"},
+                "frequency": 3,
+                "meaningVi": "cung cấp, tạo cơ hội, tặng",
+                "exampleEn": "Z-Mart offers $25 gift cards to customers signing up for membership.",
+                "exampleVi": "Z-Mart tặng thẻ quà tặng trị giá 25 đô-la cho những khách hàng đăng ký làm hội viên.",
+                "derivatives": [],
+                "synonyms": ["provide", "present"],
+                "antonyms": [],
+                "toeicNotes": ["offer A B / offer B to A: cung cấp B cho A"],
+                "needsReview": False
+            },
+            {
+                "id": "offer-n",
+                "word": "offer",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈɒfə(r)/", "us": "/ˈɔːfər/"},
+                "frequency": 3,
+                "meaningVi": "lời đề nghị, đề xuất, ưu đãi",
+                "exampleEn": "The supermarket entices customers with promotional offers.",
+                "exampleVi": "Siêu thị thu hút khách hàng bằng các ưu đãi khuyến mại.",
+                "derivatives": [],
+                "synonyms": ["proposal", "discount"],
+                "antonyms": [],
+                "toeicNotes": ["promotional offer: ưu đãi khuyến mại", "job offer: lời mời làm việc"],
+                "needsReview": False
+            },
+            {
+                "id": "carefully",
+                "word": "carefully",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/ˈkeəfəli/", "us": "/ˈkerfəli/"},
+                "frequency": 2,
+                "meaningVi": "một cách cẩn thận, thận trọng",
+                "exampleEn": "Please follow the installation directions carefully.",
+                "exampleVi": "Vui lòng làm theo hướng dẫn cài đặt một cách cẩn thận.",
+                "derivatives": [
+                    {"word": "care", "partOfSpeech": "n/v", "meaningVi": "sự chăm sóc/quan tâm"},
+                    {"word": "careful", "partOfSpeech": "adj", "meaningVi": "cẩn thận"}
+                ],
+                "synonyms": ["cautiously"],
+                "antonyms": ["carelessly"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "benefit-n",
+                "word": "benefit",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈbenɪfɪt/", "us": "/ˈbenɪfɪt/"},
+                "frequency": 3,
+                "meaningVi": "lợi ích, tác dụng, ưu đãi",
+                "exampleEn": "The Shoppers' Club offers many benefits to its members.",
+                "exampleVi": "Shoppers Club cung cấp nhiều ưu đãi cho các hội viên.",
+                "derivatives": [
+                    {"word": "beneficial", "partOfSpeech": "adj", "meaningVi": "có lợi"},
+                    {"word": "beneficiary", "partOfSpeech": "n", "meaningVi": "người thụ hưởng"}
+                ],
+                "synonyms": ["advantage"],
+                "antonyms": ["disadvantage", "drawback"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "benefit-v",
+                "word": "benefit",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˈbenɪfɪt/", "us": "/ˈbenɪfɪt/"},
+                "frequency": 3,
+                "meaningVi": "được hưởng lợi, giúp ích cho",
+                "exampleEn": "NBC Mart shoppers benefit from various coupons and free delivery service.",
+                "exampleVi": "Người mua hàng tại NBC Mart được hưởng lợi từ các phiếu giảm giá và dịch vụ giao hàng miễn phí.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["benefit from: hưởng lợi từ"],
+                "needsReview": False
+            },
+            {
+                "id": "exclusively",
+                "word": "exclusively",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/ɪkˈskluːsɪvli/", "us": "/ɪkˈskluːsɪvli/"},
+                "frequency": 2,
+                "meaningVi": "dành riêng, độc quyền",
+                "exampleEn": "A 10 percent discount is available exclusively to Premium Club members.",
+                "exampleVi": "Mức giảm giá 10% chỉ dành cho hội viên của Premium Club.",
+                "derivatives": [
+                    {"word": "exclusive", "partOfSpeech": "adj", "meaningVi": "dành riêng, độc quyền"},
+                    {"word": "exclude", "partOfSpeech": "v", "meaningVi": "loại trừ"}
+                ],
+                "synonyms": ["solely", "only"],
+                "antonyms": [],
+                "toeicNotes": ["available exclusively online: chỉ có trên mạng", "sell exclusively: bán độc quyền"],
+                "needsReview": False
+            },
+            {
+                "id": "description",
+                "word": "description",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/dɪˈskrɪpʃn/", "us": "/dɪˈskrɪpʃn/"},
+                "frequency": 3,
+                "meaningVi": "sự miêu tả, sự mô tả",
+                "exampleEn": "Call customer service for a more extensive description of any of the equipment.",
+                "exampleVi": "Hãy gọi tới dịch vụ khách hàng để có thêm mô tả chi tiết về các thiết bị.",
+                "derivatives": [
+                    {"word": "describe", "partOfSpeech": "v", "meaningVi": "mô tả, miêu tả"}
+                ],
+                "synonyms": ["account", "explanation"],
+                "antonyms": [],
+                "toeicNotes": ["job description: bản mô tả công việc"],
+                "needsReview": False
+            },
+            {
+                "id": "relatively",
+                "word": "relatively",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/ˈrelətɪvli/", "us": "/ˈrelətɪvli/"},
+                "frequency": 3,
+                "meaningVi": "tương đối, vừa phải, có liên quan",
+                "exampleEn": "McCoy's has a relatively lenient return policy compared to similar stores.",
+                "exampleVi": "McCoy's có chính sách hoàn trả tương đối thoải mái so với các cửa hàng khác.",
+                "derivatives": [
+                    {"word": "relative", "partOfSpeech": "adj", "meaningVi": "tương đối, có liên quan"},
+                    {"word": "relate", "partOfSpeech": "v", "meaningVi": "liên quan"}
+                ],
+                "synonyms": ["comparatively", "moderately"],
+                "antonyms": [],
+                "toeicNotes": ["relatively lenient/low: tương đối nới lỏng/thấp"],
+                "needsReview": False
+            },
+            {
+                "id": "spare-v",
+                "word": "spare",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/speə(r)/", "us": "/sper/"},
+                "frequency": 2,
+                "meaningVi": "để dành, miễn cho, không tiếc",
+                "exampleEn": "The shopping mall spared no expense on the 10th anniversary promotion.",
+                "exampleVi": "Trung tâm mua sắm đã không tiếc chi phí cho chương trình khuyến mãi kỷ niệm 10 năm thành lập.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["spare no expense: không tiếc chi phí"],
+                "needsReview": False
+            },
+            {
+                "id": "spare-adj",
+                "word": "spare",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/speə(r)/", "us": "/sper/"},
+                "frequency": 2,
+                "meaningVi": "dự trữ, dự phòng, rảnh rỗi",
+                "exampleEn": "Customers may order spare parts at the service counter.",
+                "exampleVi": "Khách hàng có thể đặt mua phụ tùng dự phòng tại quầy dịch vụ.",
+                "derivatives": [],
+                "synonyms": ["extra", "reserve"],
+                "antonyms": [],
+                "toeicNotes": ["spare parts: phụ tùng thay thế/dự phòng"],
+                "needsReview": False
+            },
+            {
+                "id": "preparation",
+                "word": "preparation",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˌprepəˈreɪʃn/", "us": "/ˌprepəˈreɪʃn/"},
+                "frequency": 2,
+                "meaningVi": "sự chuẩn bị, khâu chuẩn bị",
+                "exampleEn": "Preparations are under way for the department store's grand opening.",
+                "exampleVi": "Khâu chuẩn bị cho buổi khai trương khu mua sắm đang được tiến hành.",
+                "derivatives": [
+                    {"word": "prepare", "partOfSpeech": "v", "meaningVi": "chuẩn bị"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["preparations are under way: công tác chuẩn bị đang tiến hành"],
+                "needsReview": False
+            },
+            {
+                "id": "area",
+                "word": "area",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈeəriə/", "us": "/ˈeriə/"},
+                "frequency": 3,
+                "meaningVi": "khu vực, vùng, lĩnh vực",
+                "exampleEn": "There are excellent retail stores in this area.",
+                "exampleVi": "Có những cửa hàng bán lẻ rất tốt trong khu vực này.",
+                "derivatives": [],
+                "synonyms": ["region", "zone"],
+                "antonyms": [],
+                "toeicNotes": ["Phân biệt: area (vùng/khu vực của thành phố, quốc gia) và site (bãi đất, địa điểm xây dựng/dùng cho mục đích cụ thể)"],
+                "needsReview": False
+            },
+            {
+                "id": "clearance",
+                "word": "clearance",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈklɪərəns/", "us": "/ˈklɪrəns/"},
+                "frequency": 3,
+                "meaningVi": "sự dọn sạch, sự xả hàng kho, sự cấp phép",
+                "exampleEn": "There is usually a clearance sale for winter clothes in March.",
+                "exampleVi": "Vào tháng Ba thường có chương trình xả hàng dọn kho quần áo mùa đông.",
+                "derivatives": [
+                    {"word": "clear", "partOfSpeech": "v/adj", "meaningVi": "dọn dẹp/rõ ràng"}
+                ],
+                "synonyms": ["authorization"],
+                "antonyms": [],
+                "toeicNotes": ["clearance sale: bán xả hàng toàn bộ/dọn kho"],
+                "needsReview": False
+            },
+            {
+                "id": "alter",
+                "word": "alter",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˈɔːltə(r)/", "us": "/ˈɔːltər/"},
+                "frequency": 3,
+                "meaningVi": "thay đổi, điều chỉnh, sửa đổi",
+                "exampleEn": "The customer asked that the length of his pants be altered.",
+                "exampleVi": "Vị khách đã yêu cầu điều chỉnh chiều dài chiếc quần.",
+                "derivatives": [
+                    {"word": "alteration", "partOfSpeech": "n", "meaningVi": "sự thay đổi, điều chỉnh"}
+                ],
+                "synonyms": ["change", "modify", "adjust"],
+                "antonyms": ["preserve"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "apply",
+                "word": "apply",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/əˈplaɪ/", "us": "/əˈplaɪ/"},
+                "frequency": 2,
+                "meaningVi": "nộp đơn, ứng tuyển, áp dụng",
+                "exampleEn": "The cashier applied the discount to all the items.",
+                "exampleVi": "Nhân viên thu ngân đã áp dụng mức giảm giá cho tất cả sản phẩm.",
+                "derivatives": [
+                    {"word": "application", "partOfSpeech": "n", "meaningVi": "đơn xin, sự áp dụng"},
+                    {"word": "applicant", "partOfSpeech": "n", "meaningVi": "ứng viên"},
+                    {"word": "applicable", "partOfSpeech": "adj", "meaningVi": "có thể áp dụng"}
+                ],
+                "synonyms": ["put into effect", "put to use"],
+                "antonyms": [],
+                "toeicNotes": ["apply for: nộp đơn xin việc/vị trí", "apply A to B: áp dụng A vào B"],
+                "needsReview": False
+            },
+            {
+                "id": "mutually",
+                "word": "mutually",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/ˈmjuːtʃuəli/", "us": "/ˈmjuːtʃuəli/"},
+                "frequency": 2,
+                "meaningVi": "lẫn nhau, qua lại, với nhau",
+                "exampleEn": "The couple and dealer reached a mutually agreeable price for the car.",
+                "exampleVi": "Cặp vợ chồng và người bán hàng đã thống nhất được một mức giá xe hợp lý với cả hai bên.",
+                "derivatives": [
+                    {"word": "mutual", "partOfSpeech": "adj", "meaningVi": "lẫn nhau, chung"}
+                ],
+                "synonyms": ["reciprocally"],
+                "antonyms": [],
+                "toeicNotes": ["mutually agreeable/beneficial: thỏa thuận/có lợi cho cả hai bên"],
+                "needsReview": False
+            },
+            {
+                "id": "method",
+                "word": "method",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈmeθəd/", "us": "/ˈmeθəd/"},
+                "frequency": 3,
+                "meaningVi": "phương pháp, cách thức",
+                "exampleEn": "In recent years, debit cards have become a popular method of payment.",
+                "exampleVi": "Trong những năm gần đây, thẻ ghi nợ đã trở thành một phương thức thanh toán phổ biến.",
+                "derivatives": [
+                    {"word": "methodical", "partOfSpeech": "adj", "meaningVi": "có phương pháp, ngăn nắp"}
+                ],
+                "synonyms": ["approach", "manner", "way"],
+                "antonyms": [],
+                "toeicNotes": ["method of payment: phương thức thanh toán"],
+                "needsReview": False
+            },
+            {
+                "id": "acceptable",
+                "word": "acceptable",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/əkˈseptəbl/", "us": "/əkˈseptəbl/"},
+                "frequency": 2,
+                "meaningVi": "có thể chấp nhận được, tạm được, ổn",
+                "exampleEn": "Jenson Fashions sells clothes that are acceptable as business attire.",
+                "exampleVi": "Jenson Fashions bán những bộ đồ phù hợp với trang phục công sở.",
+                "derivatives": [
+                    {"word": "accept", "partOfSpeech": "v", "meaningVi": "chấp nhận"},
+                    {"word": "acceptance", "partOfSpeech": "n", "meaningVi": "sự chấp nhận"}
+                ],
+                "synonyms": ["satisfactory", "fine"],
+                "antonyms": ["unacceptable"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "desire-n",
+                "word": "desire",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/dɪˈzaɪə(r)/", "us": "/dɪˈzaɪər/"},
+                "frequency": 2,
+                "meaningVi": "niềm mong muốn, khát khao",
+                "exampleEn": "Effective advertising can create a desire in consumers to buy goods they do not need.",
+                "exampleVi": "Quảng cáo hiệu quả có thể khiến người tiêu dùng hình thành mong muốn mua những sản phẩm mà họ không cần.",
+                "derivatives": [
+                    {"word": "desirable", "partOfSpeech": "adj", "meaningVi": "đáng khao khát"},
+                    {"word": "undesirable", "partOfSpeech": "adj", "meaningVi": "không mong muốn"}
+                ],
+                "synonyms": ["wish", "want"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "desire-v",
+                "word": "desire",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/dɪˈzaɪə(r)/", "us": "/dɪˈzaɪər/"},
+                "frequency": 2,
+                "meaningVi": "ao ước, mơ ước, thèm muốn",
+                "exampleEn": "Many people desire the latest electronic devices.",
+                "exampleVi": "Nhiều người ao ước được sở hữu những thiết bị điện tử mới nhất.",
+                "derivatives": [],
+                "synonyms": ["wish", "crave"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "redeemable",
+                "word": "redeemable",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/rɪˈdiːməbl/", "us": "/rɪˈdiːməbl/"},
+                "frequency": 2,
+                "meaningVi": "có thể quy đổi, có thể chuộc lại",
+                "exampleEn": "Store gift vouchers are redeemable at any branch.",
+                "exampleVi": "Phiếu mua hàng của cửa hàng có thể quy đổi được tại bất cứ chi nhánh nào.",
+                "derivatives": [
+                    {"word": "redeem", "partOfSpeech": "v", "meaningVi": "chuộc lại, quy đổi"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["redeemable at: có thể quy đổi/sử dụng tại"],
+                "needsReview": False
+            },
+            {
+                "id": "officially",
+                "word": "officially",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/əˈfɪʃəli/", "us": "/əˈfɪʃəli/"},
+                "frequency": 2,
+                "meaningVi": "chính thức, trịnh trọng",
+                "exampleEn": "The online store will officially open next month.",
+                "exampleVi": "Cửa hàng trực tuyến sẽ chính thức mở vào tháng tới.",
+                "derivatives": [
+                    {"word": "official", "partOfSpeech": "adj/n", "meaningVi": "chính thức/quan chức"}
+                ],
+                "synonyms": ["formally"],
+                "antonyms": ["unofficially"],
+                "toeicNotes": ["officially open: chính thức mở cửa/khai trương"],
+                "needsReview": False
+            },
+            {
+                "id": "consumption",
+                "word": "consumption",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/kənˈsʌmpʃn/", "us": "/kənˈsʌmpʃn/"},
+                "frequency": 2,
+                "meaningVi": "sự tiêu thụ, sự tiêu dùng",
+                "exampleEn": "Consumption of high-end products like home theaters has increased recently.",
+                "exampleVi": "Việc tiêu dùng các sản phẩm cao cấp như rạp chiếu phim tại gia ngày càng tăng trong thời gian gần đây.",
+                "derivatives": [
+                    {"word": "consume", "partOfSpeech": "v", "meaningVi": "tiêu thụ"},
+                    {"word": "consumer", "partOfSpeech": "n", "meaningVi": "người tiêu dùng"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "qualify",
+                "word": "qualify",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˈkwɒlɪfaɪ/", "us": "/ˈkwɑːlɪfaɪ/"},
+                "frequency": 2,
+                "meaningVi": "đủ điều kiện, đủ khả năng, cấp chứng chỉ",
+                "exampleEn": "Clients need a regular income to qualify for credit cards.",
+                "exampleVi": "Để đủ điều kiện làm thẻ tín dụng, khách hàng cần có thu nhập ổn định.",
+                "derivatives": [
+                    {"word": "qualification", "partOfSpeech": "n", "meaningVi": "bằng cấp, năng lực"},
+                    {"word": "qualified", "partOfSpeech": "adj", "meaningVi": "đủ trình độ, đủ điều kiện"}
+                ],
+                "synonyms": [],
+                "antonyms": ["disqualify"],
+                "toeicNotes": ["qualify for: đủ điều kiện cho/làm cái gì"],
+                "needsReview": False
+            },
+            {
+                "id": "fabric",
+                "word": "fabric",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈfæbrɪk/", "us": "/ˈfæbrɪk/"},
+                "frequency": 2,
+                "meaningVi": "vải, chất liệu vải",
+                "exampleEn": "The manufacturer's garments are made of natural fabric only.",
+                "exampleVi": "Các sản phẩm may mặc của nhà sản xuất này đều chỉ được làm từ vải tự nhiên.",
+                "derivatives": [],
+                "synonyms": ["cloth", "material"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "valid",
+                "word": "valid",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈvælɪd/", "us": "/ˈvælɪd/"},
+                "frequency": 2,
+                "meaningVi": "có hiệu lực, hợp lệ",
+                "exampleEn": "A valid receipt must be presented.",
+                "exampleVi": "Cần phải xuất trình hóa đơn hợp lệ.",
+                "derivatives": [
+                    {"word": "validate", "partOfSpeech": "v", "meaningVi": "xác nhận hiệu lực"},
+                    {"word": "validity", "partOfSpeech": "n", "meaningVi": "giá trị pháp lý, hiệu lực"}
+                ],
+                "synonyms": ["effective", "good", "legitimate"],
+                "antonyms": ["invalid"],
+                "toeicNotes": ["be valid for + time: có hiệu lực trong khoảng thời gian", "valid receipt: hóa đơn hợp lệ"],
+                "needsReview": False
+            },
+            {
+                "id": "vendor",
+                "word": "vendor",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈvendə(r)/", "us": "/ˈvendər/"},
+                "frequency": 2,
+                "meaningVi": "người bán hàng, đại lý cung cấp, máy bán hàng",
+                "exampleEn": "Software vendors have been instructed to sell the product at a specific retail price.",
+                "exampleVi": "Các nhà cung cấp phần mềm đã được hướng dẫn bán sản phẩm với giá bán lẻ cụ thể.",
+                "derivatives": [],
+                "synonyms": ["seller", "supplier"],
+                "antonyms": ["buyer", "customer"],
+                "toeicNotes": [],
+                "needsReview": False
+            }
+        ]
+
+
+
 
 
 

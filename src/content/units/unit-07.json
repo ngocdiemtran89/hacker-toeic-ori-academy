@@ -1232,100 +1232,100 @@
           "q": "Customer ___s help to improve product quality.",
           "a": "survey",
           "options": [
-            "additional",
-            "demand",
-            "buy",
-            "survey"
+            "effective",
+            "survey",
+            "mounting",
+            "focus"
           ]
         },
         {
           "q": "The company ___ed 1,000 customers about their shopping habits.",
           "a": "survey",
           "options": [
-            "postpone",
+            "very",
             "closely",
             "survey",
-            "publicize"
+            "mounting"
           ]
         },
         {
           "q": "The latest market ___ shows an increase in used car purchases.",
           "a": "analysis",
           "options": [
-            "competition",
+            "respondent",
             "analysis",
-            "buy",
-            "appreciate"
+            "survey",
+            "raise"
           ]
         },
         {
           "q": "Almost all survey ___s rated the product highly.",
           "a": "respondent",
           "options": [
-            "expectation",
-            "publicize",
-            "focus",
-            "respondent"
+            "demonstration",
+            "postpone",
+            "respondent",
+            "like"
           ]
         },
         {
           "q": "Panatronic has a virtual ___ on the manufacture of digital recorders.",
           "a": "monopoly",
           "options": [
-            "monopoly",
+            "appreciate",
             "gap",
-            "demand",
-            "respondent"
+            "monopoly",
+            "very"
           ]
         },
         {
           "q": "___ in the game software market has increased.",
           "a": "competition",
           "options": [
-            "mounting",
-            "target",
             "competition",
-            "focus"
+            "buy",
+            "do one's utmost",
+            "demonstration"
           ]
         },
         {
           "q": "The factory has ___ provided the highest grade products.",
           "a": "consistently",
           "options": [
-            "additional",
-            "expand",
-            "focus",
-            "consistently"
+            "consistently",
+            "respondent",
+            "target",
+            "do one's utmost"
           ]
         },
         {
           "q": "The company could not meet the increased ___ for mobile devices.",
           "a": "demand",
           "options": [
-            "cooperate",
             "demand",
-            "raise",
-            "consecutive"
+            "reserve",
+            "consecutive",
+            "probable"
           ]
         },
         {
           "q": "Mr. Hawkesby ___ed that the clause be removed.",
           "a": "demand",
           "options": [
+            "reserve",
             "demand",
-            "buy",
-            "expectation",
-            "closely"
+            "probable",
+            "survey"
           ]
         },
         {
           "q": "Brahe Optics has ___ed its marketing and sales division.",
           "a": "expand",
           "options": [
-            "focus",
             "expand",
-            "respondent",
-            "consistently"
+            "closely",
+            "target",
+            "demand"
           ]
         }
       ]

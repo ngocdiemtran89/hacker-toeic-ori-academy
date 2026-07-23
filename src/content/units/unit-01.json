@@ -1067,10 +1067,10 @@
           "q": "Please ___ the director that the meeting has been canceled.",
           "a": "inform",
           "options": [
-            "lack",
+            "familiar",
+            "condition",
             "inform",
-            "position",
-            "recruit"
+            "associate"
           ]
         },
         {
@@ -1078,18 +1078,18 @@
           "a": "résumé",
           "options": [
             "résumé",
-            "degree",
-            "appeal",
-            "payroll"
+            "recruit",
+            "achievement",
+            "associate"
           ]
         },
         {
           "q": "There are several job ___s at the restaurant right now.",
           "a": "opening",
           "options": [
-            "prospective",
-            "qualified",
-            "achievement",
+            "managerial",
+            "lack",
+            "résumé",
             "opening"
           ]
         },
@@ -1097,29 +1097,29 @@
           "q": "___s are required to submit a résumé.",
           "a": "applicant",
           "options": [
-            "applicant",
-            "appeal",
-            "résumé",
-            "proficiency"
+            "proficiency",
+            "impressed",
+            "employment",
+            "applicant"
           ]
         },
         {
           "q": "A driver's license is a ___ of this job.",
           "a": "requirement",
           "options": [
-            "hire",
+            "entitle",
             "requirement",
-            "professional",
-            "eligible"
+            "managerial",
+            "applicant"
           ]
         },
         {
           "q": "Applicants must ___ all the requirements for the job.",
           "a": "meet",
           "options": [
-            "requirement",
+            "diligent",
             "training",
-            "professional",
+            "achievement",
             "meet"
           ]
         },
@@ -1127,10 +1127,10 @@
           "q": "People with master's degrees are ___ for the research position.",
           "a": "qualified",
           "options": [
-            "excellent",
-            "managerial",
-            "hire",
-            "qualified"
+            "qualified",
+            "interview",
+            "employment",
+            "managerial"
           ]
         },
         {
@@ -1138,19 +1138,19 @@
           "a": "candidate",
           "options": [
             "candidate",
-            "apprehensive",
-            "condition",
-            "requirement"
+            "position",
+            "requirement",
+            "diligent"
           ]
         },
         {
           "q": "We have ___ that she can handle the position.",
           "a": "confidence",
           "options": [
-            "recruit",
-            "professional",
+            "proficiency",
+            "eligible",
             "confidence",
-            "consultant"
+            "reference"
           ]
         },
         {
@@ -1158,9 +1158,9 @@
           "a": "highly",
           "options": [
             "identify",
-            "position",
-            "highly",
-            "payroll"
+            "associate",
+            "excellent",
+            "highly"
           ]
         }
       ]

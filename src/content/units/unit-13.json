@@ -867,100 +867,100 @@
           "q": "Customers can register ___s at the customer service center or online.",
           "a": "complaint",
           "options": [
-            "apologize",
-            "specific",
             "complaint",
-            "return"
+            "inconvenience",
+            "reflect",
+            "priority"
           ]
         },
         {
           "q": "The problem will be ___t with immediately.",
           "a": "deal",
           "options": [
-            "complete",
-            "commentary",
+            "critical",
+            "inconvenience",
             "deal",
-            "specific"
+            "commitment"
           ]
         },
         {
           "q": "Sales staff should ___ promptly to questions from customers.",
           "a": "respond",
           "options": [
-            "respond",
-            "disclose",
-            "confident",
-            "apologize"
+            "disappoint",
+            "depend on",
+            "satisfaction",
+            "respond"
           ]
         },
         {
           "q": "All inquiries must be handled in a ___ manner.",
           "a": "courteous",
           "options": [
-            "applaud",
             "courteous",
-            "respond",
-            "confident"
+            "depend on",
+            "deal",
+            "politely"
           ]
         },
         {
           "q": "We hope our assistance was to your ___.",
           "a": "satisfaction",
           "options": [
-            "damage.",
-            "courteous",
+            "commitment",
+            "disclose",
             "satisfaction",
-            "evaluation"
+            "defective"
           ]
         },
         {
           "q": "We apologize for the ___ during construction.",
           "a": "inconvenience",
           "options": [
-            "deal",
-            "depend on",
+            "defective",
             "inconvenience",
-            "guarantee"
+            "respond",
+            "presentation"
           ]
         },
         {
           "q": "Cheryl asked the manager if it would ___ him to reschedule her interview.",
           "a": "inconvenience",
           "options": [
+            "insert",
             "inconvenience",
-            "reflect",
-            "applaud",
-            "observe"
+            "attitude",
+            "damage."
           ]
         },
         {
           "q": "The paperwork must be ___d within one month.",
           "a": "complete",
           "options": [
-            "complete",
-            "return",
-            "defective",
-            "presentation"
+            "inconvenience",
+            "damage.",
+            "satisfaction",
+            "complete"
           ]
         },
         {
           "q": "Once you receive a confirmation e-mail, the registration process is ___.",
           "a": "complete",
           "options": [
-            "damage.",
-            "presentation",
-            "complete",
-            "depend on"
+            "disappoint",
+            "combine",
+            "apologize",
+            "complete"
           ]
         },
         {
           "q": "When seeking help online, clients must be ver ___ in describing problems.",
           "a": "specific",
           "options": [
+            "combine",
             "specific",
-            "inquire",
-            "commentary",
-            "respond"
+            "return",
+            "notification"
           ]
         }
       ]

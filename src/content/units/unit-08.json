@@ -1239,10 +1239,10 @@
           "q": "Sales have been propelled by the new ___.",
           "a": "advertisement",
           "options": [
-            "advertisement",
-            "majority",
-            "need",
-            "aim"
+            "means",
+            "indicate",
+            "subscribe",
+            "advertisement"
           ]
         },
         {
@@ -1250,29 +1250,29 @@
           "a": "marginal",
           "options": [
             "marginal",
-            "instantly",
-            "necessarily",
-            "introduce"
+            "resolve",
+            "aim",
+            "forward"
           ]
         },
         {
           "q": "Telephone representatives should make the needs of ___s their priority.",
           "a": "customer",
           "options": [
-            "resolve",
-            "advantage",
-            "forward",
-            "customer"
+            "means",
+            "customer",
+            "aim",
+            "advise"
           ]
         },
         {
           "q": "Demand for housing directly ___s the cost of homes.",
           "a": "influence",
           "options": [
+            "forward",
+            "effort",
             "influence",
-            "subscribe",
-            "disregard",
-            "means"
+            "experience"
           ]
         },
         {
@@ -1280,18 +1280,18 @@
           "a": "influence",
           "options": [
             "influence",
-            "advertisement",
-            "advantage",
-            "aim"
+            "customer",
+            "mastermind",
+            "effort"
           ]
         },
         {
           "q": "The brand logo should be ___ recognizable.",
           "a": "instantly",
           "options": [
-            "experience",
-            "need",
-            "advantage",
+            "intensify",
+            "incentive",
+            "attract",
             "instantly"
           ]
         },
@@ -1299,10 +1299,10 @@
           "q": "Mr. Beaumont came up with a ___ idea.",
           "a": "creative",
           "options": [
+            "influence",
+            "means",
             "creative",
-            "cover",
-            "aim",
-            "instantly"
+            "adopt"
           ]
         },
         {
@@ -1310,19 +1310,19 @@
           "a": "aggressively",
           "options": [
             "aggressively",
-            "introduce",
-            "advertisement",
-            "indicate"
+            "aim",
+            "adopt",
+            "forward"
           ]
         },
         {
           "q": "Sport Apparel developed athletic gear ___ed at teenagers.",
           "a": "aim",
           "options": [
-            "advantage",
+            "steadily",
+            "adopt",
             "aim",
-            "aggressively",
-            "analyze"
+            "attract"
           ]
         },
         {
@@ -1330,9 +1330,9 @@
           "a": "aim",
           "options": [
             "aim",
-            "experience",
-            "forward",
-            "strategy"
+            "influence",
+            "absence",
+            "steadily"
           ]
         }
       ]

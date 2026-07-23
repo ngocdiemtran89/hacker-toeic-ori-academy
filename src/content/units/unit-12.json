@@ -555,40 +555,40 @@
           "q": "The production plant will be fully ___d by next year.",
           "a": "automate",
           "options": [
-            "automate",
-            "chemical",
-            "launch",
-            "respectively"
+            "specification",
+            "precaution",
+            "capable",
+            "automate"
           ]
         },
         {
           "q": "The quality control team checks if all items meet product ___s.",
           "a": "specification",
           "options": [
+            "place",
             "specification",
-            "utilize",
-            "component",
-            "limit"
+            "capable",
+            "chemical"
           ]
         },
         {
           "q": "The warehouse's ___ will double after the construction.",
           "a": "capacity",
           "options": [
-            "automate",
-            "capacity",
             "place",
-            "expiration"
+            "tailored",
+            "limit",
+            "capacity"
           ]
         },
         {
           "q": "Components are manufactured abroad and ___d domestically.",
           "a": "assemble",
           "options": [
-            "tailored",
-            "utilize",
+            "separately",
             "assemble",
-            "launch"
+            "component",
+            "capable"
           ]
         },
         {
@@ -596,29 +596,29 @@
           "a": "utilize",
           "options": [
             "utilize",
-            "launch",
-            "capable",
-            "specification"
+            "assemble",
+            "operate",
+            "limit"
           ]
         },
         {
           "q": "The factory supervisor has ___d production operations on standby.",
           "a": "place",
           "options": [
-            "specification",
-            "utilize",
-            "operate",
-            "place"
+            "place",
+            "expiration",
+            "coming",
+            "automate"
           ]
         },
         {
           "q": "There is a ___ to the amount of merchandise the factory can make in a day.",
           "a": "limit",
           "options": [
-            "coming",
-            "precaution",
             "limit",
-            "separately"
+            "tailored",
+            "flexible",
+            "chemical"
           ]
         },
         {
@@ -626,19 +626,19 @@
           "a": "tailored",
           "options": [
             "capable",
-            "economize",
-            "tailored",
-            "chemical"
+            "separately",
+            "precaution",
+            "tailored"
           ]
         },
         {
           "q": "The store returned the defective ___s to the manufacturer.",
           "a": "component",
           "options": [
+            "flexible",
             "component",
-            "chemical",
-            "coming",
-            "utilize"
+            "limit",
+            "capacity"
           ]
         },
         {
@@ -647,8 +647,8 @@
           "options": [
             "capable",
             "specification",
-            "assemble",
-            "chemical"
+            "precaution",
+            "produce"
           ]
         }
       ]

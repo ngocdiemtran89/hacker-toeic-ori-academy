@@ -9,22 +9,44 @@
   ],
   "words": [
     {
-      "id": "purchase",
+      "id": "purchase-v",
+      "word": "purchase",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ˈpɜːtʃəs/",
+        "us": "/ˈpɜːrtʃəs/"
+      },
+      "frequency": 3,
+      "meaningVi": "mua, sắm",
+      "exampleEn": "The customer purchased a laptop computer.",
+      "exampleVi": "Vị khách đã mua một chiếc máy tính xách tay.",
+      "derivatives": [],
+      "synonyms": [
+        "buy"
+      ],
+      "antonyms": [
+        "sell"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "purchase-n",
       "word": "purchase",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/pártfas/",
-        "us": "/pártfas/"
+        "uk": "/ˈpɜːtʃəs/",
+        "us": "/ˈpɜːrtʃəs/"
       },
       "frequency": 3,
-      "meaningVi": "việc mua hàng",
+      "meaningVi": "việc mua hàng, món đồ mua được",
       "exampleEn": "For every purchase of $100 or more, customers will receive a raffle ticket.",
       "exampleVi": "Với mỗi lần mua hàng giá trị từ 100 đô-la trở lên, khách hàng sẽ nhận được một tấm vé số.",
       "derivatives": [],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [
-        "wr within ~ days of purchase ướng trong vòng ~ ngày kể từ ngày mua hàng Lưu ý, có thể bạn sẽ gặp câu hỏi yêu cầu lựa chọn giới từ within."
+        "within ~ days of purchase: trong vòng ~ ngày kể từ ngày mua hàng"
       ],
       "needsReview": false
     },
@@ -33,17 +55,19 @@
       "word": "installment",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/instśtlmant/",
-        "us": "/instśtlmant/"
+        "uk": "/ɪnˈstɔːlmənt/",
+        "us": "/ɪnˈstɔːlmənt/"
       },
-      "frequency": 1,
-      "meaningVi": "sự trả góp",
+      "frequency": 2,
+      "meaningVi": "sự trả góp, tiền trả góp",
       "exampleEn": "The shop allows buyers to pay for furniture in monthly installments.",
       "exampleVi": "Cửa hàng cho phép khách trả tiền mua đồ nội thất bằng hình thức trả góp theo tháng.",
       "derivatives": [],
       "synonyms": [],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "pay in monthly installments: trả góp hàng tháng"
+      ],
       "needsReview": false
     },
     {
@@ -51,18 +75,40 @@
       "word": "affordable",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/ик afsrrdabl/",
-        "us": "/afidabl/"
+        "uk": "/əˈfɔːdəbl/",
+        "us": "/əˈfɔːrdəbl/"
       },
       "frequency": 2,
-      "meaningVi": "cả) phải chăng, có thể chi trả được",
+      "meaningVi": "(giá cả) phải chăng, có thể chi trả được",
       "exampleEn": "Toyama launched an affordable mid-range sedan.",
-      "exampleVi": "Toyama dã ra mắt một mẫu xe sedan tầm trung với mức giá hợp lý.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "exampleVi": "Toyama đã ra mắt một mẫu xe sedan tầm trung với mức giá hợp lý.",
+      "derivatives": [
+        {
+          "word": "afford",
+          "partOfSpeech": "v",
+          "meaningVi": "có đủ khả năng chi trả"
+        },
+        {
+          "word": "affordability",
+          "partOfSpeech": "n",
+          "meaningVi": "tính hợp lý về giá cả"
+        },
+        {
+          "word": "affordably",
+          "partOfSpeech": "adv",
+          "meaningVi": "ở mức giá phải chăng"
+        }
+      ],
+      "synonyms": [
+        "reasonable",
+        "inexpensive"
+      ],
+      "antonyms": [
+        "expensive",
+        "costly"
+      ],
       "toeicNotes": [
-        "at an affordable + rate/price với mức giá/giá cả hợp lý luän affordable thường đi cùng với danh từ chỉ giá cả như rate, price."
+        "at an affordable price/rate: với mức giá hợp lý"
       ],
       "needsReview": false
     },
@@ -71,16 +117,26 @@
       "word": "exactly",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ɪɡˈzæktli/",
+        "us": "/ɪɡˈzæktli/"
       },
-      "frequency": 1,
-      "meaningVi": "xác, đúng",
+      "frequency": 3,
+      "meaningVi": "chính xác, đúng",
       "exampleEn": "The sales representatives help customers decide exactly what style fits them best.",
-      "exampleVi": "Nhân viên bán hàng giúp người người mua xác định chính xác phong cách phù hợp với họ.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "exampleVi": "Nhân viên bán hàng giúp người mua xác định chính xác phong cách phù hợp với họ.",
+      "derivatives": [
+        {
+          "word": "exact",
+          "partOfSpeech": "adj",
+          "meaningVi": "chính xác"
+        }
+      ],
+      "synonyms": [
+        "precisely"
+      ],
+      "antonyms": [
+        "inaccurately"
+      ],
       "toeicNotes": [],
       "needsReview": false
     },
@@ -89,104 +145,160 @@
       "word": "auction",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈɔːkʃn/",
+        "us": "/ˈɑːkʃn/"
       },
       "frequency": 2,
       "meaningVi": "cuộc đấu giá, sự bán đấu giá",
       "exampleEn": "A number of antique pieces will be sold at the auction.",
-      "exampleVi": "Nhiều món đồ cổ sẽ được bán tại buối đấu giá.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
-      "needsReview": false
-    },
-    {
-      "id": "authentie",
-      "word": "authentie",
-      "partOfSpeech": "adj",
-      "pronunciation": {
-        "uk": "/a:déntik/",
-        "us": "/2:0éntik/"
-      },
-      "frequency": 2,
-      "meaningVi": "thật, đích thực, đáng tin",
-      "exampleEn": "The new downtown restaurant serves authentic Spanish cuisine.",
-      "exampleVi": "Nhà hàng mới ở trung tâm thành phố phục vụ các món Tây Ban Nha đích thưc.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
-      "needsReview": false
-    },
-    {
-      "id": "charge",
-      "word": "charge",
-      "partOfSpeech": "n",
-      "pronunciation": {
-        "uk": "",
-        "us": ""
-      },
-      "frequency": 3,
-      "meaningVi": "tiền phải trả, phí; nhiệm vụ, trách nhiệm",
-      "exampleEn": "The price includes shipping and handling charges.",
-      "exampleVi": "Giá này đã bao gồm phí vận chuyển và xử lý.",
-      "derivatives": [],
+      "exampleVi": "Nhiều món đồ cổ sẽ được bán tại buổi đấu giá.",
+      "derivatives": [
+        {
+          "word": "auctioneer",
+          "partOfSpeech": "n",
+          "meaningVi": "người điều hành bán đấu giá"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [
-        "Ms.",
-        "Long is in charge of product returns.",
-        "Cô Long chịu trách nhiệm khâu đổi trả sản phẩm."
+        "sell at auction: bán đấu giá"
       ],
       "needsReview": false
     },
     {
-      "id": "charge",
+      "id": "authentic",
+      "word": "authentic",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ɔːˈθentɪk/",
+        "us": "/ɑːˈθentɪk/"
+      },
+      "frequency": 2,
+      "meaningVi": "thật, đích thực, đáng tin",
+      "exampleEn": "The new downtown restaurant serves authentic Spanish cuisine.",
+      "exampleVi": "Nhà hàng mới ở trung tâm thành phố phục vụ các món Tây Ban Nha đích thực.",
+      "derivatives": [
+        {
+          "word": "authenticity",
+          "partOfSpeech": "n",
+          "meaningVi": "tính xác thực, tính chân thật"
+        }
+      ],
+      "synonyms": [
+        "genuine",
+        "real"
+      ],
+      "antonyms": [
+        "fake",
+        "counterfeit"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "charge-n",
+      "word": "charge",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/tʃɑːdʒ/",
+        "us": "/tʃɑːrdʒ/"
+      },
+      "frequency": 3,
+      "meaningVi": "tiền phải trả, phí, nhiệm vụ, trách nhiệm",
+      "exampleEn": "The price includes shipping and handling charges.",
+      "exampleVi": "Giá này đã bao gồm phí vận chuyển và xử lý.",
+      "derivatives": [],
+      "synonyms": [
+        "expense",
+        "fee",
+        "cost"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "free of charge: miễn phí",
+        "in charge of: chịu trách nhiệm, đảm nhiệm",
+        "additional charge: chi phí phát sinh thêm"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "charge-v",
       "word": "charge",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/tʃɑːdʒ/",
+        "us": "/tʃɑːrdʒ/"
       },
       "frequency": 3,
-      "meaningVi": "phí, tính phí, ghi nợ",
+      "meaningVi": "thu phí, tính phí, ghi nợ vào thẻ",
       "exampleEn": "The phone company charges high fees for installations.",
       "exampleVi": "Công ty viễn thông đó thu phí lắp đặt cao.",
       "derivatives": [],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [
-        "She charged the fee to her credit card.",
-        "Cô ấy đã tính khoản phí đó vào thẻ tín dụng của mình.",
-        "sar dn TOBIC dang hüc mor cum 1.",
-        "free of charge miễn phí Bạn có thể gặp trong để thi câu hỏi yêu cầu điền charge vào cụm từ.",
-        "Hãy lưu ý các từ như rate, price, fare không dùng được với cụm từ này.",
-        "2.",
-        "in charge of đảm nhiệm việc gì Đây là cụm từ rất hay gặp với charge.",
-        "3.",
-        "additional charge chi phí thêm 4.",
-        "charge sth to sb/sth tính tiền của cái gì cho ai/cái gì charge cũng có thể đi kèm với giới từ to.",
-        "(m Khi hang co để chy iảm kxan oán cho sản phẩm, dịch"
+        "charge A to B: tính khoản phí A vào B"
       ],
       "needsReview": false
     },
     {
-      "id": "notice",
+      "id": "notice-n",
       "word": "notice",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/nóutis/",
-        "us": "/náutis/"
+        "uk": "/ˈnəʊtɪs/",
+        "us": "/ˈnəʊtɪs/"
       },
       "frequency": 3,
-      "meaningVi": "báo, yết thị",
+      "meaningVi": "thông báo, yết thị, sự chú ý",
       "exampleEn": "The prices listed in the catalog are effective until further notice.",
       "exampleVi": "Giá ghi trong danh mục có hiệu lực cho đến khi có thông báo thêm.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "notify",
+          "partOfSpeech": "v",
+          "meaningVi": "thông báo, báo tin"
+        },
+        {
+          "word": "notification",
+          "partOfSpeech": "n",
+          "meaningVi": "sự thông báo"
+        },
+        {
+          "word": "noticeable",
+          "partOfSpeech": "adj",
+          "meaningVi": "đáng chú ý"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
+      "toeicNotes": [
+        "until further notice: cho đến khi có thông báo mới",
+        "give two weeks' notice: thông báo trước hai tuần"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "notice-v",
+      "word": "notice",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ˈnəʊtɪs/",
+        "us": "/ˈnəʊtɪs/"
+      },
+      "frequency": 3,
+      "meaningVi": "chú ý, nhận biết, nhận ra",
+      "exampleEn": "The customer noticed a flaw in the display item.",
+      "exampleVi": "Khách hàng nhận ra một vết lỗi trên sản phẩm trưng bày.",
+      "derivatives": [],
+      "synonyms": [
+        "observe",
+        "spot"
+      ],
+      "antonyms": [
+        "ignore"
+      ],
       "toeicNotes": [],
       "needsReview": false
     },
@@ -195,16 +307,27 @@
       "word": "experienced",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ɪkˈspɪəriənst/",
+        "us": "/ɪkˈspɪriənst/"
       },
       "frequency": 3,
-      "meaningVi": "nghiệm, lão luyện",
+      "meaningVi": "có kinh nghiệm, lão luyện",
       "exampleEn": "Bill is the most experienced salesperson in the store.",
       "exampleVi": "Bill là nhân viên bán hàng có kinh nghiệm nhất ở cửa hàng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "experience",
+          "partOfSpeech": "n/v",
+          "meaningVi": "kinh nghiệm/trải nghiệm"
+        }
+      ],
+      "synonyms": [
+        "expert",
+        "seasoned"
+      ],
+      "antonyms": [
+        "inexperienced"
+      ],
       "toeicNotes": [],
       "needsReview": false
     },
@@ -213,33 +336,81 @@
       "word": "instruction",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/instrák/an/",
-        "us": "/instrák/an/"
+        "uk": "/ɪnˈstrʌkʃn/",
+        "us": "/ɪnˈstrʌkʃn/"
       },
       "frequency": 3,
       "meaningVi": "lời chỉ dẫn, hướng dẫn",
       "exampleEn": "The receipt gives instructions for returning or exchanging items.",
       "exampleVi": "Biên lai có cung cấp hướng dẫn cách đổi trả sản phẩm.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "instruct",
+          "partOfSpeech": "v",
+          "meaningVi": "hướng dẫn, chỉ bảo"
+        },
+        {
+          "word": "instructional",
+          "partOfSpeech": "adj",
+          "meaningVi": "thuộc hướng dẫn"
+        }
+      ],
+      "synonyms": [
+        "directions",
+        "guidance"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
     },
     {
-      "id": "experg",
-      "word": "experg",
+      "id": "expert-n",
+      "word": "expert",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈekspɜːt/",
+        "us": "/ˈekspɜːrt/"
       },
-      "frequency": 3,
-      "meaningVi": "customers.",
-      "exampleEn": "cho khách hàng.",
-      "exampleVi": "Chuyên viên tư vấn mua sắm cá nhân chính là chuyên gia trong việc tìm ra những món hời",
+      "frequency": 2,
+      "meaningVi": "chuyên gia",
+      "exampleEn": "A personal shopper is an expert at finding bargains for customers.",
+      "exampleVi": "Chuyên viên tư vấn mua sắm cá nhân chính là chuyên gia trong việc tìm ra những món hời cho khách hàng.",
+      "derivatives": [
+        {
+          "word": "expertly",
+          "partOfSpeech": "adv",
+          "meaningVi": "một cách thành thạo, chuyên nghiệp"
+        }
+      ],
+      "synonyms": [
+        "specialist"
+      ],
+      "antonyms": [
+        "novice",
+        "amateur"
+      ],
+      "toeicNotes": [
+        "expert at/in: chuyên gia về lĩnh vực gì"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "expert-adj",
+      "word": "expert",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ˈekspɜːt/",
+        "us": "/ˈekspɜːrt/"
+      },
+      "frequency": 2,
+      "meaningVi": "về mặt chuyên môn, thành thạo, lão luyện",
+      "exampleEn": "An expert designer created the layout of the store.",
+      "exampleVi": "Nhà thiết kế có chuyên môn đã lên bố cục cho cửa hàng.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "skillful",
+        "proficient"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -247,59 +418,71 @@
     {
       "id": "warranty",
       "word": "warranty",
-      "partOfSpeech": "adj",
-      "pronunciation": {
-        "uk": "/wairenti/",
-        "us": "/wórenti/"
-      },
-      "frequency": 3,
-      "meaningVi": "về mặt chuyên môn, thành thạo, lão luyện",
-      "exampleEn": "An expert designer created the layout of the store.",
-      "exampleVi": "Nhà thiết kế có chuyên môn đã lên bố cục cho cửa hàng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
-      "needsReview": false
-    },
-    {
-      "id": "o-hành",
-      "word": "o hành",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈwɒrənti/",
+        "us": "/ˈwɔːrənti/"
       },
-      "frequency": 1,
-      "meaningVi": "giấy bảo hành, sự bảo",
-      "exampleEn": "hành The computer is under warranty for two years.",
+      "frequency": 3,
+      "meaningVi": "giấy bảo hành, sự bảo hành",
+      "exampleEn": "The computer is under warranty for two years.",
       "exampleVi": "Máy tính được bảo hành trong vòng 2 năm.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "guarantee"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Bạ: thi IOB/C dạng thực mới ou under warranty trong thời gian bảo hành * warranty thường đi kèm giới từ under."
+        "under warranty: trong thời gian bảo hành"
       ],
       "needsReview": false
     },
     {
-      "id": "refund",
+      "id": "refund-n",
       "word": "refund",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/rífând/",
-        "us": "/rífând/"
+        "uk": "/ˈriːfʌnd/",
+        "us": "/ˈriːfʌnd/"
       },
       "frequency": 3,
-      "meaningVi": "sự hoàn tiền, sự hoàn trả lại",
+      "meaningVi": "sự hoàn tiền, tiền trả lại",
       "exampleEn": "Buyers can get a full refund for a defective product.",
       "exampleVi": "Người mua có thể được hoàn trả toàn bộ tiền nếu sản phẩm bị lỗi.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "refundable",
+          "partOfSpeech": "adj",
+          "meaningVi": "có thể hoàn trả"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [
-        "có thể hoàn trả ##7 = tỷ lệ xuất hiện rất cao # * = tỷ lệ xuất hiện cao *= tỷ lệ xuất hiện trung bình"
+        "a full refund: hoàn tiền toàn bộ",
+        "provide a refund: hoàn lại tiền"
       ],
+      "needsReview": false
+    },
+    {
+      "id": "refund-v",
+      "word": "refund",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/rɪˈfʌnd/",
+        "us": "/rɪˈfʌnd/"
+      },
+      "frequency": 3,
+      "meaningVi": "hoàn tiền, trả lại tiền",
+      "exampleEn": "The store will refund the purchase price if you have a valid receipt.",
+      "exampleVi": "Cửa hàng sẽ hoàn lại tiền mua nếu bạn có hóa đơn hợp lệ.",
+      "derivatives": [],
+      "synonyms": [
+        "reimburse",
+        "pay back"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
       "needsReview": false
     },
     {
@@ -307,14 +490,25 @@
       "word": "subscriber",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/sabskráibar/",
-        "us": "/sabskráibar/"
+        "uk": "/səbˈskraɪbə(r)/",
+        "us": "/səbˈskraɪbər/"
       },
       "frequency": 3,
-      "meaningVi": "người đăng ký, người theo dõi, người đặt mua dài hạn (báo, tạp chí)",
+      "meaningVi": "người đăng ký, người theo dõi, người đặt mua dài hạn",
       "exampleEn": "The website now has millions of subscribers.",
       "exampleVi": "Trang web này hiện có hàng triệu người theo dõi.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "subscribe",
+          "partOfSpeech": "v",
+          "meaningVi": "đăng ký, mua dài hạn"
+        },
+        {
+          "word": "subscription",
+          "partOfSpeech": "n",
+          "meaningVi": "sự mua định kỳ"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [],
@@ -325,37 +519,76 @@
       "word": "delivery",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/dɪˈlɪvəri/",
+        "us": "/dɪˈlɪvəri/"
       },
       "frequency": 3,
       "meaningVi": "sự giao hàng, sự phân phát",
       "exampleEn": "We guarantee delivery within three days.",
       "exampleVi": "Chúng tôi cam đoan sẽ giao hàng trong vòng ba ngày.",
+      "derivatives": [
+        {
+          "word": "deliver",
+          "partOfSpeech": "v",
+          "meaningVi": "giao hàng"
+        }
+      ],
+      "synonyms": [
+        "shipment"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "express delivery: giao hàng hỏa tốc"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "price-n",
+      "word": "price",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/praɪs/",
+        "us": "/praɪs/"
+      },
+      "frequency": 3,
+      "meaningVi": "giá, giá cả",
+      "exampleEn": "The new color printer has a retail price of only $150.99.",
+      "exampleVi": "Chiếc máy in màu mới có giá bán lẻ là 150,99 đô-la.",
+      "derivatives": [
+        {
+          "word": "pricey",
+          "partOfSpeech": "adj",
+          "meaningVi": "đắt đỏ"
+        }
+      ],
+      "synonyms": [
+        "cost",
+        "rate"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "a reduced price: giá đã giảm",
+        "retail price: giá bán lẻ",
+        "wholesale price: giá bán sỉ"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "price-v",
+      "word": "price",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/praɪs/",
+        "us": "/praɪs/"
+      },
+      "frequency": 3,
+      "meaningVi": "định giá, đặt giá",
+      "exampleEn": "The merchandise was priced reasonably to attract customers.",
+      "exampleVi": "Hàng hóa được định giá hợp lý để thu hút khách hàng.",
       "derivatives": [],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [],
-      "needsReview": false
-    },
-    {
-      "id": "price",
-      "word": "price",
-      "partOfSpeech": "n",
-      "pronunciation": {
-        "uk": "/prais/",
-        "us": "/prais/"
-      },
-      "frequency": 1,
-      "meaningVi": "giá, giá cả",
-      "exampleEn": "The new color printer has a retail price of only $150.99.",
-      "exampleVi": "Chiếc máy in màu mới có giá bán lẻ là 150,99 đô-la.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [
-        "a reduced price giá đã giảm Tel a retail price gia bån ta (r» a wholesale pice) Cần lưu ý rằng price là danh từ đếm được nên cần thêm mạo từ xác định a khi dùng ở dạng số ít."
-      ],
       "needsReview": false
     },
     {
@@ -363,56 +596,73 @@
       "word": "receipt",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/risitt/",
-        "us": "/risitt/"
+        "uk": "/rɪˈsiːt/",
+        "us": "/rɪˈsiːt/"
       },
-      "frequency": 1,
-      "meaningVi": "refunds. Mọi khoản hoàn lại đều cần phải có biên lai gốc. cum original/valid +",
-      "exampleEn": "receipt biên lai gốc/hợp",
-      "exampleVi": "lệ Hãy ghi nhớ những cụm từ có chứa receipt thường xuất hiện trong đề thi TOEIC.",
-      "derivatives": [],
-      "synonyms": [],
+      "frequency": 3,
+      "meaningVi": "biên lai, hóa đơn",
+      "exampleEn": "The original receipt is required for all refunds.",
+      "exampleVi": "Mọi khoản hoàn lại đều cần phải có biên lai gốc.",
+      "derivatives": [
+        {
+          "word": "receive",
+          "partOfSpeech": "v",
+          "meaningVi": "nhận"
+        }
+      ],
+      "synonyms": [
+        "proof of purchase"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "original/valid receipt: biên lai gốc/hợp lệ"
+      ],
       "needsReview": false
     },
     {
-      "id": "offer",
+      "id": "offer-v",
       "word": "offer",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈɒfə(r)/",
+        "us": "/ˈɔːfər/"
       },
       "frequency": 3,
-      "meaningVi": "cấp, tạo cơ hội, tặng",
+      "meaningVi": "cung cấp, tạo cơ hội, tặng",
       "exampleEn": "Z-Mart offers $25 gift cards to customers signing up for membership.",
       "exampleVi": "Z-Mart tặng thẻ quà tặng trị giá 25 đô-la cho những khách hàng đăng ký làm hội viên.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "provide",
+        "present"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "offer A B / offer B to A: cung cấp B cho A"
+      ],
       "needsReview": false
     },
     {
-      "id": "offer",
+      "id": "offer-n",
       "word": "offer",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈɒfə(r)/",
+        "us": "/ˈɔːfər/"
       },
       "frequency": 3,
       "meaningVi": "lời đề nghị, đề xuất, ưu đãi",
       "exampleEn": "The supermarket entices customers with promotional offers.",
       "exampleVi": "Siêu thị thu hút khách hàng bằng các ưu đãi khuyến mại.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "proposal",
+        "discount"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "promotional offers những ưu đãi khuyến mại gặp job offer lời mời làm việc Hãy ghi nhớ các cụm từ kết hợp với danh từ offer này.",
-        "(par offer A B = offer B to A cung cấp B cho A Động từ offer được sử dụng phổ biến nhất ở dạng offer A B.",
-        "Ngoài ra, ta cũng có thể sử dụng offer B 10 A."
+        "promotional offer: ưu đãi khuyến mại",
+        "job offer: lời mời làm việc"
       ],
       "needsReview": false
     },
@@ -421,57 +671,85 @@
       "word": "carefully",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/kéarfali/",
-        "us": "/kéarfali/"
+        "uk": "/ˈkeəfəli/",
+        "us": "/ˈkerfəli/"
       },
       "frequency": 2,
       "meaningVi": "một cách cẩn thận, thận trọng",
       "exampleEn": "Please follow the installation directions carefully.",
       "exampleVi": "Vui lòng làm theo hướng dẫn cài đặt một cách cẩn thận.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [
-        "der| care (n) sự chăm sóc, sự thận trọng careful (adj) cần thận lant, carelessly bất cần và careful (adj.",
-        "cẩn thận)"
+      "derivatives": [
+        {
+          "word": "care",
+          "partOfSpeech": "n/v",
+          "meaningVi": "sự chăm sóc/quan tâm"
+        },
+        {
+          "word": "careful",
+          "partOfSpeech": "adj",
+          "meaningVi": "cẩn thận"
+        }
       ],
-      "needsReview": false
-    },
-    {
-      "id": "benefit",
-      "word": "benefit",
-      "partOfSpeech": "n",
-      "pronunciation": {
-        "uk": "/bénafit/",
-        "us": "/bénifitj [der/"
-      },
-      "frequency": 3,
-      "meaningVi": "lợi ích, tác dụng, ưu đãi The Shoppers'",
-      "exampleEn": "Club offers many benefits to its members.",
-      "exampleVi": "Shoppers Club cung cấp nhiều ưu đãi cho các hội viên.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "cautiously"
+      ],
+      "antonyms": [
+        "carelessly"
+      ],
       "toeicNotes": [],
       "needsReview": false
     },
     {
-      "id": "benefit",
+      "id": "benefit-n",
+      "word": "benefit",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈbenɪfɪt/",
+        "us": "/ˈbenɪfɪt/"
+      },
+      "frequency": 3,
+      "meaningVi": "lợi ích, tác dụng, ưu đãi",
+      "exampleEn": "The Shoppers' Club offers many benefits to its members.",
+      "exampleVi": "Shoppers Club cung cấp nhiều ưu đãi cho các hội viên.",
+      "derivatives": [
+        {
+          "word": "beneficial",
+          "partOfSpeech": "adj",
+          "meaningVi": "có lợi"
+        },
+        {
+          "word": "beneficiary",
+          "partOfSpeech": "n",
+          "meaningVi": "người thụ hưởng"
+        }
+      ],
+      "synonyms": [
+        "advantage"
+      ],
+      "antonyms": [
+        "disadvantage",
+        "drawback"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "benefit-v",
       "word": "benefit",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/bénafit/",
-        "us": "/bénifitj [der/"
+        "uk": "/ˈbenɪfɪt/",
+        "us": "/ˈbenɪfɪt/"
       },
       "frequency": 3,
-      "meaningVi": "được hưởng lợi, giúp ích cho NBC",
-      "exampleEn": "Mart shoppers benefit from various coupons and free delivery service.",
+      "meaningVi": "được hưởng lợi, giúp ích cho",
+      "exampleEn": "NBC Mart shoppers benefit from various coupons and free delivery service.",
       "exampleVi": "Người mua hàng tại NBC Mart được hưởng lợi từ các phiếu giảm giá và dịch vụ giao hàng miễn phí.",
       "derivatives": [],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [
-        "AX = tỷ lệ xuất hiện rất cao #* = tỷ lệ xuất hiện cao # = tỷ lệ xuất hiện trung bìn ) = từ vựng thường gặp trong Part 5 - 6 O = từ vựng thường gặp trong Part Mua sắm | 173"
+        "benefit from: hưởng lợi từ"
       ],
       "needsReview": false
     },
@@ -480,19 +758,33 @@
       "word": "exclusively",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/iksklúsivli/",
-        "us": "/iksklúsivli/"
+        "uk": "/ɪkˈskluːsɪvli/",
+        "us": "/ɪkˈskluːsɪvli/"
       },
       "frequency": 2,
-      "meaningVi": "riêng, dành riêng A 10",
-      "exampleEn": "percent discount is available exclusively to Premium Club members.",
+      "meaningVi": "dành riêng, độc quyền",
+      "exampleEn": "A 10 percent discount is available exclusively to Premium Club members.",
       "exampleVi": "Mức giảm giá 10% chỉ dành cho hội viên của Premium Club.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "exclusive",
+          "partOfSpeech": "adj",
+          "meaningVi": "dành riêng, độc quyền"
+        },
+        {
+          "word": "exclude",
+          "partOfSpeech": "v",
+          "meaningVi": "loại trừ"
+        }
+      ],
+      "synonyms": [
+        "solely",
+        "only"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "avallable exclusively online chỉ được áp dụng trên mạng gep sell exclusively bán độc quyền exclusively supply cung cấp độc quyền Hãy lưu ý cách sử dụng exclusively trong các cụm từ thường xuất hiện trong đề thi TOEIC.",
-        "Layn.) Khi được dùng với nghĩa \"duy nhất, độc quyền\", exclusively có thể thay bằng solely"
+        "available exclusively online: chỉ có trên mạng",
+        "sell exclusively: bán độc quyền"
       ],
       "needsReview": false
     },
@@ -501,39 +793,28 @@
       "word": "description",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/diskrípfan/",
-        "us": "/diskrípfan/"
+        "uk": "/dɪˈskrɪpʃn/",
+        "us": "/dɪˈskrɪpʃn/"
       },
       "frequency": 3,
       "meaningVi": "sự miêu tả, sự mô tả",
       "exampleEn": "Call customer service for a more extensive description of any of the equipment.",
       "exampleVi": "Hãy gọi tới dịch vụ khách hàng để có thêm mô tả chi tiết về các thiết bị.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "describe",
+          "partOfSpeech": "v",
+          "meaningVi": "mô tả, miêu tả"
+        }
+      ],
+      "synonyms": [
+        "account",
+        "explanation"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "job description bản mô tả công việc mp Chúng ta thường bắt gặp cụm từ này trên quảng cáo tuyển dụng để mô tả về các yêu cầu của công việc.",
-        "a description: information : specification Hãy phân biệt các từ cùng mang nghĩa \"thông tin giải thích\" này.",
-        "r description mô tả, giới thiệu (về sản phẩm, công việc) Được dùng như danh từ đếm được khi nói về những thông information thông tin Tho ng lià ải ua ca sản phẩm có giải hích"
+        "job description: bản mô tả công việc"
       ],
-      "needsReview": false
-    },
-    {
-      "id": "description",
-      "word": "description",
-      "partOfSpeech": "v",
-      "pronunciation": {
-        "uk": "/diskrípfan/",
-        "us": "/diskrípfan/"
-      },
-      "frequency": 3,
-      "meaningVi": "",
-      "exampleEn": "descriptian",
-      "exampleVi": "",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
       "needsReview": false
     },
     {
@@ -541,55 +822,102 @@
       "word": "relatively",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/rélativli/",
-        "us": "/rélativli/"
+        "uk": "/ˈrelətɪvli/",
+        "us": "/ˈrelətɪvli/"
       },
       "frequency": 3,
-      "meaningVi": "quan, tương đối, vừa phải",
+      "meaningVi": "tương đối, vừa phải, có liên quan",
       "exampleEn": "McCoy's has a relatively lenient return policy compared to similar stores.",
       "exampleVi": "McCoy's có chính sách hoàn trả tương đối thoải mái so với các cửa hàng khác.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "relative",
+          "partOfSpeech": "adj",
+          "meaningVi": "tương đối, có liên quan"
+        },
+        {
+          "word": "relate",
+          "partOfSpeech": "v",
+          "meaningVi": "liên quan"
+        }
+      ],
+      "synonyms": [
+        "comparatively",
+        "moderately"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Chợng tương đối khoan dung, tương đối thấp Trạng từ relatively thường đi cùng các từ như lenient, low."
+        "relatively lenient/low: tương đối nới lỏng/thấp"
       ],
       "needsReview": false
     },
     {
-      "id": "spare",
+      "id": "spare-v",
       "word": "spare",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/spear/",
-        "us": "/spea/"
+        "uk": "/speə(r)/",
+        "us": "/sper/"
       },
       "frequency": 2,
-      "meaningVi": "để dành, miễn cho, không cần đến",
+      "meaningVi": "để dành, miễn cho, không tiếc",
       "exampleEn": "The shopping mall spared no expense on the 10th anniversary promotion.",
       "exampleVi": "Trung tâm mua sắm đã không tiếc chi phí cho chương trình khuyến mãi kỷ niệm 10 năm thành lập.",
       "derivatives": [],
       "synonyms": [],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "spare no expense: không tiếc chi phí"
+      ],
       "needsReview": false
     },
     {
-      "id": "spare",
+      "id": "spare-adj",
       "word": "spare",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/spear/",
-        "us": "/spea/"
+        "uk": "/speə(r)/",
+        "us": "/sper/"
       },
       "frequency": 2,
-      "meaningVi": "dự trữ, dự phòng",
+      "meaningVi": "dự trữ, dự phòng, rảnh rỗi",
       "exampleEn": "Customers may order spare parts at the service counter.",
       "exampleVi": "Khách hàng có thể đặt mua phụ tùng dự phòng tại quầy dịch vụ.",
       "derivatives": [],
+      "synonyms": [
+        "extra",
+        "reserve"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "spare parts: phụ tùng thay thế/dự phòng"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "preparation",
+      "word": "preparation",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˌprepəˈreɪʃn/",
+        "us": "/ˌprepəˈreɪʃn/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự chuẩn bị, khâu chuẩn bị",
+      "exampleEn": "Preparations are under way for the department store's grand opening.",
+      "exampleVi": "Khâu chuẩn bị cho buổi khai trương khu mua sắm đang được tiến hành.",
+      "derivatives": [
+        {
+          "word": "prepare",
+          "partOfSpeech": "v",
+          "meaningVi": "chuẩn bị"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "preparations are under way: công tác chuẩn bị đang tiến hành"
+      ],
       "needsReview": false
     },
     {
@@ -597,18 +925,49 @@
       "word": "area",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/Éaria/",
-        "us": "/éaria/"
+        "uk": "/ˈeəriə/",
+        "us": "/ˈeriə/"
       },
       "frequency": 3,
-      "meaningVi": "vực, vùng, lĩnh vực",
+      "meaningVi": "khu vực, vùng, lĩnh vực",
       "exampleEn": "There are excellent retail stores in this area.",
       "exampleVi": "Có những cửa hàng bán lẻ rất tốt trong khu vực này.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "region",
+        "zone"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "nao area : sit"
+        "Phân biệt: area (vùng/khu vực của thành phố, quốc gia) và site (bãi đất, địa điểm xây dựng/dùng cho mục đích cụ thể)"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "clearance",
+      "word": "clearance",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈklɪərəns/",
+        "us": "/ˈklɪrəns/"
+      },
+      "frequency": 3,
+      "meaningVi": "sự dọn sạch, sự xả hàng kho, sự cấp phép",
+      "exampleEn": "There is usually a clearance sale for winter clothes in March.",
+      "exampleVi": "Vào tháng Ba thường có chương trình xả hàng dọn kho quần áo mùa đông.",
+      "derivatives": [
+        {
+          "word": "clear",
+          "partOfSpeech": "v/adj",
+          "meaningVi": "dọn dẹp/rõ ràng"
+        }
+      ],
+      "synonyms": [
+        "authorization"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "clearance sale: bán xả hàng toàn bộ/dọn kho"
       ],
       "needsReview": false
     },
@@ -617,17 +976,69 @@
       "word": "alter",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/Siltar/",
-        "us": "/álta/"
+        "uk": "/ˈɔːltə(r)/",
+        "us": "/ˈɔːltər/"
       },
       "frequency": 3,
-      "meaningVi": "đổi, sửa đổi",
+      "meaningVi": "thay đổi, điều chỉnh, sửa đổi",
       "exampleEn": "The customer asked that the length of his pants be altered.",
       "exampleVi": "Vị khách đã yêu cầu điều chỉnh chiều dài chiếc quần.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "alteration",
+          "partOfSpeech": "n",
+          "meaningVi": "sự thay đổi, điều chỉnh"
+        }
+      ],
+      "synonyms": [
+        "change",
+        "modify",
+        "adjust"
+      ],
+      "antonyms": [
+        "preserve"
+      ],
       "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "apply",
+      "word": "apply",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/əˈplaɪ/",
+        "us": "/əˈplaɪ/"
+      },
+      "frequency": 2,
+      "meaningVi": "nộp đơn, ứng tuyển, áp dụng",
+      "exampleEn": "The cashier applied the discount to all the items.",
+      "exampleVi": "Nhân viên thu ngân đã áp dụng mức giảm giá cho tất cả sản phẩm.",
+      "derivatives": [
+        {
+          "word": "application",
+          "partOfSpeech": "n",
+          "meaningVi": "đơn xin, sự áp dụng"
+        },
+        {
+          "word": "applicant",
+          "partOfSpeech": "n",
+          "meaningVi": "ứng viên"
+        },
+        {
+          "word": "applicable",
+          "partOfSpeech": "adj",
+          "meaningVi": "có thể áp dụng"
+        }
+      ],
+      "synonyms": [
+        "put into effect",
+        "put to use"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "apply for: nộp đơn xin việc/vị trí",
+        "apply A to B: áp dụng A vào B"
+      ],
       "needsReview": false
     },
     {
@@ -635,55 +1046,142 @@
       "word": "mutually",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈmjuːtʃuəli/",
+        "us": "/ˈmjuːtʃuəli/"
       },
       "frequency": 2,
-      "meaningVi": "với nhau, lẫn nhau, qua lại",
+      "meaningVi": "lẫn nhau, qua lại, với nhau",
       "exampleEn": "The couple and dealer reached a mutually agreeable price for the car.",
       "exampleVi": "Cặp vợ chồng và người bán hàng đã thống nhất được một mức giá xe hợp lý với cả hai bên.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "mutual",
+          "partOfSpeech": "adj",
+          "meaningVi": "lẫn nhau, chung"
+        }
+      ],
+      "synonyms": [
+        "reciprocally"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "in phương pháp, cách thức In recent years, debit cards have become a popular method of payment.",
-        "Trong những năm gần đây, thẻ ghi nợ đã trở thành một phươn hức thanh toán phổ biến.",
-        "3 3 s 3 *"
+        "mutually agreeable/beneficial: thỏa thuận/có lợi cho cả hai bên"
       ],
       "needsReview": false
     },
     {
-      "id": "desire",
+      "id": "method",
+      "word": "method",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈmeθəd/",
+        "us": "/ˈmeθəd/"
+      },
+      "frequency": 3,
+      "meaningVi": "phương pháp, cách thức",
+      "exampleEn": "In recent years, debit cards have become a popular method of payment.",
+      "exampleVi": "Trong những năm gần đây, thẻ ghi nợ đã trở thành một phương thức thanh toán phổ biến.",
+      "derivatives": [
+        {
+          "word": "methodical",
+          "partOfSpeech": "adj",
+          "meaningVi": "có phương pháp, ngăn nắp"
+        }
+      ],
+      "synonyms": [
+        "approach",
+        "manner",
+        "way"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "method of payment: phương thức thanh toán"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "acceptable",
+      "word": "acceptable",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/əkˈseptəbl/",
+        "us": "/əkˈseptəbl/"
+      },
+      "frequency": 2,
+      "meaningVi": "có thể chấp nhận được, tạm được, ổn",
+      "exampleEn": "Jenson Fashions sells clothes that are acceptable as business attire.",
+      "exampleVi": "Jenson Fashions bán những bộ đồ phù hợp với trang phục công sở.",
+      "derivatives": [
+        {
+          "word": "accept",
+          "partOfSpeech": "v",
+          "meaningVi": "chấp nhận"
+        },
+        {
+          "word": "acceptance",
+          "partOfSpeech": "n",
+          "meaningVi": "sự chấp nhận"
+        }
+      ],
+      "synonyms": [
+        "satisfactory",
+        "fine"
+      ],
+      "antonyms": [
+        "unacceptable"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "desire-n",
       "word": "desire",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/dizáiar/",
-        "us": "/dizáiar/"
+        "uk": "/dɪˈzaɪə(r)/",
+        "us": "/dɪˈzaɪər/"
       },
       "frequency": 2,
       "meaningVi": "niềm mong muốn, khát khao",
       "exampleEn": "Effective advertising can create a desire in consumers to buy goods they do not need.",
       "exampleVi": "Quảng cáo hiệu quả có thể khiến người tiêu dùng hình thành mong muốn mua những sản phẩm mà họ không cần.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "desirable",
+          "partOfSpeech": "adj",
+          "meaningVi": "đáng khao khát"
+        },
+        {
+          "word": "undesirable",
+          "partOfSpeech": "adj",
+          "meaningVi": "không mong muốn"
+        }
+      ],
+      "synonyms": [
+        "wish",
+        "want"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
     },
     {
-      "id": "desire",
+      "id": "desire-v",
       "word": "desire",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/dizáiar/",
-        "us": "/dizáiar/"
+        "uk": "/dɪˈzaɪə(r)/",
+        "us": "/dɪˈzaɪər/"
       },
       "frequency": 2,
-      "meaningVi": "ước, mơ ước, thèm muốn",
+      "meaningVi": "ao ước, mơ ước, thèm muốn",
       "exampleEn": "Many people desire the latest electronic devices.",
       "exampleVi": "Nhiều người ao ước được sở hữu những thiết bị điện tử mới nhất.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "wish",
+        "crave"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -693,17 +1191,55 @@
       "word": "redeemable",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/ridírmabl/",
-        "us": "/ridírmabl/"
+        "uk": "/rɪˈdiːməbl/",
+        "us": "/rɪˈdiːməbl/"
       },
       "frequency": 2,
-      "meaningVi": "thể cứu được, có thể quy đổi, có thể chuộc lại",
+      "meaningVi": "có thể quy đổi, có thể chuộc lại",
       "exampleEn": "Store gift vouchers are redeemable at any branch.",
-      "exampleVi": "Phiếu mua hàng của cửa hàng có thể quy dổi được tại bất cứ chi nhánh nào.",
-      "derivatives": [],
+      "exampleVi": "Phiếu mua hàng của cửa hàng có thể quy đổi được tại bất cứ chi nhánh nào.",
+      "derivatives": [
+        {
+          "word": "redeem",
+          "partOfSpeech": "v",
+          "meaningVi": "chuộc lại, quy đổi"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "redeemable at: có thể quy đổi/sử dụng tại"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "officially",
+      "word": "officially",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/əˈfɪʃəli/",
+        "us": "/əˈfɪʃəli/"
+      },
+      "frequency": 2,
+      "meaningVi": "chính thức, trịnh trọng",
+      "exampleEn": "The online store will officially open next month.",
+      "exampleVi": "Cửa hàng trực tuyến sẽ chính thức mở vào tháng tới.",
+      "derivatives": [
+        {
+          "word": "official",
+          "partOfSpeech": "adj/n",
+          "meaningVi": "chính thức/quan chức"
+        }
+      ],
+      "synonyms": [
+        "formally"
+      ],
+      "antonyms": [
+        "unofficially"
+      ],
+      "toeicNotes": [
+        "officially open: chính thức mở cửa/khai trương"
+      ],
       "needsReview": false
     },
     {
@@ -711,14 +1247,25 @@
       "word": "consumption",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/kensimpfan/",
-        "us": "/kensimpfan/"
+        "uk": "/kənˈsʌmpʃn/",
+        "us": "/kənˈsʌmpʃn/"
       },
       "frequency": 2,
-      "meaningVi": "sự tiêu thụ, sự tiêu dùng iệc tiêu dùng các sản phẩm cao cấp như rạp chiếu phim tại g",
-      "exampleEn": "",
-      "exampleVi": "",
-      "derivatives": [],
+      "meaningVi": "sự tiêu thụ, sự tiêu dùng",
+      "exampleEn": "Consumption of high-end products like home theaters has increased recently.",
+      "exampleVi": "Việc tiêu dùng các sản phẩm cao cấp như rạp chiếu phim tại gia ngày càng tăng trong thời gian gần đây.",
+      "derivatives": [
+        {
+          "word": "consume",
+          "partOfSpeech": "v",
+          "meaningVi": "tiêu thụ"
+        },
+        {
+          "word": "consumer",
+          "partOfSpeech": "n",
+          "meaningVi": "người tiêu dùng"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [],
@@ -729,17 +1276,32 @@
       "word": "qualify",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈkwɒlɪfaɪ/",
+        "us": "/ˈkwɑːlɪfaɪ/"
       },
       "frequency": 2,
-      "meaningVi": "dủ điều kiện, đủ khả năng cards. Để đủ điều kiện làm thẻ tín dụng, khách hàng cần có thu nhập ổn định. in Hãy nhớ răng",
-      "exampleEn": "quality đi cùng giới",
-      "exampleVi": "từ for.",
-      "derivatives": [],
+      "meaningVi": "đủ điều kiện, đủ khả năng, cấp chứng chỉ",
+      "exampleEn": "Clients need a regular income to qualify for credit cards.",
+      "exampleVi": "Để đủ điều kiện làm thẻ tín dụng, khách hàng cần có thu nhập ổn định.",
+      "derivatives": [
+        {
+          "word": "qualification",
+          "partOfSpeech": "n",
+          "meaningVi": "bằng cấp, năng lực"
+        },
+        {
+          "word": "qualified",
+          "partOfSpeech": "adj",
+          "meaningVi": "đủ trình độ, đủ điều kiện"
+        }
+      ],
       "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
+      "antonyms": [
+        "disqualify"
+      ],
+      "toeicNotes": [
+        "qualify for: đủ điều kiện cho/làm cái gì"
+      ],
       "needsReview": false
     },
     {
@@ -747,15 +1309,18 @@
       "word": "fabric",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/fabrik/",
-        "us": "/fabrik/"
+        "uk": "/ˈfæbrɪk/",
+        "us": "/ˈfæbrɪk/"
       },
       "frequency": 2,
-      "meaningVi": "vải",
-      "exampleEn": "",
+      "meaningVi": "vải, chất liệu vải",
+      "exampleEn": "The manufacturer's garments are made of natural fabric only.",
       "exampleVi": "Các sản phẩm may mặc của nhà sản xuất này đều chỉ được làm từ vải tự nhiên.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "cloth",
+        "material"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -765,16 +1330,60 @@
       "word": "valid",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/kwálafai/",
-        "us": "/válid/"
+        "uk": "/ˈvælɪd/",
+        "us": "/ˈvælɪd/"
       },
-      "frequency": 1,
-      "meaningVi": "hiệu lực, hợp lý, hợp lệ Cần phải xuất trình hóa đơn hợp lệ. Trong phiên chợ tuần, đường tràn ngập người",
-      "exampleEn": "bán hàng rong.",
+      "frequency": 2,
+      "meaningVi": "có hiệu lực, hợp lệ",
+      "exampleEn": "A valid receipt must be presented.",
+      "exampleVi": "Cần phải xuất trình hóa đơn hợp lệ.",
+      "derivatives": [
+        {
+          "word": "validate",
+          "partOfSpeech": "v",
+          "meaningVi": "xác nhận hiệu lực"
+        },
+        {
+          "word": "validity",
+          "partOfSpeech": "n",
+          "meaningVi": "giá trị pháp lý, hiệu lực"
+        }
+      ],
+      "synonyms": [
+        "effective",
+        "good",
+        "legitimate"
+      ],
+      "antonyms": [
+        "invalid"
+      ],
+      "toeicNotes": [
+        "be valid for + time: có hiệu lực trong khoảng thời gian",
+        "valid receipt: hóa đơn hợp lệ"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "vendor",
+      "word": "vendor",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈvendə(r)/",
+        "us": "/ˈvendər/"
+      },
+      "frequency": 2,
+      "meaningVi": "người bán hàng, đại lý cung cấp, máy bán hàng",
+      "exampleEn": "Software vendors have been instructed to sell the product at a specific retail price.",
       "exampleVi": "Các nhà cung cấp phần mềm đã được hướng dẫn bán sản phẩm với giá bán lẻ cụ thể.",
       "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "seller",
+        "supplier"
+      ],
+      "antonyms": [
+        "buyer",
+        "customer"
+      ],
       "toeicNotes": [],
       "needsReview": false
     }
@@ -789,7 +1398,7 @@
       },
       {
         "word": "purchase",
-        "meaningVi": "việc mua hàng"
+        "meaningVi": "mua"
       },
       {
         "word": "price",
@@ -801,7 +1410,7 @@
       },
       {
         "word": "receipt",
-        "meaningVi": "refunds. Mọi khoản hoàn lại đều cần phải có biên lai gốc. cum original/valid +"
+        "meaningVi": "biên lai"
       },
       {
         "word": "refund",
@@ -813,11 +1422,11 @@
       },
       {
         "word": "qualify",
-        "meaningVi": "dủ điều kiện"
+        "meaningVi": "đủ điều kiện"
       },
       {
         "word": "warranty",
-        "meaningVi": "về mặt chuyên môn"
+        "meaningVi": "giấy bảo hành"
       },
       {
         "word": "choice",
@@ -831,42 +1440,52 @@
       "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
       "questions": [
         {
+          "q": "The customer ___d a laptop computer.",
+          "a": "purchase",
+          "options": [
+            "instruction",
+            "expert",
+            "auction",
+            "purchase"
+          ]
+        },
+        {
           "q": "For every ___ of $100 or more, customers will receive a raffle ticket.",
           "a": "purchase",
           "options": [
-            "consumption",
+            "exactly",
+            "benefit",
             "purchase",
-            "mutually",
-            "relatively"
+            "carefully"
           ]
         },
         {
           "q": "The shop allows buyers to pay for furniture in monthly ___s.",
           "a": "installment",
           "options": [
-            "instruction",
-            "warranty",
-            "fabric",
-            "installment"
+            "spare",
+            "installment",
+            "valid",
+            "relatively"
           ]
         },
         {
           "q": "Toyama launched an ___ mid-range sedan.",
           "a": "affordable",
           "options": [
-            "relatively",
-            "experg",
-            "qualify",
-            "affordable"
+            "acceptable",
+            "installment",
+            "affordable",
+            "valid"
           ]
         },
         {
           "q": "The sales representatives help customers decide ___ what style fits them best.",
           "a": "exactly",
           "options": [
-            "experg",
-            "fabric",
-            "area",
+            "qualify",
+            "affordable",
+            "expert",
             "exactly"
           ]
         },
@@ -874,20 +1493,30 @@
           "q": "A number of antique pieces will be sold at the ___.",
           "a": "auction",
           "options": [
-            "charge",
-            "desire",
+            "vendor",
+            "auction",
+            "relatively",
+            "expert"
+          ]
+        },
+        {
+          "q": "The new downtown restaurant serves ___ Spanish cuisine.",
+          "a": "authentic",
+          "options": [
             "offer",
-            "auction"
+            "spare",
+            "authentic",
+            "delivery"
           ]
         },
         {
           "q": "The price includes shipping and handling ___s.",
           "a": "charge",
           "options": [
-            "charge",
-            "authentie",
-            "desire",
-            "exactly"
+            "clearance",
+            "offer",
+            "valid",
+            "charge"
           ]
         },
         {
@@ -895,39 +1524,19 @@
           "a": "charge",
           "options": [
             "exactly",
+            "benefit",
             "charge",
-            "mutually",
-            "benefit"
+            "expert"
           ]
         },
         {
           "q": "The prices listed in the catalog are effective until further ___.",
           "a": "notice",
           "options": [
-            "auction",
-            "consumption",
             "notice",
-            "experg"
-          ]
-        },
-        {
-          "q": "Bill is the most ___ salesperson in the store.",
-          "a": "experienced",
-          "options": [
-            "offer",
-            "auction",
-            "spare",
-            "experienced"
-          ]
-        },
-        {
-          "q": "The receipt gives ___s for returning or exchanging items.",
-          "a": "instruction",
-          "options": [
-            "instruction",
-            "warranty",
-            "qualify",
-            "offer"
+            "expert",
+            "price",
+            "valid"
           ]
         }
       ]

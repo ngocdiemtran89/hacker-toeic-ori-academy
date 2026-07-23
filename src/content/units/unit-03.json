@@ -1148,49 +1148,49 @@
           "q": "All our employees are ___ to using the new design software.",
           "a": "accustomed",
           "options": [
-            "check",
+            "oversee",
+            "entire",
             "accustomed",
-            "remind",
-            "perform"
+            "release"
           ]
         },
         {
           "q": "Lee heads a multinational telecommunications ___ based in Virginia.",
           "a": "corporation",
           "options": [
-            "corporation",
+            "check",
             "delegate",
-            "division",
-            "submit"
+            "corporation",
+            "convey"
           ]
         },
         {
           "q": "Although Ms. Jenkins is a ___ supervisor, she has a reputation for being fair.",
           "a": "demanding",
           "options": [
-            "instruct",
-            "demanding",
-            "acquaint",
-            "efficiently"
+            "sample",
+            "convey",
+            "involved",
+            "demanding"
           ]
         },
         {
           "q": "Regular social activities can improve cooperation among ___s.",
           "a": "colleague",
           "options": [
-            "delegate",
             "colleague",
-            "supervision",
-            "check"
+            "perform",
+            "oversee",
+            "acquaint"
           ]
         },
         {
           "q": "The technician will transfer to the automobile ___ after training.",
           "a": "division",
           "options": [
-            "headquarters",
-            "acquaint",
-            "entire",
+            "corporation",
+            "concentrate",
+            "extension",
             "division"
           ]
         },
@@ -1198,50 +1198,50 @@
           "q": "Factory tours are available upon ___.",
           "a": "request",
           "options": [
-            "file",
             "request",
             "delegate",
-            "deserve"
+            "demanding",
+            "convey"
           ]
         },
         {
           "q": "Mike ___ed a copy of the contract from the sales director.",
           "a": "request",
           "options": [
-            "reluctantly",
-            "request",
+            "notify",
+            "manage",
             "sample",
-            "directly"
+            "request"
           ]
         },
         {
           "q": "The software helps employees work more ___.",
           "a": "efficiently",
           "options": [
-            "absolutely",
-            "delegate",
-            "release",
-            "efficiently"
+            "sample",
+            "efficiently",
+            "deadline",
+            "concentrate"
           ]
         },
         {
           "q": "The boss decided Colleen could ___ the new store.",
           "a": "manage",
           "options": [
-            "sample",
-            "request",
             "manage",
-            "efficiently"
+            "acquaint",
+            "deadline",
+            "monitor"
           ]
         },
         {
           "q": "Applicants should ___ a résumé to the personnel manager.",
           "a": "submit",
           "options": [
-            "submit",
-            "assignment",
-            "release",
-            "absolutely"
+            "directly",
+            "efficiently",
+            "delegate",
+            "submit"
           ]
         }
       ]

@@ -712,10 +712,10 @@
           "q": "manh ___ items are wrapped in protective packaging.",
           "a": "fragile",
           "options": [
-            "fragile",
-            "particularly",
+            "content",
             "storage",
-            "article"
+            "fragile",
+            "package"
           ]
         },
         {
@@ -723,48 +723,48 @@
           "a": "perishable",
           "options": [
             "content",
-            "careful",
-            "carton",
-            "perishable"
+            "handle",
+            "perishable",
+            "exclusion"
           ]
         },
         {
           "q": "All packages are ___ed by the next morning.",
           "a": "deliver",
           "options": [
-            "adequately",
-            "deliver",
-            "article",
-            "acknowledge"
+            "enclose",
+            "fragile",
+            "package",
+            "deliver"
           ]
         },
         {
           "q": "The receptionist called to ___ the message was delivered.",
           "a": "ensure",
           "options": [
+            "carry",
+            "react",
             "ensure",
-            "caution",
-            "recipient",
-            "affix"
+            "content"
           ]
         },
         {
           "q": "The customer will send the package by ___.",
           "a": "courier",
           "options": [
-            "convenience",
-            "article",
+            "address",
             "courier",
-            "shipment"
+            "convenience",
+            "fragile"
           ]
         },
         {
           "q": "The ___ of goods was shipped by sea.",
           "a": "carton",
           "options": [
-            "caution",
-            "package",
             "carton",
+            "affix",
+            "handle",
             "separate"
           ]
         },
@@ -772,9 +772,9 @@
           "q": "The ___ is stored in our database.",
           "a": "address",
           "options": [
-            "particularly",
-            "envelope",
-            "perishable",
+            "enclose",
+            "deliver",
+            "adequately",
             "address"
           ]
         },
@@ -782,30 +782,30 @@
           "q": "Freightline specializes in the ___ of food products.",
           "a": "shipment",
           "options": [
-            "react",
-            "shipment",
-            "content",
-            "deliver"
+            "separate",
+            "exclusion",
+            "handle",
+            "shipment"
           ]
         },
         {
           "q": "The new trade agreement will hurt local business, ___ farmers.",
           "a": "particularly",
           "options": [
-            "careful",
+            "formerly",
+            "acknowledge",
             "particularly",
-            "envelope",
-            "shipment"
+            "careful"
           ]
         },
         {
           "q": "The workers ensure that glassware is ___ wrapped.",
           "a": "adequately",
           "options": [
-            "adequately",
-            "separate",
-            "storage",
-            "address"
+            "ensure",
+            "handle",
+            "formerly",
+            "adequately"
           ]
         }
       ]

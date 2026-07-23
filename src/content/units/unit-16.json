@@ -828,9 +828,9 @@
           "q": "The popular video game is ___ out of stock in stores, but may be bought online.",
           "a": "temporarily",
           "options": [
-            "measure",
-            "encompass",
-            "discount",
+            "dealer",
+            "inventory",
+            "subject",
             "temporarily"
           ]
         },
@@ -838,20 +838,20 @@
           "q": "Imported vehicles are sold only by licensed car ___s.",
           "a": "dealer",
           "options": [
-            "move",
-            "cOst",
-            "inventory",
-            "dealer"
+            "acclaim",
+            "dealer",
+            "s finalize",
+            "stock"
           ]
         },
         {
           "q": "Many factories offer a modest discount for ___- orders.",
           "a": "bulk",
           "options": [
-            "affordability",
-            "unable",
-            "bulk",
-            "stock"
+            "market",
+            "short",
+            "selection",
+            "bulk"
           ]
         },
         {
@@ -859,28 +859,28 @@
           "a": "inventory",
           "options": [
             "inventory",
-            "acquisition",
-            "stock",
-            "affordability"
+            "supply",
+            "discount",
+            "distribute"
           ]
         },
         {
           "q": "The plant is running ___ on its supply of raw materials.",
           "a": "short",
           "options": [
-            "inventory",
-            "short",
+            "affordability",
+            "represent",
             "acquisition",
-            "contact"
+            "short"
           ]
         },
         {
           "q": "Our website boasts a wide ___ of gift items.",
           "a": "selection",
           "options": [
-            "represent",
-            "bulk",
             "selection",
+            "subject",
+            "provide",
             "short"
           ]
         },
@@ -888,40 +888,40 @@
           "q": "Some ___ products may be subject to import taxes.",
           "a": "commercial",
           "options": [
-            "dealer",
-            "short",
-            "invoice",
-            "commercial"
+            "stock",
+            "commercial",
+            "clientele",
+            "supply"
           ]
         },
         {
           "q": "The secretary ___ed supplies from the main office.",
           "a": "order",
           "options": [
-            "assure",
-            "order",
+            "quote",
             "cOst",
-            "inventory"
+            "order",
+            "bulk"
           ]
         },
         {
           "q": "We ___ customers with detailed product lists by e-mail.",
           "a": "provide",
           "options": [
-            "provide",
-            "dealer",
-            "invoice",
-            "commercial"
+            "bulk",
+            "move",
+            "order",
+            "provide"
           ]
         },
         {
           "q": "___ the supplier to request express delivery.",
           "a": "contact",
           "options": [
-            "bulk",
-            "invoice",
+            "supply",
+            "represent",
             "contact",
-            "cOst"
+            "affordability"
           ]
         }
       ]

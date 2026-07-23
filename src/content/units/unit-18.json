@@ -221,39 +221,39 @@
           "q": "The hotel ___d the guest for the erroneous charge.",
           "a": "compensate",
           "options": [
+            "compensate",
+            "flavor",
             "available",
-            "reception",
-            "chef",
-            "compensate"
+            "chef"
           ]
         },
         {
           "q": "The restaurant's head ___ is famous across Europe.",
           "a": "chef",
           "options": [
-            "compensate",
-            "compensate",
-            "reception",
-            "chef"
+            "elegant",
+            "chef",
+            "flavor",
+            "compensate"
           ]
         },
         {
           "q": "Food may be kept for longer periods by storing it in airtight ___s.",
           "a": "container",
           "options": [
+            "reception",
             "container",
             "flavor",
-            "elegant",
-            "available"
+            "chef"
           ]
         },
         {
           "q": "The recently renovated lobby boasts ___. decor.",
           "a": "elegant",
           "options": [
-            "chef",
             "elegant",
-            "compensate",
+            "flavor",
+            "chef",
             "container"
           ]
         },
@@ -261,29 +261,29 @@
           "q": "The shop sells ice cream in a variety of ___s.",
           "a": "flavor",
           "options": [
-            "elegant",
-            "flavor",
             "available",
-            "chef"
+            "compensate",
+            "flavor",
+            "reception"
           ]
         },
         {
           "q": "The sauna is ___ to all registered guests.",
           "a": "available",
           "options": [
-            "compensate",
+            "available",
             "chef",
-            "flavor",
-            "available"
+            "reception",
+            "container"
           ]
         },
         {
           "q": "The college held a welcome ___ for the guest speaker.",
           "a": "reception",
           "options": [
-            "container",
-            "compensate",
+            "elegant",
             "reception",
+            "compensate",
             "chef"
           ]
         }

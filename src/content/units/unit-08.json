@@ -1239,100 +1239,100 @@
           "q": "Sales have been propelled by the new ___.",
           "a": "advertisement",
           "options": [
-            "means",
-            "indicate",
-            "subscribe",
-            "advertisement"
+            "experience",
+            "advertisement",
+            "influence",
+            "absence"
           ]
         },
         {
           "q": "Customers showed only ___ interest in the new tablet computer.",
           "a": "marginal",
           "options": [
-            "marginal",
-            "resolve",
-            "aim",
-            "forward"
+            "absence",
+            "adopt",
+            "prefer",
+            "marginal"
           ]
         },
         {
           "q": "Telephone representatives should make the needs of ___s their priority.",
           "a": "customer",
           "options": [
-            "means",
+            "subscribe",
+            "influence",
             "customer",
-            "aim",
-            "advise"
+            "effort"
           ]
         },
         {
           "q": "Demand for housing directly ___s the cost of homes.",
           "a": "influence",
           "options": [
-            "forward",
             "effort",
-            "influence",
-            "experience"
+            "largely",
+            "marginal",
+            "influence"
           ]
         },
         {
           "q": "Product reviews have a profound ___ on sales.",
           "a": "influence",
           "options": [
-            "influence",
-            "customer",
-            "mastermind",
-            "effort"
+            "introduce",
+            "cover",
+            "indicate",
+            "influence"
           ]
         },
         {
           "q": "The brand logo should be ___ recognizable.",
           "a": "instantly",
           "options": [
-            "intensify",
-            "incentive",
-            "attract",
-            "instantly"
+            "subscribe",
+            "instantly",
+            "introduce",
+            "advertisement"
           ]
         },
         {
           "q": "Mr. Beaumont came up with a ___ idea.",
           "a": "creative",
           "options": [
-            "influence",
-            "means",
+            "experience",
             "creative",
-            "adopt"
+            "contemporary",
+            "resolve"
           ]
         },
         {
           "q": "The best sales representatives ___ seek out potential clients.",
           "a": "aggressively",
           "options": [
-            "aggressively",
-            "aim",
-            "adopt",
-            "forward"
+            "need",
+            "experience",
+            "experience",
+            "aggressively"
           ]
         },
         {
           "q": "Sport Apparel developed athletic gear ___ed at teenagers.",
           "a": "aim",
           "options": [
-            "steadily",
-            "adopt",
-            "aim",
-            "attract"
+            "disregard",
+            "experience",
+            "majority",
+            "aim"
           ]
         },
         {
           "q": "The division head will outline the ___s of the marketing strategy.",
           "a": "aim",
           "options": [
-            "aim",
-            "influence",
-            "absence",
-            "steadily"
+            "strategy",
+            "attract",
+            "steadily",
+            "aim"
           ]
         }
       ]

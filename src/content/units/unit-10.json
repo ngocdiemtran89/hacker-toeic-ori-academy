@@ -1443,9 +1443,9 @@
           "q": "The customer ___d a laptop computer.",
           "a": "purchase",
           "options": [
-            "instruction",
-            "expert",
-            "auction",
+            "price",
+            "benefit",
+            "relatively",
             "purchase"
           ]
         },
@@ -1453,49 +1453,49 @@
           "q": "For every ___ of $100 or more, customers will receive a raffle ticket.",
           "a": "purchase",
           "options": [
-            "exactly",
-            "benefit",
+            "affordable",
             "purchase",
-            "carefully"
+            "relatively",
+            "auction"
           ]
         },
         {
           "q": "The shop allows buyers to pay for furniture in monthly ___s.",
           "a": "installment",
           "options": [
-            "spare",
+            "refund",
             "installment",
-            "valid",
-            "relatively"
+            "mutually",
+            "redeemable"
           ]
         },
         {
           "q": "Toyama launched an ___ mid-range sedan.",
           "a": "affordable",
           "options": [
-            "acceptable",
-            "installment",
-            "affordable",
-            "valid"
+            "purchase",
+            "price",
+            "desire",
+            "affordable"
           ]
         },
         {
           "q": "The sales representatives help customers decide ___ what style fits them best.",
           "a": "exactly",
           "options": [
-            "qualify",
-            "affordable",
-            "expert",
-            "exactly"
+            "area",
+            "exactly",
+            "officially",
+            "auction"
           ]
         },
         {
           "q": "A number of antique pieces will be sold at the ___.",
           "a": "auction",
           "options": [
-            "vendor",
+            "warranty",
+            "desire",
             "auction",
-            "relatively",
             "expert"
           ]
         },
@@ -1503,19 +1503,19 @@
           "q": "The new downtown restaurant serves ___ Spanish cuisine.",
           "a": "authentic",
           "options": [
-            "offer",
-            "spare",
-            "authentic",
-            "delivery"
+            "auction",
+            "purchase",
+            "carefully",
+            "authentic"
           ]
         },
         {
           "q": "The price includes shipping and handling ___s.",
           "a": "charge",
           "options": [
-            "clearance",
-            "offer",
-            "valid",
+            "notice",
+            "desire",
+            "price",
             "charge"
           ]
         },
@@ -1523,20 +1523,20 @@
           "q": "The phone company ___s high fees for installations.",
           "a": "charge",
           "options": [
-            "exactly",
-            "benefit",
             "charge",
-            "expert"
+            "redeemable",
+            "delivery",
+            "description"
           ]
         },
         {
           "q": "The prices listed in the catalog are effective until further ___.",
           "a": "notice",
           "options": [
+            "method",
+            "officially",
             "notice",
-            "expert",
-            "price",
-            "valid"
+            "authentic"
           ]
         }
       ]

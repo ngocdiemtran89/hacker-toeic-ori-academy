@@ -1139,9 +1139,9 @@
           "q": "A ___ surveillance system was installed.",
           "a": "sophisticated",
           "options": [
-            "matter",
-            "major",
-            "aware",
+            "implement",
+            "announcement",
+            "divide",
             "sophisticated"
           ]
         },
@@ -1149,30 +1149,30 @@
           "q": "The report was completed in a ___ manner.",
           "a": "timely",
           "options": [
-            "permanently",
-            "expertise",
-            "outstanding",
-            "timely"
+            "implement",
+            "timely",
+            "fulfill",
+            "compile"
           ]
         },
         {
           "q": "We cannot ___ expect to have the presentation ready on time.",
           "a": "realistically",
           "options": [
-            "sophisticated",
+            "implement",
+            "explain",
             "realistically",
-            "matter",
-            "department"
+            "announcement"
           ]
         },
         {
           "q": "It is company policy to respond ___ to all inquiries.",
           "a": "promptly",
           "options": [
-            "realistically",
-            "inform",
             "promptly",
-            "apparently"
+            "provider",
+            "feedback",
+            "overview"
           ]
         },
         {
@@ -1180,8 +1180,8 @@
           "a": "accessible",
           "options": [
             "explain",
-            "fulfill",
-            "overview",
+            "inform",
+            "extended",
             "accessible"
           ]
         },
@@ -1189,50 +1189,50 @@
           "q": "Board members voted to ___ an innovative marketing campaign.",
           "a": "implement",
           "options": [
+            "compliance",
             "timely",
             "implement",
-            "demonstrate",
-            "permanently"
+            "aware"
           ]
         },
         {
           "q": "___ from colleagues can be of great assistance.",
           "a": "feedback",
           "options": [
-            "announcement",
+            "provider",
+            "timely",
             "feedback",
-            "face",
-            "provider"
+            "accessible"
           ]
         },
         {
           "q": "The director presented an ___ business plan.",
           "a": "outstanding",
           "options": [
-            "timely",
-            "promptly",
-            "contain",
-            "outstanding"
+            "feedback",
+            "outstanding",
+            "major",
+            "implement"
           ]
         },
         {
           "q": "Please ___ the director that the meeting has been canceled.",
           "a": "inform",
           "options": [
-            "extended",
-            "major",
+            "accessible",
+            "compliance",
             "inform",
-            "promptly"
+            "apparently"
           ]
         },
         {
           "q": "The CEO ___ed to the board that the company was in trouble.",
           "a": "explain",
           "options": [
-            "extended",
-            "provider",
+            "advisable",
+            "announcement",
             "explain",
-            "inform"
+            "remainder"
           ]
         }
       ]

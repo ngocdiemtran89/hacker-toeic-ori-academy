@@ -8136,6 +8136,884 @@ for day_num, info in DAY_INFO.items():
             }
         ]
 
+    if day_num == 11:
+        words_data = [
+            {
+                "id": "research-n",
+                "word": "research",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/rɪˈsɜːtʃ/", "us": "/ˈriːsɜːrtʃ/"},
+                "frequency": 3,
+                "meaningVi": "sự nghiên cứu, cuộc điều tra",
+                "exampleEn": "The company started a research program into developing GPS technology.",
+                "exampleVi": "Công ty đã bắt đầu một chương trình nghiên cứu về việc phát triển hệ thống định vị toàn cầu (GPS).",
+                "derivatives": [
+                    {"word": "researcher", "partOfSpeech": "n", "meaningVi": "nhà nghiên cứu"}
+                ],
+                "synonyms": ["study", "investigation"],
+                "antonyms": [],
+                "toeicNotes": ["research on: nghiên cứu về"],
+                "needsReview": False
+            },
+            {
+                "id": "research-v",
+                "word": "research",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/rɪˈsɜːtʃ/", "us": "/ˈriːsɜːrtʃ/"},
+                "frequency": 3,
+                "meaningVi": "nghiên cứu, điều tra",
+                "exampleEn": "Scientists are researching new energy sources.",
+                "exampleVi": "Các nhà khoa học đang nghiên cứu các nguồn năng lượng mới.",
+                "derivatives": [],
+                "synonyms": ["investigate"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "devise",
+                "word": "devise",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/dɪˈvaɪz/", "us": "/dɪˈvaɪz/"},
+                "frequency": 2,
+                "meaningVi": "phát minh, chế tạo, nghĩ ra",
+                "exampleEn": "The firm devised a more efficient network system.",
+                "exampleVi": "Công ty đã tạo ra một hệ thống mạng lưới hiệu quả hơn.",
+                "derivatives": [
+                    {"word": "device", "partOfSpeech": "n", "meaningVi": "thiết bị"}
+                ],
+                "synonyms": ["contrive", "invent", "create"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "revolutionary",
+                "word": "revolutionary",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˌrevəˈluːʃənəri/", "us": "/ˌrevəˈluːʃəneri/"},
+                "frequency": 2,
+                "meaningVi": "mang tính cách mạng, cải cách",
+                "exampleEn": "The car's revolutionary new engine surpasses those of the competition.",
+                "exampleVi": "Động cơ mới mang tính cách mạng của chiếc xe này vượt trội hơn các loại xe khác trong cuộc đua.",
+                "derivatives": [
+                    {"word": "revolution", "partOfSpeech": "n", "meaningVi": "cuộc cách mạng"}
+                ],
+                "synonyms": ["groundbreaking"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "innovative",
+                "word": "innovative",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈɪnəveɪtɪv/", "us": "/ˈɪnəveɪtɪv/"},
+                "frequency": 2,
+                "meaningVi": "tân tiến, đổi mới, sáng tạo",
+                "exampleEn": "Simpson & Associates provides clients with innovative solutions to their needs.",
+                "exampleVi": "Simpsons & Associates cung cấp cho khách hàng những giải pháp tân tiến nhất phù hợp với nhu cầu của họ.",
+                "derivatives": [
+                    {"word": "innovate", "partOfSpeech": "v", "meaningVi": "đổi mới, cách tân"},
+                    {"word": "innovation", "partOfSpeech": "n", "meaningVi": "sự đổi mới, sự cách tân"}
+                ],
+                "synonyms": ["inventive", "cutting-edge"],
+                "antonyms": ["unimaginative"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "feature-n",
+                "word": "feature",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈfiːtʃə(r)/", "us": "/ˈfiːtʃər/"},
+                "frequency": 3,
+                "meaningVi": "đặc điểm, tính năng",
+                "exampleEn": "The latest dryer has several new features.",
+                "exampleVi": "Chiếc máy sấy mới nhất có một vài tính năng mới.",
+                "derivatives": [],
+                "synonyms": ["characteristic", "attribute"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "feature-v",
+                "word": "feature",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˈfiːtʃə(r)/", "us": "/ˈfiːtʃər/"},
+                "frequency": 3,
+                "meaningVi": "có tính năng, có đặc trưng, có mặt (sản phẩm)",
+                "exampleEn": "This refrigerator model features high energy efficiency.",
+                "exampleVi": "Mẫu tủ lạnh này có tính năng cực kỳ tiết kiệm năng lượng.",
+                "derivatives": [],
+                "synonyms": ["highlight", "include"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "inspiration",
+                "word": "inspiration",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˌɪnspəˈreɪʃn/", "us": "/ˌɪnspəˈreɪʃn/"},
+                "frequency": 2,
+                "meaningVi": "cảm hứng, nguồn cảm hứng",
+                "exampleEn": "The new fashion designer draws her inspiration from traditional attire.",
+                "exampleVi": "Nhà thiết kế thời trang mới đã lấy cảm hứng từ các trang phục truyền thống.",
+                "derivatives": [
+                    {"word": "inspire", "partOfSpeech": "v", "meaningVi": "truyền cảm hứng"},
+                    {"word": "inspirational", "partOfSpeech": "adj", "meaningVi": "gây cảm hứng"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["draw inspiration from: lấy cảm hứng từ"],
+                "needsReview": False
+            },
+            {
+                "id": "sufficiently",
+                "word": "sufficiently",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/səˈfɪʃntli/", "us": "/səˈfɪʃntli/"},
+                "frequency": 2,
+                "meaningVi": "đủ, đầy đủ, thỏa đáng",
+                "exampleEn": "The containers are sufficiently strong to resist breakage.",
+                "exampleVi": "Các thùng chứa đủ chắc chắn để không bị vỡ.",
+                "derivatives": [
+                    {"word": "sufficient", "partOfSpeech": "adj", "meaningVi": "đầy đủ"},
+                    {"word": "sufficiency", "partOfSpeech": "n", "meaningVi": "sự đầy đủ"}
+                ],
+                "synonyms": ["adequately", "enough"],
+                "antonyms": ["insufficiently"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "patent-n",
+                "word": "patent",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈpætnt/", "us": "/ˈpætnt/"},
+                "frequency": 2,
+                "meaningVi": "bằng sáng chế, giấy đăng ký sáng chế",
+                "exampleEn": "The lawyers submitted the paperwork for a patent application.",
+                "exampleVi": "Các luật sư đã trình giấy tờ để xin cấp bằng sáng chế.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["patent application: đơn xin cấp bằng sáng chế"],
+                "needsReview": False
+            },
+            {
+                "id": "patent-v",
+                "word": "patent",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˈpætnt/", "us": "/ˈpætnt/"},
+                "frequency": 2,
+                "meaningVi": "lấy bằng sáng chế, cấp bằng sáng chế",
+                "exampleEn": "The company patented the new solar panel technology.",
+                "exampleVi": "Công ty đã lấy bằng sáng chế cho công nghệ pin năng lượng mặt trời mới.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "envision",
+                "word": "envision",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ɪnˈvɪʒn/", "us": "/ɪnˈvɪʒn/"},
+                "frequency": 2,
+                "meaningVi": "hình dung, mường tượng",
+                "exampleEn": "Management envisions its latest product being sold in stores across the country.",
+                "exampleVi": "Ban lãnh đạo hình dung rằng sản phẩm mới nhất của họ sẽ được bày bán ở các cửa hàng trên cả nước.",
+                "derivatives": [],
+                "synonyms": ["imagine", "picture", "foresee"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "extend",
+                "word": "extend",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ɪkˈstend/", "us": "/ɪkˈstend/"},
+                "frequency": 3,
+                "meaningVi": "mở rộng, kéo dài, gia hạn, giơ ra, bày tỏ",
+                "exampleEn": "The CEO extended his thanks to the research team for their great work.",
+                "exampleVi": "Vị giám đốc điều hành bày tỏ sự biết ơn đối với nhóm nghiên cứu vì đã làm việc rất tốt.",
+                "derivatives": [
+                    {"word": "extent", "partOfSpeech": "n", "meaningVi": "quy mô, phạm vi"},
+                    {"word": "extension", "partOfSpeech": "n", "meaningVi": "sự gia hạn, mở rộng"},
+                    {"word": "extensive", "partOfSpeech": "adj", "meaningVi": "rộng lớn"}
+                ],
+                "synonyms": ["lengthen", "offer", "expand"],
+                "antonyms": ["shorten"],
+                "toeicNotes": ["extend a deadline: gia hạn thời hạn", "extend thanks to: gửi lời cảm ơn tới"],
+                "needsReview": False
+            },
+            {
+                "id": "following",
+                "word": "following",
+                "partOfSpeech": "prep",
+                "pronunciation": {"uk": "/ˈfɒləʊɪŋ/", "us": "/ˈfɑːləʊɪŋ/"},
+                "frequency": 3,
+                "meaningVi": "sau, tiếp theo",
+                "exampleEn": "The software was launched following months of research.",
+                "exampleVi": "Phần mềm này đã được ra mắt sau hàng tháng trời nghiên cứu.",
+                "derivatives": [],
+                "synonyms": ["after"],
+                "antonyms": ["preceding"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "intend",
+                "word": "intend",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ɪnˈtend/", "us": "/ɪnˈtend/"},
+                "frequency": 3,
+                "meaningVi": "dự định, có ý định",
+                "exampleEn": "Beauford Incorporated intends to release its new appliances this fall.",
+                "exampleVi": "Tập đoàn Beauford dự định ra mắt thiết bị gia dụng mới vào mùa thu này.",
+                "derivatives": [
+                    {"word": "intention", "partOfSpeech": "n", "meaningVi": "mong muốn, ý định"},
+                    {"word": "intent", "partOfSpeech": "n", "meaningVi": "ý định, mục đích"}
+                ],
+                "synonyms": ["plan", "aim"],
+                "antonyms": [],
+                "toeicNotes": ["intend to do: định làm gì"],
+                "needsReview": False
+            },
+            {
+                "id": "grant-v",
+                "word": "grant",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ɡrɑːnt/", "us": "/ɡrænt/"},
+                "frequency": 3,
+                "meaningVi": "ban, cấp, thừa nhận, công nhận",
+                "exampleEn": "The patent for the handheld computer was granted on April 27.",
+                "exampleVi": "Bằng sáng chế máy tính cầm tay đã được cấp vào ngày 27 tháng Tư.",
+                "derivatives": [],
+                "synonyms": ["allow", "award"],
+                "antonyms": ["deny", "refuse"],
+                "toeicNotes": ["take ~ for granted: coi điều gì là hiển nhiên"],
+                "needsReview": False
+            },
+            {
+                "id": "grant-n",
+                "word": "grant",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ɡrɑːnt/", "us": "/ɡrænt/"},
+                "frequency": 3,
+                "meaningVi": "sự ban cấp, tiền trợ cấp, khoản tài trợ",
+                "exampleEn": "The research team will receive a government grant of up to $4,000.",
+                "exampleVi": "Nhóm nghiên cứu sẽ được nhận một khoản trợ cấp chính phủ lên tới 4000 đô-la.",
+                "derivatives": [],
+                "synonyms": ["subsidy", "allowance"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "allow",
+                "word": "allow",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/əˈlaʊ/", "us": "/əˈlaʊ/"},
+                "frequency": 3,
+                "meaningVi": "cho phép, phê duyệt, chấp thuận",
+                "exampleEn": "The program's new feature allows users to conduct advanced searches.",
+                "exampleVi": "Tính năng mới của chương trình này cho phép người dùng thực hiện các tìm kiếm nâng cao.",
+                "derivatives": [
+                    {"word": "allowable", "partOfSpeech": "adj", "meaningVi": "có thể chấp nhận"},
+                    {"word": "allowance", "partOfSpeech": "n", "meaningVi": "sự cho phép, tiền trợ cấp"}
+                ],
+                "synonyms": ["permit", "enable"],
+                "antonyms": ["forbid", "prohibit"],
+                "toeicNotes": ["allow sb to do: cho phép ai làm gì"],
+                "needsReview": False
+            },
+            {
+                "id": "inspect",
+                "word": "inspect",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ɪnˈspekt/", "us": "/ɪnˈspekt/"},
+                "frequency": 2,
+                "meaningVi": "kiểm tra, thanh tra, giám định",
+                "exampleEn": "The head researcher inspects all equipments and chemicals in the laboratory daily to ensure safety.",
+                "exampleVi": "Trưởng nhóm nghiên cứu phải kiểm tra toàn bộ thiết bị và hóa chất trong phòng thí nghiệm hằng ngày để đảm bảo an toàn.",
+                "derivatives": [
+                    {"word": "inspection", "partOfSpeech": "n", "meaningVi": "sự kiểm tra, thanh tra"},
+                    {"word": "inspector", "partOfSpeech": "n", "meaningVi": "thanh tra viên"}
+                ],
+                "synonyms": ["examine", "check", "scrutinize"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "improve",
+                "word": "improve",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ɪmˈpruːv/", "us": "/ɪmˈpruːv/"},
+                "frequency": 2,
+                "meaningVi": "cải thiện, cải tiến, nâng cao",
+                "exampleEn": "A variety of incentives can improve staff productivity.",
+                "exampleVi": "Việc khích lệ động viên với nhiều hình thức có thể cải thiện năng suất lao động của nhân viên.",
+                "derivatives": [
+                    {"word": "improvement", "partOfSpeech": "n", "meaningVi": "sự cải tiến, sự nâng cao"}
+                ],
+                "synonyms": ["upgrade", "enhance"],
+                "antonyms": ["worsen", "impair"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "increasingly",
+                "word": "increasingly",
+                "partOfSpeech": "adv",
+                "pronunciation": {"uk": "/ɪnˈkriːsɪŋli/", "us": "/ɪnˈkriːsɪŋli/"},
+                "frequency": 3,
+                "meaningVi": "ngày càng tăng, gia tăng",
+                "exampleEn": "Technology is becoming an increasingly important factor in the nation's economy.",
+                "exampleVi": "Khoa học kỹ thuật đang trở thành một nhân tố ngày càng quan trọng trong nền kinh tế quốc gia.",
+                "derivatives": [
+                    {"word": "increase", "partOfSpeech": "v/n", "meaningVi": "tăng/sự tăng lên"},
+                    {"word": "increasing", "partOfSpeech": "adj", "meaningVi": "ngày càng tăng"}
+                ],
+                "synonyms": ["progressively", "more and more"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "invest",
+                "word": "invest",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ɪnˈvest/", "us": "/ɪnˈvest/"},
+                "frequency": 2,
+                "meaningVi": "đầu tư",
+                "exampleEn": "Lamont Manufacturing invested millions of dollars in improving its assembly line.",
+                "exampleVi": "Lamont Manufacturing đã đầu tư hàng triệu đô-la vào việc cải tiến dây chuyền lắp ráp.",
+                "derivatives": [
+                    {"word": "investment", "partOfSpeech": "n", "meaningVi": "sự đầu tư, khoản đầu tư"},
+                    {"word": "investor", "partOfSpeech": "n", "meaningVi": "nhà đầu tư"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["invest in: đầu tư vào cái gì"],
+                "needsReview": False
+            },
+            {
+                "id": "various",
+                "word": "various",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈveəriəs/", "us": "/ˈveriəs/"},
+                "frequency": 3,
+                "meaningVi": "nhiều, đa dạng, khác nhau",
+                "exampleEn": "This car has various features not included in older models.",
+                "exampleVi": "Chiếc xe hơi này có những tính năng đa dạng mà các mẫu xe cũ không có.",
+                "derivatives": [
+                    {"word": "vary", "partOfSpeech": "v", "meaningVi": "thay đổi, làm cho khác"},
+                    {"word": "variety", "partOfSpeech": "n", "meaningVi": "sự đa dạng"}
+                ],
+                "synonyms": ["diverse", "assorted"],
+                "antonyms": ["same", "similar"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "upgrade-n",
+                "word": "upgrade",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈʌpɡreɪd/", "us": "/ˈʌpɡreɪd/"},
+                "frequency": 3,
+                "meaningVi": "sự nâng cấp, bản cải tiến",
+                "exampleEn": "Special customers are eligible for one free computer upgrade.",
+                "exampleVi": "Các khách hàng đặc biệt sẽ được hưởng một gói nâng cấp máy tính miễn phí.",
+                "derivatives": [],
+                "synonyms": ["improvement"],
+                "antonyms": ["downgrade"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "upgrade-v",
+                "word": "upgrade",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˌʌpˈɡreɪd/", "us": "/ˌʌpˈɡreɪd/"},
+                "frequency": 3,
+                "meaningVi": "nâng cấp, cải tiến",
+                "exampleEn": "Gina just upgraded her cell phone software.",
+                "exampleVi": "Gina vừa mới nâng cấp phần mềm điện thoại.",
+                "derivatives": [],
+                "synonyms": ["update", "enhance"],
+                "antonyms": ["downgrade"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "manual-n",
+                "word": "manual",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈmænjuəl/", "us": "/ˈmænjuəl/"},
+                "frequency": 3,
+                "meaningVi": "sách hướng dẫn, sổ tay hướng dẫn",
+                "exampleEn": "Rachel is writing the product manual for the new air conditioner.",
+                "exampleVi": "Rachel đang viết hướng dẫn sử dụng cho sản phẩm điều hòa mới.",
+                "derivatives": [],
+                "synonyms": ["handbook", "guide"],
+                "antonyms": [],
+                "toeicNotes": ["instruction manual: sách hướng dẫn sử dụng"],
+                "needsReview": False
+            },
+            {
+                "id": "manual-adj",
+                "word": "manual",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈmænjuəl/", "us": "/ˈmænjuəl/"},
+                "frequency": 3,
+                "meaningVi": "(thuộc) tay, làm bằng tay, thủ công",
+                "exampleEn": "The workers perform manual labor in the factory.",
+                "exampleVi": "Công nhân làm công việc lao động thủ công trong nhà máy.",
+                "derivatives": [],
+                "synonyms": ["hand-operated"],
+                "antonyms": ["automatic"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "explore",
+                "word": "explore",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ɪkˈsplɔː(r)/", "us": "/ɪkˈsplɔːr/"},
+                "frequency": 2,
+                "meaningVi": "khám phá, tìm tòi, thăm dò",
+                "exampleEn": "Clients seeking company information can explore our website.",
+                "exampleVi": "Khách hàng muốn biết thêm thông tin về công ty có thể tìm hiểu trên trang web của chúng tôi.",
+                "derivatives": [
+                    {"word": "exploration", "partOfSpeech": "n", "meaningVi": "sự thăm dò, khám phá"},
+                    {"word": "exploratory", "partOfSpeech": "adj", "meaningVi": "nhằm khám phá"}
+                ],
+                "synonyms": ["investigate", "examine"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "response",
+                "word": "response",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/rɪˈspɒns/", "us": "/rɪˈspɑːns/"},
+                "frequency": 3,
+                "meaningVi": "sự phản hồi, câu trả lời, sự hưởng ứng",
+                "exampleEn": "Those testing the new microwave are asked to submit written responses to some questions.",
+                "exampleVi": "Những người dùng thử sản phẩm lò vi sóng mới được yêu cầu viết câu trả lời cho một số câu hỏi.",
+                "derivatives": [
+                    {"word": "respond", "partOfSpeech": "v", "meaningVi": "trả lời, phản hồi"}
+                ],
+                "synonyms": ["reply", "answer"],
+                "antonyms": [],
+                "toeicNotes": ["in response to: để đáp lại, phản hồi về"],
+                "needsReview": False
+            },
+            {
+                "id": "appearance",
+                "word": "appearance",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/əˈpɪərəns/", "us": "/əˈpɪrəns/"},
+                "frequency": 3,
+                "meaningVi": "sự xuất hiện, diện mạo, vẻ ngoài",
+                "exampleEn": "The design team completely modernized the product's appearance.",
+                "exampleVi": "Nhóm thiết kế đã đổi mới hoàn toàn mẫu mã của sản phẩm.",
+                "derivatives": [
+                    {"word": "appear", "partOfSpeech": "v", "meaningVi": "xuất hiện, hình như"},
+                    {"word": "apparently", "partOfSpeech": "adv", "meaningVi": "hiển nhiên, rõ ràng"}
+                ],
+                "synonyms": ["outlook", "look", "aspect"],
+                "antonyms": ["disappearance"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "successful",
+                "word": "successful",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/səkˈsesfl/", "us": "/səkˈsesfl/"},
+                "frequency": 3,
+                "meaningVi": "thành công, thành đạt",
+                "exampleEn": "The floor lamps are the company's most successful product.",
+                "exampleVi": "Đèn sàn là sản phẩm thành công nhất của công ty.",
+                "derivatives": [
+                    {"word": "succeed", "partOfSpeech": "v", "meaningVi": "thành công"},
+                    {"word": "success", "partOfSpeech": "n", "meaningVi": "sự thành công"},
+                    {"word": "successfully", "partOfSpeech": "adv", "meaningVi": "thành công"}
+                ],
+                "synonyms": ["prosperous", "effective"],
+                "antonyms": ["unsuccessful", "failing"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "hold",
+                "word": "hold",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/həʊld/", "us": "/həʊld/"},
+                "frequency": 3,
+                "meaningVi": "cầm, giữ, tổ chức, chứa được",
+                "exampleEn": "The washing machine holds up to three kilograms of laundry.",
+                "exampleVi": "Chiếc máy giặt này giặt được tới 3 kg quần áo.",
+                "derivatives": [],
+                "synonyms": ["contain", "conduct", "host"],
+                "antonyms": [],
+                "toeicNotes": ["hold a meeting/conference: tổ chức cuộc họp/hội nghị"],
+                "needsReview": False
+            },
+            {
+                "id": "advance-n",
+                "word": "advance",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ədˈvɑːns/", "us": "/ədˈvæns/"},
+                "frequency": 3,
+                "meaningVi": "thành tựu, sự tiến bộ, sự phát triển",
+                "exampleEn": "The product development team researches advances in computer technology.",
+                "exampleVi": "Bộ phận cải tiến sản phẩm nghiên cứu những thành tựu trong công nghệ tin học.",
+                "derivatives": [
+                    {"word": "advancement", "partOfSpeech": "n", "meaningVi": "sự thăng tiến, sự cải tiến"},
+                    {"word": "advanced", "partOfSpeech": "adj", "meaningVi": "tiên tiến, cao cấp"}
+                ],
+                "synonyms": ["breakthrough", "progress"],
+                "antonyms": ["setback"],
+                "toeicNotes": ["in advance: trước (thời gian)", "in advance of: trước ai/cái gì", "advance in: sự cải tiến về"],
+                "needsReview": False
+            },
+            {
+                "id": "advance-v",
+                "word": "advance",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ədˈvɑːns/", "us": "/ədˈvæns/"},
+                "frequency": 3,
+                "meaningVi": "tiến lên, thúc đẩy, đề xuất",
+                "exampleEn": "Medical technology has advanced rapidly over the past decade.",
+                "exampleVi": "Công nghệ y tế đã tiến bộ nhanh chóng trong thập kỷ qua.",
+                "derivatives": [],
+                "synonyms": ["progress", "further"],
+                "antonyms": ["recede"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "reliable",
+                "word": "reliable",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/rɪˈlaɪəbl/", "us": "/rɪˈlaɪəbl/"},
+                "frequency": 3,
+                "meaningVi": "đáng tin cậy",
+                "exampleEn": "Tests indicate that Branco's products are reliable and efficient.",
+                "exampleVi": "Các thử nghiệm đã chỉ ra rằng những sản phẩm của Branco rất đáng tin cậy và hiệu quả.",
+                "derivatives": [
+                    {"word": "rely", "partOfSpeech": "v", "meaningVi": "tin tưởng, nhờ cậy"},
+                    {"word": "reliability", "partOfSpeech": "n", "meaningVi": "sự đáng tin, độ tin cậy"}
+                ],
+                "synonyms": ["trustworthy", "dependable"],
+                "antonyms": ["unreliable"],
+                "toeicNotes": ["Phân biệt: reliable (đáng tin cậy) và reliant (dựa vào, phụ thuộc vào)"],
+                "needsReview": False
+            },
+            {
+                "id": "quality",
+                "word": "quality",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈkwɒləti/", "us": "/ˈkwɑːləti/"},
+                "frequency": 3,
+                "meaningVi": "chất lượng, phẩm chất",
+                "exampleEn": "The quality control division inspects samples of all items.",
+                "exampleVi": "Bộ phận kiểm soát chất lượng kiểm tra mẫu của toàn bộ sản phẩm.",
+                "derivatives": [],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": ["quality control: kiểm soát chất lượng"],
+                "needsReview": False
+            },
+            {
+                "id": "domestic",
+                "word": "domestic",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/dəˈmestɪk/", "us": "/dəˈmestɪk/"},
+                "frequency": 2,
+                "meaningVi": "trong nước, nội địa, (thuộc) gia đình",
+                "exampleEn": "Slow sales in the domestic market forced companies to expand overseas.",
+                "exampleVi": "Tốc độ bán chậm trong nước đã buộc các công ty phải mở rộng ra nước ngoài.",
+                "derivatives": [
+                    {"word": "domestically", "partOfSpeech": "adv", "meaningVi": "trong nước, nội địa"}
+                ],
+                "synonyms": ["internal", "national"],
+                "antonyms": ["foreign", "international"],
+                "toeicNotes": ["domestic market: thị trường trong nước"],
+                "needsReview": False
+            },
+            {
+                "id": "development",
+                "word": "development",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/dɪˈveləpmənt/", "us": "/dɪˈveləpmənt/"},
+                "frequency": 3,
+                "meaningVi": "sự phát triển, sự tiến triển",
+                "exampleEn": "The project is in the final stage of development.",
+                "exampleVi": "Dự án đang ở giai đoạn phát triển cuối cùng.",
+                "derivatives": [
+                    {"word": "develop", "partOfSpeech": "v", "meaningVi": "phát triển"},
+                    {"word": "developer", "partOfSpeech": "n", "meaningVi": "người/nhà phát triển"},
+                    {"word": "developing", "partOfSpeech": "adj", "meaningVi": "đang phát triển"}
+                ],
+                "synonyms": ["growth", "evolution"],
+                "antonyms": [],
+                "toeicNotes": ["be under development: đang được phát triển"],
+                "needsReview": False
+            },
+            {
+                "id": "availability",
+                "word": "availability",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/əˌveɪləˈbɪləti/", "us": "/əˌveɪləˈbɪləti/"},
+                "frequency": 2,
+                "meaningVi": "sự có sẵn, sự sẵn sàng cung cấp",
+                "exampleEn": "Availability of product depends on market demand and supply.",
+                "exampleVi": "Sự có mặt của sản phẩm phụ thuộc vào cung và cầu của thị trường.",
+                "derivatives": [
+                    {"word": "available", "partOfSpeech": "adj", "meaningVi": "có sẵn, sẵn sàng"}
+                ],
+                "synonyms": [],
+                "antonyms": ["unavailability"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "update-n",
+                "word": "update",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˈʌpdeɪt/", "us": "/ˈʌpdeɪt/"},
+                "frequency": 3,
+                "meaningVi": "sự cập nhật, bản nâng cấp",
+                "exampleEn": "The website update includes information on the latest hair styling appliances.",
+                "exampleVi": "Việc cập nhật trang web bao gồm cả thông tin về những thiết bị tạo mẫu tóc mới nhất.",
+                "derivatives": [
+                    {"word": "updated", "partOfSpeech": "adj", "meaningVi": "đã cập nhật"}
+                ],
+                "synonyms": [],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "update-v",
+                "word": "update",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˌʌpˈdeɪt/", "us": "/ˌʌpˈdeɪt/"},
+                "frequency": 3,
+                "meaningVi": "cập nhật, nâng cấp",
+                "exampleEn": "The factory updated the software of its equipment to speed up production.",
+                "exampleVi": "Nhà máy đã nâng cấp phần mềm của thiết bị để đẩy nhanh tốc độ sản xuất.",
+                "derivatives": [],
+                "synonyms": ["upgrade", "modernize"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "accurate",
+                "word": "accurate",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈækjərət/", "us": "/ˈækjərət/"},
+                "frequency": 3,
+                "meaningVi": "đúng, chính xác, xác đáng",
+                "exampleEn": "The new accounting software is accurate and precise.",
+                "exampleVi": "Phần mềm kế toán mới rất đúng và chính xác.",
+                "derivatives": [
+                    {"word": "accuracy", "partOfSpeech": "n", "meaningVi": "độ chính xác"},
+                    {"word": "accurately", "partOfSpeech": "adv", "meaningVi": "chính xác"}
+                ],
+                "synonyms": ["precise", "correct"],
+                "antonyms": ["inaccurate"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "complicated",
+                "word": "complicated",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈkɒmplɪkeɪtɪd/", "us": "/ˈkɑːmplɪkeɪtɪd/"},
+                "frequency": 2,
+                "meaningVi": "phức tạp, rắc rối",
+                "exampleEn": "Project delays often create a complicated situation for the public relations department.",
+                "exampleVi": "Việc trì hoãn dự án thường tạo ra tình huống rắc rối cho bộ phận quan hệ công chúng.",
+                "derivatives": [
+                    {"word": "complicate", "partOfSpeech": "v", "meaningVi": "làm rắc rối, làm phức tạp"}
+                ],
+                "synonyms": ["complex", "intricate"],
+                "antonyms": ["simple", "straightforward"],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "accomplished",
+                "word": "accomplished",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/əˈkʌmplɪʃt/", "us": "/əˈkɑːmplɪʃt/"},
+                "frequency": 2,
+                "meaningVi": "hoàn hảo, tài năng, thành thạo",
+                "exampleEn": "The accomplished chemist has been hired to develop a flexible battery.",
+                "exampleVi": "Nhà hóa học tài năng đó đã được thuê để phát triển một loại pin dẻo.",
+                "derivatives": [
+                    {"word": "accomplish", "partOfSpeech": "v", "meaningVi": "hoàn thành, đạt được"},
+                    {"word": "accomplishment", "partOfSpeech": "n", "meaningVi": "thành tựu, sự hoàn thành"}
+                ],
+                "synonyms": ["skilled", "talented", "proficient"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "inquiry",
+                "word": "inquiry",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ɪnˈkwaɪəri/", "us": "/ˈɪnkwəri/"},
+                "frequency": 2,
+                "meaningVi": "câu hỏi giải đáp, sự điều tra, thắc mắc",
+                "exampleEn": "Please call our customer representatives for service inquiries.",
+                "exampleVi": "Vui lòng liên hệ nhân viên chăm sóc khách hàng để được giải đáp các câu hỏi về dịch vụ.",
+                "derivatives": [
+                    {"word": "inquire", "partOfSpeech": "v", "meaningVi": "hỏi, điều tra"}
+                ],
+                "synonyms": ["question", "query"],
+                "antonyms": [],
+                "toeicNotes": ["service inquiries: thắc mắc về dịch vụ"],
+                "needsReview": False
+            },
+            {
+                "id": "indication",
+                "word": "indication",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˌɪndɪˈkeɪʃn/", "us": "/ˌɪndɪˈkeɪʃn/"},
+                "frequency": 2,
+                "meaningVi": "biểu hiện, dấu hiệu, sự chỉ dẫn",
+                "exampleEn": "Uneven printing is an indication of a technical fault.",
+                "exampleVi": "In không đều màu là một dấu hiệu của lỗi kỹ thuật.",
+                "derivatives": [
+                    {"word": "indicate", "partOfSpeech": "v", "meaningVi": "chỉ ra, biểu thị"},
+                    {"word": "indicative", "partOfSpeech": "adj", "meaningVi": "tỏ ra"}
+                ],
+                "synonyms": ["sign", "symptom", "mark"],
+                "antonyms": [],
+                "toeicNotes": ["indication of: dấu hiệu của"],
+                "needsReview": False
+            },
+            {
+                "id": "manufacturer",
+                "word": "manufacturer",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/ˌmænjuˈfæktʃərə(r)/", "us": "/ˌmænjuˈfæktʃərər/"},
+                "frequency": 2,
+                "meaningVi": "nhà sản xuất, chủ xí nghiệp",
+                "exampleEn": "The manufacturer guarantees all its products for up to one year.",
+                "exampleVi": "Nhà sản xuất bảo hành toàn bộ sản phẩm của họ lên tới một năm.",
+                "derivatives": [
+                    {"word": "manufacture", "partOfSpeech": "v/n", "meaningVi": "sản xuất/sự sản xuất"}
+                ],
+                "synonyms": ["maker", "producer"],
+                "antonyms": [],
+                "toeicNotes": [],
+                "needsReview": False
+            },
+            {
+                "id": "compatible",
+                "word": "compatible",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/kəmˈpætəbl/", "us": "/kəmˈpætəbl/"},
+                "frequency": 2,
+                "meaningVi": "tương thích, thích hợp",
+                "exampleEn": "The remote control is compatible with all models.",
+                "exampleVi": "Chiếc điều khiển từ xa này tương thích với mọi mẫu sản phẩm.",
+                "derivatives": [
+                    {"word": "compatibility", "partOfSpeech": "n", "meaningVi": "tính tương thích"}
+                ],
+                "synonyms": ["matching", "harmonious"],
+                "antonyms": ["incompatible"],
+                "toeicNotes": ["be compatible with: tương thích với"],
+                "needsReview": False
+            },
+            {
+                "id": "superior",
+                "word": "superior",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/suːˈpɪəriə(r)/", "us": "/suːˈpɪriər/"},
+                "frequency": 2,
+                "meaningVi": "cao cấp hơn, vượt trội, tốt hơn",
+                "exampleEn": "The company's latest television is superior to those on the market today.",
+                "exampleVi": "Chiếc tivi mới nhất của công ty cao cấp hơn các sản phẩm tivi hiện có trên thị trường.",
+                "derivatives": [
+                    {"word": "superiority", "partOfSpeech": "n", "meaningVi": "sự vượt trội, ưu việt"}
+                ],
+                "synonyms": ["excellent", "better"],
+                "antonyms": ["inferior"],
+                "toeicNotes": ["be superior to: tốt hơn/vượt trội hơn cái gì"],
+                "needsReview": False
+            },
+            {
+                "id": "absolute",
+                "word": "absolute",
+                "partOfSpeech": "adj",
+                "pronunciation": {"uk": "/ˈæbsəluːt/", "us": "/ˈæbsəluːt/"},
+                "frequency": 2,
+                "meaningVi": "tuyệt đối, hoàn toàn, thuần túy",
+                "exampleEn": "The latest technology keeps production costs to an absolute minimum.",
+                "exampleVi": "Công nghệ tiên tiến giúp giảm chi phí sản xuất xuống mức thấp nhất.",
+                "derivatives": [
+                    {"word": "absolutely", "partOfSpeech": "adv", "meaningVi": "hoàn toàn, tuyệt đối"}
+                ],
+                "synonyms": ["complete", "total", "utter"],
+                "antonyms": ["relative", "partial"],
+                "toeicNotes": ["to an absolute minimum: xuống mức tối thiểu"],
+                "needsReview": False
+            },
+            {
+                "id": "broaden",
+                "word": "broaden",
+                "partOfSpeech": "v",
+                "pronunciation": {"uk": "/ˈbrɔːdn/", "us": "/ˈbrɔːdn/"},
+                "frequency": 2,
+                "meaningVi": "mở rộng",
+                "exampleEn": "The new CEO is broadening the scope of the company's research.",
+                "exampleVi": "Vị giám đốc điều hành mới đang mở rộng phạm vi nghiên cứu của công ty.",
+                "derivatives": [
+                    {"word": "broad", "partOfSpeech": "adj", "meaningVi": "rộng"},
+                    {"word": "breadth", "partOfSpeech": "n", "meaningVi": "bề rộng"}
+                ],
+                "synonyms": ["widen", "expand"],
+                "antonyms": ["narrow"],
+                "toeicNotes": ["broaden the scope: mở rộng phạm vi"],
+                "needsReview": False
+            },
+            {
+                "id": "corrosion",
+                "word": "corrosion",
+                "partOfSpeech": "n",
+                "pronunciation": {"uk": "/kəˈrəʊʒn/", "us": "/kəˈrəʊʒn/"},
+                "frequency": 2,
+                "meaningVi": "sự ăn mòn (kim loại), gỉ sét",
+                "exampleEn": "This steel roof is designed to be resistant to corrosion from the weather.",
+                "exampleVi": "Loại mái tôn này được thiết kế để không bị ăn mòn do thời tiết.",
+                "derivatives": [
+                    {"word": "corrode", "partOfSpeech": "v", "meaningVi": "ăn mòn, bào mòn"}
+                ],
+                "synonyms": ["rust", "decay"],
+                "antonyms": [],
+                "toeicNotes": ["resistant to corrosion: chống ăn mòn"],
+                "needsReview": False
+            }
+        ]
+
+
 
 
 

@@ -555,20 +555,20 @@
           "q": "The production plant will be fully ___d by next year.",
           "a": "automate",
           "options": [
-            "specification",
+            "automate",
             "precaution",
-            "capable",
-            "automate"
+            "power",
+            "tailored"
           ]
         },
         {
           "q": "The quality control team checks if all items meet product ___s.",
           "a": "specification",
           "options": [
-            "place",
+            "automate",
+            "operate",
             "specification",
-            "capable",
-            "chemical"
+            "precaution"
           ]
         },
         {
@@ -576,38 +576,38 @@
           "a": "capacity",
           "options": [
             "place",
-            "tailored",
-            "limit",
-            "capacity"
+            "capacity",
+            "chemical",
+            "trim"
           ]
         },
         {
           "q": "Components are manufactured abroad and ___d domestically.",
           "a": "assemble",
           "options": [
-            "separately",
+            "place",
+            "limit",
             "assemble",
-            "component",
-            "capable"
+            "separately"
           ]
         },
         {
           "q": "The technicians ___d computer technology to improve processes.",
           "a": "utilize",
           "options": [
-            "utilize",
             "assemble",
-            "operate",
-            "limit"
+            "utilize",
+            "component",
+            "power"
           ]
         },
         {
           "q": "The factory supervisor has ___d production operations on standby.",
           "a": "place",
           "options": [
+            "limit",
             "place",
-            "expiration",
-            "coming",
+            "respectively",
             "automate"
           ]
         },
@@ -615,40 +615,40 @@
           "q": "There is a ___ to the amount of merchandise the factory can make in a day.",
           "a": "limit",
           "options": [
+            "assemble",
+            "place",
             "limit",
-            "tailored",
-            "flexible",
-            "chemical"
+            "power"
           ]
         },
         {
           "q": "This equipment can be ___ to the company's production needs.",
           "a": "tailored",
           "options": [
-            "capable",
-            "separately",
-            "precaution",
-            "tailored"
+            "respectively",
+            "tailored",
+            "economize",
+            "flexible"
           ]
         },
         {
           "q": "The store returned the defective ___s to the manufacturer.",
           "a": "component",
           "options": [
-            "flexible",
             "component",
-            "limit",
-            "capacity"
+            "place",
+            "launch",
+            "automate"
           ]
         },
         {
           "q": "Corporation is ___ of processing all kinds of metals.",
           "a": "capable",
           "options": [
-            "capable",
-            "specification",
-            "precaution",
-            "produce"
+            "respectively",
+            "coming",
+            "component",
+            "capable"
           ]
         }
       ]

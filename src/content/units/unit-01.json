@@ -1067,10 +1067,10 @@
           "q": "Please ___ the director that the meeting has been canceled.",
           "a": "inform",
           "options": [
-            "familiar",
-            "condition",
             "inform",
-            "associate"
+            "position",
+            "hire",
+            "highly"
           ]
         },
         {
@@ -1078,9 +1078,9 @@
           "a": "résumé",
           "options": [
             "résumé",
-            "recruit",
-            "achievement",
-            "associate"
+            "reference",
+            "proficiency",
+            "position"
           ]
         },
         {
@@ -1088,28 +1088,28 @@
           "a": "opening",
           "options": [
             "managerial",
+            "opening",
             "lack",
-            "résumé",
-            "opening"
+            "excellent"
           ]
         },
         {
           "q": "___s are required to submit a résumé.",
           "a": "applicant",
           "options": [
-            "proficiency",
-            "impressed",
-            "employment",
-            "applicant"
+            "interview",
+            "inform",
+            "applicant",
+            "résumé"
           ]
         },
         {
           "q": "A driver's license is a ___ of this job.",
           "a": "requirement",
           "options": [
-            "entitle",
+            "apprehensive",
             "requirement",
-            "managerial",
+            "achievement",
             "applicant"
           ]
         },
@@ -1117,9 +1117,9 @@
           "q": "Applicants must ___ all the requirements for the job.",
           "a": "meet",
           "options": [
-            "diligent",
-            "training",
-            "achievement",
+            "highly",
+            "confidence",
+            "prospective",
             "meet"
           ]
         },
@@ -1127,39 +1127,39 @@
           "q": "People with master's degrees are ___ for the research position.",
           "a": "qualified",
           "options": [
+            "familiar",
             "qualified",
-            "interview",
-            "employment",
-            "managerial"
+            "prospective",
+            "recruit"
           ]
         },
         {
           "q": "Five ___s will be selected for final interviews.",
           "a": "candidate",
           "options": [
+            "interview",
             "candidate",
-            "position",
-            "requirement",
-            "diligent"
+            "identify",
+            "impressed"
           ]
         },
         {
           "q": "We have ___ that she can handle the position.",
           "a": "confidence",
           "options": [
-            "proficiency",
-            "eligible",
-            "confidence",
-            "reference"
+            "familiar",
+            "training",
+            "employment",
+            "confidence"
           ]
         },
         {
           "q": "Mr. Monroe's experience makes him ___ qualified for the job.",
           "a": "highly",
           "options": [
-            "identify",
-            "associate",
-            "excellent",
+            "managerial",
+            "inform",
+            "lack",
             "highly"
           ]
         }

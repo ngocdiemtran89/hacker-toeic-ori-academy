@@ -774,69 +774,69 @@
           "q": "Chryssom liked the ___ so much that she decided to invest immediately.",
           "a": "proposal",
           "options": [
-            "proficient",
-            "stipulation",
+            "signature",
             "proposal",
-            "foundation"
+            "define",
+            "modify"
           ]
         },
         {
           "q": "The corporations formed an ___ to protect themselves from competitors.",
           "a": "alliance",
           "options": [
-            "revised",
-            "contract",
-            "terminate",
-            "alliance"
+            "foundation",
+            "alliance",
+            "collaborate",
+            "commission"
           ]
         },
         {
           "q": "Ine su re ___s was that the goods must",
           "a": "stipulation",
           "options": [
-            "stipulation",
-            "originally",
-            "proceed",
-            "negotiation"
+            "term",
+            "conflict",
+            "collaborate",
+            "stipulation"
           ]
         },
         {
           "q": "We cannot agree to the ___s offered.",
           "a": "term",
           "options": [
+            "narrow",
             "term",
-            "compromise",
-            "review",
-            "option"
+            "option",
+            "revised"
           ]
         },
         {
           "q": "The contractors and management finally reached a ___ following several talks.",
           "a": "compromise",
           "options": [
-            "cooperatively",
-            "compromise",
-            "define",
-            "modify"
+            "conflict",
+            "renew",
+            "review",
+            "compromise"
           ]
         },
         {
           "q": "___s are now in process.",
           "a": "negotiation",
           "options": [
-            "bid",
+            "security",
             "negotiation",
-            "stipulation",
-            "option"
+            "collaborate",
+            "settle"
           ]
         },
         {
           "q": "The ___ has been signed by both parties.",
           "a": "agreement",
           "options": [
-            "challenging",
-            "renew",
+            "u omit",
             "contract",
+            "settle",
             "agreement"
           ]
         },
@@ -844,19 +844,19 @@
           "q": "Friday's negotiations ended in a ___.",
           "a": "deadlock",
           "options": [
-            "alliance",
-            "u omit",
-            "define",
-            "deadlock"
+            "deadlock",
+            "proficient",
+            "bid",
+            "commission"
           ]
         },
         {
           "q": "Please ___ all of the documents carefully.",
           "a": "review",
           "options": [
-            "negotiation",
-            "modify",
-            "cooperatively",
+            "expire",
+            "define",
+            "challenging",
             "review"
           ]
         },
@@ -864,10 +864,10 @@
           "q": "The law requires all participants in the transaction to sign a ___.",
           "a": "contract",
           "options": [
-            "contract",
-            "terminate",
-            "settle",
-            "modify"
+            "signature",
+            "agreement",
+            "review",
+            "contract"
           ]
         }
       ]

@@ -1148,30 +1148,30 @@
           "q": "All our employees are ___ to using the new design software.",
           "a": "accustomed",
           "options": [
-            "oversee",
-            "entire",
+            "acquaint",
             "accustomed",
-            "release"
+            "file",
+            "sample"
           ]
         },
         {
           "q": "Lee heads a multinational telecommunications ___ based in Virginia.",
           "a": "corporation",
           "options": [
-            "check",
-            "delegate",
+            "instruct",
+            "sample",
             "corporation",
-            "convey"
+            "demanding"
           ]
         },
         {
           "q": "Although Ms. Jenkins is a ___ supervisor, she has a reputation for being fair.",
           "a": "demanding",
           "options": [
-            "sample",
-            "convey",
-            "involved",
-            "demanding"
+            "release",
+            "demanding",
+            "oversee",
+            "attendance"
           ]
         },
         {
@@ -1179,29 +1179,29 @@
           "a": "colleague",
           "options": [
             "colleague",
-            "perform",
-            "oversee",
-            "acquaint"
+            "accustomed",
+            "corporation",
+            "instruct"
           ]
         },
         {
           "q": "The technician will transfer to the automobile ___ after training.",
           "a": "division",
           "options": [
-            "corporation",
-            "concentrate",
-            "extension",
-            "division"
+            "division",
+            "file",
+            "demanding",
+            "assignment"
           ]
         },
         {
           "q": "Factory tours are available upon ___.",
           "a": "request",
           "options": [
-            "request",
-            "delegate",
+            "attendance",
+            "electronically",
             "demanding",
-            "convey"
+            "request"
           ]
         },
         {
@@ -1209,19 +1209,19 @@
           "a": "request",
           "options": [
             "notify",
-            "manage",
-            "sample",
-            "request"
+            "request",
+            "absolutely",
+            "submit"
           ]
         },
         {
           "q": "The software helps employees work more ___.",
           "a": "efficiently",
           "options": [
-            "sample",
             "efficiently",
-            "deadline",
-            "concentrate"
+            "attentively",
+            "directly",
+            "remind"
           ]
         },
         {
@@ -1229,19 +1229,19 @@
           "a": "manage",
           "options": [
             "manage",
-            "acquaint",
-            "deadline",
-            "monitor"
+            "notify",
+            "involved",
+            "file"
           ]
         },
         {
           "q": "Applicants should ___ a résumé to the personnel manager.",
           "a": "submit",
           "options": [
-            "directly",
-            "efficiently",
-            "delegate",
-            "submit"
+            "entire",
+            "submit",
+            "corporation",
+            "deadline"
           ]
         }
       ]

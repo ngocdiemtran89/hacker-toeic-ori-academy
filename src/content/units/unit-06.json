@@ -1293,79 +1293,79 @@
           "q": "The museum has a unique ___ of stamps.",
           "a": "collection",
           "options": [
-            "anniversary",
-            "beneficial",
             "collection",
-            "issue"
+            "issue",
+            "celebrity",
+            "defy"
           ]
         },
         {
           "q": "The art ___ will run for the next two weeks.",
           "a": "exhibition",
           "options": [
-            "collection",
-            "showing",
-            "exhibition",
-            "issue"
+            "local",
+            "advocate",
+            "succeed",
+            "exhibition"
           ]
         },
         {
           "q": "The band will give a ___ performance tonight.",
           "a": "live",
           "options": [
+            "exhibition",
             "live",
-            "donation",
-            "advocate",
-            "issue"
+            "variety",
+            "manuscript"
           ]
         },
         {
           "q": "Many people choose to ___ in the suburbs.",
           "a": "live",
           "options": [
-            "commit",
+            "popular",
             "live",
-            "manuscript",
-            "variety"
+            "showing",
+            "current"
           ]
         },
         {
           "q": "The new comedy show is very ___.",
           "a": "popular",
           "options": [
-            "issue",
-            "antique",
-            "alumni",
-            "popular"
+            "collection",
+            "accompany",
+            "popular",
+            "present"
           ]
         },
         {
           "q": "The charity relies on generous ___s from the public.",
           "a": "donation",
           "options": [
-            "celebrity",
-            "required",
+            "live",
+            "fund-raising",
             "donation",
-            "variety"
+            "popular"
           ]
         },
         {
           "q": "The actor had to ___ when he forgot his lines.",
           "a": "improvise",
           "options": [
-            "required",
-            "exhibition",
-            "author",
-            "improvise"
+            "improvise",
+            "rest",
+            "showing",
+            "contributor"
           ]
         },
         {
           "q": "St. John's University ___ were invited to the graduation ceremony.",
           "a": "alumni",
           "options": [
+            "issue",
             "live",
-            "upcoming",
-            "present",
+            "edition",
             "alumni"
           ]
         },
@@ -1373,20 +1373,20 @@
           "q": "Please ___ valid tickets at the door.",
           "a": "present",
           "options": [
-            "audience",
-            "issue",
             "present",
-            "improvise"
+            "popular",
+            "anniversary",
+            "fund-raising"
           ]
         },
         {
           "q": "The ___ owner of the resort intends to renovate it.",
           "a": "present",
           "options": [
-            "present",
+            "variety",
             "current",
             "advocate",
-            "alumni"
+            "present"
           ]
         }
       ]

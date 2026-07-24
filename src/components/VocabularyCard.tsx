@@ -8,6 +8,7 @@ interface Props {
   unitId: string;
   dark: boolean;
   viewMode?: 'flashcard' | 'list';
+  onOpenAiModal?: (word: VocabWord) => void;
 }
 
 function FrequencyStars({ count }: { count: number }) {
@@ -32,7 +33,7 @@ function speak(text: string) {
   }
 }
 
-export default function VocabularyCard({ word, index, unitId, dark, viewMode = 'flashcard' }: Props) {
+export default function VocabularyCard({ word, index, unitId, dark, viewMode = 'flashcard', onOpenAiModal }: Props) {
   const [flipped, setFlipped] = useState(false);
 
   const posColors: Record<string, string> = {
@@ -69,17 +70,30 @@ export default function VocabularyCard({ word, index, unitId, dark, viewMode = '
               {word.pronunciation?.us && `[${word.pronunciation.us}]`}
             </p>
           </div>
-          <button
-            onClick={() => speak(word.word)}
-            className={`shrink-0 p-2.5 rounded-xl flex items-center justify-center transition-all hover:scale-110 active:scale-95 ${
-              dark ? 'bg-primary-500/20 text-primary-300' : 'bg-primary-100 text-primary-600'
-            }`}
-            title={`Phát âm ${word.word}`}
-          >
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2.5}>
-              <path strokeLinecap="round" strokeLinejoin="round" d="M15.536 8.464a5 5 0 010 7.072M17.95 6.05a8 8 0 010 11.9M6.5 8.788V15.212a1 1 0 001.052.986l5.318-.531A1 1 0 0013.5 14.7V9.3a1 1 0 00-.63-.966l-5.318-.531A1 1 0 006.5 8.788z"/>
-            </svg>
-          </button>
+          <div className="flex items-center gap-1.5 shrink-0">
+            {onOpenAiModal && (
+              <button
+                onClick={() => onOpenAiModal(word)}
+                className={`p-2 rounded-xl text-xs font-bold transition-all hover:scale-105 ${
+                  dark ? 'bg-accent-500/20 text-accent-400' : 'bg-accent-500/10 text-accent-600'
+                }`}
+                title="Mở Ví Dụ Song Ngữ AI"
+              >
+                🤖 AI Ví Dụ
+              </button>
+            )}
+            <button
+              onClick={() => speak(word.word)}
+              className={`p-2.5 rounded-xl flex items-center justify-center transition-all hover:scale-110 active:scale-95 ${
+                dark ? 'bg-primary-500/20 text-primary-300' : 'bg-primary-100 text-primary-600'
+              }`}
+              title={`Phát âm ${word.word}`}
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2.5}>
+                <path strokeLinecap="round" strokeLinejoin="round" d="M15.536 8.464a5 5 0 010 7.072M17.95 6.05a8 8 0 010 11.9M6.5 8.788V15.212a1 1 0 001.052.986l5.318-.531A1 1 0 0013.5 14.7V9.3a1 1 0 00-.63-.966l-5.318-.531A1 1 0 006.5 8.788z"/>
+              </svg>
+            </button>
+          </div>
         </div>
 
         <p className={`text-base font-extrabold mb-3 ${dark ? 'text-accent-400' : 'text-primary-600'}`}>
@@ -141,17 +155,26 @@ export default function VocabularyCard({ word, index, unitId, dark, viewMode = '
             <p className={`text-xs font-medium ${dark ? 'text-surface-200/50' : 'text-surface-800/50'}`}>
               {word.pronunciation?.us && `[${word.pronunciation.us}]`}
             </p>
-            <button
-              onClick={(e) => { e.stopPropagation(); speak(word.word); }}
-              className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[11px] font-bold transition-all hover:scale-105 ${
-                dark ? 'bg-primary-500/20 text-primary-300' : 'bg-primary-100 text-primary-600'
-              }`}
-            >
-              <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2.5}>
-                <path strokeLinecap="round" strokeLinejoin="round" d="M15.536 8.464a5 5 0 010 7.072M17.95 6.05a8 8 0 010 11.9M6.5 8.788V15.212a1 1 0 001.052.986l5.318-.531A1 1 0 0013.5 14.7V9.3a1 1 0 00-.63-.966l-5.318-.531A1 1 0 006.5 8.788z"/>
-              </svg>
-              Nghe âm
-            </button>
+            <div className="flex justify-center gap-1.5">
+              <button
+                onClick={(e) => { e.stopPropagation(); speak(word.word); }}
+                className={`inline-flex items-center gap-1 px-3 py-1 rounded-full text-[11px] font-bold transition-all hover:scale-105 ${
+                  dark ? 'bg-primary-500/20 text-primary-300' : 'bg-primary-100 text-primary-600'
+                }`}
+              >
+                🔊 Nghe âm
+              </button>
+              {onOpenAiModal && (
+                <button
+                  onClick={(e) => { e.stopPropagation(); onOpenAiModal(word); }}
+                  className={`inline-flex items-center gap-1 px-3 py-1 rounded-full text-[11px] font-extrabold transition-all hover:scale-105 ${
+                    dark ? 'bg-accent-500/20 text-accent-400' : 'bg-accent-500/10 text-accent-600'
+                  }`}
+                >
+                  🤖 Ví dụ AI
+                </button>
+              )}
+            </div>
           </div>
 
           {/* Footer instruction */}
@@ -180,12 +203,22 @@ export default function VocabularyCard({ word, index, unitId, dark, viewMode = '
             <span className="text-xs font-black text-primary-500">
               {word.word} ({word.partOfSpeech})
             </span>
-            <button
-              onClick={(e) => { e.stopPropagation(); speak(word.word); }}
-              className={`p-1.5 rounded-lg text-xs font-bold ${dark ? 'bg-surface-800 text-primary-300' : 'bg-primary-100 text-primary-600'}`}
-            >
-              🔊 Nghe
-            </button>
+            <div className="flex gap-1">
+              {onOpenAiModal && (
+                <button
+                  onClick={(e) => { e.stopPropagation(); onOpenAiModal(word); }}
+                  className={`p-1.5 rounded-lg text-xs font-bold ${dark ? 'bg-accent-500/20 text-accent-400' : 'bg-accent-500/10 text-accent-600'}`}
+                >
+                  🤖 Ví dụ AI
+                </button>
+              )}
+              <button
+                onClick={(e) => { e.stopPropagation(); speak(word.word); }}
+                className={`p-1.5 rounded-lg text-xs font-bold ${dark ? 'bg-surface-800 text-primary-300' : 'bg-primary-100 text-primary-600'}`}
+              >
+                🔊 Nghe
+              </button>
+            </div>
           </div>
 
           {/* Meaning & Example */}

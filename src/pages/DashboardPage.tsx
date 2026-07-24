@@ -22,13 +22,13 @@ export default function DashboardPage({ dark, onOpenPomodoro }: Props) {
         </div>
         
         <h2 className="text-4xl sm:text-5xl font-black tracking-tight">
-          Luyện Từ Vựng TOEIC
+          Luyện Từ Vựng & Đọc Hiểu TOEIC
           <br />
-          <span className="gradient-text">Phương Pháp Ngắt Quãng & Gamification</span>
+          <span className="gradient-text">Part 7 Song Ngữ & Trích Dẫn Dẫn Chứng</span>
         </h2>
         
         <p className={`max-w-xl mx-auto text-sm sm:text-base ${dark ? 'text-surface-200/60' : 'text-surface-800/60'}`}>
-          Ứng dụng <strong>Lặp lại ngắt quãng (Leitner 5-Box SRS)</strong> + <strong>Tập trung Pomodoro 25m</strong> + <strong>Thử thách Phản xạ 60s</strong> giúp bạn ghi nhớ 700+ từ vựng TOEIC vượt trội.
+          Ứng dụng <strong>Luyện Đọc Part 7 Song Ngữ</strong> + <strong>Lặp lại ngắt quãng (Leitner 5-Box SRS)</strong> + <strong>Pomodoro 25m</strong> giúp học viên chinh phục 700+ TOEIC dễ dàng.
         </p>
 
         {/* User Level Card */}
@@ -41,6 +41,35 @@ export default function DashboardPage({ dark, onOpenPomodoro }: Props) {
             </p>
           </div>
         </div>
+      </section>
+
+      {/* FEATURED: Part 7 Reading Mastery Banner */}
+      <section className="animate-fade-in" style={{ animationDelay: '60ms' }}>
+        <Link
+          to="/part7-reading"
+          className={`block rounded-3xl p-6 sm:p-8 border relative overflow-hidden transition-all hover:scale-[1.01] active:scale-[0.99] group shadow-2xl ${
+            dark
+              ? 'bg-gradient-to-r from-emerald-950/40 via-primary-950/40 to-surface-900 border-emerald-500/30 hover:border-emerald-500/50'
+              : 'bg-gradient-to-r from-emerald-500/10 via-teal-500/10 to-white border-emerald-200 shadow-emerald-500/10 hover:border-emerald-300'
+          }`}
+        >
+          <div className="relative flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
+            <div className="space-y-2">
+              <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[10px] font-black uppercase tracking-wider bg-emerald-500 text-white shadow-sm">
+                🔥 Đột phá độc quyền cho học viên
+              </span>
+              <h3 className="text-2xl font-black tracking-tight">🎯 Luyện Đọc TOEIC Part 7 Song Ngữ & Soi Dẫn Chứng</h3>
+              <p className={`text-xs sm:text-sm max-w-2xl leading-relaxed ${dark ? 'text-surface-200/70' : 'text-surface-800/70'}`}>
+                Giải mã hoàn toàn Part 7 với <strong>Dịch Song Ngữ Dòng-Theo-Dòng</strong>, <strong>📌 Trích Dẫn Dẫn Chứng Bằng Chứng (Evidence Citations)</strong> trực tiếp trong bài đọc, và <strong>💡 Lời giải chi tiết câu hỏi (A, B, C, D)</strong>!
+              </p>
+            </div>
+            <div className="shrink-0 w-full sm:w-auto">
+              <span className="w-full sm:w-auto text-center inline-flex items-center justify-center gap-2 px-6 py-4 rounded-2xl bg-gradient-to-r from-emerald-500 to-teal-500 text-white font-black text-sm shadow-xl shadow-emerald-500/25 group-hover:scale-105 transition-transform">
+                Bắt Đầu Luyện Đọc Part 7 📖
+              </span>
+            </div>
+          </div>
+        </Link>
       </section>
 
       {/* Spaced Repetition (Leitner Box) Widget */}

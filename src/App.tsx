@@ -8,6 +8,7 @@ import FlashcardPage from './pages/FlashcardPage';
 import QuizPage from './pages/QuizPage';
 import ReviewQuizPage from './pages/ReviewQuizPage';
 import SpeedChallengePage from './pages/SpeedChallengePage';
+import Part7ReadingPage from './pages/Part7ReadingPage';
 import PomodoroTimerModal from './components/PomodoroTimerModal';
 
 export default function App() {
@@ -63,6 +64,7 @@ export default function App() {
             <Route path="/unit/:unitId/quiz" element={<QuizPage dark={dark} />} />
             <Route path="/review-quiz" element={<ReviewQuizPage dark={dark} />} />
             <Route path="/speed-challenge" element={<SpeedChallengePage dark={dark} />} />
+            <Route path="/part7-reading" element={<Part7ReadingPage dark={dark} />} />
           </Routes>
         </main>
 

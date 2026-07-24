@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { getAllUnits } from '../data';
 import SpacedRepetitionWidget from '../components/SpacedRepetitionWidget';
+import MotivationWelcomeBanner from '../components/MotivationWelcomeBanner';
 import { getUserStats } from '../utils/srs';
 
 interface Props {
@@ -41,6 +42,11 @@ export default function DashboardPage({ dark, onOpenPomodoro }: Props) {
             </p>
           </div>
         </div>
+      </section>
+
+      {/* Motivational Welcome & Witty Referral Banner */}
+      <section>
+        <MotivationWelcomeBanner dark={dark} />
       </section>
 
       {/* FEATURED: Part 7 Reading Mastery Banner */}

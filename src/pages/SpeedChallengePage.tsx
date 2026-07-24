@@ -111,10 +111,10 @@ export default function SpeedChallengePage({ dark }: Props) {
 
       recordWordReview(currentWord.id, true);
 
-      // Fast transition for correct answers
+      // Transition for correct answers (800ms)
       setTimeout(() => {
         nextQuestion();
-      }, 400);
+      }, 800);
     } else {
       playWrongSound();
       setCombo(0);
@@ -129,10 +129,10 @@ export default function SpeedChallengePage({ dark }: Props) {
       // Set last mistake word for feedback banner
       setLastMistakeWord(currentWord);
 
-      // Pause for 1.2 seconds so student can read and learn the correct answer!
+      // Pause for full 2.0 seconds (2000ms) so student has plenty of time to read and learn!
       setTimeout(() => {
         nextQuestion();
-      }, 1200);
+      }, 2000);
     }
   };
 

@@ -9,6 +9,16 @@ interface Props {
   dark: boolean;
 }
 
+function speakWord(text: string) {
+  if ('speechSynthesis' in window) {
+    window.speechSynthesis.cancel();
+    const utter = new SpeechSynthesisUtterance(text);
+    utter.lang = 'en-US';
+    utter.rate = 0.85;
+    window.speechSynthesis.speak(utter);
+  }
+}
+
 export default function SpeedChallengePage({ dark }: Props) {
   const units = getAllUnits();
   const allWords: VocabWord[] = units.flatMap(u => u.words);
@@ -21,6 +31,8 @@ export default function SpeedChallengePage({ dark }: Props) {
   const [currentWord, setCurrentWord] = useState<VocabWord | null>(null);
   const [options, setOptions] = useState<string[]>([]);
   const [selectedOpt, setSelectedOpt] = useState<string | null>(null);
+  const [wrongWordsList, setWrongWordsList] = useState<VocabWord[]>([]);
+  const [lastMistakeWord, setLastMistakeWord] = useState<VocabWord | null>(null);
 
   // High score storage
   const [highScore, setHighScore] = useState(() => {
@@ -45,6 +57,7 @@ export default function SpeedChallengePage({ dark }: Props) {
     setCurrentWord(randomWord);
     setOptions(opts);
     setSelectedOpt(null);
+    setLastMistakeWord(null);
   }, [allWords]);
 
   const startGame = () => {
@@ -52,6 +65,8 @@ export default function SpeedChallengePage({ dark }: Props) {
     setCombo(0);
     setMaxCombo(0);
     setTimeLeft(60);
+    setWrongWordsList([]);
+    setLastMistakeWord(null);
     setGameState('playing');
     nextQuestion();
   };
@@ -95,15 +110,30 @@ export default function SpeedChallengePage({ dark }: Props) {
       setScore(prev => prev + pointsEarned);
 
       recordWordReview(currentWord.id, true);
+
+      // Fast transition for correct answers
+      setTimeout(() => {
+        nextQuestion();
+      }, 400);
     } else {
       playWrongSound();
       setCombo(0);
       recordWordReview(currentWord.id, false);
-    }
 
-    setTimeout(() => {
-      nextQuestion();
-    }, 400);
+      // Store in wrong words list if not already present
+      setWrongWordsList(prev => {
+        if (prev.some(w => w.id === currentWord.id)) return prev;
+        return [...prev, currentWord];
+      });
+
+      // Set last mistake word for feedback banner
+      setLastMistakeWord(currentWord);
+
+      // Pause for 1.2 seconds so student can read and learn the correct answer!
+      setTimeout(() => {
+        nextQuestion();
+      }, 1200);
+    }
   };
 
   return (
@@ -180,6 +210,18 @@ export default function SpeedChallengePage({ dark }: Props) {
             </h3>
           </div>
 
+          {/* Correct Answer Alert Banner on Mistake */}
+          {lastMistakeWord && (
+            <div className="p-4 rounded-2xl bg-rose-500/15 border border-rose-500/30 text-center animate-bounce">
+              <p className="text-xs font-bold text-rose-500">
+                ❌ Tiếc quá! Đáp án đúng của từ <strong className="text-base font-black underline">{lastMistakeWord.word}</strong> là:
+              </p>
+              <p className="text-base font-black text-emerald-500 mt-0.5">
+                👉 "{lastMistakeWord.meaningVi}"
+              </p>
+            </div>
+          )}
+
           {/* 4 Options Grid */}
           <div className="grid gap-3 sm:grid-cols-2">
             {options.map((opt, i) => {
@@ -189,9 +231,11 @@ export default function SpeedChallengePage({ dark }: Props) {
 
               if (selectedOpt !== null) {
                 if (opt === currentWord.meaningVi) {
-                  btnClass = 'bg-emerald-500 text-white border-emerald-500 scale-105';
+                  // Always highlight correct answer in green!
+                  btnClass = 'bg-emerald-500 text-white border-emerald-500 scale-105 shadow-lg shadow-emerald-500/30 font-black';
                 } else if (opt === selectedOpt) {
-                  btnClass = 'bg-rose-500 text-white border-rose-500';
+                  // Highlight wrong selection in rose red!
+                  btnClass = 'bg-rose-500 text-white border-rose-500 font-bold';
                 }
               }
 
@@ -203,6 +247,11 @@ export default function SpeedChallengePage({ dark }: Props) {
                   className={`p-4 rounded-2xl border text-base font-bold text-left transition-all ${btnClass}`}
                 >
                   {opt}
+                  {selectedOpt !== null && opt === currentWord.meaningVi && (
+                    <span className="block text-[10px] uppercase font-black tracking-wider text-emerald-100 mt-1">
+                      ✓ ĐÁP ÁN ĐÚNG
+                    </span>
+                  )}
                 </button>
               );
             })}
@@ -212,44 +261,85 @@ export default function SpeedChallengePage({ dark }: Props) {
 
       {/* ENDED SCREEN */}
       {gameState === 'ended' && (
-        <div className={`p-8 rounded-3xl border text-center space-y-6 animate-slide-up shadow-2xl ${
-          dark ? 'bg-surface-900 border-emerald-500/30' : 'bg-white border-emerald-200 shadow-emerald-500/10'
-        }`}>
-          <div className="text-6xl animate-bounce">🏆</div>
-          <div className="space-y-1">
-            <h3 className="text-3xl font-black tracking-tight">Hết Giờ! Hoàn Thành Thử Thách</h3>
-            <p className={`text-sm ${dark ? 'text-surface-200/50' : 'text-surface-800/50'}`}>
-              Bạn đã phản xạ từ vựng xuất sắc trong 60 giây.
-            </p>
+        <div className="space-y-6">
+          <div className={`p-8 rounded-3xl border text-center space-y-6 animate-slide-up shadow-2xl ${
+            dark ? 'bg-surface-900 border-emerald-500/30' : 'bg-white border-emerald-200 shadow-emerald-500/10'
+          }`}>
+            <div className="text-6xl animate-bounce">🏆</div>
+            <div className="space-y-1">
+              <h3 className="text-3xl font-black tracking-tight">Hết Giờ! Hoàn Thành Thử Thách</h3>
+              <p className={`text-sm ${dark ? 'text-surface-200/50' : 'text-surface-800/50'}`}>
+                Bạn đã phản xạ từ vựng xuất sắc trong 60 giây.
+              </p>
+            </div>
+
+            <div className="grid grid-cols-2 gap-3 max-w-sm mx-auto">
+              <div className={`p-4 rounded-2xl border ${dark ? 'bg-surface-850 border-white/10' : 'bg-primary-50 border-primary-100'}`}>
+                <p className="text-xs font-bold opacity-50">Tổng Điểm Thưởng</p>
+                <p className="text-3xl font-black text-amber-500">{score} pts</p>
+              </div>
+              <div className={`p-4 rounded-2xl border ${dark ? 'bg-surface-850 border-white/10' : 'bg-primary-50 border-primary-100'}`}>
+                <p className="text-xs font-bold opacity-50">Max Combo</p>
+                <p className="text-3xl font-black text-emerald-500">🔥 {maxCombo}</p>
+              </div>
+            </div>
+
+            <div className="flex gap-3 justify-center">
+              <button
+                onClick={startGame}
+                className="px-6 py-3.5 rounded-2xl bg-gradient-to-r from-amber-500 to-orange-500 text-white text-sm font-black shadow-lg shadow-amber-500/25 hover:scale-105 transition-all"
+              >
+                🔄 Chơi Lại Lần Nữa
+              </button>
+              <Link
+                to="/"
+                className={`px-6 py-3.5 rounded-2xl text-sm font-bold border transition-all ${
+                  dark ? 'bg-surface-800 border-white/10 text-surface-200' : 'bg-white border-surface-200 text-surface-800'
+                }`}
+              >
+                Về Trang Chủ
+              </Link>
+            </div>
           </div>
 
-          <div className="grid grid-cols-2 gap-3 max-w-sm mx-auto">
-            <div className={`p-4 rounded-2xl border ${dark ? 'bg-surface-850 border-white/10' : 'bg-primary-50 border-primary-100'}`}>
-              <p className="text-xs font-bold opacity-50">Tổng Điểm Thưởng</p>
-              <p className="text-3xl font-black text-amber-500">{score} pts</p>
-            </div>
-            <div className={`p-4 rounded-2xl border ${dark ? 'bg-surface-850 border-white/10' : 'bg-primary-50 border-primary-100'}`}>
-              <p className="text-xs font-bold opacity-50">Max Combo</p>
-              <p className="text-3xl font-black text-emerald-500">🔥 {maxCombo}</p>
-            </div>
-          </div>
+          {/* MISTAKES REVIEW DRAWER */}
+          {wrongWordsList.length > 0 && (
+            <div className={`p-6 rounded-3xl border space-y-4 animate-slide-up ${
+              dark ? 'bg-surface-900 border-rose-500/20' : 'bg-white border-rose-200 shadow-lg shadow-rose-500/5'
+            }`}>
+              <div className="flex items-center justify-between">
+                <h4 className="text-base font-black text-rose-500 flex items-center gap-2">
+                  <span>📝</span> Danh Sách {wrongWordsList.length} Từ Bạn Làm Sai Cần Ôn Lại
+                </h4>
+                <span className={`text-xs ${dark ? 'text-surface-200/40' : 'text-surface-800/40'}`}>
+                  Nhấp để nghe phát âm
+                </span>
+              </div>
 
-          <div className="flex gap-3 justify-center">
-            <button
-              onClick={startGame}
-              className="px-6 py-3.5 rounded-2xl bg-gradient-to-r from-amber-500 to-orange-500 text-white text-sm font-black shadow-lg shadow-amber-500/25 hover:scale-105 transition-all"
-            >
-              🔄 Chơi Lại Lần Nữa
-            </button>
-            <Link
-              to="/"
-              className={`px-6 py-3.5 rounded-2xl text-sm font-bold border transition-all ${
-                dark ? 'bg-surface-800 border-white/10 text-surface-200' : 'bg-white border-surface-200 text-surface-800'
-              }`}
-            >
-              Về Trang Chủ
-            </Link>
-          </div>
+              <div className="grid gap-3 sm:grid-cols-2">
+                {wrongWordsList.map((w) => (
+                  <div
+                    key={w.id}
+                    onClick={() => speakWord(w.word)}
+                    className={`p-4 rounded-2xl border cursor-pointer transition-all hover:scale-[1.02] ${
+                      dark ? 'bg-surface-850 border-white/5 hover:border-primary-500/30' : 'bg-rose-50/30 border-rose-100 hover:bg-rose-50/60'
+                    }`}
+                  >
+                    <div className="flex items-center justify-between mb-1">
+                      <span className="font-extrabold text-base text-primary-500">{w.word}</span>
+                      <span className="text-xs font-bold text-rose-500">🔊 Nghe</span>
+                    </div>
+                    <p className={`text-xs font-semibold ${dark ? 'text-accent-400' : 'text-emerald-600'}`}>
+                      {w.meaningVi}
+                    </p>
+                    <p className={`text-[11px] mt-1 italic ${dark ? 'text-surface-200/40' : 'text-surface-800/40'}`}>
+                      {w.partOfSpeech} • {w.pronunciation?.us}
+                    </p>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
         </div>
       )}
     </div>

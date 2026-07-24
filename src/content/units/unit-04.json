@@ -1254,79 +1254,79 @@
           "q": "As of late, the staff has been rather ___ in turning in reports.",
           "a": "lax",
           "options": [
-            "manner",
-            "exclusive",
+            "accountable",
             "lax",
-            "transform"
+            "skillfully",
+            "neutrality"
           ]
         },
         {
           "q": "Mr. Jones ___d with his fund request and missed the deadline.",
           "a": "procrastinate",
           "options": [
-            "abstract",
-            "coworker",
-            "procrastinate",
-            "assist"
+            "leading",
+            "assist",
+            "hardly",
+            "procrastinate"
           ]
         },
         {
           "q": "Retail Specialists employs professionals with a ___ experience of 30 years in sales.",
           "a": "combined",
           "options": [
-            "assume",
-            "hardly",
-            "accountable",
-            "combined"
+            "combined",
+            "responsible",
+            "contrary",
+            "formal"
           ]
         },
         {
           "q": "Careful planning is essential for ___ing goals.",
           "a": "accomplish",
           "options": [
-            "respectful",
+            "collect",
+            "remove",
             "accomplish",
-            "assign",
-            "voluntarily"
+            "abstract"
           ]
         },
         {
           "q": "He ___ took on the challenging assignment in order to gain experience.",
           "a": "voluntarily",
           "options": [
-            "personnel",
             "voluntarily",
-            "accomplish",
-            "disturbing"
+            "intention",
+            "direct",
+            "assist"
           ]
         },
         {
           "q": "She had to ___ the task on short notice.",
           "a": "undertake",
           "options": [
-            "satisfied",
-            "undertake",
-            "personnel",
-            "contrary"
+            "occasionally",
+            "directory",
+            "employee",
+            "undertake"
           ]
         },
         {
           "q": "The marketing department will ___ responsibility for the project.",
           "a": "assume",
           "options": [
+            "contrary",
             "assume",
-            "duplicate",
-            "formal",
-            "contrary"
+            "satisfied",
+            "direct"
           ]
         },
         {
           "q": "There are only three ___s working under Ms. Anderson.",
           "a": "employee",
           "options": [
-            "adjust",
-            "contrary",
             "employee",
+            "occasionally",
+            "coworker",
             "assist"
           ]
         },
@@ -1334,20 +1334,20 @@
           "q": "A staff member ___ed with preparations for the conference.",
           "a": "assist",
           "options": [
-            "duplicate",
-            "accountable",
             "assist",
-            "engage"
+            "confidential",
+            "leading",
+            "widely"
           ]
         },
         {
           "q": "Not everyone was ___ with changes to the overtime policy.",
           "a": "satisfied",
           "options": [
+            "assist",
+            "accomplish",
             "satisfied",
-            "duplicate",
-            "hardly",
-            "confidential"
+            "adjust"
           ]
         }
       ]

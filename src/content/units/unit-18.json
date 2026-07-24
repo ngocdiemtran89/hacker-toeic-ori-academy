@@ -221,50 +221,50 @@
           "q": "The hotel ___d the guest for the erroneous charge.",
           "a": "compensate",
           "options": [
+            "elegant",
             "compensate",
-            "flavor",
-            "available",
-            "chef"
+            "chef",
+            "available"
           ]
         },
         {
           "q": "The restaurant's head ___ is famous across Europe.",
           "a": "chef",
           "options": [
-            "elegant",
-            "chef",
-            "flavor",
-            "compensate"
+            "container",
+            "compensate",
+            "compensate",
+            "chef"
           ]
         },
         {
           "q": "Food may be kept for longer periods by storing it in airtight ___s.",
           "a": "container",
           "options": [
-            "reception",
+            "chef",
             "container",
-            "flavor",
-            "chef"
+            "elegant",
+            "flavor"
           ]
         },
         {
           "q": "The recently renovated lobby boasts ___. decor.",
           "a": "elegant",
           "options": [
-            "elegant",
-            "flavor",
             "chef",
-            "container"
+            "elegant",
+            "container",
+            "available"
           ]
         },
         {
           "q": "The shop sells ice cream in a variety of ___s.",
           "a": "flavor",
           "options": [
-            "available",
             "compensate",
             "flavor",
-            "reception"
+            "chef",
+            "container"
           ]
         },
         {
@@ -272,8 +272,8 @@
           "a": "available",
           "options": [
             "available",
-            "chef",
-            "reception",
+            "compensate",
+            "flavor",
             "container"
           ]
         },
@@ -283,7 +283,7 @@
           "options": [
             "elegant",
             "reception",
-            "compensate",
+            "flavor",
             "chef"
           ]
         }

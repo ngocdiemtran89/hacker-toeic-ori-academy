@@ -1443,20 +1443,20 @@
           "q": "The customer ___d a laptop computer.",
           "a": "purchase",
           "options": [
-            "price",
-            "benefit",
-            "relatively",
-            "purchase"
+            "spare",
+            "purchase",
+            "expert",
+            "warranty"
           ]
         },
         {
           "q": "For every ___ of $100 or more, customers will receive a raffle ticket.",
           "a": "purchase",
           "options": [
-            "affordable",
+            "redeemable",
             "purchase",
-            "relatively",
-            "auction"
+            "spare",
+            "benefit"
           ]
         },
         {
@@ -1464,48 +1464,48 @@
           "a": "installment",
           "options": [
             "refund",
-            "installment",
-            "mutually",
-            "redeemable"
+            "affordable",
+            "warranty",
+            "installment"
           ]
         },
         {
           "q": "Toyama launched an ___ mid-range sedan.",
           "a": "affordable",
           "options": [
+            "affordable",
+            "subscriber",
             "purchase",
-            "price",
-            "desire",
-            "affordable"
+            "relatively"
           ]
         },
         {
           "q": "The sales representatives help customers decide ___ what style fits them best.",
           "a": "exactly",
           "options": [
-            "area",
+            "charge",
             "exactly",
-            "officially",
-            "auction"
+            "desire",
+            "purchase"
           ]
         },
         {
           "q": "A number of antique pieces will be sold at the ___.",
           "a": "auction",
           "options": [
-            "warranty",
-            "desire",
             "auction",
-            "expert"
+            "exclusively",
+            "vendor",
+            "carefully"
           ]
         },
         {
           "q": "The new downtown restaurant serves ___ Spanish cuisine.",
           "a": "authentic",
           "options": [
-            "auction",
-            "purchase",
-            "carefully",
+            "fabric",
+            "benefit",
+            "charge",
             "authentic"
           ]
         },
@@ -1513,30 +1513,30 @@
           "q": "The price includes shipping and handling ___s.",
           "a": "charge",
           "options": [
-            "notice",
-            "desire",
-            "price",
-            "charge"
+            "charge",
+            "receipt",
+            "alter",
+            "method"
           ]
         },
         {
           "q": "The phone company ___s high fees for installations.",
           "a": "charge",
           "options": [
+            "purchase",
             "charge",
-            "redeemable",
-            "delivery",
-            "description"
+            "experienced",
+            "expert"
           ]
         },
         {
           "q": "The prices listed in the catalog are effective until further ___.",
           "a": "notice",
           "options": [
-            "method",
-            "officially",
-            "notice",
-            "authentic"
+            "receipt",
+            "spare",
+            "expert",
+            "notice"
           ]
         }
       ]

@@ -740,79 +740,79 @@
           "q": "Passengers for ___ flights check in at counter three.",
           "a": "international",
           "options": [
-            "is comfortable",
+            "missing",
+            "board",
             "international",
-            "specify",
-            "board"
+            "proximity"
           ]
         },
         {
           "q": "The ___ includes a visit to Boston.",
           "a": "itinerary",
           "options": [
-            "emergency",
-            "declare",
+            "depart",
+            "specify",
             "itinerary",
-            "seating"
+            "brochure"
           ]
         },
         {
           "q": "Our website contains information on numerous ___ vacation spots.",
           "a": "exotic",
           "options": [
-            "customs",
+            "baggage",
+            "exotic",
             "declare",
-            "process",
-            "exotic"
+            "is comfortable"
           ]
         },
         {
           "q": "A ___ selection of tours is available for London.",
           "a": "diverse",
           "options": [
-            "dramatic",
-            "locate",
-            "diverse",
-            "confuse"
+            "declare",
+            "destination",
+            "away",
+            "diverse"
           ]
         },
         {
           "q": "The service at the hotel was ___.",
           "a": "superb",
           "options": [
-            "board",
             "tour",
-            "board",
-            "superb"
+            "superb",
+            "away",
+            "arrive"
           ]
         },
         {
           "q": "Cu ___ claim nơi",
           "a": "baggage",
           "options": [
-            "is comfortable",
-            "baggage",
-            "proximity",
-            "unavailable"
+            "unavailable",
+            "tour",
+            "exotic",
+            "baggage"
           ]
         },
         {
           "q": "Travel agents can provide information about a travel ___.",
           "a": "destination",
           "options": [
+            "hospitality",
             "destination",
             "board",
-            "customs",
-            "declare"
+            "itinerary"
           ]
         },
         {
           "q": "The ___ luggage will be sent to the hotel when it is found.",
           "a": "missing",
           "options": [
-            "exotic",
-            "customs",
-            "indulge",
+            "proximity",
+            "depart",
+            "hospitality",
             "missing"
           ]
         },
@@ -820,20 +820,20 @@
           "q": "Airline staff have tried to ___ the lost luggage.",
           "a": "locate",
           "options": [
-            "customs",
-            "process",
-            "locate",
-            "away"
+            "seating",
+            "board",
+            "dramatic",
+            "locate"
           ]
         },
         {
           "q": "The entire airline ticketing ___ can be done online.",
           "a": "process",
           "options": [
-            "process",
+            "proximity",
             "specify",
-            "destination",
-            "dramatic"
+            "depart",
+            "process"
           ]
         }
       ]

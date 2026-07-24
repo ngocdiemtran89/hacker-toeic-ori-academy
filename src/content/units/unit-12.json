@@ -9,23 +9,32 @@
   ],
   "words": [
     {
-      "id": "specification",
-      "word": "specification",
+      "id": "equipment",
+      "word": "equipment",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/spèsifikéifan/",
-        "us": "/spèsafikéijan/"
+        "uk": "/ɪˈkwɪpmənt/",
+        "us": "/ɪˈkwɪpmənt/"
       },
-      "frequency": 1,
-      "meaningVi": "móc, trang thiết bị",
+      "frequency": 3,
+      "meaningVi": "máy móc, trang thiết bị",
       "exampleEn": "The company uses special equipment to load large crates onto freight trucks.",
       "exampleVi": "Công ty sử dụng một thiết bị đặc biệt để chất những thùng hàng lớn lên xe tải chở hàng.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "equip",
+          "partOfSpeech": "v",
+          "meaningVi": "trang bị"
+        }
+      ],
+      "synonyms": [
+        "machinery",
+        "apparatus"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "office equipment thiết bị văn phòng gắp .",
-        "Vì equipment là danh từ không đếm được nên lưu ý không sử dụng với mạo từ a(n)."
+        "office equipment: thiết bị văn phòng",
+        "lưu ý: equipment là danh từ không đếm được, không dùng a/an"
       ],
       "needsReview": false
     },
@@ -34,16 +43,29 @@
       "word": "automate",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈɔːtəmeɪt/",
+        "us": "/ˈɔːtəmeɪt/"
       },
       "frequency": 1,
       "meaningVi": "tự động hóa",
       "exampleEn": "The production plant will be fully automated by next year.",
       "exampleVi": "Xưởng sản xuất sẽ được tự động hóa hoàn toàn vào năm sau.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "automation",
+          "partOfSpeech": "n",
+          "meaningVi": "sự tự động hóa"
+        },
+        {
+          "word": "automatic",
+          "partOfSpeech": "adj",
+          "meaningVi": "tự động"
+        }
+      ],
       "synonyms": [],
-      "antonyms": [],
+      "antonyms": [
+        "manual"
+      ],
       "toeicNotes": [],
       "needsReview": false
     },
@@ -52,63 +74,197 @@
       "word": "specification",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/spèsifikéifan/",
-        "us": "/spèsafikéijan/"
+        "uk": "/ˌspesɪfɪˈkeɪʃn/",
+        "us": "/ˌspesɪfɪˈkeɪʃn/"
       },
       "frequency": 1,
-      "meaningVi": "tiết, đặc điểm, chỉ dẫn/yêu cầu kĩ thuật, sự chỉ rõ",
+      "meaningVi": "chi tiết, đặc điểm, chỉ dẫn/yêu cầu kỹ thuật",
       "exampleEn": "The quality control team checks if all items meet product specifications.",
-      "exampleVi": "Đội ngũ kiểm soát chất lượng có nhiệm vụ kiểm tra liệu tất các sản phẩm có đáp ứng đủ yêu cầu kỹ thuật không.",
-      "derivatives": [],
-      "synonyms": [],
+      "exampleVi": "Đội ngũ kiểm soát chất lượng kiểm tra liệu tất cả sản phẩm có đáp ứng đủ yêu cầu kỹ thuật không.",
+      "derivatives": [
+        {
+          "word": "specify",
+          "partOfSpeech": "v",
+          "meaningVi": "chỉ rõ, ghi rõ"
+        },
+        {
+          "word": "specific",
+          "partOfSpeech": "adj",
+          "meaningVi": "cụ thể, chi tiết"
+        }
+      ],
+      "synonyms": [
+        "manual",
+        "instructions"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Hackers TOEIC Vocabulary ady đúng đắn, thích đáng, hợp lệ Machinery must be well-maintained to operate properly.",
-        "Máy móc cần được bảo dưỡng tốt để có thể hoạt động ổn định.",
-        "cir\" operate properly hoạt động ổn định/đúng chức năng SP.",
-        "properly thường được kết hợp với các động từ mang nghĩa chỉ hành động, vận hành như từ operate.",
-        "n: sự an loàn, tính an toàn Factory supervisors prioritize safety over speed.",
-        "Giám sát viên nhà máy ưu tiên yếu tố an toàn hơn là tốc độ."
+        "meet specifications: đáp ứng các tiêu chuẩn/yêu cầu kỹ thuật"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "properly",
+      "word": "properly",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/ˈprɒpəli/",
+        "us": "/ˈprɑːpərli/"
+      },
+      "frequency": 3,
+      "meaningVi": "đúng đắn, thích đáng, hợp lệ",
+      "exampleEn": "Machinery must be well-maintained to operate properly.",
+      "exampleVi": "Máy móc cần được bảo dưỡng tốt để có thể hoạt động ổn định.",
+      "derivatives": [
+        {
+          "word": "proper",
+          "partOfSpeech": "adj",
+          "meaningVi": "đúng, thích hợp"
+        }
+      ],
+      "synonyms": [
+        "correctly",
+        "appropriately"
+      ],
+      "antonyms": [
+        "improperly"
+      ],
+      "toeicNotes": [
+        "operate properly: hoạt động ổn định / đúng chức năng"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "safety",
+      "word": "safety",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈseɪfti/",
+        "us": "/ˈseɪfti/"
+      },
+      "frequency": 1,
+      "meaningVi": "sự an toàn, tính an toàn",
+      "exampleEn": "Factory supervisors prioritize safety over speed.",
+      "exampleVi": "Giám sát viên nhà máy ưu tiên yếu tố an toàn hơn là tốc độ.",
+      "derivatives": [
+        {
+          "word": "safe",
+          "partOfSpeech": "adj",
+          "meaningVi": "an toàn"
+        },
+        {
+          "word": "safely",
+          "partOfSpeech": "adv",
+          "meaningVi": "một cách an toàn"
+        }
+      ],
+      "synonyms": [
+        "security"
+      ],
+      "antonyms": [
+        "danger"
+      ],
+      "toeicNotes": [
+        "safety precautions / regulations: các biện pháp / quy tắc an toàn"
       ],
       "needsReview": false
     },
     {
       "id": "precaution",
       "word": "precaution",
-      "partOfSpeech": "v",
+      "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/prɪˈkɔːʃn/",
+        "us": "/prɪˈkɔːʃn/"
       },
       "frequency": 2,
-      "meaningVi": "vận hành, hoạt động",
-      "exampleEn": "The assembly line operates round the clock.",
-      "exampleVi": "Dây chuyền lắp ráp vận hành suốt ngày đêm.",
-      "derivatives": [],
-      "synonyms": [],
+      "meaningVi": "sự phòng ngừa, sự đề phòng",
+      "exampleEn": "After the accident, the company introduced stricter safety precautions.",
+      "exampleVi": "Sau vụ tai nạn đó, công ty đã đưa ra những biện pháp đảm bảo an toàn nghiêm ngặt hơn.",
+      "derivatives": [
+        {
+          "word": "precautious",
+          "partOfSpeech": "adj",
+          "meaningVi": "thận trọng, phòng xa"
+        }
+      ],
+      "synonyms": [
+        "safeguard",
+        "protection"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "take precautions: thực hiện các biện pháp phòng ngừa"
+      ],
       "needsReview": false
     },
     {
       "id": "operate",
       "word": "operate",
-      "partOfSpeech": "n",
+      "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/práusesin/",
-        "us": "/prásesin/"
+        "uk": "/ˈɒpəreɪt/",
+        "us": "/ˈɑːpəreɪt/"
       },
       "frequency": 3,
-      "meaningVi": "sự chế biến, sự gia công",
+      "meaningVi": "vận hành, hoạt động",
+      "exampleEn": "The assembly line operates round the clock.",
+      "exampleVi": "Dây chuyền lắp ráp vận hành suốt ngày đêm.",
+      "derivatives": [
+        {
+          "word": "operation",
+          "partOfSpeech": "n",
+          "meaningVi": "sự vận hành"
+        },
+        {
+          "word": "operational",
+          "partOfSpeech": "adj",
+          "meaningVi": "thuộc quá trình vận hành"
+        },
+        {
+          "word": "operable",
+          "partOfSpeech": "adj",
+          "meaningVi": "có thể vận hành"
+        }
+      ],
+      "synonyms": [
+        "run",
+        "function"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "operate round the clock: vận hành suốt 24/24"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "processing",
+      "word": "processing",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈprəʊsesɪŋ/",
+        "us": "/ˈprɑːsesɪŋ/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự chế biến, sự gia công, xử lý",
       "exampleEn": "Food processing requires a clean environment.",
       "exampleVi": "Việc chế biến thực phẩm đòi hỏi môi trường phải thật vệ sinh.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "process",
+          "partOfSpeech": "v",
+          "meaningVi": "xử lý, tiến triển"
+        },
+        {
+          "word": "process",
+          "partOfSpeech": "n",
+          "meaningVi": "quy trình, quá trình"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [
-        "Bai thi TOEIC dạng thức mới a r processing sự chế biến, gia công L process quá trình, quy trình processing được dùng để chỉ việc xử lý, chế biến, gia công còn process để chỉ quy trình chế biến, gia công.",
-        "Hãy lưu ý để áp dụng vào những câu hỏi yêu cầu phân biệt hai danh từ này The new refining process will be implemented tomorrow.",
-        "Quy trình tinh luyện mới sẽ được áp dụng vào ngày mai."
+        "phân biệt processing (sự chế biến/xử lý) và process (quy trình chế biến)"
       ],
       "needsReview": false
     },
@@ -117,20 +273,29 @@
       "word": "capacity",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/kapæsati/",
-        "us": "/kapæsati/"
+        "uk": "/kəˈpæsəti/",
+        "us": "/kəˈpæsəti/"
       },
       "frequency": 2,
       "meaningVi": "sức chứa, năng lực, tư cách",
       "exampleEn": "The warehouse's capacity will double after the construction.",
       "exampleVi": "Sức chứa của nhà kho sẽ tăng gấp đôi sau khi xây dựng.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "capacious",
+          "partOfSpeech": "adj",
+          "meaningVi": "rộng lớn, dung tích lớn"
+        }
+      ],
+      "synonyms": [
+        "volume",
+        "role"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "As Ms.",
-        "Jones was away, Sam acted in her capacity as president during the meeting.",
-        "Khi bà Jones đi vắng, Sam dảm nhiệm vai trò chủ tịch trong cuộc họp."
+        "be filled to capacity: đầy ắp",
+        "expand the capacity: mở rộng sức chứa",
+        "storage capacity: dung lượng lưu trữ"
       ],
       "needsReview": false
     },
@@ -139,19 +304,30 @@
       "word": "assemble",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/asémbl/",
-        "us": "/asémbl/"
+        "uk": "/əˈsembl/",
+        "us": "/əˈsembl/"
       },
       "frequency": 1,
-      "meaningVi": "lắp ráp; triệu tập/triệu hồi",
+      "meaningVi": "lắp ráp, triệu tập",
       "exampleEn": "Components are manufactured abroad and assembled domestically.",
       "exampleVi": "Các bộ phận được sản xuất ở nước ngoài và lắp ráp trong nước.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "assembly",
+          "partOfSpeech": "n",
+          "meaningVi": "sự lắp ráp, bộ phận lắp ráp"
+        }
+      ],
+      "synonyms": [
+        "build",
+        "gather"
+      ],
+      "antonyms": [
+        "disassemble"
+      ],
       "toeicNotes": [
-        "The manager assembled everyone in the department for a meeting.",
-        "Viên quản lý triệu tập mọi người trong phòng tới họp."
+        "assembly line: dây chuyền lắp ráp",
+        "assembly plant: nhà máy lắp ráp"
       ],
       "needsReview": false
     },
@@ -160,15 +336,25 @@
       "word": "utilize",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/ukjütilaiz/",
-        "us": "/júrtalàiz/"
+        "uk": "/ˈjuːtəlaɪz/",
+        "us": "/ˈjuːtəlaɪz/"
       },
       "frequency": 1,
-      "meaningVi": "dùng, sử dụng; tận dụng, khai thác",
+      "meaningVi": "dùng, sử dụng, tận dụng, khai thác",
       "exampleEn": "The technicians utilized computer technology to improve processes.",
       "exampleVi": "Các kỹ thuật viên đã áp dụng công nghệ tin học để cải thiện quy trình sản xuất.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "utilization",
+          "partOfSpeech": "n",
+          "meaningVi": "sự sử dụng, sự tận dụng"
+        }
+      ],
+      "synonyms": [
+        "use",
+        "employ",
+        "harness"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -178,19 +364,278 @@
       "word": "place",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/pleis/",
-        "us": "/pleis/"
+        "uk": "/pleɪs/",
+        "us": "/pleɪs/"
       },
       "frequency": 3,
       "meaningVi": "đặt, để, sắp xếp; đặt (hàng)",
       "exampleEn": "The factory supervisor has placed production operations on standby.",
       "exampleVi": "Người giám sát nhà máy đã sắp xếp bộ phận sản xuất ở trạng thái sẵn sàng hoạt động.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "placement",
+          "partOfSpeech": "n",
+          "meaningVi": "sự sắp xếp, sự đặt vào"
+        }
+      ],
+      "synonyms": [
+        "put",
+        "leave",
+        "set"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "The office manager has to place an order for additional materials immediately.",
-        "Quản lý văn phòng phải đặt mua thêm vật tư ngay lập tức."
+        "place A on standby: đặt A ở trạng thái sẵn sàng",
+        "place an order: đặt hàng"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "fill",
+      "word": "fill",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/fɪl/",
+        "us": "/fɪl/"
+      },
+      "frequency": 3,
+      "meaningVi": "lấp đầy, đổ đầy; đáp ứng (đơn hàng/vị trí)",
+      "exampleEn": "It will take a week to fill the hotel's order for bed sheets.",
+      "exampleVi": "Sẽ mất một tuần để đáp ứng đủ đơn hàng ga trải giường của khách sạn.",
+      "derivatives": [],
+      "synonyms": [
+        "satisfy",
+        "fulfill"
+      ],
+      "antonyms": [
+        "empty"
+      ],
+      "toeicNotes": [
+        "fill A with B: lấp đầy A bằng B",
+        "fill an order: đáp ứng đơn đặt hàng",
+        "fill the position: bổ nhiệm vị trí"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "manufacturing",
+      "word": "manufacturing",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ˌmænjuˈfæktʃərɪŋ/",
+        "us": "/ˌmænjuˈfæktʃərɪŋ/"
+      },
+      "frequency": 1,
+      "meaningVi": "thuộc sản xuất, chế tạo",
+      "exampleEn": "The manufacturing process in the automotive industry has changed with computer advances.",
+      "exampleVi": "Quy trình sản xuất trong ngành công nghiệp ô tô đã thay đổi nhờ những tiến bộ về tin học.",
+      "derivatives": [
+        {
+          "word": "manufacture",
+          "partOfSpeech": "v",
+          "meaningVi": "sản xuất, chế tạo"
+        },
+        {
+          "word": "manufacturer",
+          "partOfSpeech": "n",
+          "meaningVi": "nhà sản xuất"
+        }
+      ],
+      "synonyms": [
+        "production"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "manufacturing process: quy trình sản xuất"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "renovate",
+      "word": "renovate",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ˈrenəveɪt/",
+        "us": "/ˈrenəveɪt/"
+      },
+      "frequency": 3,
+      "meaningVi": "nâng cấp, cải tạo (nhà cửa, nội thất)",
+      "exampleEn": "The packaging area was renovated to use the space more effectively.",
+      "exampleVi": "Khu vực đóng gói đã được cải tạo để tận dụng không gian hiệu quả hơn.",
+      "derivatives": [
+        {
+          "word": "renovation",
+          "partOfSpeech": "n",
+          "meaningVi": "sự cải tạo, nâng cấp"
+        }
+      ],
+      "synonyms": [
+        "remodel",
+        "refurbish"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "decision",
+      "word": "decision",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/dɪˈsɪʒn/",
+        "us": "/dɪˈsɪʒn/"
+      },
+      "frequency": 3,
+      "meaningVi": "quyết định",
+      "exampleEn": "The CEO's decision was to release the computer in February.",
+      "exampleVi": "Quyết định của giám đốc điều hành là sẽ ra mắt máy tính đó vào tháng Hai.",
+      "derivatives": [
+        {
+          "word": "decide",
+          "partOfSpeech": "v",
+          "meaningVi": "quyết định"
+        },
+        {
+          "word": "decisive",
+          "partOfSpeech": "adj",
+          "meaningVi": "dứt khoát, quả quyết"
+        }
+      ],
+      "synonyms": [
+        "choice",
+        "resolution"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "make a decision about: đưa ra quyết định về"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "material",
+      "word": "material",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/məˈtɪəriəl/",
+        "us": "/məˈtɪəriəl/"
+      },
+      "frequency": 3,
+      "meaningVi": "chất liệu, tài liệu, nguyên liệu",
+      "exampleEn": "The designers selected the material because of its durability.",
+      "exampleVi": "Các nhà thiết kế đã lựa chọn chất liệu này vì độ bền của nó.",
+      "derivatives": [],
+      "synonyms": [
+        "substance"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "phân biệt material (nguyên liệu đồ vật) và ingredient (nguyên liệu món ăn)"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "success",
+      "word": "success",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/səkˈses/",
+        "us": "/səkˈses/"
+      },
+      "frequency": 3,
+      "meaningVi": "sự thành công, thắng lợi",
+      "exampleEn": "The company owes its success to strict quality control.",
+      "exampleVi": "Công ty có được thành công nhờ việc kiểm soát chất lượng nghiêm ngặt.",
+      "derivatives": [
+        {
+          "word": "succeed",
+          "partOfSpeech": "v",
+          "meaningVi": "thành công"
+        },
+        {
+          "word": "successful",
+          "partOfSpeech": "adj",
+          "meaningVi": "thành công"
+        },
+        {
+          "word": "successfully",
+          "partOfSpeech": "adv",
+          "meaningVi": "trôi chảy, thành công"
+        }
+      ],
+      "synonyms": [
+        "triumph",
+        "achievement"
+      ],
+      "antonyms": [
+        "failure"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "attribute",
+      "word": "attribute",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/əˈtrɪbjuːt/",
+        "us": "/əˈtrɪbjuːt/"
+      },
+      "frequency": 3,
+      "meaningVi": "quy cho, gán cho",
+      "exampleEn": "Management has attributed last year's gains to increased development.",
+      "exampleVi": "Ban quản lý cho rằng những thành tựu đạt được năm ngoái là do sự phát triển tăng trưởng.",
+      "derivatives": [
+        {
+          "word": "attribution",
+          "partOfSpeech": "n",
+          "meaningVi": "sự quy vào, sự gán cho"
+        }
+      ],
+      "synonyms": [
+        "ascribe",
+        "credit"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "attribute A to B: quy A là do B",
+        "A is attributed to B: A được cho là nguyên nhân do B"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "efficiency",
+      "word": "efficiency",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ɪˈfɪʃnsi/",
+        "us": "/ɪˈfɪʃnsi/"
+      },
+      "frequency": 3,
+      "meaningVi": "hiệu quả, năng lực, năng suất",
+      "exampleEn": "The consultant suggested measures to improve energy efficiency.",
+      "exampleVi": "Cố vấn đã đề xuất các giải pháp để nâng cao hiệu quả sử dụng năng lượng.",
+      "derivatives": [
+        {
+          "word": "efficient",
+          "partOfSpeech": "adj",
+          "meaningVi": "có hiệu quả"
+        },
+        {
+          "word": "efficiently",
+          "partOfSpeech": "adv",
+          "meaningVi": "có hiệu quả"
+        }
+      ],
+      "synonyms": [
+        "effectiveness",
+        "productivity"
+      ],
+      "antonyms": [
+        "inefficiency"
+      ],
+      "toeicNotes": [
+        "energy efficiency: hiệu quả sử dụng năng lượng",
+        "office efficiency: hiệu quả văn phòng"
       ],
       "needsReview": false
     },
@@ -199,15 +644,30 @@
       "word": "limit",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/límit/",
-        "us": "/límit/"
+        "uk": "/ˈlɪmɪt/",
+        "us": "/ˈlɪmɪt/"
       },
       "frequency": 3,
       "meaningVi": "giới hạn, ranh giới",
       "exampleEn": "There is a limit to the amount of merchandise the factory can make in a day.",
       "exampleVi": "Có một giới hạn về lượng hàng hóa mà nhà máy có thể sản xuất trong một ngày.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "limitation",
+          "partOfSpeech": "n",
+          "meaningVi": "sự giới hạn"
+        },
+        {
+          "word": "limited",
+          "partOfSpeech": "adj",
+          "meaningVi": "bị hạn chế"
+        }
+      ],
+      "synonyms": [
+        "bound",
+        "boundary",
+        "cap"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -217,15 +677,24 @@
       "word": "tailored",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/téilad/",
-        "us": "/téilard/"
+        "uk": "/ˈteɪləd/",
+        "us": "/ˈteɪlərd/"
       },
-      "frequency": 3,
+      "frequency": 1,
       "meaningVi": "được tùy chỉnh, điều chỉnh (theo nhu cầu)",
       "exampleEn": "This equipment can be tailored to the company's production needs.",
       "exampleVi": "Thiết bị này có thể được điều chỉnh theo nhu cầu sản xuất của công ty.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "tailor",
+          "partOfSpeech": "v",
+          "meaningVi": "may, điều chỉnh, tùy biến"
+        }
+      ],
+      "synonyms": [
+        "customized",
+        "adapted"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -235,15 +704,19 @@
       "word": "component",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/kempáunant/",
-        "us": "/kampóunant/"
+        "uk": "/kəmˈpəʊnənt/",
+        "us": "/kəmˈpəʊnənt/"
       },
       "frequency": 2,
-      "meaningVi": "phần, bộ phận",
+      "meaningVi": "thành phần, bộ phận, linh kiện",
       "exampleEn": "The store returned the defective components to the manufacturer.",
       "exampleVi": "Cửa hàng đã trả lại những bộ phận bị lỗi cho nhà sản xuất.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "part",
+        "piece",
+        "element"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -253,19 +726,34 @@
       "word": "capable",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/kéipabl/",
-        "us": "/kéipabl/"
+        "uk": "/ˈkeɪpəbl/",
+        "us": "/ˈkeɪpəbl/"
       },
       "frequency": 2,
-      "meaningVi": "khả năng, có năng lực Ferrum",
-      "exampleEn": "Corporation is capable of processing all kinds of metals.",
+      "meaningVi": "có khả năng, có năng lực",
+      "exampleEn": "Ferrum Corporation is capable of processing all kinds of metals.",
       "exampleVi": "Tập đoàn Ferrum có khả năng gia công mọi loại kim loại.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "capability",
+          "partOfSpeech": "n",
+          "meaningVi": "khả năng, năng lực"
+        },
+        {
+          "word": "capably",
+          "partOfSpeech": "adv",
+          "meaningVi": "thành thạo"
+        }
+      ],
+      "synonyms": [
+        "able",
+        "competent"
+      ],
+      "antonyms": [
+        "incapable"
+      ],
       "toeicNotes": [
-        "of + danh động từ, còn sau able là cụm to + V.",
-        "2 2 \" \" 3 2"
+        "be capable of + V-ing: có khả năng làm gì (khác với be able to + V)"
       ],
       "needsReview": false
     },
@@ -274,17 +762,36 @@
       "word": "economize",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/ikónamaiz/",
-        "us": "/ikónamaiz/"
+        "uk": "/ɪˈkɒnəmaɪz/",
+        "us": "/ɪˈkɑːnəmaɪz/"
       },
       "frequency": 2,
       "meaningVi": "tiết kiệm",
       "exampleEn": "Hybrid cars are becoming popular because they economize on fuel.",
       "exampleVi": "Dòng xe hơi chạy bằng xăng và điện ngày càng được ưa chuộng vì chúng tiết kiệm nhiên liệu.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
+      "derivatives": [
+        {
+          "word": "economy",
+          "partOfSpeech": "n",
+          "meaningVi": "nền kinh tế"
+        },
+        {
+          "word": "economical",
+          "partOfSpeech": "adj",
+          "meaningVi": "tiết kiệm"
+        }
+      ],
+      "synonyms": [
+        "save",
+        "cut back"
+      ],
+      "antonyms": [
+        "waste",
+        "squander"
+      ],
+      "toeicNotes": [
+        "economize on: tiết kiệm về (nhiên liệu, chi phí)"
+      ],
       "needsReview": false
     },
     {
@@ -292,21 +799,66 @@
       "word": "flexible",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/fléksibi/",
-        "us": "/fléksabl/"
+        "uk": "/ˈfleksəbl/",
+        "us": "/ˈfleksəbl/"
       },
       "frequency": 2,
       "meaningVi": "mềm, dẻo; dễ thuyết phục; linh hoạt",
       "exampleEn": "Management is more flexible about granting vacations when business is slow.",
-      "exampleVi": "Ban quản lý đã linh hoạt hơn trong việc cho nhân viên nghỉ phép khi hoạt động kinh doanh chậm lại.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "exampleVi": "Ban quản lý linh hoạt hơn trong việc cho nhân viên nghỉ phép khi hoạt động kinh doanh chậm lại.",
+      "derivatives": [
+        {
+          "word": "flexibility",
+          "partOfSpeech": "n",
+          "meaningVi": "tính linh hoạt"
+        }
+      ],
+      "synonyms": [
+        "adaptable",
+        "pliable"
+      ],
+      "antonyms": [
+        "rigid",
+        "stiff"
+      ],
       "toeicNotes": [
-        "Plastic is a flexible material that has numerous applications.",
-        "Nhựa là một chất liệu mềm dẻo nên có rất nhiều ứng dụng.",
-        "ad) có thể so sánh The car's quality standards are comparable to the industry average.",
-        "Tiêu chuẩn chất lượng của loại xe hơi đó có thể so sánh với mặt bằng của ngành."
+        "flexible schedule: lịch trình linh hoạt"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "comparable",
+      "word": "comparable",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ˈkɒmpərəbl/",
+        "us": "/ˈkɑːmpərəbl/"
+      },
+      "frequency": 2,
+      "meaningVi": "có thể so sánh",
+      "exampleEn": "The car's quality standards are comparable to the industry average.",
+      "exampleVi": "Tiêu chuẩn chất lượng của loại xe hơi đó có thể so sánh với mặt bằng của ngành.",
+      "derivatives": [
+        {
+          "word": "compare",
+          "partOfSpeech": "v",
+          "meaningVi": "so sánh"
+        },
+        {
+          "word": "comparison",
+          "partOfSpeech": "n",
+          "meaningVi": "sự so sánh"
+        }
+      ],
+      "synonyms": [
+        "similar",
+        "equivalent"
+      ],
+      "antonyms": [
+        "incomparable"
+      ],
+      "toeicNotes": [
+        "be comparable to: được so sánh với / tương đương với"
       ],
       "needsReview": false
     },
@@ -315,19 +867,36 @@
       "word": "produce",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/prəˈdjuːs/",
+        "us": "/prəˈduːs/"
       },
       "frequency": 2,
       "meaningVi": "sản xuất, chế tạo",
       "exampleEn": "The new machinery produces 1,000 units per hour.",
-      "exampleVi": "Chiếc máy mới sản xuất được 1000 sản phẩm mỗi giờ.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [
-        "Ider./ product (n) sản phẩm production (n) sự sản xuất productivity (n) *# = tỷ lệ xuất hiện cao * = tỷ lệ xuất hiện trung bình"
+      "exampleVi": "Chiếc máy mới sản xuất được 1.000 sản phẩm mỗi giờ.",
+      "derivatives": [
+        {
+          "word": "product",
+          "partOfSpeech": "n",
+          "meaningVi": "sản phẩm"
+        },
+        {
+          "word": "production",
+          "partOfSpeech": "n",
+          "meaningVi": "sự sản xuất"
+        },
+        {
+          "word": "productivity",
+          "partOfSpeech": "n",
+          "meaningVi": "năng suất"
+        }
       ],
+      "synonyms": [
+        "turn out",
+        "manufacture"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
       "needsReview": false
     },
     {
@@ -335,15 +904,51 @@
       "word": "respectively",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/rispéktivli/",
-        "us": "/rispéktivli/"
+        "uk": "/rɪˈspektɪvli/",
+        "us": "/rɪˈspektɪvli/"
       },
       "frequency": 2,
-      "meaningVi": "từng cái, tương ứng The camera and tablet computer cost $225 and $350",
-      "exampleEn": "respectively.",
-      "exampleVi": "Máy ảnh và máy tính bảng có giá lần lượt là 225 đô-la và 350 dồ-la.",
-      "derivatives": [],
-      "synonyms": [],
+      "meaningVi": "riêng từng cái, tương ứng",
+      "exampleEn": "The camera and tablet computer cost $225 and $350 respectively.",
+      "exampleVi": "Máy ảnh và máy tính bảng có giá lần lượt là 225 đô-la và 350 đô-la.",
+      "derivatives": [
+        {
+          "word": "respective",
+          "partOfSpeech": "adj",
+          "meaningVi": "tương ứng"
+        }
+      ],
+      "synonyms": [
+        "correspondingly"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "device",
+      "word": "device",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/dɪˈvaɪs/",
+        "us": "/dɪˈvaɪs/"
+      },
+      "frequency": 2,
+      "meaningVi": "máy móc, thiết bị",
+      "exampleEn": "The new device was tested for possible defects.",
+      "exampleVi": "Thiết bị mới đã được kiểm tra để xem có còn lỗi nào không.",
+      "derivatives": [
+        {
+          "word": "devise",
+          "partOfSpeech": "v",
+          "meaningVi": "nghĩ ra, sáng chế"
+        }
+      ],
+      "synonyms": [
+        "gadget",
+        "appliance",
+        "instrument"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -353,19 +958,22 @@
       "word": "trim",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/trim/",
-        "us": "/trim/"
+        "uk": "/trɪm/",
+        "us": "/trɪm/"
       },
       "frequency": 1,
-      "meaningVi": "cắt, tỉa, loại bỏ; sắp xếp, thu dọn",
-      "exampleEn": "This mechanism trims the plastic packaging to. make it smaller.",
-      "exampleVi": "Thiết bị này cắt gọn phần vỏ nhựa cho nó nhỏ hơn.",
+      "meaningVi": "cắt, tỉa, loại bỏ; cắt giảm",
+      "exampleEn": "The team trimmed nearly 20 percent off of current production costs.",
+      "exampleVi": "Nhóm đã cắt giảm gần 20% chi phí sản xuất hiện tại.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "cut",
+        "reduce",
+        "crop"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "The team trimmed nearly 20 percent off of current production costs.",
-        "Nhóm đã cắt giảm gần 20% chi phí sản xuất hiện tại."
+        "trim off: cắt giảm (chi phí, thời gian)"
       ],
       "needsReview": false
     },
@@ -374,15 +982,24 @@
       "word": "launch",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/lɔːntʃ/",
+        "us": "/lɔːntʃ/"
       },
       "frequency": 1,
-      "meaningVi": "mắt (sản phẩm mới)",
+      "meaningVi": "ra mắt (sản phẩm mới)",
       "exampleEn": "Computer programmers fix technical malfunctions before launching any software.",
       "exampleVi": "Lập trình viên máy tính phải khắc phục các lỗi kỹ thuật trước khi ra mắt bất cứ phần mềm nào.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "launch",
+          "partOfSpeech": "n",
+          "meaningVi": "buổi giới thiệu / ra mắt"
+        }
+      ],
+      "synonyms": [
+        "introduce",
+        "release"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -392,37 +1009,36 @@
       "word": "separately",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/séparatli/",
-        "us": "/séparatli/"
+        "uk": "/ˈseprətli/",
+        "us": "/ˈseprətli/"
       },
       "frequency": 1,
-      "meaningVi": "biệt, riêng rẽ, khác nhau",
+      "meaningVi": "tách biệt, riêng rẽ, khác nhau",
       "exampleEn": "The cushioning pads are made separately as each shoe is slightly different.",
       "exampleVi": "Các tấm lót giày được thiết kế riêng vì mỗi chiếc giày sẽ khác nhau một chút.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [
-        "NIh TOEIC dang thúe moi um be made separately được làm riên"
+      "derivatives": [
+        {
+          "word": "separate",
+          "partOfSpeech": "adj",
+          "meaningVi": "riêng lẻ"
+        },
+        {
+          "word": "separation",
+          "partOfSpeech": "n",
+          "meaningVi": "sự chia cắt"
+        }
       ],
-      "needsReview": false
-    },
-    {
-      "id": "separately",
-      "word": "separately",
-      "partOfSpeech": "n",
-      "pronunciation": {
-        "uk": "/séparatli/",
-        "us": "/séparatli/"
-      },
-      "frequency": 1,
-      "meaningVi": "dược đặt hàng riên",
-      "exampleEn": "separately thường được sử cùng các",
-      "exampleVi": "động từ như make, order,...",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
+      "synonyms": [
+        "individually"
+      ],
+      "antonyms": [
+        "together",
+        "jointly"
+      ],
+      "toeicNotes": [
+        "be made separately: được làm riêng",
+        "be ordered separately: được đặt hàng riêng"
+      ],
       "needsReview": false
     },
     {
@@ -430,15 +1046,51 @@
       "word": "expiration",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/eksparéijan/",
-        "us": "/eksparéijan/"
+        "uk": "/ˌekspəˈreɪʃn/",
+        "us": "/ˌekspəˈreɪʃn/"
       },
       "frequency": 1,
       "meaningVi": "sự hết hạn",
       "exampleEn": "The expiration date is printed on the top of the milk carton.",
       "exampleVi": "Hạn sử dụng được in trên nắp hộp sữa.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "expire",
+          "partOfSpeech": "v",
+          "meaningVi": "hết hạn"
+        }
+      ],
       "synonyms": [],
+      "antonyms": [],
+      "toeicNotes": [
+        "expiration date: hạn sử dụng"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "maneuver",
+      "word": "maneuver",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/məˈnuːvər/",
+        "us": "/məˈnuːvər/"
+      },
+      "frequency": 1,
+      "meaningVi": "diễn tập, điều động, điều khiển",
+      "exampleEn": "Assembly line workers maneuvered the machinery into place.",
+      "exampleVi": "Các công nhân ở dây chuyền lắp ráp đã điều khiển máy móc vào đúng vị trí.",
+      "derivatives": [
+        {
+          "word": "maneuver",
+          "partOfSpeech": "n",
+          "meaningVi": "sự điều động, diễn tập"
+        }
+      ],
+      "synonyms": [
+        "move",
+        "navigate",
+        "steer"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -448,17 +1100,100 @@
       "word": "coming",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/manú val \"coming* [kámin/",
-        "us": "/manú val \"coming* [kámin/"
+        "uk": "/ˈkʌmɪŋ/",
+        "us": "/ˈkʌmɪŋ/"
       },
       "frequency": 1,
       "meaningVi": "sắp tới",
       "exampleEn": "Factory output will double in the coming year.",
       "exampleVi": "Sản lượng của nhà máy sẽ tăng gấp đôi trong năm tới.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "come",
+          "partOfSpeech": "v",
+          "meaningVi": "đến"
+        }
+      ],
+      "synonyms": [
+        "upcoming",
+        "approaching"
+      ],
       "antonyms": [],
       "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "damaged",
+      "word": "damaged",
+      "partOfSpeech": "adj",
+      "pronunciation": {
+        "uk": "/ˈdæmɪdʒd/",
+        "us": "/ˈdæmɪdʒd/"
+      },
+      "frequency": 1,
+      "meaningVi": "bị phá hủy, bị hư hại, hỏng",
+      "exampleEn": "The conveyor belts were damaged from excessive use.",
+      "exampleVi": "Các băng chuyền đã hỏng vì bị sử dụng quá nhiều.",
+      "derivatives": [
+        {
+          "word": "damage",
+          "partOfSpeech": "n",
+          "meaningVi": "sự thiệt hại"
+        },
+        {
+          "word": "damage",
+          "partOfSpeech": "v",
+          "meaningVi": "làm hư hại"
+        }
+      ],
+      "synonyms": [
+        "broken",
+        "impaired"
+      ],
+      "antonyms": [
+        "intact"
+      ],
+      "toeicNotes": [
+        "phân biệt damaged (sự vật hư hại), impaired (khiếm khuyết con người), injured (chấn thương người)"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "prevent",
+      "word": "prevent",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/prɪˈvent/",
+        "us": "/prɪˈvent/"
+      },
+      "frequency": 1,
+      "meaningVi": "ngăn chặn, ngăn ngừa",
+      "exampleEn": "Employees are expected to observe safety guidelines to prevent accidents.",
+      "exampleVi": "Nhân viên được yêu cầu phải tuân thủ các chỉ dẫn an toàn để phòng tránh tai nạn.",
+      "derivatives": [
+        {
+          "word": "prevention",
+          "partOfSpeech": "n",
+          "meaningVi": "sự ngăn ngừa"
+        },
+        {
+          "word": "preventive",
+          "partOfSpeech": "adj",
+          "meaningVi": "nhằm phòng ngừa"
+        }
+      ],
+      "synonyms": [
+        "avoid",
+        "stop",
+        "hinder"
+      ],
+      "antonyms": [
+        "allow",
+        "permit"
+      ],
+      "toeicNotes": [
+        "prevent A from -ing: phòng tránh A khỏi việc gì"
+      ],
       "needsReview": false
     },
     {
@@ -466,18 +1201,34 @@
       "word": "power",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈpaʊər/",
+        "us": "/ˈpaʊər/"
       },
       "frequency": 1,
-      "meaningVi": "sức mạnh, năng lượng/điện Nhà máy bị đóng cửa nửa ngày vì mất điện. lan thi TOBIC dặng thức mội Từ",
-      "exampleEn": "power thường được biết",
-      "exampleVi": "đến với nghĩa \"sức mạnh\".",
-      "derivatives": [],
-      "synonyms": [],
+      "meaningVi": "sức mạnh, năng lượng, điện",
+      "exampleEn": "The plant was closed for half a business day due to a power outage.",
+      "exampleVi": "Nhà máy bị đóng cửa nửa ngày làm việc vì mất điện.",
+      "derivatives": [
+        {
+          "word": "powerful",
+          "partOfSpeech": "adj",
+          "meaningVi": "mạnh mẽ"
+        },
+        {
+          "word": "empower",
+          "partOfSpeech": "v",
+          "meaningVi": "trao quyền"
+        }
+      ],
+      "synonyms": [
+        "electricity",
+        "energy"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "(adi) thuộc hóa học nhà hóa học môn hóa học"
+        "power outage / failure: sự mất điện",
+        "power plant: nhà máy điện",
+        "power supply: nguồn cung cấp điện"
       ],
       "needsReview": false
     },
@@ -486,17 +1237,32 @@
       "word": "chemical",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/kémikal/",
-        "us": "/kémikal/"
+        "uk": "/ˈkemɪkl/",
+        "us": "/ˈkemɪkl/"
       },
       "frequency": 1,
-      "meaningVi": "chất hóa học Đồ bảo hộ rất cần thiết khi ta làm việc với những hóa chất Bai In TOEIC dạng thức mới",
-      "exampleEn": "Ma: Chemical chất hóa",
-      "exampleVi": "học 'chemist nhà hóa học Bài thi có thể xuất hiện câu hỏi yêu cầu phân biệt từ loại giữa",
-      "derivatives": [],
-      "synonyms": [],
+      "meaningVi": "chất hóa học",
+      "exampleEn": "Protective gear is needed when working with dangerous chemicals.",
+      "exampleVi": "Đồ bảo hộ rất cần thiết khi làm việc với những hóa chất nguy hiểm.",
+      "derivatives": [
+        {
+          "word": "chemist",
+          "partOfSpeech": "n",
+          "meaningVi": "nhà hóa học"
+        },
+        {
+          "word": "chemistry",
+          "partOfSpeech": "n",
+          "meaningVi": "môn hóa học"
+        }
+      ],
+      "synonyms": [
+        "substance"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "phân biệt chemical (chất hóa học) và chemist (nhà hóa học)"
+      ],
       "needsReview": false
     }
   ],
@@ -518,7 +1284,7 @@
       },
       {
         "word": "component",
-        "meaningVi": "phần"
+        "meaningVi": "thành phần"
       },
       {
         "word": "check",
@@ -530,7 +1296,7 @@
       },
       {
         "word": "efficiency",
-        "meaningVi": "hiệu suất"
+        "meaningVi": "hiệu quả"
       },
       {
         "word": "worker",
@@ -556,99 +1322,99 @@
           "a": "automate",
           "options": [
             "automate",
-            "precaution",
-            "power",
-            "tailored"
+            "renovate",
+            "economize",
+            "operate"
           ]
         },
         {
           "q": "The quality control team checks if all items meet product ___s.",
           "a": "specification",
           "options": [
-            "automate",
-            "operate",
             "specification",
-            "precaution"
+            "precaution",
+            "decision",
+            "material"
+          ]
+        },
+        {
+          "q": "Machinery must be well-maintained to operate ___.",
+          "a": "properly",
+          "options": [
+            "properly",
+            "separately",
+            "respectively",
+            "capable"
+          ]
+        },
+        {
+          "q": "After the accident, the company introduced stricter safety ___s.",
+          "a": "precaution",
+          "options": [
+            "precaution",
+            "component",
+            "device",
+            "efficiency"
           ]
         },
         {
           "q": "The warehouse's ___ will double after the construction.",
           "a": "capacity",
           "options": [
-            "place",
             "capacity",
-            "chemical",
-            "trim"
+            "material",
+            "power",
+            "decision"
           ]
         },
         {
           "q": "Components are manufactured abroad and ___d domestically.",
           "a": "assemble",
           "options": [
-            "place",
-            "limit",
-            "assemble",
-            "separately"
-          ]
-        },
-        {
-          "q": "The technicians ___d computer technology to improve processes.",
-          "a": "utilize",
-          "options": [
             "assemble",
             "utilize",
-            "component",
-            "power"
+            "renovate",
+            "maneuver"
           ]
         },
         {
-          "q": "The factory supervisor has ___d production operations on standby.",
-          "a": "place",
+          "q": "The packaging area was ___d to use the space more effectively.",
+          "a": "renovate",
           "options": [
-            "limit",
-            "place",
-            "respectively",
-            "automate"
+            "renovate",
+            "produce",
+            "prevent",
+            "trim"
           ]
         },
         {
-          "q": "There is a ___ to the amount of merchandise the factory can make in a day.",
-          "a": "limit",
-          "options": [
-            "assemble",
-            "place",
-            "limit",
-            "power"
-          ]
-        },
-        {
-          "q": "This equipment can be ___ to the company's production needs.",
-          "a": "tailored",
-          "options": [
-            "respectively",
-            "tailored",
-            "economize",
-            "flexible"
-          ]
-        },
-        {
-          "q": "The store returned the defective ___s to the manufacturer.",
-          "a": "component",
-          "options": [
-            "component",
-            "place",
-            "launch",
-            "automate"
-          ]
-        },
-        {
-          "q": "Corporation is ___ of processing all kinds of metals.",
+          "q": "Ferrum Corporation is ___ of processing all kinds of metals.",
           "a": "capable",
           "options": [
-            "respectively",
-            "coming",
-            "component",
-            "capable"
+            "capable",
+            "flexible",
+            "comparable",
+            "tailored"
+          ]
+        },
+        {
+          "q": "Hybrid cars are becoming popular because they ___ on fuel.",
+          "a": "economize",
+          "options": [
+            "economize",
+            "attribute",
+            "maneuver",
+            "launch"
+          ]
+        },
+        {
+          "q": "Employees are expected to observe safety guidelines to ___ accidents.",
+          "a": "prevent",
+          "options": [
+            "prevent",
+            "fill",
+            "place",
+            "trim"
           ]
         }
       ]

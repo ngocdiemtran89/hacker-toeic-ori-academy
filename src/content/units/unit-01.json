@@ -1068,28 +1068,28 @@
           "a": "inform",
           "options": [
             "inform",
-            "position",
-            "hire",
-            "highly"
+            "appeal",
+            "proficiency",
+            "prospective"
           ]
         },
         {
           "q": "Fax your ___ and cover letter to the above number.",
           "a": "résumé",
           "options": [
+            "identify",
+            "highly",
             "résumé",
-            "reference",
-            "proficiency",
-            "position"
+            "achievement"
           ]
         },
         {
           "q": "There are several job ___s at the restaurant right now.",
           "a": "opening",
           "options": [
-            "managerial",
+            "apprehensive",
             "opening",
-            "lack",
+            "position",
             "excellent"
           ]
         },
@@ -1097,40 +1097,40 @@
           "q": "___s are required to submit a résumé.",
           "a": "applicant",
           "options": [
-            "interview",
-            "inform",
-            "applicant",
-            "résumé"
+            "candidate",
+            "prospective",
+            "highly",
+            "applicant"
           ]
         },
         {
           "q": "A driver's license is a ___ of this job.",
           "a": "requirement",
           "options": [
-            "apprehensive",
-            "requirement",
-            "achievement",
-            "applicant"
+            "candidate",
+            "professional",
+            "résumé",
+            "requirement"
           ]
         },
         {
           "q": "Applicants must ___ all the requirements for the job.",
           "a": "meet",
           "options": [
-            "highly",
-            "confidence",
-            "prospective",
-            "meet"
+            "specialize",
+            "meet",
+            "achievement",
+            "entitle"
           ]
         },
         {
           "q": "People with master's degrees are ___ for the research position.",
           "a": "qualified",
           "options": [
-            "familiar",
-            "qualified",
             "prospective",
-            "recruit"
+            "condition",
+            "qualified",
+            "diligent"
           ]
         },
         {
@@ -1139,28 +1139,28 @@
           "options": [
             "interview",
             "candidate",
-            "identify",
-            "impressed"
+            "inform",
+            "degree"
           ]
         },
         {
           "q": "We have ___ that she can handle the position.",
           "a": "confidence",
           "options": [
-            "familiar",
-            "training",
             "employment",
-            "confidence"
+            "confidence",
+            "position",
+            "impressed"
           ]
         },
         {
           "q": "Mr. Monroe's experience makes him ___ qualified for the job.",
           "a": "highly",
           "options": [
-            "managerial",
-            "inform",
-            "lack",
-            "highly"
+            "employment",
+            "diligent",
+            "highly",
+            "confidence"
           ]
         }
       ]

@@ -1569,9 +1569,9 @@
           "q": "The company started a ___ program into developing GPS technology.",
           "a": "research",
           "options": [
-            "accurate",
-            "feature",
-            "corrosion",
+            "availability",
+            "grant",
+            "update",
             "research"
           ]
         },
@@ -1579,39 +1579,39 @@
           "q": "Scientists are ___ing new energy sources.",
           "a": "research",
           "options": [
-            "complicated",
-            "sufficiently",
+            "revolutionary",
+            "upgrade",
             "research",
-            "intend"
+            "patent"
           ]
         },
         {
           "q": "The firm ___d a more efficient network system.",
           "a": "devise",
           "options": [
-            "patent",
-            "feature",
             "devise",
-            "research"
+            "advance",
+            "patent",
+            "following"
           ]
         },
         {
           "q": "The car's ___ new engine surpasses those of the competition.",
           "a": "revolutionary",
           "options": [
-            "extend",
-            "improve",
+            "research",
+            "patent",
             "revolutionary",
-            "upgrade"
+            "availability"
           ]
         },
         {
           "q": "Simpson & Associates provides clients with ___ solutions to their needs.",
           "a": "innovative",
           "options": [
-            "compatible",
-            "allow",
-            "successful",
+            "corrosion",
+            "following",
+            "invest",
             "innovative"
           ]
         },
@@ -1619,50 +1619,50 @@
           "q": "The latest dryer has several new ___s.",
           "a": "feature",
           "options": [
-            "revolutionary",
-            "quality",
+            "successful",
             "superior",
-            "feature"
+            "feature",
+            "upgrade"
           ]
         },
         {
           "q": "This refrigerator model ___s high energy efficiency.",
           "a": "feature",
           "options": [
+            "inspiration",
+            "inspect",
             "feature",
-            "inquiry",
-            "devise",
-            "accomplished"
+            "following"
           ]
         },
         {
           "q": "The new fashion designer draws her ___ from traditional attire.",
           "a": "inspiration",
           "options": [
-            "feature",
-            "intend",
-            "compatible",
-            "inspiration"
+            "inspiration",
+            "manual",
+            "manual",
+            "invest"
           ]
         },
         {
           "q": "The containers are ___ strong to resist breakage.",
           "a": "sufficiently",
           "options": [
-            "advance",
-            "grant",
+            "feature",
+            "innovative",
             "sufficiently",
-            "advance"
+            "inspect"
           ]
         },
         {
           "q": "The lawyers submitted the paperwork for a ___ application.",
           "a": "patent",
           "options": [
-            "patent",
-            "inspect",
-            "invest",
-            "update"
+            "corrosion",
+            "innovative",
+            "absolute",
+            "patent"
           ]
         }
       ]

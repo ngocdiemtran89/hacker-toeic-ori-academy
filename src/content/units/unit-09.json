@@ -1252,89 +1252,89 @@
           "q": "Profits are down this year as sales have been ___.",
           "a": "stagnant",
           "options": [
-            "evenly",
-            "potential",
-            "soar",
-            "stagnant"
+            "stagnant",
+            "period",
+            "economical",
+            "soar"
           ]
         },
         {
           "q": "Interest rates climbed ___.",
           "a": "dramatically",
           "options": [
+            "period",
+            "consequence",
             "dramatically",
-            "assert",
-            "economical",
-            "fall"
+            "thrive"
           ]
         },
         {
           "q": "A ___ market is developing in online shopping.",
           "a": "brisk",
           "options": [
+            "wane",
             "brisk",
-            "implication",
-            "adversity",
-            "substitute"
+            "promising",
+            "unstable"
           ]
         },
         {
           "q": "Gas prices have been ___ in recent years.",
           "a": "unstable",
           "options": [
-            "pleased",
-            "fairly",
-            "unstable",
-            "impede"
+            "evidence",
+            "drastic",
+            "rapidly",
+            "unstable"
           ]
         },
         {
           "q": "Energy demand increased ___.",
           "a": "rapidly",
           "options": [
-            "rapidly",
-            "industry",
-            "depression",
-            "pleased"
+            "economical",
+            "limited",
+            "fall",
+            "rapidly"
           ]
         },
         {
           "q": "Interest rates have ___ed due to inflation.",
           "a": "soar",
           "options": [
-            "remain",
-            "potential",
+            "prosperity",
+            "costly",
             "soar",
-            "lead"
+            "limited"
           ]
         },
         {
           "q": "The report ___s that corporate growth will continue.",
           "a": "assert",
           "options": [
-            "brisk",
-            "director",
             "assert",
-            "dramatically"
+            "promising",
+            "indicator",
+            "evidence"
           ]
         },
         {
           "q": "The real estate industry has helped ___ the economy.",
           "a": "boost",
           "options": [
-            "assert",
-            "costly",
             "likely",
-            "boost"
+            "depression",
+            "boost",
+            "dramatically"
           ]
         },
         {
           "q": "___s recommend buying stock in energy companies.",
           "a": "analyst",
           "options": [
-            "drastic",
-            "dramatically",
-            "remain",
+            "rapidly",
+            "evenly",
+            "likely",
             "analyst"
           ]
         },
@@ -1342,10 +1342,10 @@
           "q": "___ earnings from the trade deal could reach billions of dollars.",
           "a": "potential",
           "options": [
-            "stagnant",
-            "potential",
-            "industry",
-            "consequence"
+            "substitute",
+            "depression",
+            "wane",
+            "potential"
           ]
         }
       ]

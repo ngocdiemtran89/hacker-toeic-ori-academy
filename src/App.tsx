@@ -7,6 +7,8 @@ import UnitDetailPage from './pages/UnitDetailPage';
 import FlashcardPage from './pages/FlashcardPage';
 import QuizPage from './pages/QuizPage';
 import ReviewQuizPage from './pages/ReviewQuizPage';
+import SpeedChallengePage from './pages/SpeedChallengePage';
+import PomodoroTimerModal from './components/PomodoroTimerModal';
 
 export default function App() {
   const [dark, setDark] = useState(() => {
@@ -17,6 +19,8 @@ export default function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(() => {
     return localStorage.getItem('ori-auth') === 'true';
   });
+
+  const [isPomodoroOpen, setIsPomodoroOpen] = useState(false);
 
   useEffect(() => {
     localStorage.setItem('ori-dark-mode', JSON.stringify(dark));
@@ -49,16 +53,25 @@ export default function App() {
           onToggleDark={() => setDark(!dark)} 
           onLock={handleLock}
           isAuthenticated={isAuthenticated}
+          onOpenPomodoro={() => setIsPomodoroOpen(true)}
         />
         <main className="max-w-6xl mx-auto px-4 sm:px-6 pb-12">
           <Routes>
-            <Route path="/" element={<DashboardPage dark={dark} />} />
+            <Route path="/" element={<DashboardPage dark={dark} onOpenPomodoro={() => setIsPomodoroOpen(true)} />} />
             <Route path="/unit/:unitId" element={<UnitDetailPage dark={dark} />} />
             <Route path="/unit/:unitId/flashcards" element={<FlashcardPage dark={dark} />} />
             <Route path="/unit/:unitId/quiz" element={<QuizPage dark={dark} />} />
             <Route path="/review-quiz" element={<ReviewQuizPage dark={dark} />} />
+            <Route path="/speed-challenge" element={<SpeedChallengePage dark={dark} />} />
           </Routes>
         </main>
+
+        {/* Global Pomodoro Timer Modal */}
+        <PomodoroTimerModal
+          isOpen={isPomodoroOpen}
+          onClose={() => setIsPomodoroOpen(false)}
+          dark={dark}
+        />
       </div>
     </BrowserRouter>
   );

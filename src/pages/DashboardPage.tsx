@@ -1,102 +1,126 @@
 import { Link } from 'react-router-dom';
 import { getAllUnits } from '../data';
+import SpacedRepetitionWidget from '../components/SpacedRepetitionWidget';
+import { getUserStats } from '../utils/srs';
 
 interface Props {
   dark: boolean;
+  onOpenPomodoro?: () => void;
 }
 
-export default function DashboardPage({ dark }: Props) {
+export default function DashboardPage({ dark, onOpenPomodoro }: Props) {
   const units = getAllUnits();
+  const stats = getUserStats();
 
   return (
-    <div className="pt-8 space-y-8">
-      {/* Hero */}
-      <section className="text-center py-10 space-y-4 animate-fade-in">
+    <div className="pt-6 space-y-8 pb-12">
+      {/* Hero Banner */}
+      <section className="text-center py-6 space-y-4 animate-fade-in">
         <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full text-xs font-semibold bg-gradient-to-r from-primary-500/10 to-accent-500/10 text-primary-600 dark:text-primary-300 border border-primary-200/30 dark:border-primary-500/20">
           <span className="w-1.5 h-1.5 rounded-full bg-accent-500 animate-pulse" />
           ORI ACADEMY - TOEIC - Giao tiếp phản xạ - Phỏng vấn xin việc Hàng Không từ 2013 đến nay
         </div>
+        
         <h2 className="text-4xl sm:text-5xl font-black tracking-tight">
-          Học từ vựng TOEIC
+          Luyện Từ Vựng TOEIC
           <br />
-          <span className="gradient-text">mỗi ngày 30 phút</span>
+          <span className="gradient-text">Phương Pháp Ngắt Quãng & Gamification</span>
         </h2>
-        <p className={`max-w-lg mx-auto text-base ${dark ? 'text-surface-200/50' : 'text-surface-800/50'}`}>
-          40 từ vựng mỗi bài • Flashcard tương tác • Quiz kiểm tra • Phát âm chuẩn
+        
+        <p className={`max-w-xl mx-auto text-sm sm:text-base ${dark ? 'text-surface-200/60' : 'text-surface-800/60'}`}>
+          Ứng dụng <strong>Lặp lại ngắt quãng (Leitner 5-Box SRS)</strong> + <strong>Tập trung Pomodoro 25m</strong> + <strong>Thử thách Phản xạ 60s</strong> giúp bạn ghi nhớ 700+ từ vựng TOEIC vượt trội.
         </p>
-      </section>
 
-      {/* Stats */}
-      <section className="grid grid-cols-2 sm:grid-cols-4 gap-3 animate-slide-up" style={{ animationDelay: '100ms' }}>
-        {[
-          { label: 'Units', value: units.length, icon: '📚' },
-          { label: 'Từ vựng', value: units.reduce((s, u) => s + u.words.length, 0), icon: '📝' },
-          { label: 'Chủ đề', value: units.length, icon: '🎯' },
-          { label: 'Quiz', value: units.reduce((s, u) => s + u.quiz.length, 0), icon: '✅' },
-        ].map(stat => (
-          <div key={stat.label} className={`rounded-2xl p-4 text-center transition-all hover:scale-[1.02] ${
-            dark ? 'bg-surface-900/60 border border-white/5' : 'bg-white/70 border border-primary-100/30 shadow-sm'
-          }`}>
-            <p className="text-2xl mb-1">{stat.icon}</p>
-            <p className="text-2xl font-bold gradient-text">{stat.value}</p>
-            <p className={`text-xs font-medium ${dark ? 'text-surface-200/40' : 'text-surface-800/40'}`}>{stat.label}</p>
+        {/* User Level Card */}
+        <div className="inline-flex items-center gap-3 px-5 py-2.5 rounded-2xl bg-gradient-to-r from-amber-500/10 via-primary-500/10 to-emerald-500/10 border border-amber-500/20">
+          <span className="text-xl">🏆</span>
+          <div className="text-left">
+            <p className="text-xs font-bold text-amber-500">{stats.levelName}</p>
+            <p className={`text-[11px] ${dark ? 'text-surface-200/50' : 'text-surface-800/50'}`}>
+              Tích lũy <strong>{stats.xp} XP</strong> • Chuỗi học liên tục: <strong className="text-amber-500">🔥 {stats.streak} ngày</strong>
+            </p>
           </div>
-        ))}
+        </div>
       </section>
 
-      {/* Review Quiz CTA */}
-      <section className="animate-fade-in" style={{ animationDelay: '150ms' }}>
+      {/* Spaced Repetition (Leitner Box) Widget */}
+      <section className="animate-fade-in" style={{ animationDelay: '80ms' }}>
+        <SpacedRepetitionWidget dark={dark} onOpenPomodoro={onOpenPomodoro} />
+      </section>
+
+      {/* Quick Action Game Modes */}
+      <section className="grid grid-cols-1 sm:grid-cols-2 gap-4 animate-fade-in" style={{ animationDelay: '120ms' }}>
+        {/* Speed Challenge */}
         <Link
-          to="/review-quiz"
-          className={`block rounded-3xl p-6 sm:p-8 border relative overflow-hidden transition-all hover:scale-[1.01] active:scale-[0.99] group ${
+          to="/speed-challenge"
+          className={`group p-6 rounded-3xl border relative overflow-hidden transition-all hover:scale-[1.02] active:scale-[0.98] ${
             dark
-              ? 'bg-gradient-to-r from-primary-950/40 via-accent-950/20 to-surface-900/60 border-white/5 hover:border-primary-500/20'
-              : 'bg-gradient-to-r from-primary-500/5 via-accent-500/5 to-white border-primary-100/30 hover:border-primary-300/40 shadow-xl shadow-primary-500/5'
+              ? 'bg-gradient-to-br from-amber-950/30 to-surface-900 border-amber-500/20 hover:border-amber-500/40'
+              : 'bg-gradient-to-br from-amber-50/50 to-white border-amber-200 shadow-lg shadow-amber-500/5 hover:border-amber-300'
           }`}
         >
-          {/* Decorative background glow */}
-          <div className="absolute -right-24 -top-24 w-48 h-48 rounded-full bg-primary-500/15 blur-3xl group-hover:scale-150 transition-all duration-700" />
-          <div className="absolute -left-24 -bottom-24 w-48 h-48 rounded-full bg-accent-500/15 blur-3xl group-hover:scale-150 transition-all duration-700" />
-
-          <div className="relative flex flex-col sm:flex-row items-start sm:items-center justify-between gap-6">
-            <div className="space-y-2">
-              <span className={`inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${
-                dark ? 'bg-primary-500/20 text-primary-300' : 'bg-primary-100 text-primary-700'
-              }`}>
-                ⚡ Tính năng học thông minh
-              </span>
-              <h3 className="text-2xl font-black tracking-tight">Trắc Nghiệm Ôn Tập (Review Quiz)</h3>
-              <p className={`text-sm max-w-xl leading-relaxed ${dark ? 'text-surface-200/50' : 'text-surface-800/50'}`}>
-                Học qua 10 từ ngẫu nhiên trắc nghiệm từ toàn bộ 18 chủ đề. Hệ thống <strong>Lặp lại từ sai (Spaced Repetition)</strong> sẽ liên tục đưa lại các từ bạn chọn sai cho đến khi thuộc lòng mới thôi!
+          <div className="flex items-start justify-between">
+            <div className="space-y-1">
+              <span className="text-2xl">⚡</span>
+              <h3 className="text-xl font-black">Thử Thách Thần Tốc 60s</h3>
+              <p className={`text-xs leading-relaxed max-w-xs ${dark ? 'text-surface-200/50' : 'text-surface-800/50'}`}>
+                Trắc nghiệm 60 giây đo phản xạ từ vựng TOEIC cấp tốc. Nhân chuỗi điểm Combo x2, x3, x5!
               </p>
             </div>
-            <div className="shrink-0 w-full sm:w-auto">
-              <span className="w-full sm:w-auto text-center inline-flex items-center justify-center gap-2 px-6 py-3.5 rounded-2xl bg-gradient-to-r from-primary-500 to-accent-500 text-white font-bold shadow-lg shadow-primary-500/20 group-hover:shadow-primary-500/40 transition-shadow">
-                Bắt đầu ôn tập 🚀
-              </span>
+            <span className="px-4 py-2 rounded-xl bg-amber-500 text-white font-extrabold text-xs shadow-md shadow-amber-500/25 group-hover:scale-105 transition-transform shrink-0">
+              Chơi ngay ⚡
+            </span>
+          </div>
+        </Link>
+
+        {/* Review Quiz */}
+        <Link
+          to="/review-quiz"
+          className={`group p-6 rounded-3xl border relative overflow-hidden transition-all hover:scale-[1.02] active:scale-[0.99] ${
+            dark
+              ? 'bg-gradient-to-br from-primary-950/30 to-surface-900 border-primary-500/20 hover:border-primary-500/40'
+              : 'bg-gradient-to-br from-primary-50/50 to-white border-primary-200 shadow-lg shadow-primary-500/5 hover:border-primary-300'
+          }`}
+        >
+          <div className="flex items-start justify-between">
+            <div className="space-y-1">
+              <span className="text-2xl">🚀</span>
+              <h3 className="text-xl font-black">Trắc Nghiệm Ôn Tập (Review Quiz)</h3>
+              <p className={`text-xs leading-relaxed max-w-xs ${dark ? 'text-surface-200/50' : 'text-surface-800/50'}`}>
+                Trắc nghiệm 10 từ ngẫu nhiên từ 18 bài. Tự động bắt ôn lại từ sai đến khi thuộc lòng.
+              </p>
             </div>
+            <span className="px-4 py-2 rounded-xl bg-gradient-to-r from-primary-500 to-accent-500 text-white font-extrabold text-xs shadow-md shadow-primary-500/25 group-hover:scale-105 transition-transform shrink-0">
+              Ôn ngay 🚀
+            </span>
           </div>
         </Link>
       </section>
 
-      {/* Unit list */}
-      <section className="space-y-4">
-        <h3 className="text-lg font-bold">Danh sách bài học</h3>
+      {/* Unit List */}
+      <section className="space-y-4 pt-2">
+        <div className="flex justify-between items-center">
+          <h3 className="text-xl font-black tracking-tight">Danh sách 18 Bài Học TOEIC</h3>
+          <span className={`text-xs font-semibold ${dark ? 'text-surface-200/40' : 'text-surface-800/40'}`}>
+            700+ từ vựng chuẩn thi
+          </span>
+        </div>
+
         <div className="grid gap-4 sm:grid-cols-2">
           {units.map((unit, i) => (
             <Link
               key={unit.id}
               to={`/unit/${unit.id}`}
-              className={`group rounded-2xl border p-6 transition-all duration-300 hover:shadow-xl hover:-translate-y-1 animate-slide-up ${
+              className={`group rounded-2xl border p-5 transition-all duration-300 hover:shadow-xl hover:-translate-y-1 animate-slide-up ${
                 dark
-                  ? 'bg-surface-900/60 border-white/5 hover:border-primary-500/30 hover:shadow-primary-500/10'
-                  : 'bg-white/80 border-primary-100/40 hover:border-primary-300/60 hover:shadow-primary-200/20'
+                  ? 'bg-surface-900/60 border-white/5 hover:border-primary-500/30 shadow-black/20'
+                  : 'bg-white/80 border-primary-100/40 hover:border-primary-300/60 shadow-sm'
               }`}
-              style={{ animationDelay: `${200 + i * 80}ms` }}
+              style={{ animationDelay: `${150 + i * 50}ms` }}
             >
               <div className="flex items-start gap-4">
-                <div className="w-14 h-14 rounded-2xl bg-gradient-to-br from-primary-500 to-primary-600 flex items-center justify-center shadow-lg shadow-primary-500/20 group-hover:shadow-primary-500/40 transition-shadow shrink-0">
-                  <span className="text-white text-lg font-black">
+                <div className="w-12 h-12 rounded-2xl bg-gradient-to-br from-primary-500 to-primary-600 flex items-center justify-center shadow-md shadow-primary-500/20 group-hover:shadow-primary-500/40 transition-shadow shrink-0">
+                  <span className="text-white text-base font-black">
                     {String(unit.day).padStart(2, '0')}
                   </span>
                 </div>
@@ -111,11 +135,11 @@ export default function DashboardPage({ dark }: Props) {
                       {unit.topic}
                     </span>
                   </div>
-                  <h4 className="text-lg font-bold truncate group-hover:text-primary-500 transition-colors">
+                  <h4 className="text-base font-bold truncate group-hover:text-primary-500 transition-colors">
                     {unit.title}
                   </h4>
-                  <p className={`text-sm mt-1 ${dark ? 'text-surface-200/40' : 'text-surface-800/40'}`}>
-                    {unit.words.length} từ vựng • {unit.quiz.length} bài quiz
+                  <p className={`text-xs mt-1 ${dark ? 'text-surface-200/40' : 'text-surface-800/40'}`}>
+                    {unit.words.length} từ vựng • Flashcards & Quiz
                   </p>
                 </div>
                 <svg className={`w-5 h-5 shrink-0 mt-1 transition-transform group-hover:translate-x-1 ${dark ? 'text-surface-200/20' : 'text-surface-800/20'}`} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>

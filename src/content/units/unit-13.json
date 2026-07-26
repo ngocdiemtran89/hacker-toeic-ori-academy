@@ -13,18 +13,31 @@
       "word": "complaint",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/kampléint/",
-        "us": "/kampléint/"
+        "uk": "/kəmˈpleɪnt/",
+        "us": "/kəmˈpleɪnt/"
       },
       "frequency": 3,
       "meaningVi": "lời than phiền, lời phàn nàn",
       "exampleEn": "Customers can register complaints at the customer service center or online.",
       "exampleVi": "Khách hàng có thể nộp đơn khiếu nại tại trung tâm chăm sóc khách hàng hoặc qua mạng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "complain",
+          "partOfSpeech": "v",
+          "meaningVi": "phàn nàn"
+        }
+      ],
+      "synonyms": [
+        "grumble"
+      ],
+      "antonyms": [
+        "praise",
+        "compliment"
+      ],
       "toeicNotes": [
-        "cm make complaints against phàn nàn về Phen file a complaint with nộp đơn khiếu nại complaint thường được sử dụng cùng các động từ như make, file."
+        "make complaints against: phàn nàn về",
+        "file a complaint with: nộp đơn khiếu nại",
+        "complaint thường được sử dụng cùng các động từ như make, file."
       ],
       "needsReview": false
     },
@@ -33,61 +46,88 @@
       "word": "deal",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/diel/",
-        "us": "/diel/"
+        "uk": "/diːl/",
+        "us": "/diːl/"
       },
       "frequency": 1,
-      "meaningVi": "giải quyết; buôn bán; phân phối",
+      "meaningVi": "giải quyết; buôn bán; phân phối; (n) sự thỏa thuận mua bán",
       "exampleEn": "The problem will be dealt with immediately.",
       "exampleVi": "Vấn đề này sẽ được giải quyết ngay lập tức.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "handle"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Davis Automotive deals in used cars and automotive Davis Automotive bán xe hơi đã qua sử dụng và phụ tùng ô tô.",
-        "The government will deal out debt relief grants to the poor.",
-        "Chính phủ sẽ dành cho người nghèo trợ cấp miễn trừ nợ."
+        "deal with: giải quyết, xử lý (thường đi cùng giới từ with, thể bị động be dealt with).",
+        "deal in: buôn bán",
+        "deal out: phân phối, phân phát",
+        "a good deal: một vụ giao dịch có lợi",
+        "a great deal of: rất nhiều (= a lot of)"
       ],
       "needsReview": false
     },
     {
       "id": "argumentative",
       "word": "argumentative",
-      "partOfSpeech": "n",
+      "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/àrgjuméntativ/",
-        "us": "/àrgjuméntativ/"
+        "uk": "/ˌɑːɡjuˈmentətɪv/",
+        "us": "/ˌɑːrɡjuˈmentətɪv/"
       },
       "frequency": 1,
       "meaningVi": "hay tranh luận, thích tranh cãi",
-      "exampleEn": "An argumentative employee can create friction within a team.",
-      "exampleVi": "Một nhân viên hay tranh cãi có thể gây ra bất hòa trong nhóm.",
-      "derivatives": [],
+      "exampleEn": "Service personnel must avoid becoming argumentative with upset customers.",
+      "exampleVi": "Những người làm dịch vụ cần phải tránh thói quen tranh cãi với các vị khách bất mãn.",
+      "derivatives": [
+        {
+          "word": "argue",
+          "partOfSpeech": "v",
+          "meaningVi": "tranh cãi"
+        },
+        {
+          "word": "argument",
+          "partOfSpeech": "n",
+          "meaningVi": "cuộc tranh cãi"
+        },
+        {
+          "word": "arguably",
+          "partOfSpeech": "adv",
+          "meaningVi": "được cho là"
+        }
+      ],
       "synonyms": [],
       "antonyms": [],
       "toeicNotes": [
-        "Thể bị động be dealt with cũng thường được dùng, hãy lưu ý không được thiếu giới từ with.",
-        "2.",
-        "a good deal một vụ giao dịch có lợi a great deal of rất nhiều (= a lot of, a great amount of) deal cũng thường xuất hiện dưới dạng danh từ.",
-        "Nắm bắt mạch văn sẽ giúp bạn phân biệt được đúng từ loại."
+        "Phân biệt: argumentative (thích tranh cãi - dùng cho người) và arguable (đáng tranh cãi - dùng cho vấn đề)."
       ],
       "needsReview": false
     },
     {
-      "id": "c-cho-là",
-      "word": "c cho là",
-      "partOfSpeech": "adj",
+      "id": "appropriately",
+      "word": "appropriately",
+      "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/əˈprəʊpriətli/",
+        "us": "/əˈproʊpriətli/"
       },
       "frequency": 1,
-      "meaningVi": "customers.",
-      "exampleEn": "",
-      "exampleVi": "Những người làm dịch vụ cần phải tránh thói quen tranh cãi với các vị khách bất mãn. Dịch vụ khách hàng | 219 accessories. Khung.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "meaningVi": "thích hợp, thích đáng",
+      "exampleEn": "Telephone representatives should know how to handle customer complaints appropriately.",
+      "exampleVi": "Nhân viên trực tổng đài cần biết cách xử lý các phàn nàn của khách hàng một cách thích hợp.",
+      "derivatives": [
+        {
+          "word": "appropriate",
+          "partOfSpeech": "adj",
+          "meaningVi": "thích hợp"
+        }
+      ],
+      "synonyms": [
+        "suitably"
+      ],
+      "antonyms": [
+        "inappropriately"
+      ],
       "toeicNotes": [],
       "needsReview": false
     },
@@ -96,25 +136,65 @@
       "word": "respond",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/rispónd/",
-        "us": "/rispánd/"
+        "uk": "/rɪˈspɒnd/",
+        "us": "/rɪˈspɑːnd/"
       },
       "frequency": 2,
       "meaningVi": "phản ứng, phản hồi, trả lời",
       "exampleEn": "Sales staff should respond promptly to questions from customers.",
       "exampleVi": "Nhân viên bán hàng cần phải kịp thời trả lời các câu hỏi của khách hàng.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "response",
+          "partOfSpeech": "n",
+          "meaningVi": "sự phản hồi, câu trả lời"
+        },
+        {
+          "word": "responsive",
+          "partOfSpeech": "adj",
+          "meaningVi": "phản ứng nhanh, nhiệt tình"
+        }
+      ],
+      "synonyms": [
+        "answer",
+        "reply"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Bai tn TOEIC dạng thức mới e respond: answer lắm Hãy lưu ý phân biệt cách sử dụng của hai từ cùng mang nghĩa \"trả lời, phản hồi\" này.",
-        "- respond to trả lời, phản ứng/phản hồi với ược dùng để chỉ sự phản hồi với các thắc mắc, lời kê gọi, vv.",
-        "và thường đi kèm giới từ to.",
-        "Lanswer trå lời Được dùng để chỉ việc trả lời các câu hỏi, mệnh lệnh, v.v.",
-        "và không có giới từ ở phía sau.",
-        "The clerk was unable to answer the query in a satisfactory manner.",
-        "Nhân viên đó đã không thể trả lời câu hỏi một cách thỏa dáng."
+        "Phân biệt respond và answer:",
+        "- respond to + sth: phản hồi thắc mắc/lời kêu gọi...",
+        "- answer + sth: trả lời câu hỏi, không dùng giới từ to."
       ],
+      "needsReview": false
+    },
+    {
+      "id": "infuriate",
+      "word": "infuriate",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/ɪnˈfjʊərieɪt/",
+        "us": "/ɪnˈfjʊrieɪt/"
+      },
+      "frequency": 1,
+      "meaningVi": "làm tức điên lên, gây phẫn nộ",
+      "exampleEn": "The attendant's incompetence infuriated the customer.",
+      "exampleVi": "Sự kém cỏi của người phục vụ khiến vị khách tức giận.",
+      "derivatives": [
+        {
+          "word": "infuriating",
+          "partOfSpeech": "adj",
+          "meaningVi": "gây tức giận"
+        }
+      ],
+      "synonyms": [
+        "enrage",
+        "madden"
+      ],
+      "antonyms": [
+        "placate",
+        "soothe"
+      ],
+      "toeicNotes": [],
       "needsReview": false
     },
     {
@@ -122,17 +202,36 @@
       "word": "courteous",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈkɜːtiəs/",
+        "us": "/ˈkɜːrtiəs/"
       },
       "frequency": 1,
       "meaningVi": "lịch sự, nhã nhặn",
       "exampleEn": "All inquiries must be handled in a courteous manner.",
       "exampleVi": "Mọi thắc mắc cần phải được giải đáp bằng một thái độ lịch sự.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
+      "derivatives": [
+        {
+          "word": "courtesy",
+          "partOfSpeech": "n",
+          "meaningVi": "sự lịch sự, tác phong nhã nhặn"
+        },
+        {
+          "word": "courteously",
+          "partOfSpeech": "adv",
+          "meaningVi": "lịch sự, nhã nhặn"
+        }
+      ],
+      "synonyms": [
+        "polite",
+        "respectful"
+      ],
+      "antonyms": [
+        "discourteous",
+        "rude"
+      ],
+      "toeicNotes": [
+        "in a courteous manner: một cách lịch sự, nhã nhặn"
+      ],
       "needsReview": false
     },
     {
@@ -140,18 +239,35 @@
       "word": "satisfaction",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/satisfæk|an/",
-        "us": "/satisfæk|an/"
+        "uk": "/ˌsætɪsˈfækʃn/",
+        "us": "/ˌsætɪsˈfækʃn/"
       },
       "frequency": 2,
-      "meaningVi": "sự hài lòng/thỏa mãn",
+      "meaningVi": "sự hài lòng, sự thỏa mãn",
       "exampleEn": "We hope our assistance was to your satisfaction.",
       "exampleVi": "Hy vọng rằng sự trợ giúp của chúng tôi khiến bạn hài lòng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "satisfy",
+          "partOfSpeech": "v",
+          "meaningVi": "làm hài lòng"
+        },
+        {
+          "word": "satisfactory",
+          "partOfSpeech": "adj",
+          "meaningVi": "thỏa đáng, tốt đẹp"
+        }
+      ],
+      "synonyms": [
+        "contentment"
+      ],
+      "antonyms": [
+        "dissatisfaction"
+      ],
       "toeicNotes": [
-        "San thi TOEIC dạng thức mớt um to one's satisfaction đáp ứng sự hài lòng củ i customer satisfaction sự hài lòng của khách hàn satisfaction survey khảo sát về mức độ hài lòng Đây là những cụm từ với satisfaction thường gặp trong bài thi TOEIC."
+        "to one's satisfaction: đáp ứng sự hài lòng của ai",
+        "customer satisfaction: sự hài lòng của khách hàng",
+        "satisfaction survey: khảo sát về mức độ hài lòng"
       ],
       "needsReview": false
     },
@@ -160,36 +276,30 @@
       "word": "inconvenience",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/inkanvínjans/",
-        "us": "/inkanvínjans/"
+        "uk": "/ˌɪnkənˈviːniəns/",
+        "us": "/ˌɪnkənˈviːniəns/"
       },
       "frequency": 1,
-      "meaningVi": "sự bất lợi, bất tiện",
+      "meaningVi": "sự bất lợi, sự bất tiện; (v) làm phiền, gây bất tiện",
       "exampleEn": "We apologize for the inconvenience during construction.",
       "exampleVi": "Chúng tôi xin lỗi vì những bất tiện gây ra trong quá trình xây dựng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
-      "needsReview": false
-    },
-    {
-      "id": "inconvenience",
-      "word": "inconvenience",
-      "partOfSpeech": "v",
-      "pronunciation": {
-        "uk": "/inkanvínjans/",
-        "us": "/inkanvínjans/"
-      },
-      "frequency": 1,
-      "meaningVi": "phiền, quấy rầy",
-      "exampleEn": "Cheryl asked the manager if it would inconvenience him to reschedule her interview.",
-      "exampleVi": "Cheryl hỏi người quản lý rằng liệu đổi lịch phỏng vấn có gây bất tiện cho ông ấy không.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "inconvenient",
+          "partOfSpeech": "adj",
+          "meaningVi": "không thuận tiện"
+        }
+      ],
+      "synonyms": [
+        "trouble",
+        "bother"
+      ],
+      "antonyms": [
+        "convenience"
+      ],
       "toeicNotes": [
-        "Bài thi TOEIC dạng thức mới (pap inconvenience + người gây bất tiện cho ai đó Mặc dù thường được biết đến là một danh từ, nhưng inconvenience vẫn có thể được dùng như một động từ và ::phải có tân ngữ đi kèm vì nó là ngoại động từ."
+        "inconvenience + tân ngữ (người): gây bất tiện cho ai đó (ngoại động từ).",
+        "apologize for the inconvenience: xin lỗi vì sự bất tiện."
       ],
       "needsReview": false
     },
@@ -198,36 +308,34 @@
       "word": "complete",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/kamplí:t/",
-        "us": "/kamplí:t/"
+        "uk": "/kəmˈpliːt/",
+        "us": "/kəmˈpliːt/"
       },
       "frequency": 2,
-      "meaningVi": "thiện, hoàn thành",
+      "meaningVi": "hoàn thiện, hoàn thành; (adj) đầy đủ, hoàn toàn, trọn vẹn",
       "exampleEn": "The paperwork must be completed within one month.",
       "exampleVi": "Giấy tờ cần phải được hoàn thành trong vòng một tháng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
-      "needsReview": false
-    },
-    {
-      "id": "complete",
-      "word": "complete",
-      "partOfSpeech": "adj",
-      "pronunciation": {
-        "uk": "/kamplí:t/",
-        "us": "/kamplí:t/"
-      },
-      "frequency": 2,
-      "meaningVi": "đầy đủ, hoàn toàn, trọn vẹn",
-      "exampleEn": "Once you receive a confirmation e-mail, the registration process is complete.",
-      "exampleVi": "Khi bạn nhận được thư điện tử xác nhận, quá trình đăng ký đã hoàn tất.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "completion",
+          "partOfSpeech": "n",
+          "meaningVi": "sự hoàn thành"
+        },
+        {
+          "word": "completely",
+          "partOfSpeech": "adv",
+          "meaningVi": "hoàn toàn, trọn vẹn"
+        }
+      ],
+      "synonyms": [
+        "finish",
+        "fulfill"
+      ],
+      "antonyms": [
+        "incomplete"
+      ],
       "toeicNotes": [
-        "• = từ vựng thường gặp trong Part 5 - 6 O = từ vựng thường gặp trong Part 7 Dịch vụ khách hàng | 221 12."
+        "complete + a survey/an application: điền/hoàn thành một khảo sát hoặc tờ đơn."
       ],
       "needsReview": false
     },
@@ -236,16 +344,33 @@
       "word": "specific",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/spasífik/",
-        "us": "/spisifik/"
+        "uk": "/spəˈsɪfɪk/",
+        "us": "/spəˈsɪfɪk/"
       },
       "frequency": 2,
       "meaningVi": "cụ thể, chi tiết, đặc thù",
-      "exampleEn": "When seeking help online, clients must be ver specific in describing problems.",
+      "exampleEn": "When seeking help online, clients must be very specific in describing problems.",
       "exampleVi": "Khi cần trợ giúp trực tuyến, khách hàng phải mô tả vấn đề thật cụ thể.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "specifically",
+          "partOfSpeech": "adv",
+          "meaningVi": "cụ thể"
+        },
+        {
+          "word": "specification",
+          "partOfSpeech": "n",
+          "meaningVi": "thông số kỹ thuật"
+        }
+      ],
+      "synonyms": [
+        "precise",
+        "detailed"
+      ],
+      "antonyms": [
+        "vague",
+        "general"
+      ],
       "toeicNotes": [],
       "needsReview": false
     },
@@ -254,17 +379,22 @@
       "word": "return",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/rɪˈtɜːn/",
+        "us": "/rɪˈtɜːrn/"
       },
       "frequency": 2,
-      "meaningVi": "trở lại, quay về",
+      "meaningVi": "trở lại, quay về; trả lại; (n) sự quay trở lại, hàng trả lại",
       "exampleEn": "Merchandise can be returned at the counter.",
       "exampleVi": "Hàng hóa có thể được trả lại tại quầy thanh toán.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "bring back",
+        "restore"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "return merchandise: trả lại hàng hóa"
+      ],
       "needsReview": false
     },
     {
@@ -272,21 +402,34 @@
       "word": "replace",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/ripléis/",
-        "us": "/ripléis/"
+        "uk": "/rɪˈpleɪs/",
+        "us": "/rɪˈpleɪs/"
       },
       "frequency": 3,
-      "meaningVi": "thế, thay chỗ",
+      "meaningVi": "thay thế, thay chỗ",
       "exampleEn": "The mechanic replaced the generator's motor with a new one.",
       "exampleVi": "Người thợ máy thay động cơ mới cho máy phát điện.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "replacement",
+          "partOfSpeech": "n",
+          "meaningVi": "sự thay thế, người/vật thay thế"
+        },
+        {
+          "word": "replaceable",
+          "partOfSpeech": "adj",
+          "meaningVi": "có thể thay thế"
+        }
+      ],
+      "synonyms": [
+        "substitute",
+        "exchange"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "ja: 1h TOE/C dang thức mới ác replace : substitute Hãy lưu ý phân biệt cách sử dụng của hai từ cùng mang nghĩa 'thay thế\" này.",
-        "- replace A with B thay thế A bằng B Vì replace có nghĩa là \"thay thế\" nên tân ngữ trực tiếp của nó phải là đối tượng bị hoán đổi.",
-        "- substitute B for A lấy B thay cho A Vì substitute có nghĩa là \"đổi\" nên tân ngữ trực tiếp phải là đối tượng được dùng để thay thế.",
-        "Diners may substitute french fries for a side salad.Thực khách có thể chọn khoai tây chiên thay vì rau củ trộn."
+        "Phân biệt replace và substitute:",
+        "- replace A with B: thay thế A bằng B",
+        "- substitute B for A: lấy B thay cho A"
       ],
       "needsReview": false
     },
@@ -295,17 +438,33 @@
       "word": "presentation",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/prèzantéijon/",
-        "us": "/prizzentéifan/"
+        "uk": "/ˌpreznˈteɪʃn/",
+        "us": "/ˌpriːzenˈteɪʃn/"
       },
       "frequency": 3,
-      "meaningVi": "thuyết trình, sự trình bày",
+      "meaningVi": "bài thuyết trình, sự trình bày",
       "exampleEn": "Melissa gave the employees a presentation about handling difficult clients.",
       "exampleVi": "Melissa thuyết trình với các nhân viên về cách xử lý khi gặp khách hàng khó tính.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "present",
+          "partOfSpeech": "v",
+          "meaningVi": "trình bày"
+        },
+        {
+          "word": "presenter",
+          "partOfSpeech": "n",
+          "meaningVi": "người thuyết trình"
+        }
+      ],
+      "synonyms": [
+        "talk",
+        "demonstration"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "give a presentation about/on: thực hiện bài thuyết trình về"
+      ],
       "needsReview": false
     },
     {
@@ -313,19 +472,33 @@
       "word": "evaluation",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ɪˌvæljuˈeɪʃn/",
+        "us": "/ɪˌvæljuˈeɪʃn/"
       },
       "frequency": 3,
       "meaningVi": "sự đánh giá, sự ước lượng",
       "exampleEn": "Please fill out the evaluation form.",
       "exampleVi": "Vui lòng điền vào phiếu đánh giá.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "evaluate",
+          "partOfSpeech": "v",
+          "meaningVi": "đánh giá"
+        },
+        {
+          "word": "evaluator",
+          "partOfSpeech": "n",
+          "meaningVi": "người đánh giá"
+        }
+      ],
+      "synonyms": [
+        "assessment",
+        "appraisal"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "performance evaluation ớn đánh giá hiệu suất làm việc (của nhân viên) course evaluation đánh giá về khóa học Lưu ý rằng evaluation thường xuất hiện trong các danh từ ghép.",
-        "evaluation sự đánh giá Levaluator người đánh giá Lưu ý phân biệt evaluation là danh từ chỉ sự việc còn evaluator là danh từ chỉ người."
+        "performance evaluation: sự đánh giá hiệu suất làm việc",
+        "course evaluation: sự đánh giá khóa học"
       ],
       "needsReview": false
     },
@@ -334,18 +507,35 @@
       "word": "confident",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/kónfident/",
-        "us": "/kánfadant/"
+        "uk": "/ˈkɒnfɪdənt/",
+        "us": "/ˈkɑːnfɪdənt/"
       },
       "frequency": 3,
       "meaningVi": "tự tin",
       "exampleEn": "Enthusiasm and a confident manner are essential for this sales position.",
       "exampleVi": "Sự nhiệt tình và phong thái tự tin rất quan trọng đối với vị trí nhân viên bán hàng này.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "confidently",
+          "partOfSpeech": "adv",
+          "meaningVi": "một cách tự tin"
+        },
+        {
+          "word": "confidence",
+          "partOfSpeech": "n",
+          "meaningVi": "sự tự tin"
+        }
+      ],
+      "synonyms": [
+        "assured",
+        "certain"
+      ],
+      "antonyms": [
+        "diffident",
+        "insecure"
+      ],
       "toeicNotes": [
-        "with a confident manner với vẻ tự tin rap confident được dùng để bổ nghĩa cho manner."
+        "with a confident manner: với vẻ tự tin"
       ],
       "needsReview": false
     },
@@ -354,36 +544,53 @@
       "word": "cause",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/kɔːz/",
+        "us": "/kɑːz/"
       },
       "frequency": 2,
-      "meaningVi": "ra, tạo ra",
-      "exampleEn": "The defect in the lamp was caused by improper wiring.",
-      "exampleVi": "Trục trặc của chiếc đèn bàn là do mắc dây không đúng.",
+      "meaningVi": "gây ra, tạo ra; (n) nguyên nhân, lý do",
+      "exampleEn": "Researchers tried to find the cause of the error.",
+      "exampleVi": "Các nhà nghiên cứu đã nỗ lực tìm nguyên nhân của lỗi này.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "lead to",
+        "bring about"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "cause + damage/malfunction/delay: gây ra hư hại / trục trặc / trì hoãn."
+      ],
       "needsReview": false
     },
     {
-      "id": "damage.",
-      "word": "damage.",
+      "id": "damage",
+      "word": "damage",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈdæmɪdʒ/",
+        "us": "/ˈdæmɪdʒ/"
       },
-      "frequency": 3,
-      "meaningVi": "nhân, lý do Researchers tried to find the cause of the error. Các nhà nghiên cứu đã nỗ lực tìm nguyên nhân của lỗi này. Bai thi TOEIC dạng thức mội cum cause +",
-      "exampleEn": "damage/malfunction/delay ớh gây ra",
-      "exampleVi": "hư hại/trục trặc/trì hoãn Động từ cause thường được sử dụng cùng với các danh từ liên quan đến thiệt hại, ví dụ như damage.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "frequency": 2,
+      "meaningVi": "thiệt hại, sự hư hại; (v) làm hư hại, gây thiệt hại",
+      "exampleEn": "The storm caused severe damage to the warehouse.",
+      "exampleVi": "Cơn bão đã gây ra thiệt hại nghiêm trọng cho nhà kho.",
+      "derivatives": [
+        {
+          "word": "damaging",
+          "partOfSpeech": "adj",
+          "meaningVi": "gây tổn hại"
+        }
+      ],
+      "synonyms": [
+        "harm",
+        "destruction"
+      ],
+      "antonyms": [
+        "repair",
+        "restoration"
+      ],
       "toeicNotes": [
-        "6a: Im TOEIC dono lhuc mor"
+        "cause damage to: gây thiệt hại cho"
       ],
       "needsReview": false
     },
@@ -392,18 +599,27 @@
       "word": "commentary",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/kómantari/",
-        "us": "/kómantari/"
+        "uk": "/ˈkɒməntri/",
+        "us": "/ˈkɑːmənteri/"
       },
       "frequency": 3,
-      "meaningVi": "luận, lời chú thích",
+      "meaningVi": "bài bình luận, lời chú thích",
       "exampleEn": "Richard added commentary to the service training film.",
       "exampleVi": "Richard đã thêm chú thích vào đoạn phim đào tạo về dịch vụ.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "commentate",
+          "partOfSpeech": "v",
+          "meaningVi": "tường thuật"
+        }
+      ],
+      "synonyms": [
+        "analysis",
+        "explanation"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "ter, interactive (ad)"
+        "add commentary to: thêm chú thích vào"
       ],
       "needsReview": false
     },
@@ -412,18 +628,57 @@
       "word": "notification",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/nàutifikéifon/",
-        "us": "/nòutafikéifan/"
+        "uk": "/ˌnəʊtɪfɪˈkeɪʃn/",
+        "us": "/ˌnoʊtɪfɪˈkeɪʃn/"
       },
       "frequency": 3,
-      "meaningVi": "báo, sự thông báo",
+      "meaningVi": "thông báo, sự thông báo",
       "exampleEn": "We require written notification of any order cancellations.",
       "exampleVi": "Chúng tôi yêu cầu phải có thông báo bằng văn bản với mọi trường hợp hủy đơn hàng.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "notify",
+          "partOfSpeech": "v",
+          "meaningVi": "thông báo"
+        }
+      ],
+      "synonyms": [
+        "notice",
+        "announcement"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Banh TOEIC dạng thức mới (om) notification of thông báo về notification thường đi cùng giới từ of."
+        "notification of: thông báo về (đi cùng giới từ of)",
+        "written notification: thông báo bằng văn bản"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "apologize",
+      "word": "apologize",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/əˈpɒlədʒaɪz/",
+        "us": "/əˈpɑːlədʒaɪz/"
+      },
+      "frequency": 2,
+      "meaningVi": "xin lỗi",
+      "exampleEn": "We apologize for the late delivery service.",
+      "exampleVi": "Chúng tôi rất xin lỗi vì việc giao hàng chậm trễ này.",
+      "derivatives": [
+        {
+          "word": "apology",
+          "partOfSpeech": "n",
+          "meaningVi": "lời xin lỗi"
+        }
+      ],
+      "synonyms": [
+        "express regret"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "apologize for + lý do: xin lỗi vì điều gì",
+        "apologize to + người: xin lỗi ai đó"
       ],
       "needsReview": false
     },
@@ -432,57 +687,64 @@
       "word": "interact",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/interákt/",
-        "us": "/interákt/"
+        "uk": "/ˌɪntərˈækt/",
+        "us": "/ˌɪntərˈækt/"
       },
       "frequency": 2,
-      "meaningVi": "lỗi",
-      "exampleEn": "We apologize for the late delivery service.",
-      "exampleVi": "Chúng tôi rất xin lỗi vì việc giao hàng chậm trễ này.",
-      "derivatives": [],
-      "synonyms": [],
+      "meaningVi": "tương tác, tác động qua lại",
+      "exampleEn": "When interacting with shoppers, clerks should deal with them in a pleasant manner.",
+      "exampleVi": "Khi tương tác với người mua hàng, nhân viên bán hàng cần đối xử với họ bằng thái độ niềm nở.",
+      "derivatives": [
+        {
+          "word": "interaction",
+          "partOfSpeech": "n",
+          "meaningVi": "sự tương tác"
+        },
+        {
+          "word": "interactive",
+          "partOfSpeech": "adj",
+          "meaningVi": "có tính tương tác"
+        }
+      ],
+      "synonyms": [
+        "communicate",
+        "engage"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Bai thi TOEIC dang thức mội cum apologize for + nguyên nhân xin lỗi vì mn apologize to + người xin lỗi ai đó apologize thường đi kèm với giới từ for hoặc to."
+        "interact with: tương tác với"
       ],
       "needsReview": false
     },
     {
       "id": "certain",
       "word": "certain",
-      "partOfSpeech": "v",
-      "pronunciation": {
-        "uk": "/sáitn/",
-        "us": "/sáirtn/"
-      },
-      "frequency": 2,
-      "meaningVi": "tương tác, tác động qua lại",
-      "exampleEn": "When interacting with shoppers, clerks should deal with them in a pleasant manner.",
-      "exampleVi": "‹hi tương tác với người mua hàng, nhân viên bán hàng cần đô cử với họ bằng thái độ niềm nỏ",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
-      "needsReview": false
-    },
-    {
-      "id": "apologize",
-      "word": "apologize",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/apáladzaiz/",
-        "us": "/apáladsaiz/"
+        "uk": "/ˈsɜːtn/",
+        "us": "/ˈsɜːrtn/"
       },
       "frequency": 2,
       "meaningVi": "chắc, chắc chắn; nhất định",
       "exampleEn": "Sharon was not certain where she had bought the blouse.",
       "exampleVi": "Sharon không chắc chắn về nơi mình đã mua chiếc áo choàng này.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "certainly",
+          "partOfSpeech": "adv",
+          "meaningVi": "chắc chắn"
+        }
+      ],
+      "synonyms": [
+        "sure",
+        "definite"
+      ],
+      "antonyms": [
+        "uncertain"
+      ],
       "toeicNotes": [
-        "Registrants are required to provide certain details on the form, but other information is optional.",
-        "Người đăng ký cần phải điền một số thông tin nhất định vào đơn, còn các thông tin khác thì không bắt buộc."
+        "be certain about/of: chắc chắn về",
+        "certain + danh từ: một số ... nhất định"
       ],
       "needsReview": false
     },
@@ -491,18 +753,33 @@
       "word": "commitment",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/kamítmant/",
-        "us": "/kamítmant/"
+        "uk": "/kəˈmɪtmənt/",
+        "us": "/kəˈmɪtmənt/"
       },
       "frequency": 2,
-      "meaningVi": "sự cam kết, sự tận tâm Brand",
-      "exampleEn": "Bank has a longstanding commitment to providing excellent client assistance.",
+      "meaningVi": "sự cam kết, sự tận tâm",
+      "exampleEn": "Brand Bank has a longstanding commitment to providing excellent client assistance.",
       "exampleVi": "Ngân hàng Brand cam kết lâu dài rằng họ sẽ luôn mang đến cho khách hàng sự hỗ trợ tốt nhất.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "commit",
+          "partOfSpeech": "v",
+          "meaningVi": "cam kết"
+        },
+        {
+          "word": "committed",
+          "partOfSpeech": "adj",
+          "meaningVi": "tận tâm"
+        }
+      ],
+      "synonyms": [
+        "dedication",
+        "promise"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "commitment to cam kết Hai từ trên đều được dùng với giới từ to."
+        "commitment to + N/V-ing: cam kết với/cho điều gì",
+        "be committed to: tận tâm với"
       ],
       "needsReview": false
     },
@@ -511,19 +788,56 @@
       "word": "applaud",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/opló:d/",
-        "us": "/opló:d/"
+        "uk": "/əˈplɔːd/",
+        "us": "/əˈplɔːd/"
       },
       "frequency": 2,
-      "meaningVi": "nghênh, tán thưởng",
+      "meaningVi": "hoan nghênh, tán thưởng, vỗ tay",
       "exampleEn": "The staff applauded management's decision to increase overtime pay.",
       "exampleVi": "Các nhân viên hoan nghênh quyết định của ban quản lý về việc tăng lương làm ngoài giờ.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "applause",
+          "partOfSpeech": "n",
+          "meaningVi": "tiếng vỗ tay, sự tán thưởng"
+        }
+      ],
+      "synonyms": [
+        "praise",
+        "cheer"
+      ],
+      "antonyms": [
+        "criticize"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "biography",
+      "word": "biography",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/baɪˈɒɡrəfi/",
+        "us": "/baɪˈɑːɡrəfi/"
+      },
+      "frequency": 2,
+      "meaningVi": "tiểu sử, lý lịch",
+      "exampleEn": "A short biography on the guest speaker was included in the program.",
+      "exampleVi": "Chương trình có bao gồm một đoạn giới thiệu ngắn về lý lịch của diễn giả khách mời.",
+      "derivatives": [
+        {
+          "word": "biographical",
+          "partOfSpeech": "adj",
+          "meaningVi": "thuộc tiểu sử"
+        }
+      ],
+      "synonyms": [
+        "life story",
+        "profile"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "nì tiểu sử, lý lịch A short biography on the guest speaker was included in the program.",
-        "Chương trình có bao gồm một đoạn giới thiệu ngắn về lý lịch của diễn giả khách mời."
+        "a short biography on/of: tiểu sử ngắn về ai"
       ],
       "needsReview": false
     },
@@ -532,22 +846,35 @@
       "word": "critical",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/krítikal/",
-        "us": "/krítikal/"
+        "uk": "/ˈkrɪtɪkl/",
+        "us": "/ˈkrɪtɪkl/"
       },
       "frequency": 2,
-      "meaningVi": "bình, chỉ trích; có tính quyết định; nguy cấp",
+      "meaningVi": "phê bình, chỉ trích; có tính quyết định; nguy cấp",
       "exampleEn": "Many customers were critical of the new services.",
       "exampleVi": "Nhiều khách hàng rất hay chê bai các dịch vụ mới.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "criticize",
+          "partOfSpeech": "v",
+          "meaningVi": "chỉ trích"
+        },
+        {
+          "word": "critic",
+          "partOfSpeech": "n",
+          "meaningVi": "nhà phê bình"
+        }
+      ],
+      "synonyms": [
+        "crucial",
+        "important"
+      ],
+      "antonyms": [
+        "complimenting"
+      ],
       "toeicNotes": [
-        "TOEIC dano mut mor cum be critical of có thái độ chỉ trích với Con critical thường được dùng với giói từ of.",
-        "g Lưu ý phân biệt tính từ critical và danh từ critic.",
-        "Vì critic có đuôi -tic giống với một số tính từ nên dễ gây nhầm lẫn.",
-        "lon.) Khi được dùng với nghĩa \"có tính quyết định\", critical có thể thay bằng important.",
-        "* Dịch vụ khách hàng | 225 21 000 M000 1710: E be comimite to an tăm với"
+        "be critical of: có thái độ chỉ trích đối với",
+        "Phân biệt critical (adj) và critic (n - nhà phê bình)."
       ],
       "needsReview": false
     },
@@ -556,15 +883,28 @@
       "word": "depend on",
       "partOfSpeech": "phr",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/dɪˈpend ɒn/",
+        "us": "/dɪˈpend ɑːn/"
       },
       "frequency": 2,
-      "meaningVi": "phụ thuộc/lệ thuộc vào",
+      "meaningVi": "phụ thuộc, lệ thuộc vào",
       "exampleEn": "The success of a restaurant depends on the quality of the food and the customer service.",
       "exampleVi": "Thành công của nhà hàng phụ thuộc vào chất lượng đồ ăn và dịch vụ khách hàng.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "dependent",
+          "partOfSpeech": "adj",
+          "meaningVi": "phụ thuộc"
+        },
+        {
+          "word": "dependable",
+          "partOfSpeech": "adj",
+          "meaningVi": "đáng tin cậy"
+        }
+      ],
+      "synonyms": [
+        "rely on"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -574,17 +914,30 @@
       "word": "combine",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/kembáin/",
-        "us": "/kembáin/"
+        "uk": "/kəmˈbaɪn/",
+        "us": "/kəmˈbaɪn/"
       },
       "frequency": 2,
       "meaningVi": "kết hợp",
       "exampleEn": "The store sometimes allows customers to combine two special offers.",
       "exampleVi": "Cửa hàng cũng có lúc cho phép khách hàng kết hợp hai chương trình giảm giá.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
+      "derivatives": [
+        {
+          "word": "combination",
+          "partOfSpeech": "n",
+          "meaningVi": "sự kết hợp"
+        }
+      ],
+      "synonyms": [
+        "merge",
+        "unite"
+      ],
+      "antonyms": [
+        "separate"
+      ],
+      "toeicNotes": [
+        "combine A with B: kết hợp A với B"
+      ],
       "needsReview": false
     },
     {
@@ -592,17 +945,27 @@
       "word": "priority",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/praifriti/",
-        "us": "/praifirati/"
+        "uk": "/praɪˈɒrəti/",
+        "us": "/praɪˈɔːrəti/"
       },
       "frequency": 2,
       "meaningVi": "sự ưu tiên, ưu thế",
       "exampleEn": "Priority for the service will be provided according to a first come, first served basis.",
       "exampleVi": "Ưu tiên phục vụ sẽ được thực hiện trên cơ sở người đến trước được phục vụ trước.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "prioritize",
+          "partOfSpeech": "v",
+          "meaningVi": "dành ưu tiên"
+        }
+      ],
+      "synonyms": [
+        "precedence"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "give priority to: dành ưu tiên cho"
+      ],
       "needsReview": false
     },
     {
@@ -610,20 +973,35 @@
       "word": "observe",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/abzárv/",
-        "us": "/abzárv/"
+        "uk": "/əbˈzɜːv/",
+        "us": "/əbˈzɜːrv/"
       },
       "frequency": 2,
-      "meaningVi": "dõi, tiến hành; tuân thủ",
-      "exampleEn": "The technicians observed a demonstration about repairing phones.",
-      "exampleVi": "Các kỹ thuật viên đã thực hiện một buổi hướng dẫn cách sửa điện thoại.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "meaningVi": "theo dõi, quan sát; tuân thủ",
+      "exampleEn": "All staff must observe the dress code of the company.",
+      "exampleVi": "Mọi nhân viên phải tuân thủ quy định về trang phục của công ty.",
+      "derivatives": [
+        {
+          "word": "observance",
+          "partOfSpeech": "n",
+          "meaningVi": "sự tuân thủ"
+        },
+        {
+          "word": "observation",
+          "partOfSpeech": "n",
+          "meaningVi": "sự quan sát"
+        }
+      ],
+      "synonyms": [
+        "comply with",
+        "follow"
+      ],
+      "antonyms": [
+        "violate"
+      ],
       "toeicNotes": [
-        "All staff must observe the dress code of the company.",
-        "Mọi nhân viên phải tuân thủ quy định về trang phục của công ty.",
-        "Bại lm TOEIC dạng thức mới observe safety regulations tuân thủ quy định về an toàn ein observe guidelines làm theo hướng dẫn observe thường đi với những danh từ chỉ quy định, quy tắc như regulations, guidelines,..."
+        "observe safety regulations: tuân thủ quy định an toàn",
+        "observe guidelines: làm theo hướng dẫn"
       ],
       "needsReview": false
     },
@@ -632,20 +1010,29 @@
       "word": "defective",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/diféktiv/",
-        "us": "/diféktiv/"
+        "uk": "/dɪˈfektɪv/",
+        "us": "/dɪˈfektɪv/"
       },
       "frequency": 2,
-      "meaningVi": "lỗi, có thiếu sót, nhược điểm",
+      "meaningVi": "có lỗi, có thiếu sót, nhược điểm",
       "exampleEn": "The buyer requested a refund for the defective hair dryer.",
       "exampleVi": "Khách hàng yêu cầu được hoàn lại tiền cho chiếc máy sấy bị lỗi.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "defect",
+          "partOfSpeech": "n",
+          "meaningVi": "lỗi, khuyết điểm"
+        }
+      ],
+      "synonyms": [
+        "faulty",
+        "flawed"
+      ],
+      "antonyms": [
+        "flawless"
+      ],
       "toeicNotes": [
-        "Bai Ii T0EIC dang thức mới Ngữ Lưu ý phân biệt từ loại defect (n.",
-        "lỗi) và defective (adj.",
-        "có lỗi)."
+        "Phân biệt defect (n. lỗi) và defective (adj. có lỗi)."
       ],
       "needsReview": false
     },
@@ -654,19 +1041,26 @@
       "word": "reflect",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/riflékt/",
-        "us": "/riflékt/"
+        "uk": "/rɪˈflekt/",
+        "us": "/rɪˈflekt/"
       },
       "frequency": 2,
-      "meaningVi": "phản chiếu, phản ánh Kimdale",
-      "exampleEn": "Corporation's statement of purpose reflects its commitment to quality.",
+      "meaningVi": "phản chiếu, phản ánh, suy nghĩ cẩn thận",
+      "exampleEn": "Kimdale Corporation's statement of purpose reflects its commitment to quality.",
       "exampleVi": "Tuyên bố về mục đích của tập đoàn Kimdale phản ánh cam kết của họ về chất lượng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [
-        "reflect có thể còn được dùng với nghĩa \"suy nghĩ cẩn thận\", khi đó nó có thể được thay bằng consider."
+      "derivatives": [
+        {
+          "word": "reflection",
+          "partOfSpeech": "n",
+          "meaningVi": "sự phản chiếu"
+        }
       ],
+      "synonyms": [
+        "indicate",
+        "show"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
       "needsReview": false
     },
     {
@@ -674,17 +1068,22 @@
       "word": "attitude",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/atitju:d/",
-        "us": "/atitju:d/"
+        "uk": "/ˈætɪtjuːd/",
+        "us": "/ˈætɪtuːd/"
       },
       "frequency": 2,
-      "meaningVi": "độ",
+      "meaningVi": "thái độ",
       "exampleEn": "Salespeople with a positive attitude tend to sell more products.",
       "exampleVi": "Nhân viên bán hàng có thái độ tích cực thường bán được nhiều sản phẩm hơn.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "mindset",
+        "manner"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "positive attitude: thái độ tích cực"
+      ],
       "needsReview": false
     },
     {
@@ -692,20 +1091,32 @@
       "word": "disappoint",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/disapóint/",
-        "us": "/disapóint/"
+        "uk": "/ˌdɪsəˈpɔɪnt/",
+        "us": "/ˌdɪsəˈpɔɪnt/"
       },
       "frequency": 2,
-      "meaningVi": "thất vọng",
+      "meaningVi": "làm thất vọng",
       "exampleEn": "The poor terms of the computer warranty disappointed many buyers.",
       "exampleVi": "Các điều khoản bảo hành không hấp dẫn của sản phẩm máy tính này làm nhiều khách hàng thất vọng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [
-        "thất vọng disappointing (adj) đáng thất vọng disappointment (n) nỗi thất vọng der.",
-        "inquiry (n)"
+      "derivatives": [
+        {
+          "word": "disappointed",
+          "partOfSpeech": "adj",
+          "meaningVi": "thất vọng (cho người)"
+        },
+        {
+          "word": "disappointing",
+          "partOfSpeech": "adj",
+          "meaningVi": "đáng thất vọng (cho vật)"
+        }
       ],
+      "synonyms": [
+        "let down"
+      ],
+      "antonyms": [
+        "satisfy"
+      ],
+      "toeicNotes": [],
       "needsReview": false
     },
     {
@@ -713,17 +1124,30 @@
       "word": "inquire",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/ink wáiar/",
-        "us": "/ink wáiar/"
+        "uk": "/ɪnˈkwaɪə/",
+        "us": "/ɪnˈkwaɪər/"
       },
-      "frequency": 2,
+      "frequency": 1,
       "meaningVi": "hỏi, điều tra, thẩm vấn",
       "exampleEn": "Several people called in to inquire about the store's latest promotions.",
       "exampleVi": "Vài người đã gọi đến để hỏi về những khuyến mãi mới nhất của cửa hàng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
+      "derivatives": [
+        {
+          "word": "inquiry",
+          "partOfSpeech": "n",
+          "meaningVi": "câu hỏi, sự điều tra"
+        }
+      ],
+      "synonyms": [
+        "ask",
+        "query"
+      ],
+      "antonyms": [
+        "answer"
+      ],
+      "toeicNotes": [
+        "inquire about: hỏi/tìm hiểu về điều gì"
+      ],
       "needsReview": false
     },
     {
@@ -731,19 +1155,28 @@
       "word": "insert",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/insát/",
-        "us": "/insárt/"
+        "uk": "/ɪnˈsɜːt/",
+        "us": "/ɪnˈsɜːrt/"
       },
       "frequency": 1,
-      "meaningVi": "vào, đưa vào",
+      "meaningVi": "chèn vào, đưa vào",
       "exampleEn": "Please read all the instructions before inserting the CD into your computer.",
       "exampleVi": "Vui lòng đọc hướng dẫn trước khi cho đĩa CD vào máy tính.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "insertion",
+          "partOfSpeech": "n",
+          "meaningVi": "sự chèn vào"
+        }
+      ],
+      "synonyms": [
+        "put in"
+      ],
+      "antonyms": [
+        "extract"
+      ],
       "toeicNotes": [
-        "Hath ToeIC dano thúc mội Cum insert A into B dưa A vào trong B hen insert thường đi kèm với giới từ into.",
-        "• = từ vựng thường gặp trong Part 5 - 6 O = từ vựng thường gặp trong Part 7 Dịch vụ khách hàng | 227"
+        "insert A into B: đưa A vào trong B"
       ],
       "needsReview": false
     },
@@ -752,40 +1185,51 @@
       "word": "disclose",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/diskláuz/",
-        "us": "/disklóuz/"
+        "uk": "/dɪsˈkləʊz/",
+        "us": "/dɪsˈkloʊz/"
       },
       "frequency": 1,
-      "meaningVi": "phơi bày, vạch trần, để lộ",
+      "meaningVi": "phơi bày, vạch trần, tiết lộ",
       "exampleEn": "Customers will be asked to disclose some personal details when ordering online.",
       "exampleVi": "Khách hàng sẽ được yêu cầu tiết lộ một số thông tin cá nhân khi mua hàng trên mạng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "disclosure",
+          "partOfSpeech": "n",
+          "meaningVi": "sự tiết lộ"
+        }
+      ],
+      "synonyms": [
+        "reveal",
+        "expose"
+      ],
+      "antonyms": [
+        "conceal"
+      ],
       "toeicNotes": [
-        "das thi TOEIC dạng thục mởi Map disclose + tân ngữ công bố, tiết lộ Lưu ý rằng sau disclose không có giới từ, disclose about là cụm từ không đúng.",
-        "M cam đoan, đảm bảo, chắc chắn Customer satisfaction is guaranteed.",
-        "Sự hài lòng của khách hàng được đảm bảo."
+        "disclose + tân ngữ (tiết lộ điều gì), không dùng giới từ about."
       ],
       "needsReview": false
     },
     {
       "id": "guarantee",
       "word": "guarantee",
-      "partOfSpeech": "n",
+      "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/gærantí:/",
-        "us": "/gærantí:/"
+        "uk": "/ˌɡærənˈtiː/",
+        "us": "/ˌɡærənˈtiː/"
       },
       "frequency": 1,
-      "meaningVi": "sự bảo đảm",
-      "exampleEn": "There is no guarantee of a refund in the event of cancellation.",
-      "exampleVi": "Không có đảm bảo về việc hoàn tiền trong trường hợp hủy đơn hàng.",
+      "meaningVi": "cam đoan, đảm bảo; (n) sự bảo đảm",
+      "exampleEn": "Customer satisfaction is guaranteed.",
+      "exampleVi": "Sự hài lòng của khách hàng được đảm bảo.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "assure"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Bart TOBIC dạng thúc mớt quarantee of đảm bảo về SậP Danh từ guarantee thường được dùng với giới từ of."
+        "guarantee of sth: sự bảo đảm về điều gì"
       ],
       "needsReview": false
     },
@@ -794,67 +1238,99 @@
       "word": "politely",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/pəˈlaɪtli/",
+        "us": "/pəˈlaɪtli/"
       },
       "frequency": 1,
       "meaningVi": "lịch sự, lễ phép",
       "exampleEn": "Store personnel must always speak to customers politely.",
       "exampleVi": "Nhân viên cửa hàng phải luôn ăn nói lịch sự với khách hàng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "polite",
+          "partOfSpeech": "adj",
+          "meaningVi": "lịch sự"
+        }
+      ],
+      "synonyms": [
+        "courteously"
+      ],
+      "antonyms": [
+        "impolitely"
+      ],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "seriously",
+      "word": "seriously",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/ˈsɪəriəsli/",
+        "us": "/ˈsɪriəsli/"
+      },
+      "frequency": 1,
+      "meaningVi": "nghiêm túc, nghiêm trọng",
+      "exampleEn": "The manager takes customer feedback very seriously.",
+      "exampleVi": "Viên quản lý nghiêm túc tiếp thu phản hồi của khách hàng.",
+      "derivatives": [
+        {
+          "word": "serious",
+          "partOfSpeech": "adj",
+          "meaningVi": "nghiêm túc, nghiêm trọng"
+        }
+      ],
+      "synonyms": [
+        "gravely"
+      ],
+      "antonyms": [
+        "lightly"
+      ],
       "toeicNotes": [
-        "BaNhI TOE/C dạng thức mới ady nghiêm túc, nghiêm trọng The manager takes customer feedback very seriously.",
-        "Viên quản lý nghiêm túc tiếp thu phản hồi của khách hàng.",
-        "Barlm TOEIC dang thức mớt Cụm take A seriously làm A một cách nghiêm túc (+ take A lightly) (m Hãy ghi nhớ cụm từ thường xuất hiện trong bài thi này."
+        "take A seriously: làm/coi A một cách nghiêm túc"
       ],
       "needsReview": false
     }
   ],
   "story": {
     "title": "Đào Tạo Kỹ Năng Chăm Sóc Khách Hàng",
-    "content": "ORI đang tham gia lớp huấn luyện xử lý tình huống mặt đất. Khi **passenger** (hành khách) gặp sự cố về hành lý, nhiệm vụ của cô là mang đến dịch vụ (**observe**) chu đáo nhất. Khi nhận được một **complaint** (khiếu nại) từ khách, ORI phải nhanh chóng tìm cách **resolve** (giải quyết) trong êm đẹp. Thái độ ứng xử cần luôn **politely** (lịch sự) và nhã nhặn. ORI sẵn sàng cung cấp sự **assistance** (trợ giúp) và đáp ứng mọi **request** (yêu cầu) hợp lý của khách hàng. Mục tiêu là làm **satisfy** (hài lòng) ngay cả những hành khách khó tính nhất. ORI tin rằng lòng tận tâm sẽ **help** (giúp ích) rất nhiều để mang đến một **experience** (trải nghiệm) bay trọn vẹn và đáng nhớ.",
+    "content": "Tại ORI Academy, học viên đang tham gia lớp huấn luyện xử lý tình huống dịch vụ khách hàng. Khi nhận được một **complaint** (lời phàn nàn) từ khách, nhân viên cần nhanh chóng **respond** (phản hồi) bằng thái độ vô cùng **courteous** (lịch sự). Mục tiêu lớn nhất là mang lại sự **satisfaction** (sự hài lòng) và hạn chế tối đa mọi **inconvenience** (sự bất tiện) cho khách. Để **deal** (giải quyết) hiệu quả với những khách hàng **argumentative** (thích tranh cãi), việc giao tiếp một cách **politely** (lịch sự) và giữ vững **commitment** (sự cam kết) chất lượng dịch vụ là chìa khóa then chốt.",
     "words": [
       {
-        "word": "passenger",
-        "meaningVi": "hành khách"
-      },
-      {
-        "word": "observe",
-        "meaningVi": "dõi"
-      },
-      {
         "word": "complaint",
-        "meaningVi": "lời than phiền"
+        "meaningVi": "lời phàn nàn"
       },
       {
-        "word": "resolve",
+        "word": "respond",
+        "meaningVi": "phản hồi"
+      },
+      {
+        "word": "courteous",
+        "meaningVi": "lịch sự"
+      },
+      {
+        "word": "satisfaction",
+        "meaningVi": "sự hài lòng"
+      },
+      {
+        "word": "inconvenience",
+        "meaningVi": "sự bất tiện"
+      },
+      {
+        "word": "deal",
         "meaningVi": "giải quyết"
+      },
+      {
+        "word": "argumentative",
+        "meaningVi": "thích tranh cãi"
       },
       {
         "word": "politely",
         "meaningVi": "lịch sự"
       },
       {
-        "word": "assistance",
-        "meaningVi": "trợ giúp"
-      },
-      {
-        "word": "request",
-        "meaningVi": "yêu cầu"
-      },
-      {
-        "word": "satisfy",
-        "meaningVi": "làm hài lòng"
-      },
-      {
-        "word": "help",
-        "meaningVi": "giúp đỡ"
-      },
-      {
-        "word": "experience",
-        "meaningVi": "trải nghiệm"
+        "word": "commitment",
+        "meaningVi": "sự cam kết"
       }
     ]
   },
@@ -947,14 +1423,14 @@
           "q": "Once you receive a confirmation e-mail, the registration process is ___.",
           "a": "complete",
           "options": [
-            "damage.",
+            "damage",
             "applaud",
             "complete",
             "commentary"
           ]
         },
         {
-          "q": "When seeking help online, clients must be ver ___ in describing problems.",
+          "q": "When seeking help online, clients must be very ___ in describing problems.",
           "a": "specific",
           "options": [
             "commitment",

@@ -4,29 +4,109 @@
   "title": "Hiệp định thương mại",
   "topic": "Giao dịch",
   "sourcePages": [
-    241,
-    256
+    266,
+    277
   ],
   "words": [
+    {
+      "id": "completely",
+      "word": "completely",
+      "partOfSpeech": "adv",
+      "pronunciation": {
+        "uk": "/kəmˈpliːtli/",
+        "us": "/kəmˈpliːtli/"
+      },
+      "frequency": 3,
+      "meaningVi": "hoàn toàn, trọn vẹn",
+      "exampleEn": "Every product in our catalog is completely guaranteed.",
+      "exampleVi": "Tất cả sản phẩm trong danh mục của chúng tôi đều được bảo hành hoàn toàn.",
+      "derivatives": [
+        {
+          "word": "complete",
+          "partOfSpeech": "v/adj",
+          "meaningVi": "hoàn thành, hoàn toàn"
+        },
+        {
+          "word": "completion",
+          "partOfSpeech": "n",
+          "meaningVi": "sự hoàn thành"
+        }
+      ],
+      "synonyms": [
+        "totally",
+        "entirely",
+        "fully"
+      ],
+      "antonyms": [
+        "partially"
+      ],
+      "toeicNotes": [
+        "completely guaranteed: được bảo hành hoàn toàn",
+        "Phân biệt completely (adv) và complete (adj)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "refuse",
+      "word": "refuse",
+      "partOfSpeech": "v",
+      "pronunciation": {
+        "uk": "/rɪˈfjuːz/",
+        "us": "/rɪˈfjuːz/"
+      },
+      "frequency": 2,
+      "meaningVi": "từ chối",
+      "exampleEn": "The shipment was refused by the purchaser due to damage caused in transit.",
+      "exampleVi": "Lô hàng đã bị người mua từ chối vì những hư hại trong quá trình vận chuyển.",
+      "derivatives": [
+        {
+          "word": "refusal",
+          "partOfSpeech": "n",
+          "meaningVi": "sự từ chối"
+        }
+      ],
+      "synonyms": [
+        "reject",
+        "turn down",
+        "decline"
+      ],
+      "antonyms": [
+        "accept",
+        "approve"
+      ],
+      "toeicNotes": [
+        "refuse to do sth: từ chối làm gì"
+      ],
+      "needsReview": false
+    },
     {
       "id": "temporarily",
       "word": "temporarily",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/témparerili/",
-        "us": "/tèmparérali/"
+        "uk": "/ˈtemprərəli/",
+        "us": "/ˌtempəˈrerəli/"
       },
       "frequency": 2,
       "meaningVi": "tạm thời, nhất thời",
-      "exampleEn": "The popular video game is temporarily out of stock in stores, but may be bought online.",
-      "exampleVi": "Máy chơi game đang được ưa chuộng đó tạm thời hết ở cửa hàng nhưng vẫn có thể mua được trên mạng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "exampleEn": "The popular video game is temporarily out of stock in stores.",
+      "exampleVi": "Máy chơi game đang được ưa chuộng đó tạm thời hết ở cửa hàng.",
+      "derivatives": [
+        {
+          "word": "temporary",
+          "partOfSpeech": "adj",
+          "meaningVi": "tạm thời"
+        }
+      ],
+      "synonyms": [
+        "briefly",
+        "provisionally"
+      ],
+      "antonyms": [
+        "permanently"
+      ],
       "toeicNotes": [
-        "(Ngũ Lưu ý phân biệt từ loại temporarily (adv.",
-        "nhất thời) và temporary (adj.",
-        "tạm thời)."
+        "temporarily out of stock: tạm thời hết hàng"
       ],
       "needsReview": false
     },
@@ -35,39 +115,58 @@
       "word": "dealer",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/dirlar/",
-        "us": "/dirlar/"
+        "uk": "/ˈdiːlə/",
+        "us": "/ˈdiːlər/"
       },
       "frequency": 1,
-      "meaningVi": "người buôn bán, lái buôn",
+      "meaningVi": "người buôn bán, lái buôn, đại lý",
       "exampleEn": "Imported vehicles are sold only by licensed car dealers.",
       "exampleVi": "Chỉ những người bán xe đã được cấp phép mới có thể bán xe nhập khẩu.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "deal",
+          "partOfSpeech": "v",
+          "meaningVi": "buôn bán, giao dịch"
+        },
+        {
+          "word": "dealership",
+          "partOfSpeech": "n",
+          "meaningVi": "đại lý, hãng bán xe"
+        }
+      ],
+      "synonyms": [
+        "trader",
+        "merchant",
+        "vendor"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "C - dealer người buôn bán 1 - dealership đại lý, cơ quan đại diện Lưu ý phân biệt nghĩa của danh từ chỉ người dealer và danh từ chỉ cơ quan, tổ chức dealership.",
-        "* tg = tỷ lê xuất hiện rất cao * * = tỷ lệ xuất hiện cao *= tỷ lệ xuất hiện trung bình"
+        "car dealer: đại lý/người bán xe ô tô",
+        "Phân biệt dealer (người bán) và dealership (cơ quan đại lý)."
       ],
       "needsReview": false
     },
     {
       "id": "bulk",
       "word": "bulk",
-      "partOfSpeech": "adj",
+      "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/balk/",
-        "us": "/balk/"
+        "uk": "/bʌlk/",
+        "us": "/bʌlk/"
       },
       "frequency": 1,
-      "meaningVi": "lớn, nhiều",
-      "exampleEn": "Many factories offer a modest discount for bulk- orders.",
+      "meaningVi": "khổ lớn, số lượng lớn; (adj) lớn, nhiều",
+      "exampleEn": "Many factories offer a modest discount for bulk orders.",
       "exampleVi": "Rất nhiều nhà máy đưa ra mức chiết khấu vừa phải cho những đơn hàng lớn.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "mass",
+        "large quantity"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "an in TOEIC dạng thức mới in buk với số lượng lớn ĐặP Lưu ý không sử dụng số nhiều in bulks."
+        "in bulk: với số lượng lớn (không dùng dạng số nhiều in bulks)",
+        "bulk order: đơn hàng mua sỉ/số lượng lớn"
       ],
       "needsReview": false
     },
@@ -76,17 +175,23 @@
       "word": "inventory",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/ínvantari/",
-        "us": "/ínvantòri/"
+        "uk": "/ˈɪnvəntri/",
+        "us": "/ˈɪnvəntɔːri/"
       },
       "frequency": 3,
-      "meaningVi": "tồn kho",
+      "meaningVi": "hàng tồn kho, danh mục kiểm kê",
       "exampleEn": "The inventory in the warehouse is checked at regular intervals.",
       "exampleVi": "Hàng tồn trong kho được kiểm kê định kỳ.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "stock",
+        "supplies"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "take inventory: kiểm kê hàng tồn kho",
+        "inventory control: quản lý hàng tồn kho"
+      ],
       "needsReview": false
     },
     {
@@ -94,59 +199,69 @@
       "word": "short",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ʃɔːt/",
+        "us": "/ʃɔːrt/"
       },
       "frequency": 2,
       "meaningVi": "ngắn; thiếu, không đủ",
       "exampleEn": "The plant is running short on its supply of raw materials.",
       "exampleVi": "Nhà máy còn rất ít nguồn cung nguyên liệu thô.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "shortage",
+          "partOfSpeech": "n",
+          "meaningVi": "sự thiếu hụt"
+        },
+        {
+          "word": "shortly",
+          "partOfSpeech": "adv",
+          "meaningVi": "sớm, trong thời gian ngắn"
+        }
+      ],
+      "synonyms": [
+        "lacking",
+        "insufficient",
+        "deficient"
+      ],
+      "antonyms": [
+        "sufficient",
+        "adequate"
+      ],
       "toeicNotes": [
-        "Bai thi TOEIC dana thức mới Cự run short gần hết, còn rất ít sắp be short of bị thiếu Từ short thường được biết đến với nghĩa \"ngắn, thấp\", nhưng trong bài thi TOEIC lại hay được dùng với nghĩa \"thiếu, không đủ\".",
-        "Lúc này, short thường xuất hiện trong cụm run short hoặc be short of.",
-        "ip Lưu ý phân biệt từ loại shorlly (adv.",
-        "một cách ngắn gọn) và short (adj.",
-        "ngắn)."
+        "run short: sắp hết, còn rất ít",
+        "be short of: bị thiếu hụt điều gì"
       ],
       "needsReview": false
     },
     {
-      "id": "cOst",
-      "word": "cOst",
+      "id": "cost",
+      "word": "cost",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/kost/",
-        "us": "/korst/"
+        "uk": "/kɒst/",
+        "us": "/kɑːst/"
       },
       "frequency": 3,
-      "meaningVi": "giá, chi phí",
+      "meaningVi": "giá, chi phí; (v) trị giá, tốn kém",
       "exampleEn": "Singapore is known for its high cost of living.",
       "exampleVi": "Singapore được biết đến là nơi có chi phí sinh hoạt cao.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "costly",
+          "partOfSpeech": "adj",
+          "meaningVi": "đắt đỏ, tốn kém"
+        }
+      ],
+      "synonyms": [
+        "price",
+        "expense",
+        "expenditure"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
-      "needsReview": false
-    },
-    {
-      "id": "cOst",
-      "word": "cOst",
-      "partOfSpeech": "v",
-      "pronunciation": {
-        "uk": "/kost/",
-        "us": "/korst/"
-      },
-      "frequency": 3,
-      "meaningVi": "trị giá, đòi hỏi, tốn",
-      "exampleEn": "It can cost a lot to raise children these days.",
-      "exampleVi": "Ngày nay, việc nuôi con rất tốn kém.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "cost of living: chi phí sinh hoạt",
+        "at no extra cost: không mất thêm chi phí"
+      ],
       "needsReview": false
     },
     {
@@ -154,18 +269,28 @@
       "word": "selection",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/sɪˈlekʃn/",
+        "us": "/sɪˈlekʃn/"
       },
       "frequency": 3,
-      "meaningVi": "sự chọn lựa, lựa chọn",
+      "meaningVi": "sự chọn lựa, sự lựa chọn",
       "exampleEn": "Our website boasts a wide selection of gift items.",
       "exampleVi": "Trang web của chúng tôi tự hào giới thiệu rất nhiều sự lựa chọn về quà tặng.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "select",
+          "partOfSpeech": "v/adj",
+          "meaningVi": "lựa chọn, được chọn"
+        }
+      ],
+      "synonyms": [
+        "choice",
+        "assortment",
+        "range"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Cur a wide selection of rất nhiều sự lựa chọn ập Đây là cụm từ thường được dùng để nói về việc có nhiều sự lựa chọn."
+        "a wide/broad selection of: rất nhiều sự lựa chọn"
       ],
       "needsReview": false
     },
@@ -174,19 +299,34 @@
       "word": "commercial",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/komár al/",
-        "us": "/komár al/"
+        "uk": "/kəˈmɜːʃl/",
+        "us": "/kəˈmɜːrʃl/"
       },
       "frequency": 3,
-      "meaningVi": "(thuộc) thương mại",
+      "meaningVi": "thuộc thương mại; (n) quảng cáo truyền hình",
       "exampleEn": "Some commercial products may be subject to import taxes.",
       "exampleVi": "Một số sản phẩm thương mại có thể phải nộp thuế nhập khẩu.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "commerce",
+          "partOfSpeech": "n",
+          "meaningVi": "thương mại"
+        },
+        {
+          "word": "commercially",
+          "partOfSpeech": "adv",
+          "meaningVi": "về mặt thương mại"
+        }
+      ],
+      "synonyms": [
+        "trade",
+        "mercantile",
+        "advertisement"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "• quảng cáo Each television commercial must be under 30 seconds long.",
-        "Mỗi quảng cáo trên truyền hình phải dài không quá 30 giây."
+        "commercial product: sản phẩm thương mại",
+        "television commercial: quảng cáo trên truyền hình"
       ],
       "needsReview": false
     },
@@ -195,19 +335,22 @@
       "word": "order",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈɔːdə/",
+        "us": "/ˈɔːrdər/"
       },
       "frequency": 2,
-      "meaningVi": "đặt hàng, yêu cầu",
+      "meaningVi": "đặt hàng, yêu cầu; (n) đơn đặt hàng",
       "exampleEn": "The secretary ordered supplies from the main office.",
       "exampleVi": "Thư ký đã đặt vật tư từ văn phòng chính.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "request",
+        "purchase order"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "hị đơn đặt hàng, hàng đặt mua InterCore places regular orders for microchips from Compucation.",
-        "InterCore đặt đơn hàng định kỳ mua vi mạch của Compucation."
+        "place an order: đặt đơn hàng",
+        "fill/fulfill an order: thực hiện/giao đơn hàng"
       ],
       "needsReview": false
     },
@@ -216,21 +359,34 @@
       "word": "provide",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/praváid/",
-        "us": "/praváid/"
+        "uk": "/prəˈvaɪd/",
+        "us": "/prəˈvaɪd/"
       },
       "frequency": 3,
-      "meaningVi": "cấp, dự phòng",
+      "meaningVi": "cung cấp, dự phòng",
       "exampleEn": "We provide customers with detailed product lists by e-mail.",
       "exampleVi": "Chúng tôi cung cấp cho khách hàng danh sách chi tiết về sản phẩm qua e-mail.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "provision",
+          "partOfSpeech": "n",
+          "meaningVi": "sự cung cấp, điều khoản"
+        },
+        {
+          "word": "provider",
+          "partOfSpeech": "n",
+          "meaningVi": "nhà cung cấp"
+        }
+      ],
+      "synonyms": [
+        "supply",
+        "furnish",
+        "equip"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Warranties are provided with all Blake-Co merchandise.",
-        "Phiếu bảo hành được cung cấp cho tất cả hàng hóa của Blake-Co.",
-        "Hat im TOEIC dono thúc moi w| provide A with B cung cấp B cho A nem be provided with dược cung cấp, được trang bị provide thường đi với giới từ with, trong bài thi bạn cũng có thể gặp dạng bị động provided.",
-        "t t y = tỷ lê xuất hiện rất cao(#* = tỷ lệ xuất hiện cao *= tỷ lệ xuất hiện trung bình"
+        "provide A with B / provide B for A: cung cấp B cho A",
+        "be provided with: được cung cấp/trang bị"
       ],
       "needsReview": false
     },
@@ -239,40 +395,21 @@
       "word": "contact",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/kóntækt/",
-        "us": "/kántækt/"
+        "uk": "/ˈkɒntækt/",
+        "us": "/ˈkɑːntækt/"
       },
       "frequency": 3,
-      "meaningVi": "lạc, liên hệ",
+      "meaningVi": "liên lạc, liên hệ; (n) sự liên lạc, người liên hệ",
       "exampleEn": "Contact the supplier to request express delivery.",
-      "exampleVi": "Hãy liên hệ với nhà cung cấp dể yêu cầu giao hàng nhanh.",
+      "exampleVi": "Hãy liên hệ với nhà cung cấp để yêu cầu giao hàng nhanh.",
       "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
-      "needsReview": false
-    },
-    {
-      "id": "contact",
-      "word": "contact",
-      "partOfSpeech": "n",
-      "pronunciation": {
-        "uk": "/kóntækt/",
-        "us": "/kántækt/"
-      },
-      "frequency": 3,
-      "meaningVi": "sự liên lạc, người liên hệ",
-      "exampleEn": "Sales representatives should have a wide network of business contacts.",
-      "exampleVi": "Nhân viên kinh doanh cần có mạng lưới liên hệ công việc thật rộng.",
-      "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "get in touch with",
+        "reach"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "contact: connect L Phân biệt ý nghia của hai từ cũng mang nghĩa \"kết nói này.",
-        "-contact liên lạc, liên hệ Dùng để chỉ việc liên lạc giữa người với người thông qua thư từ, điện thoại.",
-        "- connect kết nối Dùng để chỉ việc kết nối giữa con người với nhau hoặc với sự vật và thường xuất hiện trong cụm connect A with B (kết nối A với B).",
-        "This website connects job seekers with employers.",
-        "Trang web này kết nối người tìm việc với nhà tuyển dụng."
+        "Phân biệt contact (liên lạc giữa người với người) và connect (kết nối A với B)."
       ],
       "needsReview": false
     },
@@ -281,17 +418,23 @@
       "word": "invoice",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/ínvois/",
-        "us": "/ínvois/"
+        "uk": "/ˈɪnvɔɪs/",
+        "us": "/ˈɪnvɔɪs/"
       },
       "frequency": 2,
-      "meaningVi": "đơn",
+      "meaningVi": "hóa đơn",
       "exampleEn": "The manufacturer sent an invoice for the production costs.",
       "exampleVi": "Nhà sản xuất đã gửi hóa đơn chi phí sản phẩm.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "bill",
+        "statement"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "send an invoice: gửi hóa đơn",
+        "issue an invoice: xuất hóa đơn"
+      ],
       "needsReview": false
     },
     {
@@ -299,21 +442,28 @@
       "word": "move",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/mu:v/",
-        "us": "/mu:v/"
+        "uk": "/muːv/",
+        "us": "/muːv/"
       },
       "frequency": 1,
-      "meaningVi": "chuyển động, di chuyển Panther",
-      "exampleEn": "Corporation moved its Asian headquarters to China.",
+      "meaningVi": "di chuyển, chuyển động; (n) động thái, sự di chuyển",
+      "exampleEn": "Panther Corporation moved its Asian headquarters to China.",
       "exampleVi": "Tập đoàn Panther đã chuyển trụ sở châu Á tới Trung Quốc.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "movement",
+          "partOfSpeech": "n",
+          "meaningVi": "sự chuyển động, phong trào"
+        }
+      ],
+      "synonyms": [
+        "relocate",
+        "transfer",
+        "shift"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "r sự chuyển/di chuyển; động thái, biện pháp The company's next move will be to expand its product line.",
-        "Động thái tiếp theo của công ty sẽ là mở rộng dây chuyển sản xuất.",
-        "Abigail feels a move to overseas could help her career.",
-        "Abigail thấy rằng chuyển ra nước ngoài sẽ giúp ích cho sự nghiệp của cô ấy."
+        "make a move: ra tay, thực hiện động thái"
       ],
       "needsReview": false
     },
@@ -322,38 +472,29 @@
       "word": "supply",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/saplái/",
-        "us": "/saplái/"
+        "uk": "/səˈplaɪ/",
+        "us": "/səˈplaɪ/"
       },
       "frequency": 3,
-      "meaningVi": "cấp, trang bị",
+      "meaningVi": "cung cấp, trang bị; (n) sự cung cấp; (-s) vật tư, thiết bị",
       "exampleEn": "NovaTech supplies its customers with the latest network equipment.",
       "exampleVi": "NovaTech cung cấp cho khách hàng các thiết bị kết nối tân tiến nhất.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
-      "needsReview": false
-    },
-    {
-      "id": "supply",
-      "word": "supply",
-      "partOfSpeech": "n",
-      "pronunciation": {
-        "uk": "/saplái/",
-        "us": "/saplái/"
-      },
-      "frequency": 3,
-      "meaningVi": "sự cung cấp; (-s) thiết bị, vật tư",
-      "exampleEn": "The diagram in the handout shows supply and demand in the electricity industry.",
-      "exampleVi": "Biểu đồ trong tài liệu phát tay chỉ rõ cung và cầu của ngành diện.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "supplier",
+          "partOfSpeech": "n",
+          "meaningVi": "nhà cung cấp"
+        }
+      ],
+      "synonyms": [
+        "provide",
+        "furnish"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Office supplies purchased online will be shipped within two business days.",
-        "Vật tư văn phòng đặt mua trên mạng sẽ được giao trong vòng hai ngày làm việc.",
-        "nhà phân phối om supply A with B cung cấp B cho A ( supply thường đi kèm giới từ with."
+        "supply A with B: cung cấp B cho A",
+        "office supplies: vật tư văn phòng",
+        "supply and demand: cung và cầu"
       ],
       "needsReview": false
     },
@@ -362,17 +503,23 @@
       "word": "discount",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/dískaunt/",
-        "us": "/dískaunt/"
+        "uk": "/ˈdɪskaʊnt/",
+        "us": "/ˈdɪskaʊnt/"
       },
       "frequency": 3,
-      "meaningVi": "sự giảm, tiền chiết khấu Repeat clients are eligible for a 30",
-      "exampleEn": "percent discount on all items.",
+      "meaningVi": "sự giảm giá, tiền chiết khấu; (v) giảm giá",
+      "exampleEn": "Repeat clients are eligible for a 30 percent discount on all items.",
       "exampleVi": "Khách mua hàng thường xuyên sẽ được hưởng mức chiết khấu 30% cho tất cả các mặt hàng.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "rebate",
+        "reduction"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "at a discount: được giảm giá",
+        "discount rate: tỷ lệ chiết khấu"
+      ],
       "needsReview": false
     },
     {
@@ -380,18 +527,36 @@
       "word": "distribute",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/distríbju:t/",
-        "us": "/distríbju:t/"
+        "uk": "/dɪˈstrɪbjuːt/",
+        "us": "/dɪˈstrɪbjuːt/"
       },
       "frequency": 3,
-      "meaningVi": "phối, phân phát",
+      "meaningVi": "phân phối, phân phát",
       "exampleEn": "The goods were distributed to local businesses.",
       "exampleVi": "Hàng hóa đã được phân phối tới các cơ sở kinh doanh địa phương.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "distribution",
+          "partOfSpeech": "n",
+          "meaningVi": "sự phân phối"
+        },
+        {
+          "word": "distributor",
+          "partOfSpeech": "n",
+          "meaningVi": "nhà phân phối"
+        }
+      ],
+      "synonyms": [
+        "deliver",
+        "dispense",
+        "hand out"
+      ],
+      "antonyms": [
+        "collect",
+        "gather"
+      ],
       "toeicNotes": [
-        "distribute A to B phân phối A tới/cho B Pin distribute thường đi với giới từ to."
+        "distribute A to B: phân phối A cho B"
       ],
       "needsReview": false
     },
@@ -400,19 +565,28 @@
       "word": "acquisition",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˌækwɪˈzɪʃn/",
+        "us": "/ˌækwɪˈzɪʃn/"
       },
       "frequency": 3,
       "meaningVi": "sự tiếp nhận, sự mua lại; vật được mua",
       "exampleEn": "Companies can grow quickly through the acquisition of other businesses.",
       "exampleVi": "Các công ty có thể lớn mạnh nhanh chóng thông qua việc thu mua lại các doanh nghiệp khác.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "acquire",
+          "partOfSpeech": "v",
+          "meaningVi": "thu được, mua lại"
+        }
+      ],
+      "synonyms": [
+        "takeover",
+        "purchase",
+        "procurement"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "The family's latest acguisition is a minivan.",
-        "Món đồ gần đây nhất mà gia đình mua là một chiếc xe tải nhỏ."
+        "merger and acquisition (M&A): sáp nhập và mua lại"
       ],
       "needsReview": false
     },
@@ -421,24 +595,29 @@
       "word": "assure",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/əˈʃʊə/",
+        "us": "/əˈʃʊr/"
       },
       "frequency": 3,
       "meaningVi": "đảm bảo, cam đoan",
       "exampleEn": "RapidFleet assures customers that all purchases are delivered promptly.",
       "exampleVi": "RapidFleet đảm bảo với khách hàng rằng tất cả hàng hóa sẽ được giao nhanh chóng.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "assurance",
+          "partOfSpeech": "n",
+          "meaningVi": "sự đảm bảo, cam đoan"
+        }
+      ],
+      "synonyms": [
+        "guarantee",
+        "convince",
+        "promise"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "The sales assistant assured the customer that she would not be disappointed with the purchase.",
-        "Trợ lý bán hàng cam đoan với vị khách rằng cô ấy sẽ không thất vọng với mặt hàng đó.",
-        "mo assure A of B đảm bảo với A vé B assure A that cam đoan với A rằng Sau assure cần có tân ngữ và giới từ of hoặc mệnh đề that.",
-        "- assume cho rằng, nắm lấy, đảm đương Hai động từ này có cách viết khá giống nhau nhưng ý nghĩa hoàn toàn khác biệt, bạn cần lưu ý để tránh nhầm lẫn.",
-        "Mr.",
-        "Jones assumed that some people invited to the event would be unable to attend.",
-        "Ông Jones cho rằng một số vị khách được mới tới sự kiện sẽ không thể tham dự."
+        "assure A of B / assure A that + S + V: cam đoan với A điều gì",
+        "Phân biệt assure (cam đoan với người khác) và assume (cho rằng)."
       ],
       "needsReview": false
     },
@@ -447,25 +626,25 @@
       "word": "subject",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/sábdzekt/",
-        "us": "/sábdzekt/"
+        "uk": "/ˈsʌbdʒɪkt/",
+        "us": "/ˈsʌbdʒɪkt/"
       },
       "frequency": 3,
-      "meaningVi": "dễ bị, khó tránh khỏi; lệ thuộc, tùy theo, phải chịu",
+      "meaningVi": "dễ bị, khó tránh khỏi; lệ thuộc, phải chịu; (v) bắt phải chịu",
       "exampleEn": "Prices are subject to change without advance notice.",
       "exampleVi": "Giá cả khó tránh khỏi bị thay đổi mà không được thông báo trước.",
       "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "vulnerable",
+        "prone",
+        "dependent"
+      ],
+      "antonyms": [
+        "exempt"
+      ],
       "toeicNotes": [
-        "Vacation requests are subject to approval of the office manager.",
-        "Các yêu cầu xin nghỉ cần phải có sự chấp thuận của trưởng phòng.",
-        "\" xâm chiếm, chinh phục; bắt phải chịu The researchers subjected the synthetic materials to durability tests.",
-        "Các nhà nghiên cứu phải thực hiện kiểm tra độ bền đối với các vật liệu tổng hợp.",
-        "TOEIC dand thit mot cum be subject to + change/damage dễ bị thay đổi/hư hỏng såp be subject to + approval phải được chấp thuận/phê duyệt subject A to B bắt A trải qua/chịu dựng B Lưu ý: Tính từ subject cần đi với giới từ to và thường đi kèm danh từ chỉ sự thay đổi như change, damage khi mang nghĩa \"dễ bị, khó tránh khỏi\".",
-        "Khi mang nghĩa \"lệ thuộc, phải chịu\", subject cần đi kèm danh từ liên quan đến sự chấp nhận như approval.",
-        "Động từ subject cũng đi kèm với giới từ to Lus lúar !",
-        "TAg ?Odr go"
+        "be subject to change/damage: dễ bị thay đổi/hư hỏng",
+        "be subject to approval: phải được sự chấp thuận/phê duyệt"
       ],
       "needsReview": false
     },
@@ -474,17 +653,23 @@
       "word": "seek",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/sik/",
-        "us": "/sik/"
+        "uk": "/siːk/",
+        "us": "/siːk/"
       },
       "frequency": 3,
-      "meaningVi": "kiếm, theo đuổi Fenway",
-      "exampleEn": "Bank is seeking a new manager for its Phoenix branch.",
+      "meaningVi": "tìm kiếm, theo đuổi",
+      "exampleEn": "Fenway Bank is seeking a new manager for its Phoenix branch.",
       "exampleVi": "Ngân hàng Fenway đang tìm một quản lý mới cho chi nhánh ở Phoenix.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "search for",
+        "look for",
+        "pursue"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "seek employment/help: tìm kiếm việc làm / sự giúp đỡ"
+      ],
       "needsReview": false
     },
     {
@@ -492,22 +677,64 @@
       "word": "satisfactory",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/satisfaktari/",
-        "us": "/satisfaktari/"
+        "uk": "/ˌsætɪsˈfæktəri/",
+        "us": "/ˌsætɪsˈfæktəri/"
       },
       "frequency": 3,
       "meaningVi": "vừa lòng, thỏa mãn, thỏa đáng",
       "exampleEn": "Customers expect satisfactory responses to their demands.",
       "exampleVi": "Khách hàng mong nhận được những phản hồi thỏa đáng cho các yêu cầu của họ.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "satisfy",
+          "partOfSpeech": "v",
+          "meaningVi": "làm vừa lòng"
+        },
+        {
+          "word": "satisfaction",
+          "partOfSpeech": "n",
+          "meaningVi": "sự hài lòng"
+        }
+      ],
+      "synonyms": [
+        "acceptable",
+        "adequate",
+        "suitable"
+      ],
+      "antonyms": [
+        "unsatisfactory"
+      ],
+      "toeicNotes": [
+        "Phân biệt satisfactory (thỏa đáng - nói về kết quả) và satisfied (hài lòng - nói về cảm xúc con người)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "confirmation",
+      "word": "confirmation",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˌkɒnfəˈmeɪʃn/",
+        "us": "/ˌkɑːnfərˈmeɪʃn/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự xác nhận, giấy xác nhận",
+      "exampleEn": "Please submit written confirmation of the subscription cancellation.",
+      "exampleVi": "Vui lòng nộp văn bản xác nhận việc hủy đăng ký dài hạn.",
+      "derivatives": [
+        {
+          "word": "confirm",
+          "partOfSpeech": "v",
+          "meaningVi": "xác nhận"
+        }
+      ],
+      "synonyms": [
+        "verification",
+        "proof"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Bar 10 TOEIC dang thức moi - satisfactory hài lòng, thỏa mẫn L satisfied hài lòng, vừa ý satisfactory thường được dùng để nói về đặc điểm của một kết quả hay một câu trả lời nào đó là thỏa đáng, vừa ý.",
-        "Trong khi đó, satisfied thường được dùng để nói về tâm trạng hài lòng, thỏa mãn của một người.",
-        "Ms.",
-        "Collins was very satisfied with the items she received.",
-        "Cô Collins rất hài lòng với những mặt hàng mà cô ấy đã nhận được."
+        "confirmation of: giấy/sự xác nhận về điều gì"
       ],
       "needsReview": false
     },
@@ -516,20 +743,54 @@
       "word": "unable",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/ànéibl/",
-        "us": "/ànéibl/"
+        "uk": "/ʌnˈeɪbl/",
+        "us": "/ʌnˈeɪbl/"
       },
       "frequency": 2,
-      "meaningVi": "thể, không có khả năng",
+      "meaningVi": "không thể, không có khả năng",
       "exampleEn": "The hotel is unable to take any more reservations as it is overbooked.",
       "exampleVi": "Khách sạn không thể tiếp nhận thêm đơn đặt chỗ vì đã hết phòng.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "incapable",
+        "powerless"
+      ],
+      "antonyms": [
+        "able",
+        "capable"
+      ],
+      "toeicNotes": [
+        "be unable to do sth: không thể làm gì"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "payment",
+      "word": "payment",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈpeɪmənt/",
+        "us": "/ˈpeɪmənt/"
+      },
+      "frequency": 2,
+      "meaningVi": "việc trả tiền, khoản thanh toán",
+      "exampleEn": "Once payment has been received, the books will be delivered.",
+      "exampleVi": "Khi tiền thanh toán đến nơi, sách sẽ được giao.",
+      "derivatives": [
+        {
+          "word": "pay",
+          "partOfSpeech": "v",
+          "meaningVi": "thanh toán"
+        }
+      ],
+      "synonyms": [
+        "remittance",
+        "settlement"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "m việc trả tiền, khoản thạnh toán Once payment has been received, the books will be delivered.",
-        "Khi tiền thanh toán đến nơi, sách sẽ được giao.",
-        "Đt = tỷ lệ xuất hiện rất cao subscription cancellation."
+        "make a payment: thực hiện thanh toán",
+        "payment method: phương thức thanh toán"
       ],
       "needsReview": false
     },
@@ -538,35 +799,55 @@
       "word": "measure",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/mézar/",
-        "us": "/mézar/"
+        "uk": "/ˈmeʒə/",
+        "us": "/ˈmeʒər/"
       },
       "frequency": 2,
-      "meaningVi": "phương sách, biện pháp",
-      "exampleEn": "The safety measures are in place to protect faciory workers.",
+      "meaningVi": "phương sách, biện pháp; (v) đo đạc, tính toán",
+      "exampleEn": "The safety measures are in place to protect factory workers.",
       "exampleVi": "Các biện pháp an toàn đã được thiết lập để bảo vệ công nhân của nhà máy.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "measurement",
+          "partOfSpeech": "n",
+          "meaningVi": "sự đo lường, kích thước"
+        }
+      ],
+      "synonyms": [
+        "action",
+        "step",
+        "precaution",
+        "calculate"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "take measures: thực hiện các biện pháp",
+        "safety measure: biện pháp an toàn"
+      ],
       "needsReview": false
     },
     {
       "id": "bargain",
       "word": "bargain",
-      "partOfSpeech": "v",
+      "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/bágin/",
-        "us": "/bá:rgan/"
+        "uk": "/ˈbɑːɡən/",
+        "us": "/ˈbɑːrɡən/"
       },
       "frequency": 2,
-      "meaningVi": "đo đạc, tính",
-      "exampleEn": "toán The construction crew measured the spaces for refrigerators in all apartments.",
-      "exampleVi": "Đội xây dựng đã đo không gian để tủ lạnh ở tất cả các căn hộ.",
+      "meaningVi": "món hời, sự mặc cả; (v) mặc cả, thương lượng",
+      "exampleEn": "Stores offer many great bargains at the end of the year.",
+      "exampleVi": "Các cửa hàng đưa ra rất nhiều món hời hấp dẫn vào cuối năm.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "deal",
+        "discount purchase",
+        "negotiate"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "bargain price: giá hời"
+      ],
       "needsReview": false
     },
     {
@@ -574,39 +855,24 @@
       "word": "stock",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/stok/",
-        "us": "/stak/"
-      },
-      "frequency": 1,
-      "meaningVi": "sự mặc cả, món hời Stores offer many great bargains at the end of the year. Các cửa hàng đưa ra rất nhiều món hời hấp dẫn vào cuối năm. in kho hàng, nguồn hàng; cổ phần",
-      "exampleEn": "This particular model is currently out of stock.",
-      "exampleVi": "Mãu này hiện đang hết hàng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [
-        "Investment bankers must constantly check prices of Stocks.",
-        "Các ngân hàng đầu tư phải liên tục cập nhật giá cổ phiếu.",
-        "Bải thi TOEIC dạng thức mới Cum in stock có hàng, còn hàng en out of stock hết hàng Từ stock thường đi với giới từ in hoặc out of để nói về tình trạng còn hay hết một mặt hàng nào đó."
-      ],
-      "needsReview": false
-    },
-    {
-      "id": "clientele",
-      "word": "clientele",
-      "partOfSpeech": "n",
-      "pronunciation": {
-        "uk": "/klaiantél/",
-        "us": "/klaiantél/"
+        "uk": "/stɒk/",
+        "us": "/stɑːk/"
       },
       "frequency": 2,
-      "meaningVi": "hợp lý về giá cả",
-      "exampleEn": "Consumers are most concerned about the affordability of groceries.",
-      "exampleVi": "Khách hàng thường bận tâm nhiều nhất về việc giá của các mặt hàng thực phẩm có hợp túi tiền hay không.",
+      "meaningVi": "kho hàng, nguồn hàng, cổ phần; (v) tích trữ",
+      "exampleEn": "This particular model is currently out of stock.",
+      "exampleVi": "Mẫu này hiện đang hết hàng.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "inventory",
+        "supply",
+        "shares"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "in stock: còn hàng trong kho",
+        "out of stock: hết hàng"
+      ],
       "needsReview": false
     },
     {
@@ -614,15 +880,52 @@
       "word": "affordability",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/əˌfɔːdəˈbɪləti/",
+        "us": "/əˌfɔːrdəˈbɪləti/"
       },
-      "frequency": 1,
-      "meaningVi": "",
-      "exampleEn": "hàng, khách quen The wealthiest clientele usually shops in luxury stores.",
+      "frequency": 2,
+      "meaningVi": "tính hợp lý về giá cả, khả năng chi trả",
+      "exampleEn": "Consumers are most concerned about the affordability of groceries.",
+      "exampleVi": "Khách hàng thường bận tâm nhiều nhất về việc giá của các mặt hàng thực phẩm có hợp túi tiền hay không.",
+      "derivatives": [
+        {
+          "word": "affordable",
+          "partOfSpeech": "adj",
+          "meaningVi": "vừa túi tiền, giá cả hợp lý"
+        }
+      ],
+      "synonyms": [
+        "inexpensiveness",
+        "reasonableness"
+      ],
+      "antonyms": [],
+      "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "clientele",
+      "word": "clientele",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˌkliːənˈtel/",
+        "us": "/ˌklaɪənˈtel/"
+      },
+      "frequency": 2,
+      "meaningVi": "nhóm khách hàng, khách quen",
+      "exampleEn": "The wealthiest clientele usually shops in luxury stores.",
       "exampleVi": "Những khách hàng giàu có nhất thường mua sắm ở các cửa hiệu sang trọng.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "client",
+          "partOfSpeech": "n",
+          "meaningVi": "khách hàng"
+        }
+      ],
+      "synonyms": [
+        "customers",
+        "patrons",
+        "buyers"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -632,17 +935,31 @@
       "word": "acclaim",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/akléim/",
-        "us": "/akléim/"
+        "uk": "/əˈkleɪm/",
+        "us": "/əˈkleɪm/"
       },
-      "frequency": 2,
-      "meaningVi": "tiếng hoan hô, sự ngợi khen Ms.",
-      "exampleEn": "Song's novel won critical acclaim, and a studio soon purchased the movie rights.",
-      "exampleVi": "Cuốn tiểu thuyết của bà Song đã được giới phê bình khen ngợi, và một công ty điện ảnh đã nhanh chóng mua bản quyền làm",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
+      "frequency": 1,
+      "meaningVi": "tiếng hoan hô, sự ngợi khen; (v) ca ngợi",
+      "exampleEn": "Ms. Song's novel won critical acclaim, and a studio soon purchased the movie rights.",
+      "exampleVi": "Cuốn tiểu thuyết của bà Song đã được giới phê bình khen ngợi, và một công ty điện ảnh đã nhanh chóng mua bản quyền.",
+      "derivatives": [
+        {
+          "word": "acclaimed",
+          "partOfSpeech": "adj",
+          "meaningVi": "được ca ngợi, có tiếng vang"
+        }
+      ],
+      "synonyms": [
+        "praise",
+        "applause",
+        "commendation"
+      ],
+      "antonyms": [
+        "criticism"
+      ],
+      "toeicNotes": [
+        "critical acclaim: sự ca ngợi của giới chuyên môn/phê bình"
+      ],
       "needsReview": false
     },
     {
@@ -650,59 +967,118 @@
       "word": "represent",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/rêprizént/",
-        "us": "/rêprizént/"
+        "uk": "/ˌreprɪˈzent/",
+        "us": "/ˌreprɪˈzent/"
       },
       "frequency": 1,
-      "meaningVi": "đại diện cho, tiêu biểu cho Rounders",
-      "exampleEn": "Properties is looking for an agent to represent the firm in Europe.",
-      "exampleVi": "Rounders Properties dang tìm một người đại diện cho công ty tại châu Âu.",
-      "derivatives": [],
-      "synonyms": [],
+      "meaningVi": "đại diện cho, tiêu biểu cho",
+      "exampleEn": "Rounders Properties is looking for an agent to represent the firm in Europe.",
+      "exampleVi": "Rounders Properties đang tìm một người đại diện cho công ty tại châu Âu.",
+      "derivatives": [
+        {
+          "word": "representative",
+          "partOfSpeech": "n",
+          "meaningVi": "người đại diện"
+        },
+        {
+          "word": "representation",
+          "partOfSpeech": "n",
+          "meaningVi": "sự đại diện"
+        }
+      ],
+      "synonyms": [
+        "speak for",
+        "stand for",
+        "symbolize"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "(n.",
-        "Khi được dùng với nghĩa thay mặt một tổ chức để phát ngôn, phát biểu, represent có thể được thay bằng speak for."
+        "represent a company/firm: đại diện cho một công ty"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "rating",
+      "word": "rating",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˈreɪtɪŋ/",
+        "us": "/ˈreɪtɪŋ/"
+      },
+      "frequency": 1,
+      "meaningVi": "sự đánh giá, thứ bậc, xếp hạng",
+      "exampleEn": "The Coolmax air conditioner has the highest energy efficiency rating.",
+      "exampleVi": "Điều hòa của hãng Coolmax có thứ hạng cao nhất về tiết kiệm năng lượng.",
+      "derivatives": [
+        {
+          "word": "rate",
+          "partOfSpeech": "v/n",
+          "meaningVi": "đánh giá, tỷ lệ"
+        }
+      ],
+      "synonyms": [
+        "grade",
+        "rank",
+        "evaluation"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "energy efficiency rating: xếp hạng tiết kiệm năng lượng",
+        "credit rating: xếp hạng tín nhiệm"
       ],
       "needsReview": false
     },
     {
       "id": "encompass",
       "word": "encompass",
-      "partOfSpeech": "n",
+      "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/inkÁmpas/",
-        "us": "/inkÁmpas/"
+        "uk": "/ɪnˈkʌmpəs/",
+        "us": "/ɪnˈkʌmpəs/"
       },
       "frequency": 1,
-      "meaningVi": "sự đánh giá, thứ bậc",
-      "exampleEn": "The Coolmax air conditioner has the highest energy efficiency rating.",
-      "exampleVi": "Điều hòa của hãng Coolmax có thứ hạng cao nhất về tiết kiệm năng lượng.",
+      "meaningVi": "bao quanh, bao gồm, chứa đựng",
+      "exampleEn": "Techtronic's product range encompasses all kinds of electrical goods.",
+      "exampleVi": "Sản phẩm của Techtronic bao gồm mọi loại mặt hàng điện tử.",
       "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "include",
+        "contain",
+        "cover"
+      ],
+      "antonyms": [
+        "exclude"
+      ],
       "toeicNotes": [],
       "needsReview": false
     },
     {
-      "id": "s-finalize",
-      "word": "s finalize",
+      "id": "finalize",
+      "word": "finalize",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/fáinalàiz/",
-        "us": "/fáinalàiz/"
+        "uk": "/ˈfaɪnəlaɪz/",
+        "us": "/ˈfaɪnəlaɪz/"
       },
       "frequency": 1,
-      "meaningVi": "quanh, bao gồm",
-      "exampleEn": "Techtronic's product range encompasses all kinds of electrical goods.",
-      "exampleVi": "Sản phẩm của Techtronic bao gồm mọi loại mặt hàng điện tử.",
-      "derivatives": [],
-      "synonyms": [],
+      "meaningVi": "hoàn thành, thông qua lần cuối",
+      "exampleEn": "Once Bertram Inc. finalizes the contract, they will begin manufacturing the products.",
+      "exampleVi": "Ngay khi Tập đoàn Bertram thông qua hợp đồng, họ sẽ bắt đầu sản xuất các sản phẩm đó.",
+      "derivatives": [
+        {
+          "word": "final",
+          "partOfSpeech": "adj",
+          "meaningVi": "cuối cùng"
+        }
+      ],
+      "synonyms": [
+        "complete",
+        "conclude",
+        "settle"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "M hoàn thành, thông qua lần cuối Once Bertram Inc.",
-        "finalizes the contract, they will begin manufacturing the products.",
-        "Ngay khi Tập đoàn Bertram thông qua hợp đồng, họ sẽ bắt đầu sản xuất các sản phẩm đó."
+        "finalize a contract/deal: chốt/hoàn thành hợp đồng"
       ],
       "needsReview": false
     },
@@ -711,18 +1087,28 @@
       "word": "market",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/má:kit/",
-        "us": "/márkit/"
+        "uk": "/ˈmɑːkɪt/",
+        "us": "/ˈmɑːrkɪt/"
       },
       "frequency": 1,
-      "meaningVi": "thị trường",
+      "meaningVi": "thị trường; (v) đưa ra thị trường, quảng cáo",
       "exampleEn": "Joyful-Cleanse is the best dish detergent on the market.",
       "exampleVi": "Joyful-Cleanse là nước rửa bát tốt nhất trên thị trường.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "marketing",
+          "partOfSpeech": "n",
+          "meaningVi": "tiếp thị"
+        }
+      ],
+      "synonyms": [
+        "bazaar",
+        "marketplace"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "• - từ vưng thường gặp trong Part 5 - 6 O = từ vựng thường gặp trong Part 7 Giao dịch | 275 (ie pestaion (n), залт TOEI dang tuc not"
+        "on the market: có mặt trên thị trường",
+        "market research: nghiên cứu thị trường"
       ],
       "needsReview": false
     },
@@ -731,91 +1117,170 @@
       "word": "retail",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/ríteil/",
-        "us": "/ríteil/"
+        "uk": "/ˈriːteɪl/",
+        "us": "/ˈriːteɪl/"
       },
       "frequency": 1,
       "meaningVi": "sự bán lẻ, việc bán lẻ",
       "exampleEn": "Online shops are more popular than most retail stores nowadays.",
       "exampleVi": "Các cửa hàng trực tuyến giờ đây phổ biến hơn các cửa hàng bán lẻ.",
-      "derivatives": [],
+      "derivatives": [
+        {
+          "word": "retailer",
+          "partOfSpeech": "n",
+          "meaningVi": "người/nhà bán lẻ"
+        }
+      ],
       "synonyms": [],
+      "antonyms": [
+        "wholesale"
+      ],
+      "toeicNotes": [
+        "retail store/outlet: cửa hàng bán lẻ",
+        "retail price: giá bán lẻ"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "commodity",
+      "word": "commodity",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/kəˈmɒdəti/",
+        "us": "/kəˈmɑːdəti/"
+      },
+      "frequency": 1,
+      "meaningVi": "hàng hóa, mặt hàng",
+      "exampleEn": "Export opportunities are opening up in the agricultural commodities sector.",
+      "exampleVi": "Nhiều cơ hội xuất khẩu đang rộng mở trong lĩnh vực hàng hóa nông nghiệp.",
+      "derivatives": [],
+      "synonyms": [
+        "goods",
+        "merchandise",
+        "product"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "a hàng hóa, mặt hàng Export opportunities are opening up in the agricultural commodities sector.",
-        "Nhiều cơ hội xuất khẩu đang rộng mở trong lĩnh vực hàng hóa nông nghiệp."
+        "agricultural commodity: nông sản hàng hóa"
       ],
       "needsReview": false
     },
     {
       "id": "quote",
       "word": "quote",
-      "partOfSpeech": "v",
+      "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/kwəʊt/",
+        "us": "/kwoʊt/"
       },
       "frequency": 1,
-      "meaningVi": "định giá",
-      "exampleEn": "The landscaper quoted a much higher price than expected.",
-      "exampleVi": "Đơn vị xây dựng cảnh quan đưa ra giá cao hơn rất nhiều so với dự đoán.",
-      "derivatives": [],
-      "synonyms": [],
+      "meaningVi": "báo giá; (v) định giá, trích dẫn",
+      "exampleEn": "The customer requested a price quote on the merchandise.",
+      "exampleVi": "Khách hàng hỏi báo giá của mặt hàng đó.",
+      "derivatives": [
+        {
+          "word": "quotation",
+          "partOfSpeech": "n",
+          "meaningVi": "bảng báo giá"
+        }
+      ],
+      "synonyms": [
+        "estimate",
+        "bid",
+        "price statement"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Ba: thi TOE/C dang thức mội price quote báo giá san custom quote báo giá đơn hàng Từ quote thường đi với các danh từ như price, custom.",
-        "A quota system guarantees each producer a share of the market.",
-        "Hệ thống định ngạch đảm bảo mỗi nhà sản xuất đều có phần trên thị trường.",
-        "(ơm) Khi được dùng với nghĩa \"dịnh giá\", quote có thể được thay bằng từ estimate.",
-        "in sự gửi hàng, sự ký gửi (để bán) The dealer only sells on consignment.",
-        "Các nhà buôn chỉ bán hàng theo hình thức ký gửi."
+        "price quote / custom quote: bảng báo giá",
+        "quote đồng nghĩa với estimate khi nói về việc định giá/ước lượng giá."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "consignment",
+      "word": "consignment",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/kənˈsaɪnmənt/",
+        "us": "/kənˈsaɪnmənt/"
+      },
+      "frequency": 1,
+      "meaningVi": "sự gửi hàng, sự ký gửi (để bán)",
+      "exampleEn": "The dealer only sells on consignment.",
+      "exampleVi": "Các nhà buôn chỉ bán hàng theo hình thức ký gửi.",
+      "derivatives": [
+        {
+          "word": "consign",
+          "partOfSpeech": "v",
+          "meaningVi": "ký gửi hàng"
+        }
+      ],
+      "synonyms": [
+        "shipment",
+        "delivery"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "on consignment: theo hình thức ký gửi"
       ],
       "needsReview": false
     }
   ],
   "story": {
-    "title": "Giao Dịch Nâng Hạng Ghế Của ORI",
-    "content": "Hành khách muốn đổi sang ghế hạng thương gia, ORI nhiệt tình hướng dẫn khách **pay** (thanh toán). Quá trình **transaction** (giao dịch) diễn ra nhanh chóng tại quầy. Mức chênh lệch **price** (giá cả) đã được hiển thị rõ ràng trên hệ thống. Khách hàng quẹt **card** (thẻ) tín dụng để hoàn tất. Do giao dịch quốc tế, hệ thống tự động quy đổi sang **currency** (tiền tệ) bản địa của khách. ORI in hóa đơn (**receipt**) và gửi kèm cho khách hàng. Không có bất kỳ khoản **fee** (lệ phí) ẩn nào bị **charge** (tính phí) thêm ngoài quy định. Sau khi kiểm tra hóa đơn (**bill**), khách hàng hài lòng ký xác nhận. Số tiền lập tức được hạch toán vào **account** (tài khoản) doanh thu của chi nhánh.",
+    "title": "Hiệp Định Vận Chuyển Hàng Hóa",
+    "content": "Một công ty nhập khẩu lớn vừa tiến hành mua lại (**acquisition**) một chuỗi đại lý (**dealer**) phân phối nông sản. Do số lượng hàng tồn kho (**inventory**) đang tăng mạnh, họ quyết định đặt mua (**order**) với số lượng lớn (**bulk**) để hưởng mức chiết khấu (**discount**) đặc biệt. Nhà cung cấp (**supplier**) đã phát hành hóa đơn (**invoice**) và đảm bảo (**assure**) giao hàng đúng hạn. Để bảo vệ các mặt hàng này khỏi biến động giá cả, công ty đã đưa ra biện pháp (**measure**) ký gửi (**consignment**) và định giá (**quote**) hợp lý cho toàn bộ các đại lý **retail** (bán lẻ) trên thị trường (**market**).",
     "words": [
       {
-        "word": "pay",
-        "meaningVi": "thanh toán"
+        "word": "acquisition",
+        "meaningVi": "mua lại"
       },
       {
-        "word": "transaction",
-        "meaningVi": "giao dịch"
+        "word": "dealer",
+        "meaningVi": "đại lý"
       },
       {
-        "word": "price",
-        "meaningVi": "giá cả"
+        "word": "inventory",
+        "meaningVi": "hàng tồn kho"
       },
       {
-        "word": "card",
-        "meaningVi": "thẻ"
+        "word": "order",
+        "meaningVi": "đặt mua"
       },
       {
-        "word": "currency",
-        "meaningVi": "tiền tệ"
+        "word": "bulk",
+        "meaningVi": "số lượng lớn"
       },
       {
-        "word": "receipt",
+        "word": "discount",
+        "meaningVi": "chiết khấu"
+      },
+      {
+        "word": "invoice",
         "meaningVi": "hóa đơn"
       },
       {
-        "word": "fee",
-        "meaningVi": "lệ phí"
+        "word": "assure",
+        "meaningVi": "đảm bảo"
       },
       {
-        "word": "charge",
-        "meaningVi": "tính phí"
+        "word": "measure",
+        "meaningVi": "biện pháp"
       },
       {
-        "word": "bill",
-        "meaningVi": "hóa đơn"
+        "word": "consignment",
+        "meaningVi": "ký gửi"
       },
       {
-        "word": "account",
-        "meaningVi": "tài khoản"
+        "word": "quote",
+        "meaningVi": "định giá"
+      },
+      {
+        "word": "retail",
+        "meaningVi": "bán lẻ"
+      },
+      {
+        "word": "market",
+        "meaningVi": "thị trường"
       }
     ]
   },
@@ -825,103 +1290,103 @@
       "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
       "questions": [
         {
-          "q": "The popular video game is ___ out of stock in stores, but may be bought online.",
-          "a": "temporarily",
-          "options": [
-            "subject",
-            "temporarily",
-            "acquisition",
-            "retail"
-          ]
-        },
-        {
           "q": "Imported vehicles are sold only by licensed car ___s.",
           "a": "dealer",
           "options": [
-            "cOst",
+            "clientele",
             "dealer",
-            "order",
-            "acclaim"
+            "invoice",
+            "consignment"
           ]
         },
         {
-          "q": "Many factories offer a modest discount for ___- orders.",
+          "q": "Many factories offer a modest discount for ___ orders.",
           "a": "bulk",
           "options": [
-            "bargain",
             "bulk",
-            "subject",
-            "commercial"
+            "short",
+            "unable",
+            "retail"
           ]
         },
         {
           "q": "The ___ in the warehouse is checked at regular intervals.",
           "a": "inventory",
           "options": [
+            "payment",
             "inventory",
-            "discount",
-            "contact",
-            "stock"
+            "rating",
+            "measure"
+          ]
+        },
+        {
+          "q": "Prices are ___ to change without advance notice.",
+          "a": "subject",
+          "options": [
+            "commercial",
+            "subject",
+            "satisfactory",
+            "dramatic"
           ]
         },
         {
           "q": "The plant is running ___ on its supply of raw materials.",
           "a": "short",
           "options": [
-            "dealer",
             "short",
-            "s finalize",
-            "acquisition"
+            "away",
+            "bulk",
+            "retail"
+          ]
+        },
+        {
+          "q": "Singapore is known for its high ___ of living.",
+          "a": "cost",
+          "options": [
+            "cost",
+            "stock",
+            "quote",
+            "discount"
           ]
         },
         {
           "q": "Our website boasts a wide ___ of gift items.",
           "a": "selection",
           "options": [
+            "acquisition",
             "selection",
-            "discount",
-            "affordability",
-            "subject"
+            "confirmation",
+            "commodity"
           ]
         },
         {
-          "q": "Some ___ products may be subject to import taxes.",
-          "a": "commercial",
+          "q": "The manufacturer sent an ___ for the production costs.",
+          "a": "invoice",
           "options": [
-            "commercial",
-            "cOst",
-            "contact",
-            "contact"
-          ]
-        },
-        {
-          "q": "The secretary ___ed supplies from the main office.",
-          "a": "order",
-          "options": [
-            "affordability",
-            "short",
-            "commercial",
-            "order"
-          ]
-        },
-        {
-          "q": "We ___ customers with detailed product lists by e-mail.",
-          "a": "provide",
-          "options": [
-            "stock",
-            "provide",
-            "supply",
-            "s finalize"
-          ]
-        },
-        {
-          "q": "___ the supplier to request express delivery.",
-          "a": "contact",
-          "options": [
-            "contact",
-            "commercial",
-            "distribute",
+            "invoice",
+            "bargain",
+            "rating",
             "dealer"
+          ]
+        },
+        {
+          "q": "RapidFleet ___s customers that all purchases are delivered promptly.",
+          "a": "assure",
+          "options": [
+            "refuse",
+            "assure",
+            "seek",
+            "encompass"
+          ]
+        },
+        {
+          "q": "Once Bertram Inc. ___s the contract, they will begin manufacturing.",
+          "a": "finalize",
+          "options": [
+            "finalize",
+            "represent",
+            "distribute",
+            "provide"
           ]
         }
       ]

@@ -4,8 +4,8 @@
   "title": "Đàm phán hợp đồng",
   "topic": "Hợp đồng",
   "sourcePages": [
-    225,
-    240
+    250,
+    261
   ],
   "words": [
     {
@@ -13,18 +13,33 @@
       "word": "proposal",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/prapáuzal/",
-        "us": "/prapóuzal/"
+        "uk": "/prəˈpəʊzl/",
+        "us": "/prəˈpoʊzl/"
       },
       "frequency": 3,
-      "meaningVi": "sự đề xuất, lời đề nghị Ms.",
-      "exampleEn": "Chryssom liked the proposal so much that she decided to invest immediately.",
+      "meaningVi": "sự đề xuất, lời đề nghị",
+      "exampleEn": "Ms. Chryssom liked the proposal so much that she decided to invest immediately.",
       "exampleVi": "Bà Chryssom thích đề xuất đó đến mức bà ấy quyết định đầu tư ngay lập tức.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "propose",
+          "partOfSpeech": "v",
+          "meaningVi": "đề nghị, đưa ra"
+        },
+        {
+          "word": "proposition",
+          "partOfSpeech": "n",
+          "meaningVi": "lời gợi ý, sự đề nghị"
+        }
+      ],
+      "synonyms": [
+        "suggestion",
+        "offer"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "| submit a proposal nộp/ đưa ra một đề xuất (ên vi kết thúc bằng duôi -al nên proposal dễ bị nhầm là một tính từ, hãy nhớ rằng đây là một danh từ."
+        "submit a proposal: nộp/đưa ra một đề xuất",
+        "Lưu ý: proposal kết thúc bằng đuôi -al nhưng là danh từ chứ không phải tính từ."
       ],
       "needsReview": false
     },
@@ -33,17 +48,29 @@
       "word": "alliance",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/aláians/",
-        "us": "/aláians/"
+        "uk": "/əˈlaɪəns/",
+        "us": "/əˈlaɪəns/"
       },
       "frequency": 1,
       "meaningVi": "sự liên minh, khối liên minh",
       "exampleEn": "The corporations formed an alliance to protect themselves from competitors.",
       "exampleVi": "Các công ty đã tạo thành một khối liên minh để tự bảo vệ mình trước các đối thủ cạnh tranh.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "ally",
+          "partOfSpeech": "v",
+          "meaningVi": "liên kết, liên minh"
+        }
+      ],
+      "synonyms": [
+        "union",
+        "coalition",
+        "partnership"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "form an alliance: thành lập khối liên minh"
+      ],
       "needsReview": false
     },
     {
@@ -51,15 +78,25 @@
       "word": "stipulation",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/stipjuléifen/",
-        "us": "/stipjuléifen/"
+        "uk": "/ˌstɪpjuˈleɪʃn/",
+        "us": "/ˌstɪpjuˈleɪʃn/"
       },
       "frequency": 1,
       "meaningVi": "sự quy định, điều khoản quy định",
-      "exampleEn": "Ine su re stipulations was that the goods must",
-      "exampleVi": "Một trong những điều khoản quy định là hàng hóa phải được bảo hành.",
-      "derivatives": [],
-      "synonyms": [],
+      "exampleEn": "One of the stipulations was that the goods must be insured.",
+      "exampleVi": "Một trong những điều khoản quy định là hàng hóa phải được bảo hiểm.",
+      "derivatives": [
+        {
+          "word": "stipulate",
+          "partOfSpeech": "v",
+          "meaningVi": "quy định, đặt điều kiện"
+        }
+      ],
+      "synonyms": [
+        "clause",
+        "requirement",
+        "condition"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -69,26 +106,24 @@
       "word": "term",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/tarm/",
-        "us": "/tarm/"
+        "uk": "/tɜːm/",
+        "us": "/tɜːrm/"
       },
       "frequency": 1,
-      "meaningVi": "điều khoản; thời hạn",
+      "meaningVi": "điều khoản; thời hạn; nhiệm kỳ",
       "exampleEn": "We cannot agree to the terms offered.",
-      "exampleVi": "Chúng tôi không thể đồng ý với các điều khoản được dưa ra.",
+      "exampleVi": "Chúng tôi không thể đồng ý với các điều khoản được đưa ra.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "condition",
+        "provision"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Ms.",
-        "Lee's term as chairperson will finish next year.",
-        "Nhiệm kỳ chủ tịch của bà Lee sẽ kết thúc vào năm tới.",
-        "terms and conditions hi các điều khoản (hợp đồng/khoản thanh toán) in terms of liên quan đến, xét về mặt long-term dài hạn (+ short-term) Hãy ghi nhớ các cụm từ thường gặp với term.",
-        "ag-term điều khoản, thời hạn, nhiệm kỳ ảm-terminology thuật ngữ (= jargon) Mặc dù cùng từ loại nhưng hai từ này có nghĩa khác nhau, vậy nên bạn cần lưu ý và ghi nhớ chúng.",
-        "The handbook's terminology was surprisingly complex.",
-        "Hệ thống thuật ngữ trong cuốn sách hướng dẫn này phức tạp đến kỳ lạ.",
-        "• = từ vựng thường gặp trong Part 5 - 6 O =từ vựng thường gặp trong Part 7 Hợp đồng | 251 boi# 1O0.",
-        "cong drd:"
+        "terms and conditions: các điều khoản và điều kiện",
+        "in terms of: liên quan đến, xét về mặt",
+        "long-term / short-term: dài hạn / ngắn hạn",
+        "Phân biệt: term (điều khoản, thời hạn) và terminology (thuật ngữ)."
       ],
       "needsReview": false
     },
@@ -97,17 +132,30 @@
       "word": "compromise",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/kómpramaiz/",
-        "us": "/kámpramaiz/"
+        "uk": "/ˈkɒmprəmaɪz/",
+        "us": "/ˈkɑːmprəmaɪz/"
       },
       "frequency": 2,
-      "meaningVi": "sự thỏa hiệp",
+      "meaningVi": "sự thỏa hiệp; (v) dàn xếp, thỏa hiệp",
       "exampleEn": "The contractors and management finally reached a compromise following several talks.",
       "exampleVi": "Các nhà thầu khoán và ban quản trị cuối cùng cũng đạt được thỏa hiệp sau vài buổi đàm phán.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
+      "derivatives": [
+        {
+          "word": "compromising",
+          "partOfSpeech": "adj",
+          "meaningVi": "đáng xấu hổ"
+        }
+      ],
+      "synonyms": [
+        "agreement",
+        "settlement"
+      ],
+      "antonyms": [
+        "disagreement"
+      ],
+      "toeicNotes": [
+        "reach a compromise: đạt được sự thỏa hiệp"
+      ],
       "needsReview": false
     },
     {
@@ -115,18 +163,38 @@
       "word": "negotiation",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/nagàufiéifan/",
-        "us": "/nigòufiéifan/"
+        "uk": "/nɪˌɡəʊʃiˈeɪʃn/",
+        "us": "/nɪˌɡoʊʃiˈeɪʃn/"
       },
       "frequency": 3,
       "meaningVi": "sự đàm phán, sự thương lượng",
       "exampleEn": "Negotiations are now in process.",
       "exampleVi": "Các cuộc đàm phán hiện vẫn đang được tiến hành.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "negotiate",
+          "partOfSpeech": "v",
+          "meaningVi": "đàm phán, thương lượng"
+        },
+        {
+          "word": "negotiator",
+          "partOfSpeech": "n",
+          "meaningVi": "người đàm phán"
+        },
+        {
+          "word": "negotiable",
+          "partOfSpeech": "adj",
+          "meaningVi": "có thể thương lượng"
+        }
+      ],
+      "synonyms": [
+        "discussion",
+        "bargaining"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Bal thi TOEIC dang thức mới - negotiation sự đàm phán, cuộc đàm phán ảm L negotiator người đám phàn Hãy lưu ý phân biệt danh từ chỉ người negotiator và danh từ chỉ khái niệm trừu tượng negotiation."
+        "under negotiation: đang trong quá trình đàm phán",
+        "Phân biệt negotiation (sự đàm phán) và negotiator (người đàm phán)."
       ],
       "needsReview": false
     },
@@ -135,20 +203,29 @@
       "word": "agreement",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/agríment/",
-        "us": "/agríment/"
+        "uk": "/əˈɡriːmənt/",
+        "us": "/əˈɡriːmənt/"
       },
       "frequency": 3,
       "meaningVi": "sự đồng ý; hợp đồng, thỏa thuận",
       "exampleEn": "The agreement has been signed by both parties.",
       "exampleVi": "Hợp đồng đã được hai bên ký kết.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "agree",
+          "partOfSpeech": "v",
+          "meaningVi": "đồng ý"
+        }
+      ],
+      "synonyms": [
+        "contract",
+        "accord"
+      ],
+      "antonyms": [
+        "disagreement"
+      ],
       "toeicNotes": [
-        "The business partners reached an agreement after hours of discussion.",
-        "Hai đối tác kinh doanh đã đạt được thỏa thuận sau hàng giờ đàm phán.",
-        "Bànhi TOEIC dạng thức mới come to/reach + an agreement agreément thường được kết hợp với động từ reach với ý nghĩa \"đạt được một thỏa thuận\"."
+        "reach/come to an agreement: đạt được một thỏa thuận"
       ],
       "needsReview": false
     },
@@ -157,17 +234,24 @@
       "word": "deadlock",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/dédløk/",
-        "us": "/dédlak/"
+        "uk": "/ˈdedlɒk/",
+        "us": "/ˈdedlɑːk/"
       },
       "frequency": 1,
       "meaningVi": "sự bế tắc, sự đình trệ",
       "exampleEn": "Friday's negotiations ended in a deadlock.",
       "exampleVi": "Các cuộc đàm phán vào ngày thứ Sáu đã kết thúc trong bế tắc.",
       "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
+      "synonyms": [
+        "stalemate",
+        "standstill"
+      ],
+      "antonyms": [
+        "breakthrough"
+      ],
+      "toeicNotes": [
+        "end in a deadlock: kết thúc trong bế tắc"
+      ],
       "needsReview": false
     },
     {
@@ -175,18 +259,22 @@
       "word": "review",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/rɪˈvjuː/",
+        "us": "/rɪˈvjuː/"
       },
       "frequency": 3,
-      "meaningVi": "xét, duyệt lại, phê bình",
+      "meaningVi": "xem xét, duyệt lại, phê bình; (n) sự xem xét, bài phê bình",
       "exampleEn": "Please review all of the documents carefully.",
-      "exampleVi": "Vui lòng xem xét các tài liệu thật cần thận.",
+      "exampleVi": "Vui lòng xem xét các tài liệu thật cẩn thận.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "examine",
+        "inspect",
+        "evaluate"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Sel o met reach a aman"
+        "carefully review: xem xét cẩn thận"
       ],
       "needsReview": false
     },
@@ -195,22 +283,36 @@
       "word": "contract",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/kóntrækt/",
-        "us": "/kántrækt/"
+        "uk": "/ˈkɒntrækt/",
+        "us": "/ˈkɑːntrækt/"
       },
       "frequency": 3,
-      "meaningVi": "hợp đồng",
+      "meaningVi": "hợp đồng; (v) ký hợp đồng; thu nhỏ, co lại",
       "exampleEn": "The law requires all participants in the transaction to sign a contract.",
       "exampleVi": "Luật yêu cầu tất cả các bên tham gia giao dịch này đều phải ký vào một hợp đồng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "contractor",
+          "partOfSpeech": "n",
+          "meaningVi": "nhà thầu"
+        },
+        {
+          "word": "contraction",
+          "partOfSpeech": "n",
+          "meaningVi": "sự thu nhỏ, sự co lại"
+        }
+      ],
+      "synonyms": [
+        "agreement",
+        "pact",
+        "retain"
+      ],
+      "antonyms": [
+        "expand (khi mang nghĩa co lại)"
+      ],
       "toeicNotes": [
-        "M ký hợp đồng, ký giao kèo; thu nhỏ lại, rút gọn The company contracted IBSC to deliver its cargo.",
-        "Công ty đã ký hợp đồng giao hàng với IBSC.",
-        "The manuscript binding contracted due to humid weather.",
-        "Bìa của tập bản thảo đã bị co lại do thời tiết ẩm ướt.",
-        "Bải thi TOEIC dạng thức mới mom contract out A to B giao thầu việc A cho B gập Cụm từ contract out được dùng để chỉ việc thuê một đơn vị bên ngoài thực hiện công việc nào đó, giới từ đi kèm là to."
+        "sign a contract: ký hợp đồng",
+        "contract out A to B: giao thầu công việc A cho B"
       ],
       "needsReview": false
     },
@@ -219,15 +321,24 @@
       "word": "signature",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/sígnatfar/",
-        "us": "/sígnatfar/"
+        "uk": "/ˈsɪɡnətʃə/",
+        "us": "/ˈsɪɡnətʃər/"
       },
       "frequency": 3,
-      "meaningVi": "chữ ký The",
-      "exampleEn": "CEO's signature finalized the long-awaited deal.",
+      "meaningVi": "chữ ký",
+      "exampleEn": "The CEO's signature finalized the long-awaited deal.",
       "exampleVi": "Chữ ký của vị giám đốc điều hành đã hoàn thành một giao dịch được chờ đợi từ lâu.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "sign",
+          "partOfSpeech": "v",
+          "meaningVi": "ký tên"
+        }
+      ],
+      "synonyms": [
+        "autograph",
+        "endorsement"
+      ],
       "antonyms": [],
       "toeicNotes": [],
       "needsReview": false
@@ -237,21 +348,71 @@
       "word": "originally",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/arídzinali/",
-        "us": "/arídzinali/"
+        "uk": "/əˈrɪdʒənəli/",
+        "us": "/əˈrɪdʒənəli/"
       },
       "frequency": 3,
-      "meaningVi": "đầu, khởi đầu",
+      "meaningVi": "ban đầu, khởi đầu",
       "exampleEn": "The company wants to change the conditions originally agreed upon.",
       "exampleVi": "Công ty muốn thay đổi những điều khoản đã được thống nhất từ ban đầu.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "origin",
+          "partOfSpeech": "n",
+          "meaningVi": "nguồn gốc"
+        },
+        {
+          "word": "original",
+          "partOfSpeech": "adj",
+          "meaningVi": "gốc, nguyên bản"
+        },
+        {
+          "word": "originate",
+          "partOfSpeech": "v",
+          "meaningVi": "bắt nguồn"
+        }
+      ],
+      "synonyms": [
+        "initially",
+        "primarily"
+      ],
+      "antonyms": [
+        "finally",
+        "eventually"
+      ],
+      "toeicNotes": [
+        "originally agreed upon: được thống nhất ban đầu",
+        "Phân biệt: originally (adv. ban đầu) và original (adj. nguyên bản)."
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "direction",
+      "word": "direction",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/daɪˈrekʃn/",
+        "us": "/dəˈrekʃn/"
+      },
+      "frequency": 3,
+      "meaningVi": "sự điều khiển, lời chỉ dẫn, phương hướng",
+      "exampleEn": "Hoping for a settlement, lawyers led the discussion in a different direction.",
+      "exampleVi": "Hy vọng đạt được hòa giải, các luật sư đã dẫn dắt cuộc thảo luận theo một hướng khác.",
+      "derivatives": [
+        {
+          "word": "direct",
+          "partOfSpeech": "v/adj",
+          "meaningVi": "hướng dẫn, trực tiếp"
+        }
+      ],
+      "synonyms": [
+        "guidance",
+        "course",
+        "orientation"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "ng Cần phân biệt từ loại originally (adv.",
-        "ban đầu, từ dầu) và original (adj.",
-        "gốc, nguyên bản).",
-        "= 14"
+        "under the direction of: dưới sự chỉ đạo của"
       ],
       "needsReview": false
     },
@@ -260,16 +421,32 @@
       "word": "initially",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/inífali/",
-        "us": "/inífali/"
+        "uk": "/ɪˈnɪʃəli/",
+        "us": "/ɪˈnɪʃəli/"
       },
       "frequency": 3,
-      "meaningVi": "đầu, ban đầu",
+      "meaningVi": "lúc đầu, ban đầu",
       "exampleEn": "Managers initially thought the legal issues would be resolved quickly.",
       "exampleVi": "Các quản lý ngay từ đầu đã cho rằng những vấn đề pháp lý này sẽ được giải quyết nhanh chóng.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "initial",
+          "partOfSpeech": "adj",
+          "meaningVi": "ban đầu"
+        },
+        {
+          "word": "initiate",
+          "partOfSpeech": "v",
+          "meaningVi": "bắt đầu, đề xướng"
+        }
+      ],
+      "synonyms": [
+        "originally",
+        "at first"
+      ],
+      "antonyms": [
+        "finally"
+      ],
       "toeicNotes": [],
       "needsReview": false
     },
@@ -278,22 +455,35 @@
       "word": "expire",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ɪkˈspaɪə/",
+        "us": "/ɪkˈspaɪər/"
       },
       "frequency": 2,
       "meaningVi": "hết hạn, hết hiệu lực",
       "exampleEn": "The previous lease expired a few weeks ago.",
       "exampleVi": "Hợp đồng cho thuê trước kia đã hết hạn từ vài tuần trước.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "expiration",
+          "partOfSpeech": "n",
+          "meaningVi": "sự hết hạn"
+        },
+        {
+          "word": "expiry",
+          "partOfSpeech": "n",
+          "meaningVi": "sự hết hiệu lực"
+        }
+      ],
+      "synonyms": [
+        "terminate",
+        "lapse"
+      ],
+      "antonyms": [
+        "renew"
+      ],
       "toeicNotes": [
-        "observe expiration date xem hạn sử dụng 'Lưu ý rằng \"hạn cuối\" là expiration date chứ không phải expiring date.",
-        "- expire hết hiệu lực Dùng để chỉ việc hết hiệu lực của giấy bảo hành hoặc hợp đồng làm ăn.",
-        "L invalidate làm mất hiệu lực, hủy, phế bỏ Là một ngoại động từ dùng để chỉ việc hủy bỏ, làm mất hiệu sc một hợp đồng, một bộ luật, v.",
-        "he store chain invalidated the supply contrac as delivery terms had not been met.",
-        "Chuỗi cửa hàng đó đã hủy hợp đồng cung cấp vì các điều khoản về giao hàng đã không được đảm bảo."
+        "expiration date: hạn sử dụng / hạn hết hiệu lực",
+        "Phân biệt expire (tự hết hạn - nội động từ) và invalidate (làm mất hiệu lực - ngoại động từ)."
       ],
       "needsReview": false
     },
@@ -302,18 +492,38 @@
       "word": "collaborate",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/kalábareit/",
-        "us": "/kalábareit/"
+        "uk": "/kəˈlæbəreɪt/",
+        "us": "/kəˈlæbəreɪt/"
       },
       "frequency": 3,
-      "meaningVi": "cộng tác, hợp tác Moksel Company and Boston",
-      "exampleEn": "University collaborated on the research project.",
+      "meaningVi": "cộng tác, hợp tác",
+      "exampleEn": "Moksel Company and Boston University collaborated on the research project.",
       "exampleVi": "Công ty Moksel và trường Đại học Boston đã hợp tác với nhau trong dự án nghiên cứu đó.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "collaboration",
+          "partOfSpeech": "n",
+          "meaningVi": "sự cộng tác"
+        },
+        {
+          "word": "collaborator",
+          "partOfSpeech": "n",
+          "meaningVi": "người cộng tác"
+        },
+        {
+          "word": "collaborative",
+          "partOfSpeech": "adj",
+          "meaningVi": "có tính hợp tác"
+        }
+      ],
+      "synonyms": [
+        "cooperate",
+        "work together"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Bải th TOEIC dạng thức mới cum collaborate on + nội dung hợp tác hợp tác về spl collaborate with + người hợp tác với ai Từ collaborate thường được dùng với giới từ on:"
+        "collaborate on + nội dung hợp tác: hợp tác về dự án/công việc",
+        "collaborate with + đối tác: hợp tác với ai"
       ],
       "needsReview": false
     },
@@ -322,20 +532,32 @@
       "word": "dedicate",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/dédikèit/",
-        "us": "/dédikèit/"
+        "uk": "/ˈdedɪkeɪt/",
+        "us": "/ˈdedɪkeɪt/"
       },
       "frequency": 3,
-      "meaningVi": "cống hiến, tận tâm, dành cho Ms.",
-      "exampleEn": "Barton dedicates herself to ensuring clients get good deals.",
+      "meaningVi": "cống hiến, tận tâm, dành cho",
+      "exampleEn": "Ms. Barton dedicates herself to ensuring clients get good deals.",
       "exampleVi": "Cô Barton cống hiến hết mình để đảm bảo khách hàng có được những thỏa thuận có lợi.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "dedication",
+          "partOfSpeech": "n",
+          "meaningVi": "sự cống hiến"
+        },
+        {
+          "word": "dedicated",
+          "partOfSpeech": "adj",
+          "meaningVi": "tận tụy, tận tâm"
+        }
+      ],
+      "synonyms": [
+        "devote",
+        "commit"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "um| be dedicated to cống hiến cho Lp.",
-        "dedicate khi được dùng ở thể bị động cần đi kèm giới từ to, sau to không phải là động từ nguyên thể mà là một danh từ.",
-        "Ion dedicate có thể thay bằng từ commit khi được dùng để chỉ việc bỏ thời gian, công sức ra làm việc gì đó."
+        "be dedicated to + N/V-ing: cống hiến/tận tụy cho điều gì"
       ],
       "needsReview": false
     },
@@ -344,17 +566,33 @@
       "word": "revised",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/riváizd/",
-        "us": "/riváizd/"
+        "uk": "/rɪˈvaɪzd/",
+        "us": "/rɪˈvaɪzd/"
       },
       "frequency": 3,
-      "meaningVi": "đã được hiệu dính, đã được duyệt lại",
+      "meaningVi": "đã được hiệu chỉnh, đã được duyệt lại",
       "exampleEn": "The company president accepted the revised project proposal.",
-      "exampleVi": "Chủ tịch công ty đã thông qua bản để xuất dự án được sửa đổi.",
-      "derivatives": [],
-      "synonyms": [],
+      "exampleVi": "Chủ tịch công ty đã thông qua bản đề xuất dự án được sửa đổi.",
+      "derivatives": [
+        {
+          "word": "revise",
+          "partOfSpeech": "v",
+          "meaningVi": "sửa đổi, duyệt lại"
+        },
+        {
+          "word": "revision",
+          "partOfSpeech": "n",
+          "meaningVi": "sự sửa đổi"
+        }
+      ],
+      "synonyms": [
+        "modified",
+        "amended"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "revised proposal/contract: đề xuất/hợp đồng đã chỉnh sửa"
+      ],
       "needsReview": false
     },
     {
@@ -362,19 +600,24 @@
       "word": "imperative",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "/impérativ/",
-        "us": "/impérativ/"
+        "uk": "/ɪmˈperətɪv/",
+        "us": "/ɪmˈperətɪv/"
       },
       "frequency": 3,
       "meaningVi": "bắt buộc, rất quan trọng, khẩn cấp",
       "exampleEn": "It is imperative that the agreement be fully honored.",
       "exampleVi": "Việc tuân thủ tuyệt đối bản thỏa thuận là vô cùng quan trọng.",
       "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "essential",
+        "compulsory",
+        "vital"
+      ],
+      "antonyms": [
+        "optional"
+      ],
       "toeicNotes": [
-        "Banhi TOEIC dang túc mo Insp It is imperative that + chủ ngữ (+ should) + động từ nguyên thể Vi imperative là tính từ mang nghĩa \"bắt buộc, cần thiết nên cùng mệnh đề that phải là cụm (should) + động từ nguyê 3.",
-        "Lưu ý không sử dụng động từ thì quá khứ hay động cho số nhiều."
+        "It is imperative that + S + (should) + V nguyên thể."
       ],
       "needsReview": false
     },
@@ -383,55 +626,93 @@
       "word": "cooperatively",
       "partOfSpeech": "adv",
       "pronunciation": {
-        "uk": "/kauóparativli/",
-        "us": "/kouáparativli/"
+        "uk": "/kəʊˈɒpərətɪvli/",
+        "us": "/koʊˈɑːpərətɪvli/"
       },
       "frequency": 3,
-      "meaningVi": "hợp tác",
-      "exampleEn": "The company worked cooperativelly with Pacific Corporation to build the railway.",
+      "meaningVi": "hợp tác, trên tinh thần hợp tác",
+      "exampleEn": "The company worked cooperatively with Pacific Corporation to build the railway.",
       "exampleVi": "Công ty đã làm việc cùng tập đoàn Pacific trên tinh thần hợp tác để xây dựng tuyến đường sắt.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "cooperate",
+          "partOfSpeech": "v",
+          "meaningVi": "hợp tác"
+        },
+        {
+          "word": "cooperation",
+          "partOfSpeech": "n",
+          "meaningVi": "sự hợp tác"
+        },
+        {
+          "word": "cooperative",
+          "partOfSpeech": "adj",
+          "meaningVi": "mang tính hợp tác"
+        }
+      ],
+      "synonyms": [
+        "jointly",
+        "collaboratively"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "TOEIC dang thức mội Cum in cooperation with hợp tác cùng Lêng Danh từ cooperation thường xuất hiện trong cụm in cooperation with.",
-        "12 17 Hợp đồng | 255"
+        "in cooperation with: hợp tác cùng"
       ],
       "needsReview": false
     },
     {
       "id": "commission",
       "word": "commission",
-      "partOfSpeech": "v",
+      "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/kəˈmɪʃn/",
+        "us": "/kəˈmɪʃn/"
       },
       "frequency": 3,
-      "meaningVi": "nhiệm vụ, ủy thác",
-      "exampleEn": "The building owners commissioned an artist to paint a mural.",
-      "exampleVi": "Chủ tòa nhà đã giao nhiệm vụ vẽ tranh tường cho một họa sĩ.",
+      "meaningVi": "tiền hoa hồng; hội đồng, ủy ban; (v) giao nhiệm vụ, ủy thác",
+      "exampleEn": "The new recruit consented to work on commission.",
+      "exampleVi": "Nhân viên mới đã đồng ý làm việc để hưởng tiền hoa hồng.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "fee",
+        "committee",
+        "task"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "work on commission: làm việc hưởng hoa hồng",
+        "commission an artist: giao nhiệm vụ cho người nghệ sĩ"
+      ],
       "needsReview": false
     },
     {
-      "id": "u-omit",
-      "word": "u omit",
+      "id": "omit",
+      "word": "omit",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/aumít/",
-        "us": "/oumít/"
+        "uk": "/əˈmɪt/",
+        "us": "/oʊˈmɪt/"
       },
       "frequency": 3,
-      "meaningVi": "bỏ sót, bỏ qua, lơ",
-      "exampleEn": "là Grace rewrote the draft to include details omitted from the original.",
+      "meaningVi": "bỏ sót, bỏ qua, lơ đi",
+      "exampleEn": "Grace rewrote the draft to include details omitted from the original.",
       "exampleVi": "Grace đã viết lại bản phác thảo để bổ sung những chi tiết bị bỏ sót trong bản gốc.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "omission",
+          "partOfSpeech": "n",
+          "meaningVi": "sự bỏ sót, sự bỏ qua"
+        }
+      ],
+      "synonyms": [
+        "exclude",
+        "skip",
+        "leave out"
+      ],
+      "antonyms": [
+        "include",
+        "add"
+      ],
       "toeicNotes": [],
       "needsReview": false
     },
@@ -440,17 +721,26 @@
       "word": "conflict",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/kínflikt/",
-        "us": "/kánflikt/"
+        "uk": "/ˈkɒnflɪkt/",
+        "us": "/ˈkɑːnflɪkt/"
       },
       "frequency": 2,
-      "meaningVi": "cuộc xung đột, sự mâu thuẫn",
+      "meaningVi": "cuộc xung đột, sự mâu thuẫn; (v) tranh chấp, xung đột",
       "exampleEn": "The executives had a conflict over when to expand the business internationally.",
       "exampleVi": "Ban điều hành có một cuộc tranh cãi về thời điểm mở rộng hoạt động kinh doanh ra nước ngoài.",
       "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
+      "synonyms": [
+        "dispute",
+        "disagreement",
+        "clash"
+      ],
+      "antonyms": [
+        "harmony",
+        "peace"
+      ],
+      "toeicNotes": [
+        "conflict over: tranh cãi/mâu thuẫn về điều gì"
+      ],
       "needsReview": false
     },
     {
@@ -458,20 +748,36 @@
       "word": "renew",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/rɪˈnjuː/",
+        "us": "/rɪˈnuː/"
       },
       "frequency": 2,
-      "meaningVi": "mới, gia hạn (hợp đồng)",
+      "meaningVi": "làm mới, gia hạn (hợp đồng)",
       "exampleEn": "The retail company renewed the six-month contract after discussions.",
       "exampleVi": "Công ty bán lẻ đã gia hạn bản hợp đồng sáu tháng sau nhiều cuộc thảo luận.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "renewal",
+          "partOfSpeech": "n",
+          "meaningVi": "sự gia hạn, sự đổi mới"
+        },
+        {
+          "word": "renewable",
+          "partOfSpeech": "adj",
+          "meaningVi": "có thể gia hạn / tái tạo"
+        }
+      ],
+      "synonyms": [
+        "extend",
+        "refresh"
+      ],
+      "antonyms": [
+        "terminate",
+        "cancel"
+      ],
       "toeicNotes": [
-        "Bại thi TOEIC dạng thức mới um renew + contract/license/subscriptio ướn gia hạn hợp đồng/giấy phép/thuê ba Từ renew thường đi cùng các danh từ như contract, license, may Cần phân biệt giữa từ loại renew (v.",
-        "gia hạn, làm mới) và renewal (n.",
-        "sự đổi mới)."
+        "renew a contract/license/subscription: gia hạn hợp đồng / giấy phép / gói dịch vụ",
+        "Phân biệt renew (v) và renewal (n)."
       ],
       "needsReview": false
     },
@@ -480,17 +786,120 @@
       "word": "proficient",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/prəˈfɪʃnt/",
+        "us": "/prəˈfɪʃnt/"
       },
       "frequency": 2,
       "meaningVi": "giỏi giang, thành thạo",
       "exampleEn": "David is proficient in several languages, which helps with international negotiations.",
       "exampleVi": "David thành thạo vài ngôn ngữ, điều này giúp ích rất nhiều trong các cuộc đàm phán quốc tế.",
+      "derivatives": [
+        {
+          "word": "proficiency",
+          "partOfSpeech": "n",
+          "meaningVi": "sự thành thạo"
+        }
+      ],
+      "synonyms": [
+        "skilled",
+        "adept",
+        "expert"
+      ],
+      "antonyms": [
+        "inept",
+        "unskilled"
+      ],
+      "toeicNotes": [
+        "be proficient in: thành thạo về (ngôn ngữ/kỹ năng)"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "confidentiality",
+      "word": "confidentiality",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ˌkɒnfɪdenʃiˈæləti/",
+        "us": "/ˌkɑːnfɪdenʃiˈæləti/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự bảo mật, tính bảo mật",
+      "exampleEn": "Study subjects had to sign a confidentiality agreement before participating.",
+      "exampleVi": "Các đối tượng nghiên cứu phải ký một cam kết bảo mật trước khi tham gia.",
+      "derivatives": [
+        {
+          "word": "confidential",
+          "partOfSpeech": "adj",
+          "meaningVi": "bảo mật, bí mật"
+        }
+      ],
+      "synonyms": [
+        "secrecy",
+        "privacy"
+      ],
+      "antonyms": [
+        "publicity"
+      ],
+      "toeicNotes": [
+        "confidentiality agreement: hợp đồng/cam kết bảo mật"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "dispute",
+      "word": "dispute",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/dɪˈspjuːt/",
+        "us": "/dɪˈspjuːt/"
+      },
+      "frequency": 2,
+      "meaningVi": "cuộc tranh luận, sự bất đồng; (v) tranh luận, tranh chấp",
+      "exampleEn": "The dispute over the copyright prompted court action.",
+      "exampleVi": "Vụ tranh chấp về bản quyền đã dẫn tới hành động pháp lý.",
       "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
+      "synonyms": [
+        "conflict",
+        "argument"
+      ],
+      "antonyms": [
+        "agreement"
+      ],
+      "toeicNotes": [
+        "dispute over: cuộc tranh chấp/tranh cãi về"
+      ],
+      "needsReview": false
+    },
+    {
+      "id": "objection",
+      "word": "objection",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/əbˈdʒekʃn/",
+        "us": "/əbˈdʒekʃn/"
+      },
+      "frequency": 2,
+      "meaningVi": "sự phản đối, sự bất bình",
+      "exampleEn": "The deal proceeded despite the board of directors' objections.",
+      "exampleVi": "Giao dịch vẫn được tiến hành bất chấp sự phản đối của ban giám đốc.",
+      "derivatives": [
+        {
+          "word": "object",
+          "partOfSpeech": "v",
+          "meaningVi": "phản đối"
+        }
+      ],
+      "synonyms": [
+        "opposition",
+        "protest"
+      ],
+      "antonyms": [
+        "approval",
+        "consent"
+      ],
+      "toeicNotes": [
+        "raise an objection to: đưa ra sự phản đối với"
+      ],
       "needsReview": false
     },
     {
@@ -498,17 +907,65 @@
       "word": "define",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/difáin/",
-        "us": "/difáin/"
+        "uk": "/dɪˈfaɪn/",
+        "us": "/dɪˈfaɪn/"
       },
       "frequency": 2,
       "meaningVi": "định nghĩa, xác định",
       "exampleEn": "The contract defined the roles of all parties involved.",
-      "exampleVi": "Bản hợp đồng đã xác định rõ vai trò của các bên tham gia",
-      "derivatives": [],
-      "synonyms": [],
+      "exampleVi": "Bản hợp đồng đã xác định rõ vai trò của các bên tham gia.",
+      "derivatives": [
+        {
+          "word": "definition",
+          "partOfSpeech": "n",
+          "meaningVi": "định nghĩa"
+        },
+        {
+          "word": "definite",
+          "partOfSpeech": "adj",
+          "meaningVi": "rõ ràng, xác định"
+        }
+      ],
+      "synonyms": [
+        "determine",
+        "specify"
+      ],
       "antonyms": [],
       "toeicNotes": [],
+      "needsReview": false
+    },
+    {
+      "id": "impression",
+      "word": "impression",
+      "partOfSpeech": "n",
+      "pronunciation": {
+        "uk": "/ɪmˈpreʃn/",
+        "us": "/ɪmˈpreʃn/"
+      },
+      "frequency": 2,
+      "meaningVi": "ấn tượng",
+      "exampleEn": "The representative's presentation gave the impression that his company is well-organized.",
+      "exampleVi": "Phần trình bày của vị đại diện đã mang lại ấn tượng rằng công ty anh ta được tổ chức rất tốt.",
+      "derivatives": [
+        {
+          "word": "impress",
+          "partOfSpeech": "v",
+          "meaningVi": "gây ấn tượng"
+        },
+        {
+          "word": "impressive",
+          "partOfSpeech": "adj",
+          "meaningVi": "đầy ấn tượng"
+        }
+      ],
+      "synonyms": [
+        "impact",
+        "effect"
+      ],
+      "antonyms": [],
+      "toeicNotes": [
+        "give/make an impression: tạo ấn tượng"
+      ],
       "needsReview": false
     },
     {
@@ -516,18 +973,31 @@
       "word": "security",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/sikjúariti/",
-        "us": "/sikjúariti/"
+        "uk": "/sɪˈkjʊərəti/",
+        "us": "/sɪˈkjʊrəti/"
       },
       "frequency": 2,
-      "meaningVi": "ninh, sự bảo vệ",
+      "meaningVi": "an ninh, sự bảo vệ",
       "exampleEn": "Security is a priority during next week's sensitive negotiation meetings.",
-      "exampleVi": "An ninh là ưu tiên hàng đầu trong thời gian diễn ra các cuộc gặp dàm phán nhạy cảm vào tuần tới.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "exampleVi": "An ninh là ưu tiên hàng đầu trong thời gian diễn ra các cuộc gặp đàm phán nhạy cảm vào tuần tới.",
+      "derivatives": [
+        {
+          "word": "secure",
+          "partOfSpeech": "adj/v",
+          "meaningVi": "an toàn, bảo vệ"
+        }
+      ],
+      "synonyms": [
+        "protection",
+        "safety"
+      ],
+      "antonyms": [
+        "insecurity",
+        "danger"
+      ],
       "toeicNotes": [
-        "16 *#* = tỷ lệ xuất hiện rất cao #* = tỷ lệ xuất hiện cao * = tỷ lệ xuất hiện trung bình"
+        "security guard/officer: nhân viên an ninh",
+        "security measure: biện pháp an ninh"
       ],
       "needsReview": false
     },
@@ -536,17 +1006,28 @@
       "word": "option",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈɒpʃn/",
+        "us": "/ˈɑːpʃn/"
       },
-      "frequency": 2,
-      "meaningVi": "lựa chọn, quyền lựa chọn The agreement provides",
-      "exampleEn": "Banister with the option to discuss rate adjustments after one year.",
-      "exampleVi": "Hợp đồng cho phép Banister có quyền lựa chọn thảo luận về việc diều chỉnh giá sau một năm.",
-      "derivatives": [],
-      "synonyms": [],
+      "frequency": 1,
+      "meaningVi": "lựa chọn, quyền lựa chọn",
+      "exampleEn": "The agreement provides Banister with the option to discuss rate adjustments after one year.",
+      "exampleVi": "Hợp đồng cho phép Banister có quyền lựa chọn thảo luận về việc điều chỉnh giá sau một năm.",
+      "derivatives": [
+        {
+          "word": "optional",
+          "partOfSpeech": "adj",
+          "meaningVi": "tùy chọn, không bắt buộc"
+        }
+      ],
+      "synonyms": [
+        "choice",
+        "alternative"
+      ],
       "antonyms": [],
-      "toeicNotes": [],
+      "toeicNotes": [
+        "have the option to: có quyền lựa chọn làm gì"
+      ],
       "needsReview": false
     },
     {
@@ -554,18 +1035,41 @@
       "word": "proceed",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/prasí:d/",
-        "us": "/prasí:d/"
+        "uk": "/prəˈsiːd/",
+        "us": "/prəˈsiːd/"
       },
-      "frequency": 2,
+      "frequency": 1,
       "meaningVi": "tiến hành, tiếp tục",
       "exampleEn": "Talks concerning the companies' merger are proceeding well.",
-      "exampleVi": "Các cuộc thảo luận về việc sáp nhất công ty vẫn đang tiến triển tốt.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "exampleVi": "Các cuộc thảo luận về việc sáp nhập công ty vẫn đang tiến triển tốt.",
+      "derivatives": [
+        {
+          "word": "process",
+          "partOfSpeech": "n",
+          "meaningVi": "tiến trình"
+        },
+        {
+          "word": "procedure",
+          "partOfSpeech": "n",
+          "meaningVi": "thủ tục"
+        },
+        {
+          "word": "proceeds",
+          "partOfSpeech": "n",
+          "meaningVi": "tiền thu được, doanh thu"
+        }
+      ],
+      "synonyms": [
+        "continue",
+        "progress",
+        "advance"
+      ],
+      "antonyms": [
+        "stop",
+        "halt"
+      ],
       "toeicNotes": [
-        "y proceed with tiếp tục vớ"
+        "proceed with: tiếp tục với công việc/dự án"
       ],
       "needsReview": false
     },
@@ -574,18 +1078,28 @@
       "word": "modify",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/mádifai/",
-        "us": "/mádafai/"
+        "uk": "/ˈmɒdɪfaɪ/",
+        "us": "/ˈmɑːdɪfaɪ/"
       },
       "frequency": 1,
-      "meaningVi": "sữa đổi, diều chỉnh",
+      "meaningVi": "sửa đổi, điều chỉnh",
       "exampleEn": "The parties agreed to modify the wording of some clauses.",
       "exampleVi": "Các bên đã đồng ý sửa đổi cách diễn đạt của một số điều khoản.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "modification",
+          "partOfSpeech": "n",
+          "meaningVi": "sự sửa đổi"
+        }
+      ],
+      "synonyms": [
+        "alter",
+        "change",
+        "adjust"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Ba: mi TOEIC dang mit mör Củm modify có thể thay bằng từ alter khi được dùng để chỉ sự khuăn thay đổi về hình dáng, chất lượng hoặc sửa đổi nội dung văn bản."
+        "modify đồng nghĩa với alter khi nói về sửa đổi hợp đồng/văn bản."
       ],
       "needsReview": false
     },
@@ -594,18 +1108,24 @@
       "word": "narrow",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/narou/",
-        "us": "/narou/"
+        "uk": "/ˈnærəʊ/",
+        "us": "/ˈnæroʊ/"
       },
       "frequency": 1,
-      "meaningVi": "hẹp, giảm bớt",
+      "meaningVi": "thu hẹp, giảm bớt; (adj) chật hẹp",
       "exampleEn": "The number of potential building sites has been narrowed down to three.",
       "exampleVi": "Số lượng các địa điểm có thể xây tòa nhà đã giảm xuống còn ba.",
       "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "synonyms": [
+        "reduce",
+        "restrict"
+      ],
+      "antonyms": [
+        "expand",
+        "widen"
+      ],
       "toeicNotes": [
-        "atm ToEic dang thut mor cum) narrow down A to B giảm A xuống B, thu hẹp A thành B sếp | Cụm từ narrow down thường đi với giới từ to."
+        "narrow down A to B: thu hẹp / giảm A xuống còn B"
       ],
       "needsReview": false
     },
@@ -614,18 +1134,22 @@
       "word": "bid",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/bid/",
-        "us": "/bid/"
+        "uk": "/bɪd/",
+        "us": "/bɪd/"
       },
       "frequency": 1,
-      "meaningVi": "sự đặt giá, sự bỏ thầu The construction firm Martin &",
-      "exampleEn": "Sons put in a bid for the contract.",
+      "meaningVi": "sự đặt giá, sự bỏ thầu; (v) đặt giá, bỏ thầu",
+      "exampleEn": "The construction firm Martin & Sons put in a bid for the contract.",
       "exampleVi": "Công ty xây dựng Martin & Sons đã tham gia bỏ thầu cho hợp đồng đó.",
       "derivatives": [],
-      "synonyms": [],
+      "synonyms": [
+        "tender",
+        "offer"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "(Cụm put in a bid for bỏ thầu cho, trả giá cho han bid for bỏ thầu bid khi được dùng như một danh từ hoặc động từ đều đi với giới từ for."
+        "put in a bid for: tham gia bỏ thầu cho",
+        "bid for: bỏ thầu cho (danh từ hoặc động từ đều đi với giới từ for)."
       ],
       "needsReview": false
     },
@@ -634,19 +1158,32 @@
       "word": "settle",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/sétl/",
-        "us": "/sétl/"
+        "uk": "/ˈsetl/",
+        "us": "/ˈsetl/"
       },
       "frequency": 1,
       "meaningVi": "giải quyết, dàn xếp",
       "exampleEn": "The management made attempts to settle the unfair dismissal case.",
       "exampleVi": "Ban quản lý đã nỗ lực để dàn xếp vụ sa thải nhân viên tùy tiện.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "settlement",
+          "partOfSpeech": "n",
+          "meaningVi": "sự giải quyết, sự dàn xếp"
+        },
+        {
+          "word": "settled",
+          "partOfSpeech": "adj",
+          "meaningVi": "đã giải quyết, ổn định"
+        }
+      ],
+      "synonyms": [
+        "resolve",
+        "reconcile"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "der.",
-        "termination (n) (v) đòi hỏi, thử thách"
+        "settle a dispute: dàn xếp tranh chấp"
       ],
       "needsReview": false
     },
@@ -655,17 +1192,37 @@
       "word": "terminate",
       "partOfSpeech": "v",
       "pronunciation": {
-        "uk": "/tármineit/",
-        "us": "/tármaneit/"
+        "uk": "/ˈtɜːmɪneɪt/",
+        "us": "/ˈtɜːrmɪneɪt/"
       },
       "frequency": 1,
-      "meaningVi": "chấm dứt, hoành thành",
+      "meaningVi": "chấm dứt, kết thúc",
       "exampleEn": "The company terminated the agreement when the project wasn't completed.",
       "exampleVi": "Công ty đã chấm dứt hợp đồng khi dự án không được hoàn thành.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
-      "toeicNotes": [],
+      "derivatives": [
+        {
+          "word": "termination",
+          "partOfSpeech": "n",
+          "meaningVi": "sự chấm dứt"
+        },
+        {
+          "word": "terminal",
+          "partOfSpeech": "adj",
+          "meaningVi": "cuối cùng"
+        }
+      ],
+      "synonyms": [
+        "end",
+        "cancel",
+        "stop"
+      ],
+      "antonyms": [
+        "initiate",
+        "begin"
+      ],
+      "toeicNotes": [
+        "terminate a contract: chấm dứt hợp đồng"
+      ],
       "needsReview": false
     },
     {
@@ -673,18 +1230,30 @@
       "word": "challenging",
       "partOfSpeech": "adj",
       "pronunciation": {
-        "uk": "",
-        "us": ""
+        "uk": "/ˈtʃælɪndʒɪŋ/",
+        "us": "/ˈtʃælɪndʒɪŋ/"
       },
       "frequency": 1,
       "meaningVi": "đầy thách thức, khó khăn",
       "exampleEn": "Renovating the new wing proved to be a challenging project.",
       "exampleVi": "Cải tạo khu nhà ngang mới hóa ra lại là một dự án khó khăn.",
-      "derivatives": [],
-      "synonyms": [],
-      "antonyms": [],
+      "derivatives": [
+        {
+          "word": "challenge",
+          "partOfSpeech": "n/v",
+          "meaningVi": "thử thách, đòi hỏi"
+        }
+      ],
+      "synonyms": [
+        "demanding",
+        "difficult"
+      ],
+      "antonyms": [
+        "easy",
+        "simple"
+      ],
       "toeicNotes": [
-        "Cur challenging project dự án khó khăn (in challenging là từ mô tả những công việc khó khăn, cần sự nỗ lực để hoàn thành, đồng thời nó cũng được dùng để mô tả những việc gây hứng thú."
+        "challenging project/task: dự án/nhiệm vụ đầy thách thức"
       ],
       "needsReview": false
     },
@@ -693,75 +1262,82 @@
       "word": "foundation",
       "partOfSpeech": "n",
       "pronunciation": {
-        "uk": "/faundéijan/",
-        "us": "/faundéijan/"
+        "uk": "/faʊnˈdeɪʃn/",
+        "us": "/faʊnˈdeɪʃn/"
       },
       "frequency": 1,
       "meaningVi": "nền tảng, sự thành lập",
       "exampleEn": "The proposal served as the foundation on which the agreement was concluded.",
       "exampleVi": "Đề xuất này chính là nền tảng qua đó bản hợp đồng đã được ký kết.",
-      "derivatives": [],
-      "synonyms": [],
+      "derivatives": [
+        {
+          "word": "found",
+          "partOfSpeech": "v",
+          "meaningVi": "sáng lập, thành lập"
+        },
+        {
+          "word": "founder",
+          "partOfSpeech": "n",
+          "meaningVi": "người sáng lập"
+        }
+      ],
+      "synonyms": [
+        "basis",
+        "groundwork",
+        "establishment"
+      ],
       "antonyms": [],
       "toeicNotes": [
-        "Cur serve as the foundation là nền tảng thun lay the foundation đặt nền móng Hãy ghi nhớ những cụm từ thường gặp với foundation.",
-        "1.",
-        "foundation : establishment Lưu ý phân biệt ý nghĩa của hai từ cùng mang nghĩa là \"thành lập, sáng lập\" này.",
-        "- foundation sự thành lập, nền tảng Ngoài ý nghĩa \"thành lập\", foundation còn được dùng với nghĩa \"nền tảng\".",
-        "-establishment sự thành lập, thiết lập Được dùng với nghĩa \"sự thành lập, thiết lập\" một công trình, cơ quan hay chế độ nào đó.",
-        "The developer finalized plans for the shopping mall's establishment.",
-        "Nhà phát triển đã chốt bản kế hoạch xây dựng trung tâm thương mại.",
-        "2.",
-        "found (thành lập) - founded - founded find (tìm) - found - found lưu ý để tránh nhẩm lẫn giữa hai từ này.",
-        "3.-foundation sự thành lập, sáng lập Lfounder người sáng lập Lưu ý phân biệt danh từ trừu tượng foundation và danh từ chỉ người founder.",
-        "Lo ng yêa tà tri ma thu càa tong ạn via ti đong"
+        "serve as the foundation: đóng vai trò làm nền tảng",
+        "lay the foundation: đặt nền móng",
+        "Phân biệt foundation (nền tảng/sự thành lập) và establishment (sự thành lập cơ quan/chế độ)."
       ],
       "needsReview": false
     }
   ],
   "story": {
-    "title": "Ký Kết Hợp Đồng Mô Phỏng Bay",
-    "content": "ORI được chọn hỗ trợ ban giám đốc chuẩn bị lễ ký kết dự án buồng lái mô phỏng. Đây là một bản **contract** (hợp đồng) lớn hợp tác với đối tác nước ngoài. Sau nhiều tuần cùng nhau soạn thảo, hai bên đã đi đến một **agreement** (thỏa thuận) chung. Giám đốc hai công ty sẽ cùng nhau **signature** (ký kết) văn bản này. Các chuyên gia pháp lý đã **negotiation** (thương lượng) rất kỹ từng điều khoản (**term**) hợp đồng. Mỗi **clause** (điều khoản) đều được rà soát để đảm bảo lợi ích song phương. Đối tác (**partner**) quốc tế của hãng tỏ ra rất hài lòng. Hội đồng quản trị đã chính thức **approve** (phê duyệt) các **conditions** (điều kiện) hợp đồng, mở ra một **period** (giai đoạn/thời kỳ) hợp tác phát triển bền vững.",
+    "title": "Cuộc Đàm Phán Hợp Đồng Kỳ Tích",
+    "content": "Công ty ORI vừa nhận được một **proposal** (đề xuất hợp tác) quan trọng. Để đi đến thống nhất, hai bên bước vào cuộc **negotiation** (đàm phán) với nhiều điều khoản (**terms**) phức tạp. Mặc dù ban đầu gặp phải sự **deadlock** (bế tắc), nhưng bằng sự thiện chí, cả hai đã đạt được một **compromise** (thỏa hiệp) hợp lý. Sau khi xem xét (**review**) lại các điều khoản quy định (**stipulation**), hợp đồng (**contract**) chính thức được ký kết với **signature** (chữ ký) đại diện từ cả hai phía, đặt **foundation** (nền tảng) cho sự hợp tác bền vững.",
     "words": [
+      {
+        "word": "proposal",
+        "meaningVi": "đề xuất"
+      },
+      {
+        "word": "negotiation",
+        "meaningVi": "đàm phán"
+      },
+      {
+        "word": "terms",
+        "meaningVi": "điều khoản"
+      },
+      {
+        "word": "deadlock",
+        "meaningVi": "bế tắc"
+      },
+      {
+        "word": "compromise",
+        "meaningVi": "thỏa hiệp"
+      },
+      {
+        "word": "review",
+        "meaningVi": "xem xét"
+      },
+      {
+        "word": "stipulation",
+        "meaningVi": "điều khoản quy định"
+      },
       {
         "word": "contract",
         "meaningVi": "hợp đồng"
       },
       {
-        "word": "agreement",
-        "meaningVi": "sự đồng ý"
-      },
-      {
         "word": "signature",
-        "meaningVi": "chữ ký The"
+        "meaningVi": "chữ ký"
       },
       {
-        "word": "negotiation",
-        "meaningVi": "sự đàm phán"
-      },
-      {
-        "word": "term",
-        "meaningVi": "điều khoản"
-      },
-      {
-        "word": "clause",
-        "meaningVi": "điều khoản"
-      },
-      {
-        "word": "partner",
-        "meaningVi": "đối tác"
-      },
-      {
-        "word": "approve",
-        "meaningVi": "phê duyệt"
-      },
-      {
-        "word": "conditions",
-        "meaningVi": "điều kiện"
-      },
-      {
-        "word": "period",
-        "meaningVi": "giai đoạn"
+        "word": "foundation",
+        "meaningVi": "nền tảng"
       }
     ]
   },
@@ -771,43 +1347,13 @@
       "instruction": "Chọn từ thích hợp điền vào chỗ trống:",
       "questions": [
         {
-          "q": "Chryssom liked the ___ so much that she decided to invest immediately.",
+          "q": "Ms. Chryssom liked the ___ so much that she decided to invest immediately.",
           "a": "proposal",
           "options": [
             "alliance",
-            "define",
             "proposal",
-            "revised"
-          ]
-        },
-        {
-          "q": "The corporations formed an ___ to protect themselves from competitors.",
-          "a": "alliance",
-          "options": [
-            "commission",
-            "initially",
-            "alliance",
-            "stipulation"
-          ]
-        },
-        {
-          "q": "Ine su re ___s was that the goods must",
-          "a": "stipulation",
-          "options": [
-            "originally",
-            "cooperatively",
-            "stipulation",
-            "security"
-          ]
-        },
-        {
-          "q": "We cannot agree to the ___s offered.",
-          "a": "term",
-          "options": [
-            "term",
-            "conflict",
-            "agreement",
-            "compromise"
+            "deadlock",
+            "signature"
           ]
         },
         {
@@ -815,59 +1361,89 @@
           "a": "compromise",
           "options": [
             "compromise",
-            "security",
             "stipulation",
-            "review"
+            "commission",
+            "conflict"
           ]
         },
         {
-          "q": "___s are now in process.",
-          "a": "negotiation",
-          "options": [
-            "modify",
-            "negotiation",
-            "u omit",
-            "narrow"
-          ]
-        },
-        {
-          "q": "The ___ has been signed by both parties.",
+          "q": "The business partners reached an ___ after hours of discussion.",
           "a": "agreement",
           "options": [
-            "conflict",
+            "objection",
             "agreement",
-            "alliance",
-            "cooperatively"
+            "impression",
+            "foundation"
           ]
         },
         {
-          "q": "Friday's negotiations ended in a ___.",
-          "a": "deadlock",
+          "q": "The CEO's ___ finalized the long-awaited deal.",
+          "a": "signature",
           "options": [
-            "alliance",
-            "deadlock",
-            "contract",
-            "compromise"
+            "negotiation",
+            "signature",
+            "direction",
+            "security"
           ]
         },
         {
-          "q": "Please ___ all of the documents carefully.",
-          "a": "review",
+          "q": "The previous lease ___d a few weeks ago.",
+          "a": "expire",
           "options": [
-            "term",
-            "compromise",
-            "review",
-            "settle"
-          ]
-        },
-        {
-          "q": "The law requires all participants in the transaction to sign a ___.",
-          "a": "contract",
-          "options": [
-            "contract",
-            "renew",
+            "expire",
+            "collaborate",
             "dedicate",
-            "negotiation"
+            "modify"
+          ]
+        },
+        {
+          "q": "Moksel Company and Boston University ___d on the research project.",
+          "a": "collaborate",
+          "options": [
+            "settle",
+            "collaborate",
+            "terminate",
+            "omit"
+          ]
+        },
+        {
+          "q": "It is ___ that the agreement be fully honored.",
+          "a": "imperative",
+          "options": [
+            "imperative",
+            "proficient",
+            "challenging",
+            "revised"
+          ]
+        },
+        {
+          "q": "The retail company ___d the six-month contract after discussions.",
+          "a": "renew",
+          "options": [
+            "renew",
+            "define",
+            "proceed",
+            "bid"
+          ]
+        },
+        {
+          "q": "The construction firm Martin & Sons put in a ___ for the contract.",
+          "a": "bid",
+          "options": [
+            "bid",
+            "review",
+            "term",
+            "dispute"
+          ]
+        },
+        {
+          "q": "The company ___d the agreement when the project wasn't completed.",
+          "a": "terminate",
+          "options": [
+            "terminate",
+            "involve",
+            "dedicate",
+            "modify"
           ]
         }
       ]

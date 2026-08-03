@@ -2,8 +2,6 @@ import { useParams, Link } from 'react-router-dom';
 import { useState, useMemo } from 'react';
 import { getUnit } from '../data';
 import VocabularyCard from '../components/VocabularyCard';
-import AiExampleModal from '../components/AiExampleModal';
-import type { VocabWord } from '../types';
 
 interface Props {
   dark: boolean;
@@ -15,7 +13,6 @@ export default function UnitDetailPage({ dark }: Props) {
   const [search, setSearch] = useState('');
   const [filterPos, setFilterPos] = useState<string>('all');
   const [viewMode, setViewMode] = useState<'flashcard' | 'list'>('flashcard');
-  const [selectedAiWord, setSelectedAiWord] = useState<VocabWord | null>(null);
 
   const filtered = useMemo(() => {
     if (!unit) return [];
@@ -245,7 +242,6 @@ export default function UnitDetailPage({ dark }: Props) {
                 unitId={unit.id}
                 dark={dark}
                 viewMode={viewMode}
-                onOpenAiModal={(w) => setSelectedAiWord(w)}
               />
             ))}
           </div>
@@ -306,13 +302,6 @@ export default function UnitDetailPage({ dark }: Props) {
         )
       )}
 
-      {/* AI Bilingual Example Modal */}
-      <AiExampleModal
-        word={selectedAiWord}
-        isOpen={selectedAiWord !== null}
-        onClose={() => setSelectedAiWord(null)}
-        dark={dark}
-      />
     </div>
   );
 }

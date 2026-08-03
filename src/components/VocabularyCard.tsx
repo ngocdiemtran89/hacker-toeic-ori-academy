@@ -8,7 +8,6 @@ interface Props {
   unitId: string;
   dark: boolean;
   viewMode?: 'flashcard' | 'list';
-  onOpenAiModal?: (word: VocabWord) => void;
 }
 
 function FrequencyStars({ count }: { count: number }) {
@@ -33,7 +32,7 @@ function speak(text: string) {
   }
 }
 
-export default function VocabularyCard({ word, index, unitId, dark, viewMode = 'flashcard', onOpenAiModal }: Props) {
+export default function VocabularyCard({ word, index, unitId, dark, viewMode = 'flashcard' }: Props) {
   const [flipped, setFlipped] = useState(false);
 
   const posColors: Record<string, string> = {
@@ -71,17 +70,6 @@ export default function VocabularyCard({ word, index, unitId, dark, viewMode = '
             </p>
           </div>
           <div className="flex items-center gap-1.5 shrink-0">
-            {onOpenAiModal && (
-              <button
-                onClick={() => onOpenAiModal(word)}
-                className={`p-2 rounded-xl text-xs font-bold transition-all hover:scale-105 ${
-                  dark ? 'bg-accent-500/20 text-accent-400' : 'bg-accent-500/10 text-accent-600'
-                }`}
-                title="Mở Ví Dụ Song Ngữ AI"
-              >
-                🤖 AI Ví Dụ
-              </button>
-            )}
             <button
               onClick={() => speak(word.word)}
               className={`p-2.5 rounded-xl flex items-center justify-center transition-all hover:scale-110 active:scale-95 ${
@@ -164,16 +152,6 @@ export default function VocabularyCard({ word, index, unitId, dark, viewMode = '
               >
                 🔊 Nghe âm
               </button>
-              {onOpenAiModal && (
-                <button
-                  onClick={(e) => { e.stopPropagation(); onOpenAiModal(word); }}
-                  className={`inline-flex items-center gap-1 px-3 py-1 rounded-full text-[11px] font-extrabold transition-all hover:scale-105 ${
-                    dark ? 'bg-accent-500/20 text-accent-400' : 'bg-accent-500/10 text-accent-600'
-                  }`}
-                >
-                  🤖 Ví dụ AI
-                </button>
-              )}
             </div>
           </div>
 
@@ -204,14 +182,6 @@ export default function VocabularyCard({ word, index, unitId, dark, viewMode = '
               {word.word} ({word.partOfSpeech})
             </span>
             <div className="flex gap-1">
-              {onOpenAiModal && (
-                <button
-                  onClick={(e) => { e.stopPropagation(); onOpenAiModal(word); }}
-                  className={`p-1.5 rounded-lg text-xs font-bold ${dark ? 'bg-accent-500/20 text-accent-400' : 'bg-accent-500/10 text-accent-600'}`}
-                >
-                  🤖 Ví dụ AI
-                </button>
-              )}
               <button
                 onClick={(e) => { e.stopPropagation(); speak(word.word); }}
                 className={`p-1.5 rounded-lg text-xs font-bold ${dark ? 'bg-surface-800 text-primary-300' : 'bg-primary-100 text-primary-600'}`}
